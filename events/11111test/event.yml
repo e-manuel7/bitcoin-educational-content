@@ -1,21 +1,24 @@
--start_date: 2024-11-07 07:00:00
+- start_date: 2024-11-07 07:00:00
   end_date: 2024-11-13 15:00:00
-  timezone: Europe/Berlin
-  address_line_2: Gasthof Pension Strohmaier
-  address_line_1: Haidmühle, Germany
-  name: Test event 2
-  builder: Amity Age
-  type: course
-  book_online: false
-  book_in_person: false
+  timezone: Asia/Bangkok
+  address_line_1: 65 Sukhumvit 13 Soi 1-1
+  address_line_2: Watthana
+  address_line_3: Bangkok, Thailand 
+  name: Adoption and Opportunities by Obi Nwosu
+  builder: Plan ₿ Network
+  type: Lecture
+  book_online: true
+  book_in_person: true
   price_dollars: 0
-  description: Join an exclusive 4-day intensive training program designed specifically for women looking to become effective Bitcoin educators in their communities. This unique "Train the Trainers" academy combines technical Bitcoin knowledge with essential communication and teaching skills.
-  language:
+  available_seats: 10
+  description: 2nd guest star lecture of Plan ₿ Biz School
+  language: 
     - en
   links:
-    website: https://docs.google.com/forms/d/e/1FAIpQLSc0Za-no0XEnFrWA6Nnk7CB8y1HhbOw-zN_XEHYy936_FrJqQ/viewform
     replay_url:
-    live_url:
+    live_url: https://www.youtube.com/embed/Xxu0qYGCmws?si=oUmw85geI-nGLtVa
+    chat_url: https://peertube.planb.network/plugins/livechat/router/webchat/room/16fb67a2-1fa1-4010-8576-1ab9b5e08d53
   tags:
+    - economy
     - Bitcoiner
-    - Education
+    - General
