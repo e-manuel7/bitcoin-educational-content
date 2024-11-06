@@ -6,6 +6,7 @@
   name: Test event 5
   builder: Amity Age
   type: course
+  available_seats: 5
   book_online: true
   book_in_person: false
   price_dollars: 0
