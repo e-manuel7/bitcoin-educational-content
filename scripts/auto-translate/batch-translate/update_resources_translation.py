@@ -18,6 +18,7 @@ def content_exist(filenames, lang):
 
 def create_txt_to_en_from(lang):
     base_dirs = [
+        "../../../professors/",
         "../../../resources/builders/",
         "../../../resources/bet/",
         "../../../resources/books/",
