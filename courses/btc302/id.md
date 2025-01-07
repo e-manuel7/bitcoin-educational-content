@@ -41,7 +41,7 @@ Pandangan statistik ini, tentu saja, erat kaitannya dengan:
 - perkembangan berturut-turut dari pasar spekulatif cryptocurrency, khususnya pada tahun 2017/2018 dan pada tahun 2020/2021;
 - kemunculan Bitcoin di media yang semakin rutin.
 
-![image](assets/fr/chapter0/img1ter.webp)
+![image](assets/fr/01.webp)
 
 ####
 
@@ -82,7 +82,7 @@ Di sisi lain, komunitas Bitcoin juga dapat memiliki tujuan yang lebih terbuka; t
 4. omong kosong yang tidak berdasar dan/atau menyesatkan yang beberapa tokoh dan media berusaha sebarkan;
 5. perbedaan fundamentalnya dari cryptocurrency lain.
 
-![image](assets/fr/chapter1/img2-frbis.webp)
+![image](assets/fr/02.webp)
 
 Secara bertahap membangun benteng pertama dari dunia esok, **komunitas Bitcoin di seluruh dunia berdiri sebagai benteng yang sangat relevan terhadap upaya disinformasi dan/atau sensor di beberapa negara**. Secara paralel, **mereka menciptakan tanah yang subur untuk mempelajari dasar-dasar Bitcoin**; memungkinkan siapa saja yang belum memahaminya untuk memiliki, ketika mereka siap, kontak dan sumber daya untuk membayangkan dunia baru.
 
@@ -95,7 +95,7 @@ Seperti yang telah dikatakan sebelumnya, **pembuatan pertemuan mengikuti pembent
 Memang, sepanjang perjalanan seorang penggemar Bitcoin, sejumlah besar orang menonjolkan keinginan (dan kebutuhan) untuk **bertemu dan bertukar secara fisik dengan orang lain** dalam ekosistem yang sama. Hal ini umumnya dijelaskan oleh munculnya perasaan kesepian, yang ada di antara banyak dari mereka.
 Mengorganisir pertemuan-pertemuan ini dapat memungkinkan pertemuan fisik yang jauh lebih ramah daripada melalui panggilan audio atau video. Mereka dapat berlangsung **sepanjang minum atau makan**, dan memungkinkan pertukaran yang lebih tepat dan langsung, dengan jumlah orang yang lebih besar.
 
-![image](assets/fr/chapter1/img3bis.webp)
+![image](assets/fr/03.webp)
 
 Untuk penggemar Bitcoin, pertemuan-pertemuan ini kemudian bisa menjadi momen **yang kondusif untuk diskusi tentang subjek teknis atau proyek** yang mereka kembangkan; dan untuk "Bitcoiners pemula," untuk **menemukan dunia Bitcoin dan secara bertahap membenamkan diri di dalamnya**.
 
@@ -144,7 +144,7 @@ Berikut adalah beberapa pemikiran yang dapat membimbing Anda:
 Poin lain yang lebih dari relevan untuk ditanyakan adalah: **apakah sudah ada pertemuan di dekat saya?**
 Untuk melakukan ini, Anda harus sadar bahwa situs [btcmap.org](https://btcmap.org/communities/map#0/0/0/) mencantumkan hampir semua komunitas dan pertemuan global.
 
-![image](assets/fr/chapter2/img4.webp)
+![image](assets/fr/04.webp)
 Setelah beberapa penelitian, jika Anda memutuskan untuk membuat pertemuan atau komunitas di kota yang sama (atau yang berdekatan) dengan pertemuan aktif yang telah berjalan selama beberapa bulan/tahun, Anda harus tahu bahwa ini dapat menciptakan bentuk persaingan; meskipun tidak disengaja. Tentu saja, mengingat Bitcoin adalah terdesentralisasi, semua orang bebas melakukan apa yang mereka inginkan. Namun, jelas bahwa **lebih relevan untuk menyatukan kekuatan sebanyak mungkin daripada memperbanyak komunitas yang dekat; dengan demikian, mengurangi kapasitas dampak masing-masing**.
 Dalam hal ini, "konvensi" berikut mungkin membantu Anda memutuskan tentang masalah ini: jika tidak ada komunitas Bitcoin aktif dalam waktu 45 menit dari lokasi Anda (katakanlah dengan mobil, misalnya), maka mungkin tampak relevan untuk membuat yang baru.
 Tetapi tentu saja, Anda sepenuhnya bebas untuk melakukan apa yang Anda inginkan.
@@ -183,7 +183,7 @@ Memang, ini dapat memungkinkan untuk **menggabungkan penemuan orang baru dan pre
 
 Terkadang, tergantung pada subjek yang dibahas (seperti untuk presentasi teknis atau workshop manual), mungkin relevan untuk mengadakan **acara tambahan selain pertemuan**, di tempat yang berbeda dan pada waktu yang berbeda.
 
-![image](assets/fr/chapter3/img5.webp)
+![image](assets/fr/05.webp)
 
 ####
 
@@ -243,18 +243,18 @@ Untuk memberi Anda beberapa ide, berikut adalah beberapa contoh logo dari komuni
 
 - Di Marseille, logo tersebut mewakili basilika Notre-Dame-de-la-Garde, yang mengawasi kota:
 
-![image](assets/fr/chapter4/img8.webp)
+![image](assets/fr/06.webp)
 
 - Di Monaco, itu merujuk pada batu Monégasque:
 
-![image](assets/fr/chapter4/img7.webp)
+![image](assets/fr/07.webp)
 
 - Di Lille, logo yang ramping mewakili citadel Vauban dan taman nya, yang terletak hanya beberapa menit dari pusat kota:
-  ![image](assets/fr/chapter4/img6.webp)
+  ![image](assets/fr/08.webp)
 
 - Di Saint-Malo, ermine - lambang kota - ditonjolkan:
 
-![image](assets/fr/chapter4/img9.webp)
+![image](assets/fr/09.webp)
 
 Sekarang terserah Anda untuk **menemukan elemen atau tempat signifikan di kota Anda dan menggunakannya untuk membangun visual untuk komunitas Bitcoin Anda**.
 
@@ -291,7 +291,7 @@ Untuk membimbing Anda secara lebih detail, kami menawarkan di bawah ini tutorial
 Berikut juga beberapa file yang telah didesain sebelumnya, dapat diduplikasi, dan diedit yang kami gunakan dengan asosiasi kami, Bitcoin Lille:
 
 - **poster pengumuman meet-up** (untuk jejaring sosial, dan dicetak dalam A4 atau A3): [link](https://www.canva.com/design/DAGBvBXFJ8A/92-j_toeLU8QbVAD0NwoAA/edit?utm_content=DAGBvBXFJ8A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  ![gambar](assets/fr/chapter5/img10-fr.webp)
+  ![gambar](assets/fr/10.webp)
 
 - **poster pengumuman acara bersama** (untuk jejaring sosial, dan dicetak dalam A4 atau A3): [link](https://www.canva.com/design/DAGBvG3rNCc/oXtNR9pduRs22AqclG4O2g/edit?utm_content=DAGBvG3rNCc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
@@ -299,14 +299,14 @@ Berikut juga beberapa file yang telah didesain sebelumnya, dapat diduplikasi, da
 
 - **pengumuman kontes**: [link](https://www.canva.com/design/DAGBvIjuA_w/YzSUXzOmbNV9oCma9mluOw/edit?utm_content=DAGBvIjuA_w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-![gambar](assets/fr/chapter5/img11bis.webp)
+![gambar](assets/fr/11.webp)
 
 - **piagam** perpustakaan kami, ditampilkan dalam A4 selama meet-up: [link](https://www.canva.com/design/DAGBvPqL7N4/LmUItfsysypRLSOFOzBXcQ/edit?utm_content=DAGBvPqL7N4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - **Presentasi PowerPoint** "Bab 2 - Memahami Transaksi Bitcoin", oleh @ProfEduStream: [link](https://www.canva.com/design/DAFsEcnOro8/Mz9FYdTGhsvozZOe0Y9jtw/edit?utm_content=DAFsEcnOro8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - **Flyer** "21 Alasan Menggunakan Bitcoin", ditulis oleh @ProfEduStream: [link](https://www.canva.com/design/DAFtAR1NauQ/ZDwl2CchIJ9Gpb36N6-7iw/edit?utm_content=DAFtAR1NauQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-![gambar](assets/fr/chapter5/img12-fr.webp)
-![gambar](assets/fr/chapter5/img13-fr.webp)
+![gambar](assets/fr/12.webp)
+![gambar](assets/fr/13.webp)
 
 ####
 
@@ -344,13 +344,13 @@ Untuk melakukan ini, banyak AI yang ada. Khususnya:
   Dalam hal seseorang ingin menciptakan, misalnya, gambar atau logo futuristik untuk pertemuan "Bitcoin London", seseorang kemudian dapat meminta AI "copilot":
 - [ ] _Ciptakan logo Bitcoin dengan Jembatan London dan Big Ben di latar belakang. Futuristik_ - [Tautan](https://copilot.microsoft.com/images/create/un-logo-bitcoin-futuriste-avec-en-arric3a8re-plan-le-/1-6612ba1758df4384bc33c4bca00ab45b?FORM=SYDBIC)
 
-![gambar](assets/fr/chapter5/img14.webp)
+![gambar](assets/fr/14.webp)
 
 Jika empat usulan dari copilot tidak cukup realistis menurut selera Anda, dimungkinkan untuk menambahkan ke percakapan:
 
 - [ ] _Buat yang ke-4 jauh lebih realistis_ - [Tautan](https://copilot.microsoft.com/images/create/un-logo-bitcoin-futuriste-avec-en-arric3a8re-plan-le-/1-6612ba64b72d4cea9830ab7eb844f785?FORM=SYDBIC)
 
-![gambar](assets/fr/chapter5/img15.webp)
+![gambar](assets/fr/15.webp)
 
 Hasil akhirnya cukup bagus, btw!
 
@@ -360,7 +360,7 @@ Namun, jika seseorang menginginkan logo yang jauh lebih sederhana, misalnya untu
 
 - [ ] _Ciptakan logo untuk "London Bitcoin Meetup" dengan gaya Inggris dan sederhana_ - [Tautan](https://copilot.microsoft.com/images/create/logo-for-27londres-bitcoin-meetup27-with-a-british-a/1-6612bb9451924859a6c34b350b3a6ebc?FORM=SYDBIC)
 
-![gambar](assets/fr/chapter5/img16.webp)
+![gambar](assets/fr/16.webp)
 
 Rendering kedua adalah tipikal dan bisa sempurna untuk pekerjaan tersebut!
 
@@ -379,7 +379,7 @@ Jadi, bersabarlah, coba untuk memberikan instruksi (atau "prompts") seakurat mun
 
 Seperti yang telah disebutkan sebelumnya, tergantung pada motivasi dan kebiasaan individu, saluran komunikasi sebuah komunitas dapat berbeda. Misalnya, **di Prancis, Jerman, dan Italia, Telegram dan Twitter adalah saluran komunikasi utama**. Seiring waktu, mereka telah menjadi "standar komunikasi" untuk komunitas Bitcoin di negara-negara tersebut. Namun, beberapa komunitas juga menggunakan saluran lain untuk tujuan tertentu. Sebaliknya, di Republik Ceko, banyak komunitas yang berkembang di sana menggunakan **Matrix**, protokol pesan instan terenkripsi. Di negara mereka, Telegram oleh karena itu jarang digunakan.
 Dalam hal ini, **untuk memilih saluran komunikasi, pendekatan yang paling relevan adalah memulai dengan mengambil contoh dari komunitas tetangga di negara sendiri**. Untuk melakukan ini, mengakses peta di [btcmap.org](https://btcmap.org/communities/map#0/0/0/) akan memberi Anda ide yang sangat tepat tentang saluran komunikasi yang paling banyak digunakan di negara Anda. Di Swiss, misalnya, informasi terutama disampaikan melalui Telegram, Twitter, dan situs web komunitas.
-![image](assets/fr/chapter6/img17.webp)
+![image](assets/fr/17.webp)
 
 ####
 
@@ -422,7 +422,7 @@ Jadi, langsung saja ke bagian selanjutnya, berjudul [Membuat Grup Telegram](LINK
 
 Memang, **saluran Telegram hanyalah sebuah etalase informasi yang diposting oleh administrator, di mana anggota tidak bisa melakukan banyak hal selain menambahkan emoji**.
 
-![image](assets/fr/chapter7/img18-fr.webp)
+![image](assets/fr/18.webp)
 Namun, dimungkinkan untuk menambahkan kemampuan bagi anggota saluran untuk mengomentari setiap postingan administrator, tetapi ini akan dilakukan dalam diskusi terpisah; membagi pertukaran secara signifikan. **Oleh karena itu, secara umum tidak disarankan untuk membuat saluran Telegram untuk sebuah komunitas**.
 
 ####
@@ -435,7 +435,7 @@ Tutorial untuk membuat saluran Telegram:
 Sebaliknya, **membuat grup Telegram cukup relevan**.
 Memang, untuk mengambil contoh yang terkenal seperti grup Messenger atau WhatsApp, setiap orang yang bergabung dengan **grup Telegram ini akan dapat saling bertukar, saling menjawab; dan ini, semua dalam diskusi yang sama**.
 
-![gambar](assets/fr/chapter7/img19-en.webp)
+![gambar](assets/fr/19.webp)
 
 Administrator dari saluran ini kemudian akan dapat:
 
@@ -474,7 +474,7 @@ Akhirnya, **topik spesifik** (penambangan, mengembangkan proyek, konferensi beri
 
 Terserah Anda untuk memodifikasi ini sesuai dengan keinginan Anda; serupa, misalnya, dengan supergrup dari Pertemuan Bitcoin Abidjan.
 
-![gambar](assets/fr/chapter7/img20-fr.webp)
+![gambar](assets/fr/20.webp)
 
 ####
 
@@ -512,7 +512,7 @@ Juga **sangat disarankan untuk menulis deskripsi pertemuan Anda saat membuat gru
 >
 > Untuk mengakses jaringan sosial kami yang lain: [LINK_YANG_DIINGINKAN] 🌐
 
-![image](assets/fr/chapter8/img21.webp)
+![image](assets/fr/21.webp)
 
 Juga diamati, dalam gambar di atas, bahwa tautan undangan telah disesuaikan oleh administrator grup Telegram Bitcoin Lille, karena ini bersifat publik.
 
@@ -539,7 +539,7 @@ Di antara berbagai opsi yang tersedia dengan **bot [@GroupHelpBot](https://teleg
 - menghapus otomatis beberapa jenis pesan;
 - dll.
 
-![image](assets/fr/chapter9/img22-fr.webp)
+![image](assets/fr/22.webp)
 
 Tiga ide sederhana lainnya adalah:
 
@@ -609,7 +609,7 @@ Memang jelas bahwa jika tidak ada yang bisa mengakses saluran komunikasi Anda, d
 
 Di antara jejaring sosial ini, **Twitter menempatkan dirinya sebagai hampir esensial dalam dunia Bitcoin**. Dalam hal ini, tampaknya penting untuk **memiliki profil di platform ini**; meskipun sentralisasinya dan pengembangannya jauh dari benar.
 Inilah mengapa **profil NOSTR yang spesifik untuk komunitas Anda** juga dapat dibuat, dengan ide untuk mengantisipasi potensi pembatasan dan/atau sensor di Twitter. Lagi pula: lebih baik mencegah daripada mengobati.
-![image](assets/fr/chapter13/img23bis.webp)
+![image](assets/fr/23.webp)
 
 Jaringan sosial lain tentu saja dapat digunakan. Ini berlaku untuk Facebook (dalam kasus grup atau halaman Facebook) atau bahkan LinkedIn.
 Namun, penting untuk diingat bahwa **semakin banyak saluran komunikasi dan jaringan sosial yang harus dibuat - dan oleh karena itu untuk dipelihara - semakin banyak waktu yang dibutuhkan. Lebih baik fokus pada yang paling relevan; dan Twitter (dan NOSTR) tampaknya menjadi kandidat yang baik**.
@@ -629,7 +629,7 @@ Twitter sangat ramah pengguna, memerlukan penyesuaian beberapa pengaturan untuk 
    > Akun resmi komunitas Bitcoin [KOTA] #BTC | Pertemuan setiap hari Rabu pertama bulan di [NAMA_BAR] di [KOTA] 🍻 | Bergabunglah dengan kami di Telegram 🔽
 4. Di bawah deskripsi ini, juga dimungkinkan untuk **menyisipkan tautan**. Ini dapat membawa pengguna untuk mengakses halaman "jaringan sosial" yang tersedia di situs web komunitas Anda, atau dapat mengarahkan mereka ke saluran komunikasi Telegram Anda.
 
-![image](assets/fr/chapter14/img24-fr.webp)
+![image](assets/fr/24.webp)
 
 Selain itu, **beberapa pengaturan privasi tampaknya relevan untuk diubah**; yang paling relevan jelas adalah:
 
@@ -670,7 +670,7 @@ Untuk menghemat waktu Anda secara signifikan, kami telah meluangkan waktu untuk 
 
 Selain itu, **memungkinkan untuk memasang tweet pada profil Twitter Anda yang ingin Anda berikan visibilitas yang signifikan**.
 
-![image](assets/fr/chapter14/img25-en.webp)
+![image](assets/fr/25.webp)
 
 Perlu juga dicatat bahwa, baik di telepon maupun komputer, dimungkinkan untuk masuk ke dua akun Twitter secara bersamaan. Ini bisa sangat nyaman untuk tidak harus masuk / keluar antara akun pribadi Anda dan akun komunitas Anda; sama seperti itu bisa berbalik jika Anda secara tidak sengaja memposting foto diri Anda dalam kostum dengan akun komunitas Anda... Hati-hati, oleh karena itu!
 
@@ -690,7 +690,7 @@ Memang, **ini akan memungkinkan saling mengikuti, menandai, dan dengan demikian 
 Ini terjadi di antara lima puluh atau lebih komunitas Bitcoin Prancis; dan hal yang sama berlaku untuk sebagian besar inisiatif "Satoshi Spritz" di Italia dan "Einundzwanzig" di Jerman.
 Meskipun mungkin tampak tidak perlu bagi sebagian orang, **mengikuti akun komunitas lokal dan inisiatif di negara Anda dapat secara tidak langsung mengarah pada realisasi proyek bersama**, atau bahkan "kemitraan". Inilah cara komunitas Bitcoin Liège dan Bitcoin Lille saling berkontak (hal yang sama berlaku untuk Bitcoin Aix dan Bitcoin Marseille); kini mereka mengadakan setidaknya satu pertemuan bersama setiap tahun. Makan malam **Cercle du Coin** adalah contoh lain.
 
-![image](assets/fr/chapter15/img26bis.webp)
+![image](assets/fr/26.webp)
 
 Selanjutnya, di Prancis, mungkin juga relevan untuk **mengikuti inisiatif @KonsensusFR, @bitcoinpointfr, @DecouvreBitcoin, dan @btcmap**. Ini hanyalah saran, dan setiap komunitas jelas bebas melakukan apa yang mereka inginkan, dalam penuh desentralisasi dan otonomi.
 Minat dalam saling mengikuti satu sama lain cukup sederhana: untuk memberikan satu sama lain visibilitas. Memang, semakin Anda hadir di jaringan, semakin banyak orang akan berbicara tentang Anda; dan semakin banyak orang berbicara tentang Anda, semakin besar kemungkinan orang akan datang ke acara Anda. Menyukai/membalas cuitan dari komunitas lain di jejaring sosial juga bisa menarik.
@@ -712,7 +712,7 @@ Di antaranya, kita khususnya menemukan:
 - **[BitcoinerEvents](https://www.bitcoinerevents.com/)** adalah situs web yang dibuat oleh bitcoiner, untuk bitcoiner. Dengan demikian, dimungkinkan untuk **mengunggah acara mendatang dari komunitas seseorang** di sana. Sayangnya, di Prancis, platform ini relatif kurang digunakan.
 - tergantung pada negara, ada juga inisiatif unik. Ini terutama kasus **di Prancis, dengan situs web [bitcoin.fr](https://bitcoin.fr/events/categories/evenements/), yang mencantumkan puluhan acara Bitcoin di Prancis setiap bulannya**. Jika Anda belum mengikuti mereka di Twitter atau menghubungi mereka untuk memberikan informasi tentang komunitas dan/atau acara Anda, sekarang adalah saatnya! **Selanjutnya, dengan tujuan membantu mereka memperbarui kalender acara Prancis ini, akan sangat dihargai jika semua komunitas Bitcoin Prancis membiasakan diri untuk:** \* **menyebut @bitcoinpointfr di Twitter dengan setiap pengumuman acara baru dari komunitas mereka**;
 - **menyematkan pengumuman acara tersebut di grup Telegram komunitas mereka**.
-  ![image](assets/fr/chapter16/img27bis.webp)
+  ![image](assets/fr/27.webp)
 
 ####
 
@@ -743,7 +743,7 @@ Sekarang setelah jejaring sosial dan saluran komunikasi komunitas Anda telah dil
 Ini dapat memungkinkan Anda untuk membebaskan waktu dengan tujuan memikirkan tentang menciptakan acara bertipe "pertemuan", dalam format apa pun yang Anda inginkan. Ini sangat relevan jika Anda mulai merasakan semangat tertentu dalam komunitas Anda.
 Seperti yang disebutkan sebelumnya, **pertemuan Bitcoin dapat dilihat sebagai "tingkat selanjutnya" dari sebuah komunitas**. Ini memungkinkan, di satu sisi, **anggota bitcoiner untuk bertemu**; dan di sisi lain, untuk **mendidik orang baru yang tertarik dengan ekosistem ini**. Sebuah acara tipe "meet-up" akan memungkinkan - dalam skala Anda - untuk **menciptakan kegembiraan seputar Bitcoin di kota Anda**; yang dapat berkembang seiring waktu tergantung pada proyek yang dijalankan komunitas Anda.
 
-![image](assets/fr/chapter17/28bis.webp)
+![image](assets/fr/28.webp)
 
 Secara alami, semakin signifikan tujuan yang Anda tetapkan untuk pengembangan komunitas Anda, semakin perlu - bagi Anda dan anggota Anda - untuk menghabiskan waktu untuk itu.
 Oleh karena itu, penting untuk **mulai dengan menetapkan tujuan yang dapat dicapai untuk penyelenggaraan meet-up ini**.
@@ -759,7 +759,7 @@ Oleh karena itu, tampaknya relevan untuk **mengusulkan penyelenggaraan meet-up s
 Setelah Anda merasakan percikan kecil ini, maka sepenuhnya mungkin bagi Anda untuk mengusulkan ide pertemuan langsung. Jika ide ini menarik minat orang lain, Anda hanya perlu **menetapkan tanggal untuk meet-up pertama Anda**.
 Untuk melakukan ini, tentu saja lebih disukai untuk tidak menetapkan tanggal tetap dari awal, tetapi lebih baik **mengusulkan - sekitar sepuluh hari sebelumnya - survei yang berisi berbagai hari dan slot waktu**. Dengan demikian, tergantung pada suara semua orang, ini akan memungkinkan untuk **memaksimalkan kehadiran anggota**, menciptakan lebih banyak kegembiraan; tetapi juga, untuk **lebih "mengoptimalkan" waktu Anda**.
 
-![image](assets/fr/chapter18/29-fr.webp)
+![image](assets/fr/29.webp)
 
 Kemudian penting untuk tidak memiliki ide tetap, sebelumnya, tentang bagaimana meet-up ini akan berlangsung, berapa banyak dari Anda yang akan ada, tema diskusi, dll. Anda berisiko kecewa; dan para peserta, berpotensi merasa "tertekan".
 Dalam hal ini, tampaknya lebih baik membiarkan hal-hal terjadi secara alami, mungkin sambil minum. Percakapan kemudian harus mudah; bahkan jika itu berarti membawa upaya Bitcoin jika Anda menemukan diri Anda berdua dengan domba yang tersesat.####
@@ -774,7 +774,7 @@ Jika Anda ingin **mengantisipasi beberapa keheningan, Anda dapat merencanakan be
 - peta **[btcmap.org](https://btcmap.org/)** dari komunitas dan bisnis;
 - santai: "Hei, ngomong-ngomong, **apakah Anda pernah mengirim Bitcoin melalui Lightning?**"
   Namun, perlu dicatat bahwa, ketika pertemuan baru saja dimulai, mungkin tidak relevan untuk melakukan presentasi formal. Ketika hanya ada beberapa dari Anda, sepertinya lebih baik untuk terlibat dalam diskusi dengan cara yang lebih terbuka dan ramah.
-  ![image](assets/fr/chapter18/30.webp)
+  ![image](assets/fr/30.webp)
 
 ####
 
@@ -801,7 +801,7 @@ Akhirnya, ketika komunitas Anda tumbuh signifikan dan pertemuan Anda mulai penuh
 Dalam kasus pertama, meskipun perlu memperhatikan sensitivitas dan keinginan semua orang, ini dapat memungkinkan semua peserta untuk **meninggalkan acara dengan pengetahuan baru**, sambil memfokuskan kembali topik pembicaraan seputar Bitcoin (jika mereka menyimpang).
 Dalam kasus kedua, acara kedua dalam bulan, misalnya, memungkinkan untuk **mengatasi tema spesifik, seperti menyelenggarakan sesi "pemula" dan/atau lokakarya** (penambangan, kilat, instalasi node, dll.).
 
-![image](assets/fr/chapter18/31.webp)
+![image](assets/fr/31.webp)
 
 Namun, ingatlah bahwa **ini memerlukan lebih banyak organisasi; dan oleh karena itu akan memakan lebih banyak waktu** (meskipun banyak sumber daya open-source akan tersedia dalam bagian 6/8, berjudul "[Contoh proyek dan inisiatif](LINK).
 
@@ -817,7 +817,7 @@ Pada saat yang sama, banyak kriteria yang perlu dipertimbangkan. Di antaranya:
 1. lokasi tempat: apakah mudah **dijangkau dengan transportasi umum? Dengan mobil?** Apakah bisa parkir di sana tanpa kesulitan?
 2. Apakah tempatnya **nyaman dan tidak terlalu berisik?** Apakah Anda mencari tempat yang formal (ruang kerja bersama, ruang rapat) atau informal (bar, atau bahkan restoran)? 3) Apakah tempat tersebut memiliki **kapasitas yang cukup untuk menampung Anda?** Dan itu, bahkan pada malam pertandingan rugby atau Liga Champions? 4) Apakah tempat tersebut memiliki **proyektor video dan ruang yang tenang untuk presentasi Anda?** 5) Akhirnya, dalam kasus bar (atau bahkan restoran), **apakah menu memungkinkan semua orang untuk makan dan minum?** Untuk poin-poin ini, tiga catatan penting dapat ditambahkan: - dalam kasus di mana Anda ingin **membagi malam menjadi dua bagian** (pertama, **presentasi di ruang formal** untuk memungkinkan semua orang lebih fokus; kemudian **mengganti tempat untuk melanjutkan malam dengan cara yang lebih santai di bar** atau restoran), penting untuk menyadari bahwa perubahan tempat di tengah malam akan menyebabkan **beberapa peserta mengambil kesempatan untuk pergi. Oleh karena itu, jenis pengaturan ini tidak disarankan**; - selama meet-up pertama Anda, sedikit orang yang kemungkinan akan datang, dan jadi Anda mungkin tidak akan melakukan presentasi. Dalam hal ini, tampaknya tidak perlu untuk memperkenalkan diri Anda kepada pemilik dan untuk menyampaikan tujuan Anda, dll. Namun, **setelah meet-up Anda menjadi rutin dan banyak dihadiri, tampaknya relevan untuk memperkenalkan diri, untuk menunjukkan keseriusan Anda dan keinginan Anda untuk datang secara rutin**. Ini dapat mengarah pada banyak diskusi (pemesanan bulanan otomatis, minuman gratis dan/atau piringan, diskon, diskusi tentang Bitcoin, penerimaan Bitcoin sebagai metode pembayaran, dll.) Jelas, dalam kasus di mana Anda secara khusus mencari tempat dengan proyektor video untuk presentasi, tampaknya penting untuk meminta pertemuan (secara langsung, atau bahkan melalui telepon) dengan pemilik dan/atau manajer terlebih dahulu untuk menyampaikan proyek dan tujuan Anda;
 
-![image](assets/fr/chapter19/32bis.webp)
+![image](assets/fr/32.webp)
 
 - akhirnya, beberapa komunitas mungkin ingin **mengadakan acara mereka hanya di tempat-tempat yang menerima Bitcoin sebagai metode pembayaran**; dan ini cukup dimengerti. Dalam perspektif ini, tampaknya relevan untuk **mulai mencari bisnis di kota Anda yang menerima Bitcoin (di [btcmap.org](https://btcmap.org/map/) misalnya)** dan menghubungi mereka untuk menemukan tempat yang memenuhi kriteria Anda. Dalam kasus di mana, sayangnya, tidak ada yang cocok, Anda kemudian memiliki opsi untuk "mengajak" pedagang baru. Namun, harapkan untuk menghadapi banyak penolakan, yang bisa menjadi mengecewakan. Itulah mengapa **mungkin bijaksana untuk tidak menetapkan ini sebagai tujuan dari awal, tetapi untuk datang ke sana setelah komunitas Anda telah berkembang dengan baik** dan Anda memiliki pengaruh yang cukup.
 
@@ -832,7 +832,7 @@ Anda telah memutuskan untuk mengorganisir meet-up dan telah memberi tahu komunit
 1. **hubungi tempat** di mana Anda akan mengadakan acara, untuk **mengonfirmasi reservasi** untuk jumlah orang tertentu;
 2. **umumkan di media sosial dan saluran komunikasi acara Anda, dengan jelas menyatakan tanggal, waktu, tempat**, dan menambahkan tautan pendaftaran jika perlu. Untuk komunikasi ini, visual khusus dapat dibuat (misalnya, poster Canva, lihat bagian 2/8 "[Merancang identitas unik untuk komunitas Bitcoin Anda](LINK)"). Selain itu, untuk memastikan visibilitas maksimum pengumuman ini, dapat **dipasang di Telegram dan Twitter**, dan juga bisa mencakup **"@everyone" di Discord**. Juga tampak lebih dari relevan untuk **mengumumkan ini 1 minggu hingga sepuluh hari sebelum tanggal acara, memungkinkan semua orang untuk merencanakan kehadiran mereka**;
 
-![image](assets/fr/chapter20/33-fr.webp)
+![image](assets/fr/33.webp)
 
 4. **dua hingga tiga hari sebelum acara, pengumuman ini dapat di-tweet ulang dan dibagikan kembali**, meningkatkan visibilitas;
 5. akhirnya, tergantung pada jumlah tanggapan dan/atau pendaftaran yang diterima sehari sebelumnya atau dua hari sebelumnya, sangat mungkin bagi Anda untuk menghubungi kembali pemilik tempat untuk mengonfirmasi jumlah peserta yang diharapkan.
@@ -864,7 +864,7 @@ Untuk mencapai ini, akan diperlukan:
    - menampilkan, dengan Patafix, **poster khusus** di ruangan tempat Anda mengadakan acara Anda (**Bitcoin white paper, piagam komunitas Anda, proyek yang sedang berlangsung**, dll.).
 
 - menyiapkan di satu atau lebih meja **stiker, selebaran, atau bahkan materi yang dapat memicu diskusi** (Nerdminer, pelat baja, dompet perangkat keras, komputer yang menyala dengan mempool, ASIC, pelat logam untuk mengamankan kunci pribadi Anda, dll.)
-  ![image](assets/fr/chapter21/34bis.webp)
+  ![image](assets/fr/34.webp)
 
 ####
 
@@ -898,7 +898,7 @@ Ini bisa dimulai dengan sekelompok kecil penggemar bitcoin yang berdedikasi, yan
 Di satu sisi, dari perspektif sosial, sangat penting bagi pengembangan komunitas bahwa setiap orang yang menghadiri acara merasa termasuk. Ini berarti: **membuat upaya untuk mendekati peserta baru ini, tertarik mengapa mereka ada di sana, menyambut mereka dengan hangat**, dll. Dengan merasa termasuk dan diterima, individu-individu ini akan ingin kembali; dan bahkan, di masa depan, tergantung pada profil mereka, terlibat dalam mengorganisir acara-acara ini.
 Jelas, **ini membutuhkan waktu dan motivasi**. Dalam kasus di mana Anda menyambut seorang shitcoiner (atau lebih buruk: seorang XRP-maximalist), bisa jadi cukup sulit untuk menyingkirkan preferensi temporal dan menerima untuk "membuang waktu" dalam diskusi satu sisi. Namun, dengan meluangkan waktu untuk berbicara dengan orang-orang ini, kita dapat membantu mereka memahami kesalahpahaman dan kesalahan dalam penalaran mereka. Setelah mereka menerima ini, mereka kemudian akan siap untuk memahami Bitcoin.
 
-![image](assets/fr/chapter22/35.webp)
+![image](assets/fr/35.webp)
 
 Di sisi lain, dari sudut pandang teknis, beberapa pertanyaan mungkin muncul:
 
@@ -940,7 +940,7 @@ Ketika Anda meluncurkan pertemuan Bitcoin, Anda bertemu dengan orang baru. Inter
 
 Setiap orang memiliki keinginan, keyakinan, dan kepribadian mereka sendiri. Jadi, tidak ada penilaian yang dibuat di sini tentang cara kerja satu pertemuan atau yang lain. Lagi pula, **di sekitar bir kita merenungkan dunia, tapi bukan cara kita mengubahnya secara mendalam**.
 
-![image](assets/fr/chapter23/36bis.webp)
+![image](assets/fr/36.webp)
 
 ## Mengorganisir pertemuan tematik, mengikuti progresi tahunan yang ditentukan
 
@@ -998,7 +998,7 @@ Sepanjang tahun, dapat diselenggarakan berbagai acara lainnya. Ini dapat mencaku
 - **malam atau akhir pekan untuk "merayakan" halving yang akan datang**;
 - **acara "permainan keluarga" seputar Bitcoin** dan cara kerjanya. Permainan seperti ["Le Coin de Table"](https://www.maximalist.ovh/) atau ["SHAmory"](https://shamory.com/) dapat dibawa masuk;
 
-![image](assets/fr/chapter24/37ter.webp)
+![image](assets/fr/37.webp)
 
 - **lokakarya penambangan**, dengan penemuan berbagai perangkat keras (prosesor, kartu grafis, FPGA, ASIC, nerdminer, bitaxe);
 - **sore atau malam khusus untuk pemula, dengan lokakarya tematik**;
@@ -1020,7 +1020,7 @@ Sebelum melakukan pemesanan, mungkin relevan untuk mempertimbangkan poin-poin be
 - pertimbangkan **menggunakan file vektor** daripada file gambar. Ini akan meningkatkan kualitas cetak;
 - **berpikirlah dua kali tentang ukuran yang diinginkan**. Sebagai contoh, stiker bulat dengan diameter 8 cm kira-kira seukuran telapak tangan orang dewasa. Apakah Anda mencari ukuran ini, yang cukup signifikan untuk visibilitas, atau Anda mencari sesuatu yang lebih diskrit (diameter 4 cm, misalnya)?
 - akhirnya - dan ini sedikit teknis - jika Anda ingin cetakan hitam yang kaya (sebuah "hitam empat-warna"), propertinya harus: 30% cyan, 30% magenta, 30% kuning, dan 100% hitam. Dalam kasus di mana hanya 100% hitam yang digunakan, hasilnya akan menjadi hitam yang agak keabu-abuan. Untungnya, umumnya printer memperhatikan detail ini. Jadi, Anda tidak perlu terlalu khawatir tentang hal itu.
-  ![image](assets/fr/chapter25/38.webp)
+  ![image](assets/fr/38.webp)
 
 ####
 
@@ -1045,7 +1045,7 @@ Ini memungkinkan, bagi pemilik, untuk menutupi biaya dalam kasus kelalaian atau 
 ####
 
 Jika Anda menjalankan **sebuah asosiasi dan ingin menginvestasikan sebagian dari kas Anda dalam sumber daya edukatif dan pedagogis**, Anda dapat memesan beberapa buku dan menawarkannya di **perpustakaan Bitcoin** Anda di setiap pertemuan.
-![image](assets/fr/chapter26/39.webp)
+![image](assets/fr/39.webp)
 
 ####
 
@@ -1063,7 +1063,7 @@ Selanjutnya, sebuah piagam peminjaman buku dapat ditulis dan ditampilkan selama 
 Berikut adalah contoh sumber terbuka, yang dapat Anda ambil dan modifikasi sesuai keinginan Anda:
 [Piagam Peminjaman Buku](https://www.canva.com/design/DAF7u1b5kRM/r2gEAlibe_jTIXIX-O9PMA/edit)
 
-![image](assets/fr/chapter26/40-fr.webp)
+![image](assets/fr/40.webp)
 
 ####
 
@@ -1089,8 +1089,8 @@ Beberapa flyer sudah **tersedia secara open-source**, dan lainnya akan dibuat da
 
 Di antaranya, Anda akan menemukan [flyer bersumber lengkap](https://profedustream.substack.com/p/21-raisons-dutiliser-bitcoin) yang mencantumkan 21 alasan untuk menggunakan Bitcoin. Desainnya juga [tersedia secara open-source](https://www.canva.com/design/DAFtAR1NauQ/ZDwl2CchIJ9Gpb36N6-7iw/edit?utm_content=DAFtAR1NauQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
-![image](assets/fr/chapter27/41-fr.webp)
-![image](assets/fr/chapter27/42-fr.webp)
+![image](assets/fr/41.webp)
+![image](assets/fr/42.webp)
 
 Modifikasi, sesuaikan, dan kemudian bagikan sesuka Anda. Namun, ingat untuk menyebutkan sumber Anda.
 
@@ -1102,7 +1102,7 @@ Di Prancis dan di beberapa negara lain, juga ada **"kotak buku"**.
 Biasanya terbuat dari kayu, kotak-kotak ini dengan bebas menyambut buku untuk diberikan. Oleh karena itu, salah satu kemungkinan adalah untuk **meninggalkan flyer di sana; atau bahkan lebih baik: sebuah buku!**
 
 ![image](assets/fr/chapter27/43.webp)
-![image](assets/fr/chapter27/44.webp)
+![image](assets/fr/43.webp)
 
 Dalam hal ini, pada tahun 2023, **inisiatif "Sebuah Kertas Putih Bitcoin di Kotak Buku Prancis"** diluncurkan.
 Untuk melaksanakan proyek ini dengan sukses bersama semua pihak yang tertarik, pertama-tama diperlukan untuk **mendapatkan geolokasi semua kotak buku yang ada di negara tersebut**. Untuk melakukan ini, berbagai basis data ada:
@@ -1116,8 +1116,8 @@ Untuk melaksanakan proyek ini dengan sukses bersama semua pihak yang tertarik, p
 
 Berikut adalah buklet yang telah dibagikan di antara bitcoiner Prancis [buklet yang telah dibagikan di antara bitcoiner Prancis](https://profedustream.substack.com/p/bitcoin-la-naissance-dune-nouvelle) dan yang berakhir perjalanannya di beberapa lusin pertukaran buku di seluruh negeri. Desainnya juga [tersedia dalam sumber terbuka](https://www.canva.com/design/DAFs18FSoVM/Sy0QsfUkycTgXveeGgutBg/edit?utm_content=DAFs18FSoVM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
-![gambar](assets/fr/chapter27/45-fr.webp)
-![gambar](assets/fr/chapter27/46-fr.webp)
+![gambar](assets/fr/44.webp)
+![gambar](assets/fr/45.webp)
 
 ## Mengorganisir Pemutaran Video
 
@@ -1135,7 +1135,7 @@ Akibatnya, bagi sebagian besar komunitas, tarif ini terlalu mahal. Namun, dokume
 Secara paralel, pemutaran lain dapat diorganisir.
 Di Prancis, misalnya, **sutradara dokumenter "Stranded", [Alana Mediavilla](https://twitter.com/AlanaMediavilla), setuju untuk membiarkan pertemuan di negara tersebut memutar dokumenternya dalam pratinjau**; beberapa cuplikan berasal dari sekuen [film "Dirty Coin"](https://www.dirtycointhemovie.com/) yang akan dirilis pada tahun 2024.
 Komunitas Bitcoiner Prancis kemudian mengambil inisiatif untuk **menerjemahkan penuh dokumenter "Stranded"**, mengintegrasikan subtitle bahasa Prancis, dan membagikannya dengan semua pertemuan di seluruh negeri. Selama minggu 4 Maret 2024, **pemutaran bersama diorganisir di sekitar sepuluh pertemuan di seluruh negeri**.
-![gambar](assets/fr/chapter28/47.webp)
+![gambar](assets/fr/46.webp)
 
 Penayangan ini mengarah pada banyak diskusi tentang penambangan Bitcoin, konsumsi listriknya, dan dampaknya terhadap ekologi secara lebih luas.
 
@@ -1145,7 +1145,7 @@ Penayangan ini mengarah pada banyak diskusi tentang penambangan Bitcoin, konsums
 Di beberapa negara Eropa (Jerman, Spanyol, Prancis, dll.), **beberapa penggemar Bitcoin telah mengambil inisiatif untuk memasang poster yang berkaitan dengan Bitcoin**. Beberapa poster ini kemudian menampilkan karya-karya dari Banksy, sementara yang lain menggabungkan logo Bitcoin dengan berbagai cara.
 Hal ini terutama terjadi pada [StreetCyberArt](https://twitter.com/streetcyber_art), seorang penggemar Bitcoin asal Jerman, yang telah menciptakan kolase dan seni jalanan selama beberapa tahun.
 
-![image](assets/fr/chapter29/48.webp)
+![image](assets/fr/47.webp)
 
 ####
 
@@ -1154,7 +1154,7 @@ Jelas: **mata yang tidak melihat, hati yang tidak gundah**. Jadi, dalam kasus in
 
 Jika Anda berencana untuk **mencetak jenis poster ini dengan printer pribadi, sadarilah bahwa ini umumnya menyebabkan kertas cepat luntur, tetapi juga cepat rusak seiring waktu**. Dalam hal ini, **hal terbaik yang dapat dilakukan adalah tentu saja menghubungi percetakan profesional untuk memproduksi poster ini pada kertas khusus yang dirancang untuk penggunaan luar ruang**. Dengan demikian, kualitas akan terjamin.
 
-![image](assets/fr/chapter29/49.webp)
+![image](assets/fr/48.webp)
 
 ####
 
@@ -1170,7 +1170,7 @@ Proyek unik lainnya adalah **pembuatan kartu NFC kustom untuk pembayaran menggun
 Saat ini, di situs web mereka di [https://swiss-bitcoin-pay.ch/cards](https://swiss-bitcoin-pay.ch/cards), Swiss Bitcoin Pay menawarkan empat desain dasar.
 Namun, jika Anda ingin memesan **lebih dari 50 kartu NFC, Anda dapat menghubungi perusahaan melalui situs web resminya (atau di [Twitter](https://twitter.com/SwissBitcoinPay)) dan mengusulkan desain kustom yang Anda buat untuk bagian depan kartu**. Bagian belakang, bagaimanapun, distandarisasi.
 
-![image](assets/fr/chapter30/50bis.webp)
+![image](assets/fr/49.webp)
 
 [Asosiasi Bitcoin Prancis Lille](https://twitter.com/BitcoinLille) misalnya, memesan seratus kartu NFC dengan desain kustom pada tahun 2023, dengan **harga sekitar 2,50€ hingga 5€ per kartu** (tarif berubah secara reguler dan progresif).
 Dengan demikian, **setiap anggota baru asosiasi menerima kartu NFC kustom dalam paket sambutan mereka**.
@@ -1212,7 +1212,7 @@ Di antara platform video yang paling terkenal, kita khususnya menemukan:
 
 Tergantung pada apa yang Anda putuskan untuk diterapkan, Anda jelas akan perlu **menciptakan visual khusus untuk platform ini**, dengan tujuan membuat saluran video Anda secara visual menarik. Poin positifnya adalah dengan **Canva**, yang kami bahas di [bagian 2/8 dari kursus ini](LINK), ada kategori "Thumbnail YouTube" dengan visual yang sudah dirancang dan mudah dimodifikasi.
 
-![image](assets/fr/chapter31/51bis.webp)
+![image](assets/fr/50.webp)
 
 ####
 
@@ -1261,7 +1261,7 @@ Selain itu, dalam konteks yang sepenuhnya berbeda, juga dimungkinkan **di setiap
 
 Beberapa model yang digunakan oleh asosiasi Bitcoin Lille juga [tersedia secara open-source di Canva](https://www.canva.com/design/DAGHAsT15MU/AIA7-L_xBjNdsuxdD4-h-Q/edit?utm_content=DAGHAsT15MU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
-![image](assets/fr/chapter32/52-frter.webp)
+![image](assets/fr/51.webp)
 
 ## Merenungkan Transisi dalam Peristiwa Kematian
 
@@ -1294,7 +1294,7 @@ Selanjutnya, **memiliki pola pikir terbuka, siap menyederhanakan konsep jika dip
 Jadi, jika Anda merasa mampu: lakukanlah! Dunia kita sangat membutuhkan pendidikan tentang apa itu Bitcoin...
 Namun, sudah jelas bahwa untuk menyelesaikan tugas ini, **Anda akan membutuhkan banyak motivasi, banyak pekerjaan; tetapi juga, kontak yang tepat**.
 
-![image](assets/fr/chapter33/53bis.webp)
+![image](assets/fr/52.webp)
 
 ####
 
@@ -1307,7 +1307,7 @@ Dalam kasus sekolah pasca-baccalaureate, juga mungkin untuk **langsung menghubun
 Sayangnya, di dunia kita saat ini, Bitcoin masih terlalu sering sengaja didemonisasikan oleh media dan politisi; membuat banyak pemula berpikir bahwa itu harus dilarang dari ruang kelas dan aula kuliah. **Kemungkinannya oleh karena itu cukup tinggi bahwa Anda akan menghadapi banyak penolakan**; terutama dalam lingkup akademis di mana bukti kerja Bitcoin dan konsumsi energinya terkadang tampak tabu.
 Namun, tidak ada yang menghalangi Anda untuk mencoba, terutama dengan BDE dan asosiasi mahasiswa. **Dengan sedikit keberuntungan, meskipun penolakan itu tegas pada awalnya, tidak mustahil bahwa Anda akan dihubungi lagi selama bull-run berikutnya pada alamat email komunitas Anda untuk mengadakan konferensi di depan hampir 280 siswa!**
 
-![image](assets/fr/chapter33/54bis.webp)
+![image](assets/fr/53.webp)
 
 ## Mendekati Bisnis
 
@@ -1324,7 +1324,7 @@ Untuk masalah-masalah ini, tambahkan:
 - **kesulitan menemukan solusi perangkat lunak** yang bekerja dengan sempurna;
 - tetapi juga, **pentingnya membuat mereka memahami manfaat menerima Bitcoin** sebagai metode pembayaran.
 
-![image](assets/fr/chapter34/56.webp)
+![image](assets/fr/54.webp)
 
 ####
 
@@ -1350,7 +1350,7 @@ Mengembangkan ekosistem Bitcoin di kota Anda dapat melibatkan **mengajak pedagan
 - untuk **sekali lagi menyarankan datang ke pertemuan dan acara Anda**;
 - untuk **menambahkan bisnis ini di [peta btcmap.org](https://btcmap.org/)**, dan memberitahu [Swiss Bitcoin Pay di Twitter](https://x.com/swissbitcoinpay) untuk memberikan visibilitas kepada bisnis ini; - tetapi juga untuk **berpotensi mengadakan acara di bisnis ini**, seperti pertemuan atau workshop.
 
-![image](assets/fr/chapter34/57.webp)
+![image](assets/fr/55.webp)
 
 5. setelah beberapa bisnis di kota Anda telah bergabung dan telah memahami apa yang Bitcoin bawa untuk mereka, Anda kemudian dapat **mengusulkan pembuatan grup Telegram khusus untuk pedagang**; tujuannya adalah untuk **memungkinkan mereka saling membantu** dan untuk lebih lanjut dalam orange-pilling bisnis lain di kota. Secara paralel, grup ini juga dapat **bertindak sebagai dukungan teknis**, jika masalah muncul dengan pelanggan.
 
@@ -1382,7 +1382,7 @@ Meskipun ini mungkin spesifik untuk lokalitas tempat Anda berada, berikut adalah
 Secara paralel, juga bisa menarik untuk **menghubungi stasiun radio lokal, untuk mengusulkan, misalnya, pembuatan podcast atau wawancara**.
 Namun, sadarilah bahwa kata-kata di media dapat dengan mudah diputar ke kerugian mereka. **Jadi, ini bukan tugas yang mudah, dan mungkin bijaksana untuk mempersiapkannya**.
 
-![image](assets/fr/chapter35/58-fr.webp)
+![image](assets/fr/56.webp)
 
 ####
 
@@ -1413,7 +1413,7 @@ Yang pertama di antaranya (yang paling mudah diantisipasi) jelas adalah **pening
    Di satu sisi, jika Anda berjumlah 500 orang yang bertukar pikiran tentang berbagai topik dalam saluran diskusi yang sama, mayoritas anggota Anda akan secara bertahap berhenti mengikuti percakapan; di antaranya karena kelimpahan pesan yang harus dibaca dan notifikasi yang terkait. Dalam hal ini, mungkin relevan untuk **mempertimbangkan kembali saluran komunikasi Anda; seperti misalnya super-grup Telegram, atau bahkan server Discord**, yang keduanya memungkinkan pengelompokan percakapan berdasarkan tema.
    Di sisi lain, lebih banyak orang di saluran pertukaran juga berarti lebih banyak bot, lebih banyak penipuan, dan juga **lebih banyak moderasi yang harus dilakukan**. Anda akan perlu bersiap, dengan menyusun misalnya satu set aturan yang dapat Anda andalkan saat Anda memoderasi pesan. Dari pengalaman, ini menghindari sebagian besar konflik; terutama ketika aturan tersedia untuk dibaca di saluran komunikasi Anda. Dalam hal ini, asosiasi Bitcoin Lille beberapa tahun yang lalu menulis **[satu set aturan sumber terbuka](https://bitcoinlille.fr/reglement/) untuk grup Telegram dan server Discord-nya**, berdasarkan prinsip-prinsip sederhana dan universal. Desainnya [juga tersedia](https://www.canva.com/design/DAGHI692AD4/rjT4sqEnhajc5FiPA6GFZQ/edit?utm_content=DAGHI692AD4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
-![gambar](assets/fr/chapter36/59-frbis.webp)
+![gambar](assets/fr/57.webp)
 
 2. **meet-up dan acara Anda akan penuh secara signifikan, dengan berlimpahnya wajah baru yang ingin bertukar pikiran satu sama lain**.
    Menghadapi masuknya yang signifikan ini, beberapa pendekatan dapat dibahas dan dipertimbangkan:
@@ -1463,7 +1463,7 @@ Dalam upaya mendesentralisasi lebih lanjut, **menggunakan perangkat lunak sumber
 
 Pada 5 April 1933, Franklin Roosevelt, saat itu presiden Amerika Serikat yang ke-32, menandatangani Perintah Eksekutif 6102, yang melarang setiap individu dari memiliki koin emas, emas batangan, dan sertifikat emas di seluruh wilayah.
 
-![image](assets/fr/chapter37/60-enbis.webp)
+![image](assets/fr/58.webp)
 
 Jelas, Depresi Besar (kejatuhan pasar saham tahun 1929) saat ini tidak lagi relevan. Tapi siapa yang bisa mengatakan bahwa, besok, negara lain tidak akan melakukan hal yang sama dan **melarang setiap individu dari memiliki bitcoin?**
 
@@ -1476,7 +1476,7 @@ Tapi apa yang akan terjadi **jika para pemimpin dunia kita akhirnya memahami bah
 
 Tentu saja, kita tidak seharusnya terjebak dalam bentuk pemikiran konspirasi. Tapi **tidak ada yang menghalangi kita, dari sekarang, untuk mengantisipasi, mendesentralisasi, dan mendidik**.
 
-![image](assets/fr/chapter37/61-frter.webp)
+![image](assets/fr/59.webp)
 
 # Kesimpulan
 
@@ -1554,7 +1554,7 @@ Dengan tujuan untuk lebih mengembangkan komunitas Anda, **sebuah kursus bernama 
 
 Melalui kursus ini, **kami juga akan menjelaskan poin penting lainnya: organisasi acara skala besar, dengan sekitar seratus peserta**. Kami akan membahas pertanyaan seperti: Mengapa? Organisasi seperti apa? Di mana? Anggaran berapa? Bagaimana? Operasi seperti apa?
 Untuk mencapai ini, kami akan memulai dengan pengalaman dari beberapa komunitas Prancis yang telah mengorganisir acara mereka sendiri, seperti **BEF (Bitcoin Economic Forum, pada Mei, di Brittany) dan B-only (pada November, di Annecy)**.
-![image](assets/fr/chapter38/62.webp)
+![image](assets/fr/61.webp)
 
 ####
 
@@ -1584,7 +1584,7 @@ Sebaliknya, **minta bantuan dari bitcoiner yang telah melalui galeri yang sama, 
 
 **Juga usulkan kepada orang-orang yang akan mengikuti Anda dalam petualangan ini untuk membantu Anda, bahkan jika itu berarti mendelegasikan beberapa tugas** dan tugas-tugas tersebut mungkin memakan waktu lebih lama. Dalam jangka panjang, komunitas Anda akan muncul bersatu dan lebih matang.
 
-![image](assets/fr/chapter39/63.webp)
+![image](assets/fr/60.webp)
 Sendirian, seseorang dapat dengan cepat menjelajahi salah satu dari banyak galeri lubang kelinci Bitcoin, hingga mencapai ujungnya. Namun, ada perjalanan kembali yang harus dilakukan. Kemudian semua arah lain untuk dijelajahi. Sedangkan **dengan menciptakan dan/atau bergabung dengan komunitas para pengguna Bitcoin, dengan berbagi dan bertukar informasi dengan mereka secara rutin, Anda akan menjelajahi semua arah lubang kelinci Bitcoin secara bersamaan**.
 
 Barulah kemudian, jauh lebih cepat daripada jika Anda melakukannya sendirian, Anda dapat berkata: "Saya telah memahami Bitcoin".

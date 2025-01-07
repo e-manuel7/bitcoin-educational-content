@@ -41,7 +41,7 @@ See statistiline vaade on muidugi tihedalt seotud:
 - krüptovaluutade spekulatiivse turu järjestikune areng, eriti aastatel 2017/2018 ja 2020/2021;
 - Bitcoini üha regulaarsem ilmumine meedias.
 
-![image](assets/fr/chapter0/img1ter.webp)
+![image](assets/fr/01.webp)
 
 ####
 
@@ -82,7 +82,7 @@ Teiselt poolt võib Bitcoin'i kogukonnal olla ka avaramad eesmärgid; eriti eesm
 4. alusetud ja/või eksitavad jama, mida mõned isiksused ja meedia levitada püüavad;
 5. selle põhimõttelised erinevused teistest krüptovaluutadest.
 
-![image](assets/fr/chapter1/img2-frbis.webp)
+![image](assets/fr/02.webp)
 
 Järk-järgult homse maailma esimeste tsitadellide ehitamine, **Bitcoin'i kogukonnad üle maailma seisavad eriti asjakohase kaitserajatisena desinformatsiooni ja/või tsensuuri katsete vastu mõnes riigis**. Paralleliselt **loovad nad viljaka pinnase Bitcoini aluste õppimiseks**; võimaldades kõigil, kes pole seda veel mõistnud, kui nad on valmis, kontakte ja ressursse uue maailma ettekujutamiseks.
 
@@ -98,7 +98,7 @@ Nagu varem öeldud, **kohtumise loomine järgneb kogukonna loomisele, kuna see o
 Tõepoolest, Bitcoin'i entusiasti teekonna jooksul toob suur hulk inimesi esile soovi (ja vajaduse) **kohtuda ja füüsiliselt vahetada mõtteid teistega** samas ökosüsteemis. See on üldiselt seletatav üksindustundega, mis on paljude seas kohal.
 Nende kohtumiste korraldamine võib seega võimaldada füüsilisi kohtumisi, mis on palju meeldivamad kui läbi audio- või videokõnede. Need võivad toimuda **joogi või söögi juures** ja võimaldavad täpsemaid ja otsesemaid vahetusi suurema hulga inimestega.
 
-![pilt](assets/fr/chapter1/img3bis.webp)
+![pilt](assets/fr/03.webp)
 
 Bitcoin'i entusiastide jaoks võivad kohtumised olla hetk, **mis soodustab arutelusid tehnilistel teemadel või projektidel**, mida nad arendavad; ja "tulevastele Bitcoineritele", et **avastada Bitcoin'i maailma ja järk-järgult sellesse sukelduda**.
 
@@ -147,7 +147,7 @@ Siin on mõned mõtted, mis võivad teid juhendada:
 Teine punkt, mis on rohkem kui asjakohane uurida, on: **kas minu lähedal on juba olemas koosviibimine?**
 Selleks peaksite teadma, et sait [btcmap.org](https://btcmap.org/communities/map#0/0/0/) loetleb peaaegu kõik globaalsed kogukonnad ja koosviibimised.
 
-![image](assets/fr/chapter2/img4.webp)
+![image](assets/fr/04.webp)
 Pärast mõningast uurimistööd, kui otsustate luua koosviibimise või kogukonna samas linnas (või naaberlinnas) kui aktiivne koosviibimine, mis on toiminud mitu kuud/aastat, peaksite teadma, et see võib tekitada konkurentsi; isegi kui see on tahtmatu. Muidugi, arvestades, et Bitcoin on detsentraliseeritud, on kõigil vabadus teha, nagu soovivad. Siiski on selge, et **jõudude ühendamine võimalikult palju, mitte lähedaste kogukondade paljususe loomine; vähendab igaühe mõjuvõimet**.
 Sellessuhtes võib järgmine "konventsioon" aidata teil otsustada: kui 45 minuti autosõidu kaugusel teie asukohast ei eksisteeri aktiivset Bitcoin'i kogukonda, siis võib tunduda asjakohane luua uus.
 Kuid muidugi, olete täiesti vaba tegema, nagu soovite.
@@ -186,7 +186,7 @@ Tõepoolest, see võib võimaldada **ühendada uute inimeste avastamist ja hariv
 
 Mõnikord, sõltuvalt käsitletavatest teemadest (nagu tehnilised esitlused või praktilised töötoad), võib olla asjakohane korraldada **lisasündmus kohtumisele lisaks**, erinevas kohas ja erineval ajal.
 
-![image](assets/fr/chapter3/img5.webp)
+![image](assets/fr/05.webp)
 
 ####
 
@@ -246,18 +246,18 @@ Et anda teile mõningaid ideid, siin on mõned näited Prantsuse kogukondade log
 
 - Marseilles kujutab logo Notre-Dame-de-la-Garde basiilikat, mis valitseb linna kohal:
 
-![image](assets/fr/chapter4/img8.webp)
+![image](assets/fr/06.webp)
 
 - Monacos viitab see Monégasque'i kaljule:
 
-![image](assets/fr/chapter4/img7.webp)
+![image](assets/fr/07.webp)
 
 - Lilles kujutab lihtsustatud logo Vaubani kindlust ja selle parki, mis asub vaid mõne minuti kaugusel kesklinnast:
-  ![image](assets/fr/chapter4/img6.webp)
+  ![image](assets/fr/08.webp)
 
 - Saint-Malos on esile tõstetud hermelin - linna embleem:
 
-![image](assets/fr/chapter4/img9.webp)
+![image](assets/fr/09.webp)
 
 Nüüd on teie kord **leida oluline element või koht oma linnas ja kasutada seda oma Bitcoin kogukonna visuaali loomiseks**.
 
@@ -296,7 +296,7 @@ Et juhendada teid üksikasjalikumalt, pakume allpool mitteammendavat videoõpetu
 Siin on ka mõned eelkujundatud, dubleeritavad ja redigeeritavad failid, mida kasutame meie ühenduses, Bitcoin Lille:
 
 - **kohtumise teadaande plakat** (sotsiaalvõrgustike jaoks ja trükitud A4 või A3 formaadis): [link](https://www.canva.com/design/DAGBvBXFJ8A/92-j_toeLU8QbVAD0NwoAA/edit?utm_content=DAGBvBXFJ8A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  ![pilt](assets/fr/chapter5/img10-fr.webp)
+  ![pilt](assets/fr/10.webp)
 
 - **ühisürituse teadaande plakat** (sotsiaalvõrgustike jaoks ja trükitud A4 või A3 formaadis): [link](https://www.canva.com/design/DAGBvG3rNCc/oXtNR9pduRs22AqclG4O2g/edit?utm_content=DAGBvG3rNCc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
@@ -304,14 +304,14 @@ Siin on ka mõned eelkujundatud, dubleeritavad ja redigeeritavad failid, mida ka
 
 - **võistluse teadaanne**: [link](https://www.canva.com/design/DAGBvIjuA_w/YzSUXzOmbNV9oCma9mluOw/edit?utm_content=DAGBvIjuA_w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-![pilt](assets/fr/chapter5/img11bis.webp)
+![pilt](assets/fr/11.webp)
 
 - **meie raamatukogu põhikiri**, mida kuvatakse A4 formaadis kohtumistel: [link](https://www.canva.com/design/DAGBvPqL7N4/LmUItfsysypRLSOFOzBXcQ/edit?utm_content=DAGBvPqL7N4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - **PowerPointi esitlus** "2. peatükk - Bitcoini tehingute mõistmine", autor @ProfEduStream: [link](https://www.canva.com/design/DAFsEcnOro8/Mz9FYdTGhsvozZOe0Y9jtw/edit?utm_content=DAFsEcnOro8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - **flaier** "21 põhjust Bitcoini kasutamiseks", kirjutanud @ProfEduStream: [link](https://www.canva.com/design/DAFtAR1NauQ/ZDwl2CchIJ9Gpb36N6-7iw/edit?utm_content=DAFtAR1NauQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-![image](assets/fr/chapter5/img12-fr.webp)
-![image](assets/fr/chapter5/img13-fr.webp)
+![image](assets/fr/12.webp)
+![image](assets/fr/13.webp)
 
 ####
 
@@ -353,13 +353,13 @@ Juhul, kui soovitakse luua näiteks futuristlikku pilti või logo "Bitcoin Londo
 
 - [ ] _Loo Bitcoin logo Londoni sillaga ja Big Ben taustal. Futuristlik_ - [Link](https://copilot.microsoft.com/images/create/un-logo-bitcoin-futuriste-avec-en-arric3a8re-plan-le-/1-6612ba1758df4384bc33c4bca00ab45b?FORM=SYDBIC)
 
-![pilt](assets/fr/chapter5/img14.webp)
+![pilt](assets/fr/14.webp)
 
 Kui kaaspiloodi neli ettepanekut ei ole teie maitse jaoks piisavalt realistlikud, on võimalik vestlusele lisada:
 
 - [ ] _Tee neljas palju realistlikumaks_ - [Link](https://copilot.microsoft.com/images/create/un-logo-bitcoin-futuriste-avec-en-arric3a8re-plan-le-/1-6612ba64b72d4cea9830ab7eb844f785?FORM=SYDBIC)
 
-![pilt](assets/fr/chapter5/img15.webp)
+![pilt](assets/fr/15.webp)
 
 Muuseas, viimane renderdus on päris kena!
 
@@ -369,7 +369,7 @@ Siiski, kui soovitakse palju lihtsamat logo, näiteks kleebise jaoks, võib seej
 
 - [ ] _Loo logo "London Bitcoin Meetup" jaoks Briti ja lihtsustatud stiilis_ - [Link](https://copilot.microsoft.com/images/create/logo-for-27londres-bitcoin-meetup27-with-a-british-a/1-6612bb9451924859a6c34b350b3a6ebc?FORM=SYDBIC)
 
-![pilt](assets/fr/chapter5/img16.webp)
+![pilt](assets/fr/16.webp)
 
 Teine renderdus on tüüpiline ja võiks täiuslikult töö ära teha!
 
@@ -388,7 +388,7 @@ Seega olge kannatlikud, proovige juhiseid (või "käsklusi") võimalikult täpse
 
 Nagu varem mainitud, sõltuvalt individuaalsetest motivatsioonidest ja harjumustest võivad kogukonna kommunikatsioonikanalid olla erinevad. Näiteks **Prantsusmaal, Saksamaal ja Itaalias on peamisteks kommunikatsioonikanaliteks Telegram ja Twitter**. Aja jooksul on need saanud nende riikide Bitcoin kogukondade "kommunikatsioonistandarditeks". Siiski kasutavad mõned kogukonnad ka teisi kanaleid spetsiifilistel eesmärkidel. Seevastu Tšehhi Vabariigis, kus on arenenud arvukalt kogukondi, kasutatakse **Matrixit**, krüpteeritud kohese sõnumivahetuse protokolli. Nende riigis on seega Telegram harva kasutusel.
 Selles mõttes, **kommunikatsioonikanalite valimisel on kõige asjakohasem lähenemine alustada näidete võtmisega naaberriikide kogukondadest enda riigis**. Selleks, pääsedes kaardile aadressil [btcmap.org](https://btcmap.org/communities/map#0/0/0/), saad väga täpse ülevaate oma riigis kõige enam kasutatavatest kommunikatsioonikanalitest. Šveitsis näiteks levitatakse informatsiooni peamiselt Telegrami, Twitteri ja kogukonna veebisaidi kaudu.
-![image](assets/fr/chapter6/img17.webp)
+![image](assets/fr/17.webp)
 
 ####
 
@@ -431,7 +431,7 @@ Seega, liikuge otse järgmisesse jaotisse, pealkirjaga [Telegrami Grupi Loomine]
 
 Tõepoolest, **Telegrami kanal on lihtsalt administratsiooni poolt postitatud informatsiooni vitriin, kus liikmed ei saa teha palju enamat kui lisada emotikone**.
 
-![image](assets/fr/chapter7/img18-fr.webp)
+![image](assets/fr/18.webp)
 Siiski on võimalik lisada kanaliliikmetele võimalus kommenteerida iga administraatori postitust, kuid see tehakse eraldi aruteludes; oluliselt jagades vahetusi. **Seetõttu ei ole Telegrami kanali loomist üldiselt soovitatav kogukonnale**.
 
 ####
@@ -444,7 +444,7 @@ Siiski on võimalik lisada kanaliliikmetele võimalus kommenteerida iga administ
 Vastupidi, **Telegrami grupi loomine on üsna asjakohane**.
 Tõepoolest, võttes tuntud näiteid nagu Messengeri või WhatsAppi grupid, igaüks, kes liitub selle **Telegrami grupiga, saab omavahel suhelda, üksteisele vastata; ja seda kõike ühes ja samas arutelus**.
 
-![pilt](assets/fr/chapter7/img19-en.webp)
+![pilt](assets/fr/19.webp)
 
 Selle kanali administraatorid saavad siis:
 
@@ -483,7 +483,7 @@ Lõpuks saab lisada **konkreetseid teemasid** (kaevandamine, projekti arendamine
 
 Teil on võimalus seda oma soovide kohaselt muuta; sarnaselt näiteks Abidjani Bitcoin Meet-up'i supergrupiga.
 
-![pilt](assets/fr/chapter7/img20-fr.webp)
+![pilt](assets/fr/20.webp)
 
 ####
 
@@ -520,7 +520,7 @@ Samuti on **väga soovitatav kirjutada oma kohtumise kirjeldus, kui loote grupi 
 >
 > Meie teiste sotsiaalvõrgustike juurde pääsemiseks: [SOOVITUD_LINK] 🌐
 
-![pilt](assets/fr/chapter8/img21.webp)
+![pilt](assets/fr/21.webp)
 
 Ülaltoodud pildil on näha, et Bitcoin Lille Telegrami grupi administraatorid on kohandanud kutselinki, kuna see on avalik.
 
@@ -547,7 +547,7 @@ Mitmete saadaolevate võimaluste hulgas **botiga [@GroupHelpBot](https://telegra
 - teatud tüüpi sõnumite automaatne kustutamine;
 - jne.
 
-![image](assets/fr/chapter9/img22-fr.webp)
+![image](assets/fr/22.webp)
 
 Kolm lihtsat ideed on veel:
 
@@ -614,7 +614,7 @@ On tõepoolest ilmne, et kui keegi ei pääse ligi teie suhtluskanalitele, mille
 
 Nende sotsiaalvõrgustike seas **paigutab Twitter end peaaegu hädavajalikuna Bitcoin maailmas**. Selles mõttes tundub oluline **omada profiili sellel platvormil**; kuigi selle tsentraliseeritus ja areng on kaugel korrektsest.
 See on põhjus, miks saab luua ka **NOSTR profiili, mis on spetsiifiline teie kogukonnale**, mõttega ennetada võimalikke piiranguid ja/või tsensuuri Twitteris. Lõppude lõpuks: ennetamine on parem kui ravi.
-![image](assets/fr/chapter13/img23bis.webp)
+![image](assets/fr/23.webp)
 
 Ilmselgelt võib kasutada ka teisi sotsiaalvõrgustikke. See kehtib Facebooki (Facebooki grupi või lehe puhul) või isegi LinkedIni kohta.
 Siiski on oluline meeles pidada, et **mida rohkem kommunikatsioonikanaleid ja sotsiaalvõrgustikke on vaja luua - ja seega ka hooldada - seda aeganõudvamaks see muutub. On parem keskenduda kõige asjakohasematele; ja Twitter (ning NOSTR) tunduvad olevat head kandidaadid**.
@@ -634,7 +634,7 @@ Twitter on väga kasutajasõbralik, nõudes mõningate seadete kohandamist priva
    > Ametlik konto Bitcoin kogukonnale [LINN] #BTC | Kohtumised iga kuu esimesel kolmapäeval [BAARI_NIMI]s [LINNAS] 🍻 | Liitu meiega Telegramis 🔽
 4. Selle kirjelduse all on samuti võimalik **sisestada link**. See võib viia kasutajad "sotsiaalvõrgustike" lehele, mis on saadaval teie kogukonna veebisaidil, või suunata nad teie Telegrami suhtluskanalile.
 
-![image](assets/fr/chapter14/img24-fr.webp)
+![image](assets/fr/24.webp)
 
 Pealegi tunduvad **mõned privaatsusseaded olulised muutmiseks**; kõige asjakohasemad on ilmselgelt:
 
@@ -675,7 +675,7 @@ Et säästa teid oluliselt aega, oleme võtnud aega Twitteri reitingualgoritmi [
 
 Lisaks on võimalik **kinnitada tviit oma Twitteri profiilile, millele soovid anda olulist nähtavust**.
 
-![pilt](assets/fr/chapter14/img25-en.webp)
+![pilt](assets/fr/25.webp)
 
 Pane tähele, et nii telefonis kui arvutis on võimalik olla korraga sisse logitud kahte Twitteri kontosse. See võib olla väga mugav, et ei peaks vahetama sisselogimist oma isikliku ja kogukonna konto vahel; samas võib see kaasa tuua tagasilööke, kui postitad kogemata oma kogukonna kontolt endast kostümeeritud foto... Ole ettevaatlik!
 
@@ -695,7 +695,7 @@ Tõepoolest, **see võimaldab vastastikust jälgimist, märgistamist ja seeläbi
 See kehtib umbes viiekümne Prantsuse Bitcoin'i kogukonna kohta; ja sama kehtib enamiku Itaalia "Satoshi Spritz" algatuste ja Saksamaa "Einundzwanzig" kohta.
 Kuigi mõnele võib see tunduda tarbetu, võib **kohalike kogukondade ja algatuste kontode jälgimine teie riigis kaudselt viia ühiste projektide teostumiseni** või isegi "partnerlusteni". Nii said omavahel ühendust Bitcoin Liège ja Bitcoin Lille kogukonnad (sama kehtib Bitcoin Aixi ja Bitcoin Marseille kohta); nüüd korraldavad nad vähemalt ühe ühise kohtumise aastas. **Cercle du Coin** õhtusöögid on veel üks näide.
 
-![image](assets/fr/chapter15/img26bis.webp)
+![image](assets/fr/26.webp)
 
 Lisaks võib Prantsusmaal olla asjakohane **jälgida algatusi @KonsensusFR, @bitcoinpointfr, @DecouvreBitcoin ja @btcmap**. Need on vaid ettepanekud ja iga kogukond on loomulikult vaba tegema, mida soovib, täielikus detsentraliseerimises ja autonoomias.
 Teineteise jälgimise huvi on üsna lihtne: pakkuda üksteisele nähtavust. Tõepoolest, mida rohkem olete võrgustikes esindatud, seda rohkem räägitakse teist; ja mida rohkem teist räägitakse, seda tõenäolisem on, et inimesed tulevad teie üritustele. Teiste kogukondade postituste meeldimine/retweetimine sotsiaalvõrgustikes võib samuti olla huvitav.
@@ -721,7 +721,7 @@ Nende hulgas leiame märkimisväärselt:
 - **[BitcoinerEvents](https://www.bitcoinerevents.com/)** on veebisait, mille on loonud bitcoinid, bitcoinide jaoks. Seega on võimalik **postitada tulevasi oma kogukonna üritusi** sinna. Kahjuks on see platvorm Prantsusmaal suhteliselt vähekasutatud.
 - sõltuvalt riigist on olemas ka unikaalsed algatused. See on eriti märgatav **Prantsusmaal, veebilehe [bitcoin.fr](https://bitcoin.fr/events/categories/evenements/) näol, mis loetleb kümneid Bitcoiniga seotud üritusi Prantsusmaal igal kuul**. Kui te pole neid veel Twitteris järginud või pole neile oma kogukonna ja/või ürituste kohta teavet edastanud, on nüüd selleks õige aeg! **Lisaks, eesmärgiga aidata neil hoida seda Prantsuse ürituste kalendrit ajakohasena, oleks hinnatud, kui kõik Prantsuse Bitcoin kogukonnad harjuksid:** \* **mainima @bitcoinpointfr Twitteris iga kord, kui nende kogukonnast tuleb uus ürituse teadaanne**;
 - **kinnitama nimetatud ürituse teadaande oma kogukonna Telegrami grupis**.
-  ![image](assets/fr/chapter16/img27bis.webp)
+  ![image](assets/fr/27.webp)
 
 ####
 
@@ -752,7 +752,7 @@ Nüüd, kui teie kogukonna sotsiaalmeediad ja kommunikatsioonikanalid on käivit
 See võib seega võimaldada teil vabastada natuke aega eesmärgiga mõelda "kohtumise" tüüpi ürituse loomisele, ükskõik millises formaadis soovite. See on eriti asjakohane, kui hakkate oma kogukonnas tundma teatud innukust.
 Nagu varem mainitud, võib **Bitcoin'i kokkusaamist** pidada kogukonna "järgmiseks tasemeks". See võimaldab ühelt poolt **selle bitcoin'i liikmetel kohtuda**; ja teiselt poolt **harida uusi inimesi, kes on huvitatud sellest ökosüsteemist**. "Kokkusaamise" tüüpi üritus võimaldab seega - teie mastaabis - **tekitada elevust Bitcoin'i ümber teie linnas**; mis võib aja jooksul laieneda sõltuvalt teie kogukonna ettevõetud projektidest.
 
-![image](assets/fr/chapter17/28bis.webp)
+![image](assets/fr/28.webp)
 
 Loomulikult, mida suuremad on teie kogukonna arendamiseks seatud eesmärgid, seda vajalikum on - teile ja teie liikmetele - sellele aega pühendada.
 Seetõttu on oluline **alustada saavutatavate eesmärkide seadmisega selle kokkusaamise korraldamiseks**.
@@ -768,7 +768,7 @@ Seetõttu tundub asjakohane **ettepanek korraldada kokkusaamine hetkest, kui suh
 Kui tunnete seda väikest sädet, on siis täiesti võimalik teile pakkuda ideed isiklikuks kohtumiseks. Kui see idee tekitab teistes huvi, peate lihtsalt **määrama oma esimese kokkusaamise kuupäeva**.
 Selleks on kindlasti eelistatav mitte määrata kindlat kuupäeva algusest peale, vaid pigem **pakkuda - umbes kümme päeva ette - küsitlust, mis sisaldab erinevaid päevi ja aegu**. Nii, sõltuvalt kõigi häältest, võimaldab see **maksimeerida liikmete osavõttu**, tekitada rohkem elevust; aga ka, **paremini "optimeerida" oma aega**.
 
-![image](assets/fr/chapter18/29-fr.webp)
+![image](assets/fr/29.webp)
 
 Siis on oluline mitte omada ette kindlat ideed, kuidas see kokkusaamine kulgeb, mitu teist seal on, aruteluteemad jne. Võite pettuda; ja osalejad, potentsiaalselt tunda "survestatuna".
 Sellessuhtes tundub eelistatavam lasta asjadel loomulikult juhtuda, võib-olla joogi üle. Vestlused peaksid siis olema kerged; isegi kui see tähendab Bitcoin'i üles võtmist, kui leiate end üks-ühele eksinud lambaga.####
@@ -783,7 +783,7 @@ Kui soovite **ette näha teatud vaikusehetki, võite planeerida erinevaid "tegev
 - kogukondade ja ettevõtete **[btcmap.org kaart](https://btcmap.org/)**;
 - juhuslik: "Hei, muide, **kas oled kunagi saatnud Bitcoin'i üle Lightning'i?**"
   Siiski tuleb märkida, et kui kohtumine alles algab, ei pruugi olla asjakohane teha ametlikku esitlust. Kui teid on vaid mõned, tundub eelistatavam osaleda aruteludes avatumal ja sõbralikumal viisil.
-  ![image](assets/fr/chapter18/30.webp)
+  ![image](assets/fr/30.webp)
 
 ####
 
@@ -810,7 +810,7 @@ Lõpuks, kui teie kogukond kasvab märkimisväärselt ja teie kohtumised hakkava
 Esimesel juhul, kuigi on vajalik olla teadlik kõigi tundlikkustest ja soovidest, võib see võimaldada kõigil osalejatel **lahkuda ürituselt uute teadmistega**, samal ajal vestlusteemasid Bitcoin'i ümber koondades (kui need kaldusid kõrvale).
 Teisel juhul võimaldab teine sündmus kuus, näiteks, **käsitleda konkreetset teemat, nagu "algajate" sessioonide ja/või töötubade korraldamine** (kaevandamine, välk, sõlme paigaldamine jne).
 
-![image](assets/fr/chapter18/31.webp)
+![image](assets/fr/31.webp)
 
 Pidage siiski meeles, et **see nõuab rohkem korraldust; ja seega võtab rohkem aega** (kuigi paljud avatud lähtekoodiga ressursid on kättesaadavad osas 6/8, pealkirjaga "[Näited projektidest ja algatustest](LINK).
 
@@ -826,7 +826,7 @@ Samal ajal tuleb arvestada paljude kriteeriumidega. Nende hulgas:
 1. kohtumispaiga asukoht: kas sinna on lihtne **jõuda ühistranspordiga? Autoga?** Kas seal on parkimisega raskusi?
 2. on koht **meeldiv ja mitte liiga lärmakas?** Kas otsite ametlikku kohta (kaas-töötamise ruum, koosolekuruum) või mitteametlikku (baar, või isegi restoran)? 3) kas koht mahutab piisavalt inimesi? Ja seda isegi ragbimängu õhtul või Meistrite Liiga ajal? 4) kas kohas on **videoprojektor ja vaikne ruum teie esitluste jaoks?** 5) lõpuks, kui tegemist on baariga (või isegi restoraniga), **kas menüü võimaldab kõigil süüa ja juua?** Nendele punktidele saab lisada kolm olulist märkust: - juhul, kui soovite **õhtu jagada kaheks osaks** (esmalt **esitlus ametlikus ruumis**, et kõik saaksid keskenduda; seejärel **vahetada kohta, et jätkata õhtut lõdvestunumalt baaris** või restoranis), on oluline teada, et see kohtade vahetus õhtu keskel võib viia **mõned osalejad kasutama võimalust lahkuda. Seetõttu ei soovitata sellist korraldust**; - teie esimestel kohtumistel ilmub tõenäoliselt vähe inimesi, seega tõenäoliselt te esitlust ei tee. Selles mõttes ei tundu vajalik end tutvustada omanikule ja oma eesmärke esitleda. Siiski, **kui teie kohtumised muutuvad regulaarseks ja hästi külastatuks, tundub asjakohane end tutvustada, näidata oma tõsidust ja soovi regulaarselt tulla**. See võib viia paljude aruteludeni (automaatne kuupõhine broneerimine, tasuta joogid ja/või suupisted, allahindlused, arutelu Bitcoin'i üle, Bitcoin'i aktsepteerimine makseviisina jne). Ilmselgelt, juhul kui otsite spetsiaalselt kohta videoprojektoriga esitlusteks, tundub oluline eelnevalt kokku leppida kohtumine (isiklikult või isegi telefoni teel) omaniku ja/või juhatajaga, et tutvustada oma projekti ja eesmärke;
 
-![image](assets/fr/chapter19/32bis.webp)
+![image](assets/fr/32.webp)
 
 - lõpuks võivad mõned kogukonnad soovida **korraldada oma üritusi ainult kohtades, mis aktsepteerivad Bitcoin'i makseviisina**; ja see on täiesti mõistetav. Selles perspektiivis tundub asjakohane **alustada otsinguid oma linnas ettevõtetest, mis aktsepteerivad Bitcoin'i (näiteks [btcmap.org](https://btcmap.org/map/) lehel)** ja võtta nendega ühendust, et leida koht, mis vastab teie kriteeriumidele. Juhul, kui kahjuks midagi sobivat ei leidu, on teil seejärel võimalus "pardale võtta" uusi kaupmehi. Siiski, olge valmis paljudeks tagasilükkamisteks, mis võivad olla heidutavad. Seepärast **võib olla mõistlik mitte seada seda algusest peale eesmärgiks, vaid pöörduda selle poole, kui teie kogukond on hästi arenenud** ja teil on piisavalt "mõjuvõimu".
 
@@ -841,7 +841,7 @@ Olete otsustanud korraldada kohtumise ja teavitanud oma kogukonda kuupäevast? N
 1. **võtke ühendust toimumiskohaga**, et **kinnitada broneering** teatud arvu inimeste jaoks;
 2. **teatage sotsiaalmeedias ja suhtluskanalites oma üritusest, selgelt märkides kuupäeva, aja, koha** ning lisades registreerimislingi, kui see on vajalik. Selleks suhtluseks võib luua spetsiifilise visuaali (näiteks Canva poster, vaata osa 2/8 "[Kujundades unikaalset identiteeti oma Bitcoin kogukonnale](LINK)"). Lisaks, et tagada selle teadaande maksimaalne nähtavus, võib see olla **kinnitatud Telegramis ja Twitteris**, ning võib samuti sisaldada **"@everyone" Discordis**. Tundub ka ülimalt asjakohane **postitada need teadaanded 1 nädal kuni kümme päeva enne ürituse kuupäeva, võimaldades kõigil oma osalemist planeerida**;
 
-![image](assets/fr/chapter20/33-fr.webp)
+![image](assets/fr/33.webp)
 
 4. **kaks kuni kolm päeva enne üritust, võivad need teadaanded olla uuesti säutsutud ja jagatud**, tuues rohkem nähtavust;
 5. lõpuks, sõltuvalt vastuste ja/või registreerimiste arvust päev või kaks enne üritust, on täiesti võimalik, et võtate uuesti ühendust toimumiskoha omanikuga, et kinnitada oodatavate osalejate arvu.
@@ -873,7 +873,7 @@ Selle saavutamiseks on vajalik:
    - kuvada, Patafixiga, **spetsiifilisi postereid** ruumis, kus te oma üritust peate (**Bitcoin valge raamat, teie kogukonna põhikiri, käimasolevad projektid**, jne).
 
 - ühe või mitme laua peale **kleebiste, flaierite või isegi arutelu tekitavate materjalide paigutamine** (Nerdminer, terasplaat, riistvara rahakott, sisse lülitatud arvuti mempooliga, ASIC, metallplaat oma privaatvõtme turvamiseks jne.)
-  ![image](assets/fr/chapter21/34bis.webp)
+  ![image](assets/fr/34.webp)
 
 ####
 
@@ -907,7 +907,7 @@ See võib alata väikese grupiga tulihingelistest bitcoineritest, kelle eesmärk
 Ühelt poolt, sotsiaalsest perspektiivist lähtudes, on kogukonna arengu jaoks ülioluline, et iga üritusel osaleja tunneks end kaasatuna. See tähendab: **uute osalejate poole pöördumiseks pingutuste tegemist, huvi tundmist nende kohaloleku põhjuste vastu, nende soojalt tervitamist**, jne. Tundes end kaasatuna ja teretulnuna, soovivad need isikud tagasi tulla; ja isegi tulevikus, sõltuvalt nende profiilist, hakata nende ürituste korraldamisel kaasa lööma.
 Ilmselgelt **nõuab see aega ja motivatsiooni**. Juhul, kui tervitate shitcoinerit (või veel hullem: XRP-maksimalisti), võib olla üsna keeruline oma ajalisi eelistusi kõrvale jätta ja nõustuda "aega raiskama" ühepoolsetes aruteludes. Siiski, võttes aega nende inimestega rääkimiseks, saame me aidata neil mõista nende arusaamatusi ja mõtlemisvigu. Kui nad need aktsepteerivad, on nad seejärel valmis Bitcoinist aru saama.
 
-![pilt](assets/fr/chapter22/35.webp)
+![pilt](assets/fr/35.webp)
 
 Teiselt poolt, tehnilisest vaatenurgast, võivad tekkida mitmed küsimused:
 
@@ -949,7 +949,7 @@ Kui käivitate Bitcoin'i kohtumise, kohtute uute inimestega. Seega on sotsiaalse
 
 Igaühel on oma soovid, oma uskumused, oma isiksus. Seega ei tehta siin hinnangut ühe või teise kohtumise toimimise kohta. Lõppude lõpuks, **õlle ümber me taastame maailma, kuid see ei ole, kuidas me seda sügavalt muudame**.
 
-![image](assets/fr/chapter23/36bis.webp)
+![image](assets/fr/36.webp)
 
 ## Korraldage temaatilisi kohtumisi, järgides kindlaksmääratud aastast progressiooni
 
@@ -1007,7 +1007,7 @@ Aasta jooksul võib korraldada muid üritusi. See võib hõlmata järgmist:
 - **õhtu või nädalavahetus, et "tähistada" eelseisvat poolitamist**;
 - **"pere mängu" üritus Bitcoini ümber** ja selle toimimise kohta. Mänge nagu ["Le Coin de Table"](https://www.maximalist.ovh/) või ["SHAmory"](https://shamory.com/) võib kaasa tuua;
 
-![image](assets/fr/chapter24/37ter.webp)
+![image](assets/fr/37.webp)
 
 - **kaevandamise töötuba**, kus tutvustatakse erinevat riistvara (protsessor, graafikakaart, FPGA, ASIC, nerdminer, bitaxe);
 - **pärastlõuna või õhtu eriti algajatele, temaatiliste töötubadega**;
@@ -1029,7 +1029,7 @@ Enne tellimuse esitamist võiks kaaluda järgmisi punkte:
 - kaaluge **vektorfaili kasutamist** pildifaili asemel. See parandab trükikvaliteeti;
 - **mõelge hoolikalt soovitud suurusele**. Näiteks 8 cm läbimõõduga ümmargune kleebis on täiskasvanu peopesa suurune. Kas otsite seda suurust, mis on nähtavuse jaoks üsna oluline, või otsite midagi diskreetsemat (näiteks 4 cm läbimõõduga)?
 - lõpuks - ja see on natuke tehniline - kui soovite rikkalikku musta trükki (nn "neljavärviline must"), peaksid selle omadused olema: 30% tsüaani, 30% magentat, 30% kollast ja 100% musta. Juhtudel, kui kasutatakse ainult 100% musta, on tulemus pigem hallikas must. Õnneks pööravad printerid tavaliselt sellele detailile tähelepanu. Seega ei peaks te liiga palju muretsema.
-  ![image](assets/fr/chapter25/38.webp)
+  ![image](assets/fr/38.webp)
 
 ####
 
@@ -1054,7 +1054,7 @@ See võimaldab omanikul katta unustamise või varguse korral tekkivad kulud; ja 
 ####
 
 Kui juhite **ühendust ja soovite investeerida osa oma varast haridus- ja õppematerjalidesse**, võite tellida mitu raamatut ja pakkuda neid oma **Bitcoin raamatukogus** igal kohtumisel.
-![image](assets/fr/chapter26/39.webp)
+![image](assets/fr/39.webp)
 
 ####
 
@@ -1072,7 +1072,7 @@ Lisaks võib kohtumistel kirjutada ja välja panna raamatute laenutamise põhim�
 Siin on avatud lähtekoodiga näide, mida võite võtta ja muuta, nagu soovite:
 [Raamatute Laenutamise Harta](https://www.canva.com/design/DAF7u1b5kRM/r2gEAlibe_jTIXIX-O9PMA/edit)
 
-![image](assets/fr/chapter26/40-fr.webp)
+![image](assets/fr/40.webp)
 
 ####
 
@@ -1098,8 +1098,8 @@ Mitmed flaierid on juba **avatud lähtekoodiga saadaval**, ja teisi luuakse läh
 
 Nende seas leiate [põhjaliku allikatega flaieri](https://profedustream.substack.com/p/21-raisons-dutiliser-bitcoin), mis loetleb 21 põhjust Bitcoin'i kasutamiseks. Selle disain on samuti [avatud lähtekoodiga saadaval](https://www.canva.com/design/DAFtAR1NauQ/ZDwl2CchIJ9Gpb36N6-7iw/edit?utm_content=DAFtAR1NauQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
-![image](assets/fr/chapter27/41-fr.webp)
-![image](assets/fr/chapter27/42-fr.webp)
+![image](assets/fr/41.webp)
+![image](assets/fr/42.webp)
 
 Muutke, kohandage ja seejärel jagage seda, nagu soovite. Siiski, pidage meeles, et viidake oma allikatele.
 
@@ -1111,7 +1111,7 @@ Prantsusmaal ja mõnes teises riigis on ka **"raamatukastid"**.
 Tavaliselt puidust valmistatud, need kastid võtavad raamatuid vabalt vastu, et neid ära anda. Seega, üks võimalus võiks olla **jätta sinna flaier; või veel parem: raamat!**
 
 ![image](assets/fr/chapter27/43.webp)
-![image](assets/fr/chapter27/44.webp)
+![image](assets/fr/43.webp)
 
 Sellega seoses käivitati 2023. aastal **algatus "Bitcoin'i Valge Raamat Prantsusmaa Raamatukastides"**.
 Selle projekti edukaks läbiviimiseks kõigi huvitatud osapooltega oli esmalt vajalik **saada kõigi riigis olemasolevate raamatukastide geolokatsioon**. Selleks on olemas erinevad andmebaasid:
@@ -1125,8 +1125,8 @@ Selle projekti edukaks läbiviimiseks kõigi huvitatud osapooltega oli esmalt va
 
 Siin on brošüür, mis jagati Prantsuse bitcoinide hulgas [brošüür, mis jagati Prantsuse bitcoinide hulgas](https://profedustream.substack.com/p/bitcoin-la-naissance-dune-nouvelle) ja mis lõpetas oma teekonna mitmekümnes raamatuvahetuspunktis üle riigi. Selle kujundus on samuti [saadaval avatud lähtekoodiga](https://www.canva.com/design/DAFs18FSoVM/Sy0QsfUkycTgXveeGgutBg/edit?utm_content=DAFs18FSoVM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
-![image](assets/fr/chapter27/45-fr.webp)
-![image](assets/fr/chapter27/46-fr.webp)
+![image](assets/fr/44.webp)
+![image](assets/fr/45.webp)
 
 ## Videoesitluse Korraldamine
 
@@ -1144,7 +1144,7 @@ Seetõttu on enamiku kogukondade jaoks see määr keelatud. Siiski on dokumentaa
 Paralleliselt saab korraldada muid esitlusi.
 Prantsusmaal näiteks **dokumentaalfilmi "Stranded" režissöör [Alana Mediavilla](https://twitter.com/AlanaMediavilla) nõustus, et riigi kohtumised võivad tema dokumentaalfilmi esilinastusena näidata**; osa kaadritest pärineb [filmist "Dirty Coin"](https://www.dirtycointhemovie.com/), mis ilmub 2024. aastal.
 Prantsuse Bitcoin'i kogukond võttis seejärel algatuse **tõlkida täielikult dokumentaalfilm "Stranded"**, lisada prantsusekeelsed subtiitrid ja jagada seda kõigi riigi kohtumistega. Nädalal 4. märts 2024 korraldati **ühine esitlus umbes kümnes kohtumises üle riigi**.
-![image](assets/fr/chapter28/47.webp)
+![image](assets/fr/46.webp)
 
 See ülekanne viis arvukate aruteludeni Bitcoin'i kaevandamise, selle elektritarbimise ja laiemalt ökoloogia mõju üle.
 
@@ -1154,7 +1154,7 @@ See ülekanne viis arvukate aruteludeni Bitcoin'i kaevandamise, selle elektritar
 Mitmes Euroopa riigis (Saksamaa, Hispaania, Prantsusmaa jne) on **mõned Bitcoini entusiastid algatanud Bitcoiniga seotud plakatite ülespanemise**. Mõned neist plakatitest kujutavad Banksy teoseid, samas kui teised sisaldavad erineval viisil Bitcoin'i logo.
 See kehtib eriti [StreetCyberArt](https://twitter.com/streetcyber_art) kohta, kes on Saksamaa Bitcoin'i huviline ja on mitmeid aastaid loonud kollaaže ja tänavakunsti.
 
-![image](assets/fr/chapter29/48.webp)
+![image](assets/fr/47.webp)
 
 ####
 
@@ -1163,7 +1163,7 @@ Ilmselgelt: **silmast väljas, meelest väljas**. Seega, sel juhul, võib-olla o
 
 Kui plaanite **sellist tüüpi plakateid isikliku printeriga trükkida, pidage meeles, et see põhjustab üldiselt paberi tugevat määrdumist, aga ka kiiret halvenemist aja jooksul**. Selles mõttes on **kindlasti parim tegevus võtta ühendust professionaalse trükikojaga, et toota neid plakateid spetsiaalsel isekleepuval paberil, mis on spetsiaalselt ette nähtud välistingimustes kasutamiseks**. Kvaliteet on seega tagatud.
 
-![image](assets/fr/chapter29/49.webp)
+![image](assets/fr/48.webp)
 
 ####
 
@@ -1179,7 +1179,7 @@ Teine ainulaadne projekt on **isikupärastatud NFC-kaartide loomine maksete jaok
 Praegu on nende veebisaidil [https://swiss-bitcoin-pay.ch/cards](https://swiss-bitcoin-pay.ch/cards) pakutud neli põhilist kujundust Swiss Bitcoin Pay poolt.
 Siiski, kui soovite tellida **rohkem kui 50 NFC-kaarti, võite ettevõttega ühendust võtta selle ametlikul veebisaidil (või [Twitteris](https://twitter.com/SwissBitcoinPay)) ja pakkuda kaardi esiküljele oma loodud kohandatud kujundust**. Tagakülg on siiski standardne.
 
-![image](assets/fr/chapter30/50bis.webp)
+![image](assets/fr/49.webp)
 
 Näiteks [Prantsuse ühendus Bitcoin Lille](https://twitter.com/BitcoinLille) tellis 2023. aastal sada NFC-kaarti kohandatud kujundusega, **hinnaga umbes 2,50€ kuni 5€ kaardi kohta** (hind muutub regulaarselt ja on progressiivne).
 Seega **saab iga ühenduse uus liige oma tervituspaketti kohandatud NFC-kaardi**.
@@ -1221,7 +1221,7 @@ Kõige tuntumate videoplatvormide seas leiame märkimisväärselt:
 
 Sõltuvalt sellest, mida otsustate rakendada, peate ilmselgelt **loomaselle platvormi jaoks spetsiifilisi visuaale**, eesmärgiga muuta teie videokanal visuaalselt atraktiivseks. Positiivne punkt on see, et **Canvaga**, millest rääkisime [selle kursuse 2/8 osas](LINK), on olemas "YouTube Thumbnail" kategooria visuaalidega, mis on juba kujundatud ja kergesti muudetavad.
 
-![pilt](assets/fr/chapter31/51bis.webp)
+![pilt](assets/fr/50.webp)
 
 ####
 
@@ -1270,7 +1270,7 @@ Kuigi see strateegia võib tunduda veidi formaalne, võib see võimaldada mõned
 
 Mitmed Bitcoin Lille ühingu poolt kasutatud mudelid on samuti [avatud lähtekoodiga saadaval Canva's](https://www.canva.com/design/DAGHAsT15MU/AIA7-L_xBjNdsuxdD4-h-Q/edit?utm_content=DAGHAsT15MU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
-![image](assets/fr/chapter32/52-frter.webp)
+![image](assets/fr/51.webp)
 
 ## Ülemineku peegeldamine surma korral
 
@@ -1303,7 +1303,7 @@ Lisaks on sellises tegevuses hädavajalik **avatud mõtlemine, valmisolek vajadu
 Niisiis, kui tunnete, et olete võimeline: asuge tegutsema! Meie maailm vajab nii väga haridust selle kohta, mis Bitcoin on...
 Siiski on ilmselge, et selle ülesande täitmiseks on vaja palju motivatsiooni, suurt tööd; aga ka õigeid kontakte.
 
-![image](assets/fr/chapter33/53bis.webp)
+![image](assets/fr/52.webp)
 
 ####
 
@@ -1316,7 +1316,7 @@ Post-bakalaureuse kooli puhul on samuti võimalik **otse kontakteeruda koolitusp
 Kahjuks on meie praeguses maailmas Bitcoin endiselt liiga sageli meedia ja poliitikute poolt tahtlikult demoniseeritud; pannes paljud algajad mõtlema, et see peaks olema klassiruumidest ja loengusaalidest keelatud. **Tõenäosus, et te kohtate palju tagasilükkamisi, on seega üsna kõrge**; eriti akadeemilises sfääris, kus Bitcoini töötõend ja energiatarbimine tunduvad mõnikord tabuteemadena.
 Siiski, ei takista miski teid proovimast, eriti BDE ja üliõpilasühenduste puhul. **Natukese õnnega, isegi kui esimene keeldumine on kindel, ei ole võimatu, et teid võetakse järgmise pullituru ajal uuesti ühendust teie kogukonna e-posti aadressil, et pidada konverents peaaegu 280 üliõpilase ees!**
 
-![image](assets/fr/chapter33/54bis.webp)
+![image](assets/fr/53.webp)
 
 ## Ettevõtetega Lähenemine
 
@@ -1333,7 +1333,7 @@ Nendele probleemidele lisandub:
 - **tarkvaralahenduse leidmise raskus**, mis töötaks ideaalselt;
 - aga ka **tähtsus teha neile selgeks Bitcoin'i aktsepteerimise eelised** makseviisina.
 
-![image](assets/fr/chapter34/56.webp)
+![image](assets/fr/54.webp)
 
 ####
 
@@ -1359,7 +1359,7 @@ Seega võib teie linna Bitcoin'i ökosüsteemi arendamine hõlmata **kaupmeeste 
 - **ettepanek tulla uuesti teie kohtumistele ja üritustele**;
 - **lisada see ettevõte [btcmap.org kaardile](https://btcmap.org/)** ja teavitada [Swiss Bitcoin Pay'd Twitteris](https://x.com/swissbitcoinpay), et suurendada selle ettevõtte nähtavust; - aga ka **potentsiaalselt korraldada selles ettevõttes üritusi**, nagu kohtumised või töötoad.
 
-![pilt](assets/fr/chapter34/57.webp)
+![pilt](assets/fr/55.webp)
 
 5. kui mitu ettevõtet teie linnas on pardale võetud ja on mõistnud, mida Bitcoin neile pakub, võite seejärel **ettepaneku luua kaupmeestele eriline Telegrami grupp**; eesmärgiks on **võimaldada neil üksteist aidata** ja minna kaugemale teiste linna ettevõtete oranžiks muutmisel. Paralleelselt võib see grupp samuti **toimida tehnilise toena**, juhul kui kliendiga tekib probleem.
 
@@ -1391,7 +1391,7 @@ Kuigi see võib olla spetsiifiline teie asukohale, siis siin on nimekiri peamist
 Paralleliselt võib olla huvitav **võtta ühendust kohalike raadiojaamadega, et pakkuda näiteks podcast'i loomist või intervjuud**.
 Siiski olge teadlikud, et meedias öeldud sõnu võib kergesti nende kahjuks pöörata. **Seega, see ei ole lihtne ülesanne ja selleks võib olla tark valmistuda**.
 
-![pilt](assets/fr/chapter35/58-fr.webp)
+![pilt](assets/fr/56.webp)
 
 ####
 
@@ -1425,7 +1425,7 @@ Esimene neist (kõige lihtsamini ette nähtav) on ilmselgelt **inimeste arvu suu
    Ühelt poolt, kui te olete 500 inimest, kes vahetavad erinevatel teemadel samas arutelukanalis, siis enamik teie liikmetest lõpetab järk-järgult vestluste jälgimise; muu hulgas seetõttu, et sõnumite lugemiseks ja seotud teadete hulga tõttu. Selles mõttes võib olla asjakohane **mõelda oma suhtluskanalite ümberkorraldamisele; nagu näiteks Telegrami supergrupid või isegi Discordi server**, mis mõlemad võimaldavad vestlusi teemade kaupa grupeerida.
    Teiselt poolt, rohkem inimesi vahetustes tähendab ka rohkem roboteid, rohkem pettusi ja samuti **rohkem modereerimist**. Seetõttu peate olema valmis, koostades näiteks reeglite kogumi, millele saate sõnumi modereerimisel toetuda. Kogemuse põhjal väldib see suure osa konfliktidest; eriti kui reeglid on teie suhtluskanalitel lugemiseks saadaval. Selles mõttes kirjutas Bitcoin Lille ühing mõned aastad tagasi **[avatud lähtekoodiga reeglite kogumi](https://bitcoinlille.fr/reglement/) oma Telegrami grupile ja Discordi serverile**, mis põhineb lihtsatel ja universaalsetel põhimõtetel. Selle kujundus on [samuti saadaval](https://www.canva.com/design/DAGHI692AD4/rjT4sqEnhajc5FiPA6GFZQ/edit?utm_content=DAGHI692AD4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
-![pilt](assets/fr/chapter36/59-frbis.webp)
+![pilt](assets/fr/57.webp)
 
 2. **teie kohtumised ja üritused täituvad märkimisväärselt, paljude uute nägudega, kes soovivad omavahel suhelda**.
    Selle olulise sissevoolu ees võib arutada ja kaaluda mitmeid lähenemisviise:
@@ -1476,7 +1476,7 @@ Veelgi enam detsentraliseerimise eesmärgil võib **avatud lähtekoodiga tarkvar
 
 5. aprillil 1933 allkirjastas Franklin Roosevelt, tollane Ameerika Ühendriikide 32. president, täitevkorralduse 6102, mis keelas üksikisikutel omada kuld münte, kullakange ja kuld sertifikaate kogu territooriumil.
 
-![image](assets/fr/chapter37/60-enbis.webp)
+![image](assets/fr/58.webp)
 
 Ilmselgelt ei ole Suur Depressioon (1929. aasta börsikrahhi) täna enam asjakohane. Kuid kes ütleb, et homme ei tee mõni teine riik sama asja ja **keelab üksikisikutel bitcoine omada?**
 
@@ -1489,7 +1489,7 @@ Kuid mis juhtub **kui meie maailma juhid lõpuks mõistavad, et Bitcoinil on võ
 
 Muidugi ei tohiks me langeda vandenõumõtlemise vormi. Kuid **midagi ei takista meid, juba praegu, ette nägemast, detsentraliseerimast ja harimast**.
 
-![image](assets/fr/chapter37/61-frter.webp)
+![image](assets/fr/59.webp)
 
 # Järeldus
 
@@ -1567,7 +1567,7 @@ Eesmärgiga edasi arendada teie kogukonda, **vabastatakse kursus nimega COMMU201
 
 Selle kaudu **räägime ka teisest olulisest punktist: suuremahuliste ürituste korraldamine, umbes saja osalejaga**. Me käsitleme küsimusi nagu: Miks? Milline organisatsioon? Kus? Milline eelarve? Kuidas? Milline tegevus?
 Selle saavutamiseks alustame mitmete Prantsuse kogukondade kogemusest, kes on juba korraldanud oma üritusi, nagu **BEF (Bitcoin Economic Forum, mais, Bretagne'is) ja B-only (novembris, Annecys)**.
-![image](assets/fr/chapter38/62.webp)
+![image](assets/fr/61.webp)
 
 ####
 
@@ -1597,7 +1597,7 @@ Vastupidi, **paluge abi bitcoinidelt, kes on juba läbinud sama galerii, kes on 
 
 **Pakkuge ka inimestele, kes järgnevad teile selles seikluses, abi, isegi kui see tähendab mõningate ülesannete delegeerimist** ja et need võivad võtta kauem aega. Pikas perspektiivis kujuneb teie kogukond ühtseks ja küpsemaks.
 
-![image](assets/fr/chapter39/63.webp)
+![image](assets/fr/60.webp)
 Üksi võib inimene kiiresti uurida ühte paljudest Bitcoin'i jäneseurgude galeriidest, kuni jõuab selle lõppu. Kuid on ka tagasitee, mida teha. Siis on kõik teised suunad, mida uurida. Erinevalt **Bitcoin'i kogukonna loomisest ja/või sellega liitumisest, nendega regulaarselt jagamisest ja vahetamisest, uurite te kõiki Bitcoin'i jäneseaugu suundi samaaegselt**.
 
 Siis, palju kiiremini kui oleksite seda üksi teinud, võite öelda: "Ma olen Bitcoin'i mõistnud".

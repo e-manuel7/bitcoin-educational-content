@@ -41,7 +41,7 @@ objectives:
 - 加密货币投机市场的连续发展，特别是在2017/2018年和2020/2021年；
 - 比特币在媒体中越来越常规的出现。
 
-![image](assets/fr/chapter0/img1ter.webp)
+![image](assets/fr/01.webp)
 
 ####
 
@@ -82,7 +82,7 @@ objectives:
 4. 一些人物和媒体寻求传播的毫无根据和/或具有误导性的谬论；
 5. 它与其他加密货币的根本区别。
 
-![image](assets/fr/chapter1/img2-frbis.webp)
+![image](assets/fr/02.webp)
 
 逐渐建立明天世界的第一个堡垒，**全球的比特币社区成为对抗某些国家企图的误导和/或审查的特别有力的防线**。同时，**它们为学习比特币的基本原理创造了肥沃的土壤**；让任何还未理解它的人，当他们准备好时，可以联系他们并访问相关资源来展望一个新世界。
 
@@ -98,7 +98,7 @@ objectives:
 事实上，在比特币爱好者的旅程中，许多人都强调了**与同一生态系统内的其他人见面和实际交流的愿望（和需求）**。这是因为很多人会感觉到孤独。
 因此，组织这些聚会可实现通过音频或视频通话的聚集，甚至实现面对面的遇见和交流。它们可以**边用餐边谈论**，并实现与更多人进行更精确和直接的交流。
 
-![image](assets/fr/chapter1/img3bis.webp)
+![image](assets/fr/03.webp)
 
 对于比特币爱好者来说，聚会是一个**有利于讨论技术主题或他们正在开发的项目的时刻**；而对于“潜在的比特币者”来说，其是**发现比特币世界并逐渐融入其中的机会**。
 
@@ -148,7 +148,7 @@ objectives:
 另一个非常相关的问题是：**我附近已有聚会吗？**
 为此，您应该知道，[btcmap.org]网站(https://btcmap.org/communities/map#0/0/0/)列出了几乎所有的全球社区和聚会。
 
-![image](assets/fr/chapter2/img4.webp)
+![image](assets/fr/04.webp)
 经过一些研究，如果您决定在同一个城市（或邻近城市）创建一个聚会或社区，而如果那里已经有一个活跃的已持续几个月或几年的聚会，您应该注意，这可能会引起竞争；即使这是无意的。鉴于比特币是去中心化的，每个人都有权按照自己的意愿行事。然而，与此相比，**我们必须尽可能地联合力量而不是增加接近的社区数量；从而减少每个社区的影响力**。
 了解这一点后，您可能需要考虑这一点来决定此事：如果在您的位置45分钟车程内（比如说，以开车为例）没有活跃的比特币社区，那么创建一个新的社区是合理的。
 然而，您的决定是由您自己自由做出和选择。
@@ -187,7 +187,7 @@ objectives:
 
 有时，根据以之为主的主题（如技术演讲或手工作坊），除了举行聚会之外，组织者可能需要在不同的地点和不同的时间举办**非聚会的活动**。
 
-![image](assets/fr/chapter3/img5.webp)
+![image](assets/fr/05.webp)
 
 ####
 
@@ -248,18 +248,18 @@ objectives:
 
 - 在马赛，标志代表俯瞰城市的圣母院：
 
-![image](assets/fr/chapter4/img8.webp)
+![image](assets/fr/06.webp)
 
 - 在摩纳哥，它指的是摩纳哥岩：
 
-![image](assets/fr/chapter4/img7.webp)
+![image](assets/fr/07.webp)
 
 - 在里尔，简约的标志代表位于市中心仅几分钟路程的瓦邦城堡及其公园：
-  ![image](assets/fr/chapter4/img6.webp)
+  ![image](assets/fr/08.webp)
 
 - 在圣马洛，城市的象征——紫貂被突出显示：
 
-![image](assets/fr/chapter4/img9.webp)
+![image](assets/fr/09.webp)
 
 现在轮到您**寻找您城市内的一个重要元素或地点，并使用它来构建您的比特币社区的视觉效果**。
 
@@ -296,7 +296,7 @@ objectives:
 这里还有一些与我们的协会，比特币里尔一起使用的预设计、可复制和可编辑的文件供您使用：
 
 - **聚会公告海报**（适用于社交网络，并以A4或A3打印）：[链接](https://www.canva.com/design/DAGBvBXFJ8A/92-j_toeLU8QbVAD0NwoAA/edit?utm_content=DAGBvBXFJ8A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  ![图片](assets/fr/chapter5/img10-fr.webp)
+  ![图片](assets/fr/10.webp)
 
 - **联合活动公告海报**（适用于社交网络，并以A4或A3打印）：[链接](https://www.canva.com/design/DAGBvG3rNCc/oXtNR9pduRs22AqclG4O2g/edit?utm_content=DAGBvG3rNCc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
@@ -304,14 +304,14 @@ objectives:
 
 - **比赛公告**：[链接](https://www.canva.com/design/DAGBvIjuA_w/YzSUXzOmbNV9oCma9mluOw/edit?utm_content=DAGBvIjuA_w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-![图片](assets/fr/chapter5/img11bis.webp)
+![图片](assets/fr/11.webp)
 
 - **我们图书馆的宪章**，在聚会期间以A4展示：[链接](https://www.canva.com/design/DAGBvPqL7N4/LmUItfsysypRLSOFOzBXcQ/edit?utm_content=DAGBvPqL7N4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - **PowerPoint演示文稿** "第2章 - 理解比特币交易"，作者@ProfEduStream：[链接](https://www.canva.com/design/DAFsEcnOro8/Mz9FYdTGhsvozZOe0Y9jtw/edit?utm_content=DAFsEcnOro8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - **传单** "使用比特币的21个理由"，作者@ProfEduStream：[链接](https://www.canva.com/design/DAFtAR1NauQ/ZDwl2CchIJ9Gpb36N6-7iw/edit?utm_content=DAFtAR1NauQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-![image](assets/fr/chapter5/img12-fr.webp)
-![image](assets/fr/chapter5/img13-fr.webp)
+![image](assets/fr/12.webp)
+![image](assets/fr/13.webp)
 
 ####
 
@@ -350,13 +350,13 @@ objectives:
   如果想要创建一个未来主义的图像或标志，例如为“比特币伦敦”聚会，那么可以向AI“副驾驶”提出请求：
 - [ ] _创建一个带有伦敦桥和大本钟背景的比特币标志。未来主义_ - [链接](https://copilot.microsoft.com/images/create/un-logo-bitcoin-futuriste-avec-en-arric3a8re-plan-le-/1-6612ba1758df4384bc33c4bca00ab45b?FORM=SYDBIC)
 
-![image](assets/fr/chapter5/img14.webp)
+![image](assets/fr/14.webp)
 
 如果副驾驶提供的四个提案对您来说来说不够真实，您可以在对话中加入：
 
 - [ ] _让第四个更加真实_ - [链接](https://copilot.microsoft.com/images/create/un-logo-bitcoin-futuriste-avec-en-arric3a8re-plan-le-/1-6612ba64b72d4cea9830ab7eb844f785?FORM=SYDBIC)
 
-![image](assets/fr/chapter5/img15.webp)
+![image](assets/fr/15.webp)
 
 顺便说一句，最后的渲染效果相当不错！
 
@@ -366,7 +366,7 @@ objectives:
 
 - [ ] _为“伦敦比特币聚会”创建一个具有英式和简洁风格的标志_ - [链接](https://copilot.microsoft.com/images/create/logo-for-27londres-bitcoin-meetup27-with-a-british-a/1-6612bb9451924859a6c34b350b3a6ebc?FORM=SYDBIC)
 
-![image](assets/fr/chapter5/img16.webp)
+![image](assets/fr/16.webp)
 
 第二个渲染是典型的，非常适当！
 
@@ -385,7 +385,7 @@ objectives:
 
 如前所述，根据个人想要和习惯，社区的沟通渠道可以有所不同。例如，**法国、德国和意大利的主要沟通渠道是Telegram和Twitter**。随着时间的推移，它们已经成为这些国家比特币社区的“沟通标准”。然而，一些社区也使用其他渠道，以实现特定目的。相比之下，在捷克共和国发展起来的众多社区使用**Matrix**，一个加密的即时消息协议。因此，在他们的国家，Telegram很少被使用。
 所以，**选择沟通渠道最适当的方法是从一个人所在国家的邻近社区中汲取例子作为起点**。为此，您可以访问[btcmap.org](https://btcmap.org/communities/map#0/0/0/)上的地图，其将为您提供非常准确的关于您所在国家最常用沟通渠道的信息。例如，在瑞士，信息主要通过Telegram、Twitter和社区的网站传播。
-![image](assets/fr/chapter6/img17.webp)
+![image](assets/fr/17.webp)
 
 ####
 
@@ -428,7 +428,7 @@ objectives:
 
 **一个Telegram频道确实只是管理员发布信息的展示窗口，在其中，会员们除了添加表情符号，它们不能做出更多的操作**。
 
-![image](assets/fr/chapter7/img18-fr.webp)
+![image](assets/fr/18.webp)
 然而，您可以允许会员在每位管理员的帖子添加评论，但这将在单独的讨论平台中完成；这更显著地分割了交流。**因此，一般而言，我们不推荐为社区创建Telegram频道。**
 
 创建Telegram频道的教程：
@@ -439,7 +439,7 @@ objectives:
 与此相反，**创建Telegram群组是必要的**。
 以像Messenger或WhatsApp群组等为著名例子，每个加入**Telegram群组的人都将能够相互交流，相互回应；而且，这一切都在同一讨论平台中进行**。
 
-![image](assets/fr/chapter7/img19-en.webp)
+![image](assets/fr/19.webp)
 
 这个频道的管理员将能够：
 
@@ -478,7 +478,7 @@ Telegram群组具有一些缺点，当它拥有几百个会员时，同一个通
 
 设置由您自己决定，例如，类似于阿比让比特币聚会的超级群组。
 
-![image](assets/fr/chapter7/img20-fr.webp)
+![image](assets/fr/20.webp)
 然而，需要注意的是，**Telegram超级群对某些会员来说可能更难使用**。有时候，一些人不知道**如何访问这个超级群的其他话题**（为此，您只需点击群组的标志；这将打开已创建话题的列表）。因此，您可以考虑向他们发送一个简短的教程视频截图。
 
 一般来说，使用Telegram超级群或Telegram群组并不取决于会员数量，。因此，选择权在您手中，基于您的会员的需求和请求；同时知道Telegram群组可以轻松转换为Telegram超级群（反之亦然）。要做到这一点，您只需创建一个话题（或删除所有话题）。
@@ -513,7 +513,7 @@ Telegram群组具有一些缺点，当它拥有几百个会员时，同一个通
 >
 > 访问我们的其他社交网络：[添加连接] 🌐
 
-![image](assets/fr/chapter8/img21.webp)
+![image](assets/fr/21.webp)
 
 在上图中，我们可观察到，比特币里尔Telegram群组的管理员已经自定义了邀请链接，因为它是一个公开的群。
 
@@ -540,7 +540,7 @@ Telegram群组具有一些缺点，当它拥有几百个会员时，同一个通
 - 自动删除某些类型的消息；
 - 等等。
 
-![image](assets/fr/chapter9/img22-fr.webp)
+![image](assets/fr/22.webp)
 
 另外三个简单的想法是：
 
@@ -612,7 +612,7 @@ Telegram群组具有一些缺点，当它拥有几百个会员时，同一个通
 
 在这些社交网络中，**Twitter似乎是比特币世界中必不可少的部分**。从这个方面而言，重要的是要**在这个平台上有一个账号**；即使它存在中心化问题，而且其发展存在缺陷。
 所以，您可以为您的社区创建一个**特定于NOSTR的个人资料**，以防止在Twitter上可能出现的潜在限制和/或审查。毕竟：预防胜于治疗。
-![image](assets/fr/chapter13/img23bis.webp)
+![image](assets/fr/23.webp)
 
 显然，您还可以使用其他社交网络，如Facebook（即Facebook群组或页面），甚至LinkedIn也是如此。
 然而，重要的是要记住，**通信渠道和社交网络越多，其管理就会变得越耗时。所以，您最好只需要专注于最主要的平台；而Twitter（和NOSTR）似乎是合适的方案**。
@@ -632,7 +632,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
    > [城市]比特币社区的官方账户 #BTC | 每月第一个星期三在[城市][酒吧名称]举行聚会 🍻 | 加入我们的Telegram 🔽
 4. 在这个描述下面，您还可以**插入链接**。这可以引导用户访问您社区网站上的“社交网络”页面，或者引导他们前往您的Telegram通讯频道。
 
-![image](assets/fr/chapter14/img24-fr.webp)
+![image](assets/fr/24.webp)
 
 此外，**您或许还需要更改一些隐私设置**；最值得注意的是：
 
@@ -673,7 +673,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 
 此外，**您可以在Twitter个人资料上置顶您视为最值得重要曝光的推文**。
 
-![image](assets/fr/chapter14/img25-en.webp)
+![image](assets/fr/25.webp)
 
 您还要注意，无论是在手机还是电脑上，您可以在两个设备的Twitter账户同时登录。这将为您带来方便，因为您无需重复登录或退出您的个人和社区账号；其为了避免类似于使用社区账户发布自己的装扮照片的情况。所以，请您留心！
 
@@ -693,7 +693,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 法国的约五十个比特币社区也如此行事；意大利的“Satoshi Spritz”倡议和德国的“Einundzwanzig”也是如此。
 虽然并不是必要的，**但关注本国本地社区和倡议的账号可以间接促进共同项目的实现**，甚至是“合作伙伴关系”。这就是比特币列日（Bitcoin Liège）和比特币里尔（Bitcoin Lille）社区如何取得联系的（比特币艾克斯（Bitcoin Aix）和比特币马赛（Bitcoin Marseille）也是如此）；如今，他们至少每年举办一次联合聚会。另一个例子为**Cercle du Coin**晚宴活动。
 
-![image](assets/fr/chapter15/img26bis.webp)
+![image](assets/fr/26.webp)
 
 此外，在法国，关注如@KonsensusFR、@bitcoinpointfr、@DecouvreBitcoin 和 @btcmap 等倡议账户也可能是必要的。这些仅仅为建议，每个社区显然都可以自由地按照自己的意愿行事，完全去中心化和自主。
 相互关注的目标非常简单：为彼此增加曝光率。的确，您在网络上的存在越多，您的曝光率越高，这意味着他们就会谈论到关于您的话题，因此来参加您的活动的人也越来越多。在社交网络上喜欢/转发其他社区的帖子也可能是一个有趣的做法。
@@ -720,7 +720,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
   根据国家的不同，也有一些独特的倡议。特别是在法国，有一个网站[bitcoin.fr](https://bitcoin.fr/events/categories/evenements/)，它列出了法国每个月数十个比特币活动。如果您尚未在Twitter上关注它们，或者联系他们以请求它们分享您的社区和/或活动的相关信息，那么您可以直接联系！此外，为了帮助他们及时更新这个法国活动日历，所有法国比特币社区可养成以下习惯：
 - **在Twitter上，每次发布社区的新活动公告时提及@bitcoinpointfr**；
 - **在他们的社区Telegram群组中置顶该活动的公告**。
-  ![image](assets/fr/chapter16/img27bis.webp)
+  ![image](assets/fr/27.webp)
 
 值得注意的是，其他平台和应用程序也使您能够提高曝光率。[Meetup](https://www.meetup.com/)就是其中之一。实际上，它是一个允许创建活动的网站（和手机应用程序）；但它还允许您搜索您周围的活动。
 不幸的是，若要能够创建聚会，每个月需要花费近8欧元（约合每年90欧元），对于一个既不成熟也不成体系的社区来说，这是一笔不小的开销。然而，聚会在一些国家非常受欢迎，特别是在加拿大和美国；它的主要优势是允许集成管理会议注册。
@@ -745,7 +745,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 这样可以让您拥有些空闲时间，思考创建一种“聚会”类型的活动，而且活动格式由您自己决定。如果您开始感受到社区内的某种热情，这是特别相关的。
 如前所述，**比特币聚会可以被视为社区的“下一个层次”**。一方面，它允许**比特币会员相遇**；另一方面，向对这个生态系统感兴趣的新人进行教育。因此，一个“聚会”类型的活动将按照您的活动规模允许**在您的城市中围绕比特币创造兴奋感**；随着时间的推移，根据您的社区承担的项目，这种兴奋感可逐渐扩大。
 
-![image](assets/fr/chapter17/28bis.webp)
+![image](assets/fr/28.webp)
 
 自然而然，您为社区发展设定的目标越重要，您和社区的会员为其抽出的时间将越多。
 因此，重要的是**要首先设定组织这次聚会的可实现目标**。
@@ -761,7 +761,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 一旦您感觉到这“小小的火花”，那么下一步有可能就是提出面对面会面的想法。如果这个想法吸引了其他人的兴趣，您只需要**为您的第一次聚会设定日期**。
 为此，最好不要一开始就设定一个固定的日期，而是**提前大约十天提出一个包含不同日期和时间段的调查**。因此，根据每个人的投票，这将允许**最大化会员的出席率**，创造更多的兴奋感；但也**更好地“优化”您的时间**。
 
-![image](assets/fr/chapter18/29-fr.webp)
+![image](assets/fr/29.webp)
 
 此后，重要的是不要事先对这次聚会将如何进行、您们将有多少人、讨论主题等有一个固定的想法。您可能会感到失望；而参与者，可能感到“被压迫”。
 因此，您可以顺其自然地进行此次活动，或许边喝一杯边谈。对话应该较为轻松；即使在面对一个迷茫的人时，您可以尝试开始讨论比特币。
@@ -776,7 +776,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 - 社区和商业的 **[btcmap.org 地图](https://btcmap.org/)**；
 - 一个随意的话题：“顺便说一下，**你有没有通过闪电网络发送过比特币？**”
   然而，应当注意的是，当聚会刚开始时，进行正式的演讲可能并不必要。当只有少数人在场时，那么更为理想的是以开放和友好的方式进行讨论。
-  ![image](assets/fr/chapter18/30.webp)
+  ![image](assets/fr/30.webp)
 
 ####
 
@@ -803,7 +803,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 在第一种情况下，尽管您需要注意每个人的敏感点和需求，这可以让所有参与者**在活动结束时获得新的知识**，同时将谈话主题重新聚焦于比特币（如果讨论已偏离主题时）。
 在第二点的情况下，例如，月中的第二次活动，将使您能够**针对特定主题进行讨论，如设置“初学者”会议和/或工作坊**（挖矿、闪电网络、节点安装等）。
 
-![image](assets/fr/chapter18/31.webp)
+![image](assets/fr/31.webp)
 
 然而，请记住，**这需要更多的组织；从而将花费更多的时间**（在第6/8部分，标题为“[项目和倡议的例子](LINK)中，将有许多开源资源可用）。
 
@@ -826,7 +826,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 - 在您想要**将晚上分成两部分**的情况下（首先，在一个正式的空间进行**演讲**，以便让每个人更加集中注意力；然后**更换场地，以在酒吧**或餐厅中以更轻松的方式继续谈论），重要的是要意识到，晚上中途更换场地会导致**一些参与者借此机会离开。因此，我们不推荐这样的安排**；
 - 在您的第一次聚会时，可能只有很少的人出现，所以您可能不会进行演讲。所以，向老板介绍自己并展示您的目标等似乎并不必要。然而，**一旦您的聚会变得定期且出席人数众多，向老板介绍自己，展示您的认真态度和定期来访的愿望会变得更加必要**。这可能会引发许多讨论（自动每月预订、免费饮料和/或拼盘、折扣、关于比特币的讨论、接收比特币作为支付方式等）。显然，如果您寻找一个配备视频投影仪用于演示的场地的情况下，提前与店主和/或经理请求会面（亲自，甚至通过电话）来介绍您的项目和目标至关重要；
 
-![image](assets/fr/chapter19/32bis.webp)
+![image](assets/fr/32.webp)
 
 - 最后，一些社区可能**仅在接收比特币作为支付方式的地方举办活动**；这是一个完全合理的做法。从这个角度来看，**您首先要寻找您所在城市的接收比特币的商家（例如在[btcmap.org](https://btcmap.org/map/)上**并联系他们以找到符合您标准的场地。如果没有合适的场地，您则有选择去“登船”新的商家。然而，您将会面对许多拒绝，这可能会令人沮丧。所以，**您一开始最好不必将其设定为目标。一旦您的社区已良好发展和具备足够的影响力**，您可以开始考虑这一方面。
 
@@ -842,7 +842,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 1. **联系活动场地**，确认为特定人数**预留位置**；
 2. 在社交媒体和通讯渠道上**宣布您的活动，清楚地说明日期、时间、地点**，并在必要时添加注册链接。对于这次通讯，您可以创建一个特定的视觉图像（例如，Canva海报，请参见第2/8部分“[为您的比特币社区设计独特身份](LINK)”）。此外，为了最大化公报的曝光率，您可以在Telegram和Twitter上**置顶它**，并且还可以在Discord上包含一个“@everyone”。在活动日期1周到10天前发布这些公告，以便每个人都能规划他们的出席；
 
-![image](assets/fr/chapter20/33-fr.webp)
+![image](assets/fr/33.webp)
 
 4. **在活动前两到三天，您可以重新推特和重新分享这些公告**，增加更多的可见性；
 5. 最后，根据前一天或前几天收到的回应和/或注册数量，您可以重新联系场地的主人，以确认预期参与者的数量。
@@ -874,7 +874,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
    - 使用Patafix在您举办活动的房间内展示**特定海报**（**比特币白皮书、您的社区宪章、正在进行的项目**等）。
 
 - 在一张或多张桌子上摆放**贴纸、传单或甚至可能引发讨论的材料**（Nerdminer、钢板、硬件钱包、开机状态的电脑显示mempool、ASIC、用于保护私钥的金属板等）。
-  ![image](assets/fr/chapter21/34bis.webp)
+  ![image](assets/fr/34.webp)
 
 ####
 
@@ -908,7 +908,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 一方面，从社会角度来看，确保每个参加活动的人都感到包容性对于社区的发展至关重要。这意味着：**努力接近这些新参与者，对他们为何在那里感兴趣，热情欢迎他们**等。通过感到包容性和受到欢迎，他们将会想要回来；甚至在未来，根据他们的个人情况，参与组织这些活动。
 显然，**这需要时间和动力**。在您欢迎一个shitcoiner（或更糟：一个XRP极客）的情况下，抛开自己的时间偏好并接受在一边倒的讨论中“浪费时间”可能相当困难。然而，通过花时间与这些人交谈，我们可以帮助他们理解他们的误解和推理错误。一旦他们已可以接受他们的错误，他们就会准备好理解比特币。
 
-![image](assets/fr/chapter22/35.webp)
+![image](assets/fr/35.webp)
 
 另一方面，从技术角度来看，可能会出现几个问题：
 
@@ -950,7 +950,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 
 每个人都有自己的欲望、信仰和个性。因此，这里没有对任何聚会的运作方式做出评判。毕竟，**我们可以围着啤酒重塑世界，但这不是我们深刻改变它的方式**。
 
-![image](assets/fr/chapter23/36bis.webp)
+![image](assets/fr/36.webp)
 
 ## 组织主题聚会，遵循定义好的年度进程
 
@@ -1008,7 +1008,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 - **为了庆祝即将到来的减半而举办的一个晚上或周末活动**；
 - **围绕比特币及其运作的“家庭游戏”活动**。可以引入像["Le Coin de Table"](https://www.maximalist.ovh/) 或 ["SHAmory"](https://shamory.com/) 这样的游戏；
 
-![image](assets/fr/chapter24/37ter.webp)
+![image](assets/fr/37.webp)
 
 - **一个挖矿工作坊**，探索各种硬件（处理器、显卡、FPGA、ASIC、nerdminer、bitaxe）；
 - **一个专为初学者准备的下午或晚上，包含主题工作坊**；
@@ -1030,7 +1030,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 - 考虑**使用矢量文件**而不是图像文件。这将提高打印质量；
 - **仔细考虑您所需的尺寸**。例如，直径为8厘米的圆形贴纸大约是成人手掌的大小。您在寻找这种尺寸吗（它对于可见性来说相当显著）？，还是您在寻找更为低调的设计（例如，直径为4厘米）？
 - 最后 - 这一方面较为技术性 - 如果您想要深邃的黑色打印（通常被称为“四色黑”），其比例应该是：30% 青色，30% 品红，30% 黄色，和100% 黑色。在只使用100% 黑色比例的情况下，结果将是比较偏向于灰黑色。幸运的是，打印机通常会注意到这个细节。所以，您不应该太担心这个问题。
-  ![image](assets/fr/chapter25/38.webp)
+  ![image](assets/fr/38.webp)
 
 ####
 
@@ -1055,7 +1055,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 ####
 
 如果您运营**一个协会，并希望将部分财务投入到教育和教学资源**，您可以订购几本书，并在每次聚会时在您的**比特币图书馆**中提供它们。
-![image](assets/fr/chapter26/39.webp)
+![image](assets/fr/39.webp)
 
 ####
 
@@ -1073,7 +1073,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 以下有一个开源示例，您可以根据需要取用并修改：
 [图书借阅宪章](https://www.canva.com/design/DAF7u1b5kRM/r2gEAlibe_jTIXIX-O9PMA/edit)
 
-![image](assets/fr/chapter26/40-fr.webp)
+![image](assets/fr/40.webp)
 
 ####
 
@@ -1099,8 +1099,8 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 
 其中，您会找到一张[全面的来源传单](https://profedustream.substack.com/p/21-raisons-dutiliser-bitcoin)，其列出了使用比特币的21个理由。它的设计也[以开源形式提供](https://www.canva.com/design/DAFtAR1NauQ/ZDwl2CchIJ9Gpb36N6-7iw/edit?utm_content=DAFtAR1NauQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)。
 
-![image](assets/fr/chapter27/41-fr.webp)
-![image](assets/fr/chapter27/42-fr.webp)
+![image](assets/fr/41.webp)
+![image](assets/fr/42.webp)
 
 修改它，对它进行调整，然后随意分享。但是，记得引用您的来源。
 
@@ -1112,7 +1112,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 这些箱子通常由木头制成，自由地欢迎您赠送的书籍。因此，一个可能性是**在那里留下一张传单；或者更好：一本书！**
 
 ![image](assets/fr/chapter27/43.webp)
-![image](assets/fr/chapter27/44.webp)
+![image](assets/fr/43.webp)
 
 在这方面，**“在法国书箱中的比特币白皮书”倡议**于2023年启动。
 为了成功地与所有感兴趣的方一起开展这个项目，首先需要**获取该国所有书箱的地理位置**。为此，有一些不同的数据库为您可用：
@@ -1127,8 +1127,8 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 
 这是在法国比特币爱好者之间分享的小册子[在法国比特币爱好者之间分享的小册子](https://profedustream.substack.com/p/bitcoin-la-naissance-dune-nouvelle)，并且全国几十个图书交换点是它们的“旅程终点”。它的设计也[以开源形式提供](https://www.canva.com/design/DAFs18FSoVM/Sy0QsfUkycTgXveeGgutBg/edit?utm_content=DAFs18FSoVM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)。
 
-![image](assets/fr/chapter27/45-fr.webp)
-![image](assets/fr/chapter27/46-fr.webp)
+![image](assets/fr/44.webp)
+![image](assets/fr/45.webp)
 
 ## 组织视频放映
 
@@ -1146,7 +1146,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 与此同时，您还可以组织其他放映活动。
 例如，在法国，名为《Stranded》纪录片的导演[Alana Mediavilla](https://twitter.com/AlanaMediavilla)同意让该国的聚会预览放映她的纪录片；其中一些镜头来自将于2024年上映的[电影《Dirty Coin》](https://www.dirtycointhemovie.com/)。
 然后，法国比特币社区采取了行动，**完全翻译了《Stranded》纪录片**，添加了法语字幕，并与全国各地的聚会分享。在2024年3月4日那周，**在全国大约十个聚会中组织了联合放映**。
-![image](assets/fr/chapter28/47.webp)
+![image](assets/fr/46.webp)
 
 这次播放引发了关于比特币挖矿、其电力消耗以及其对生态的更广泛影响的众多讨论。
 
@@ -1156,7 +1156,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 在几个欧洲国家（德国、西班牙、法国等），**一些比特币爱好者主动张贴与比特币相关的海报**。这些海报中的一些随后展示了班克斯的作品，而其他则以不同方式融入了比特币的标志。
 这在[StreetCyberArt](https://twitter.com/streetcyber_art)（一位德国比特币爱好者）的案例中尤为显著，他已经创作了数年的拼贴画和街头艺术。
 
-![image](assets/fr/chapter29/48.webp)
+![image](assets/fr/47.webp)
 
 ####
 
@@ -1165,7 +1165,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 
 如果您打算**使用个人打印机打印这类海报，请注意这通常会导致纸张严重脏污，而且随着时间的推移也会迅速变坏**。在这个情况下，**最好的做法当然是联系专业打印商，使用专为户外使用而设计的特殊自粘纸张生产这些海报**。这可以确保打印优质。
 
-![image](assets/fr/chapter29/49.webp)
+![image](assets/fr/48.webp)
 
 ####
 
@@ -1181,7 +1181,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 目前，在他们的网站上 [https://swiss-bitcoin-pay.ch/cards](https://swiss-bitcoin-pay.ch/cards)，Swiss Bitcoin Pay 提供了四种基本设计。
 然而，如果您希望订购**超过50张NFC卡，您可以通过其官方网站（或在[Twitter](https://twitter.com/SwissBitcoinPay)上）联系该公司，并提出您为卡片正面设计的自定义设计**。然而，背面设计是定制的。
 
-![image](assets/fr/chapter30/50bis.webp)
+![image](assets/fr/49.webp)
 
 例如，[法国比特币协会Lille](https://twitter.com/BitcoinLille) 在2023年订购了一百张带有自定义设计的NFC卡，**每张卡的价格约为2.50欧元到5欧元**（费率定期变化且是渐进的）。
 因此，**协会的每位新会员在欢迎包中都会收到一张定制的NFC卡**。
@@ -1223,7 +1223,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 
 根据您决定实施的内容，您显然需要为这个平台**创建特定的视觉效果**，目标在于使您的视频频道的视觉具有吸引力。积极的一点是，有了**Canva**，我们在[本课程的第2/8部分](LINK)中讨论过，有一个“YouTube缩略图”类别，带有已经设计好且易于修改的视觉设计。
 
-![image](assets/fr/chapter31/51bis.webp)
+![image](assets/fr/50.webp)
 
 ####
 
@@ -1273,7 +1273,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 
 比特币里尔协会使用的几种模型也可以[在Canva上以开源形式获取](https://www.canva.com/design/DAGHAsT15MU/AIA7-L_xBjNdsuxdD4-h-Q/edit?utm_content=DAGHAsT15MU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)。
 
-![image](assets/fr/chapter32/52-frter.webp)
+![image](assets/fr/51.webp)
 
 ## 在会员去世时的过渡反思
 
@@ -1306,7 +1306,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 所以，如果您认为自己能够胜任：那就去做吧！我们的世界如此需要愿意教育他人的比特币爱好者
 然而，不用说，要完成这项任务，**您将需要大量的动力、大量的工作；但也需要正确的联系人**。
 
-![image](assets/fr/chapter33/53bis.webp)
+![image](assets/fr/52.webp)
 
 ####
 
@@ -1319,7 +1319,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 不幸的是，在我们当前的世界上，比特币仍然经常被媒体和政治家故意妖魔化；导致许多新手认为它应该被禁止在课堂和讲堂中使用。**因此，您很可能会面临许多拒绝**；特别是在学术领域，比特币的工作证明和能源消耗有时似乎是禁忌。
 然而，这并不会妨碍您去尝试，特别是与BDE和学生会的情况。**若拥有一点运气，即使第一次拒绝是坚定的，但可能在下一个牛市期间内，您会再次被联系到您社区的电子邮件地址，为近280名学生举行一个会议！**
 
-![image](assets/fr/chapter33/54bis.webp)
+![image](assets/fr/53.webp)
 
 ## 接近商业
 
@@ -1336,7 +1336,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 - **寻找完美工作的软件解决方案的难度**；
 - 但也有，**让他们理解接受比特币作为支付方式的好处的重要性**。
 
-![image](assets/fr/chapter34/56.webp)
+![image](assets/fr/54.webp)
 
 ####
 
@@ -1362,7 +1362,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 - **再次提议参加您的聚会和活动**；
 - 将此商家添加到 [btcmap.org地图](https://btcmap.org/)上，并通知[Twitter上的瑞士比特币支付](https://x.com/swissbitcoinpay)以提高这个商家的知名度；- 同时您也可能在这个商家举办活动，如聚会或工作坊。
 
-![image](assets/fr/chapter34/57.webp)
+![image](assets/fr/55.webp)
 
 5. 一旦您所在城市的几位商家已经加入并且理解了比特币为他们带来的好处，您就可以**提议创建一个专门为商家设立的Telegram群组**；其目的是为了**使他们能够互相帮助**，并在城市中进一步推广比特币。同时，这个群组也可以**作为技术支持**，以防客户出现问题。
 
@@ -1394,7 +1394,7 @@ Breizh Bitcoin的反馈很清楚：这种方式效果很好，新人们在报纸
 同时，联系当地广播电台，向他们提议创建一个播客或采访。
 然而，请注意，媒体上的言论很容易被误解。**所以，这不是一项易于做到的任务，您最好应该为此准备**。
 
-![image](assets/fr/chapter35/58-fr.webp)
+![image](assets/fr/56.webp)
 
 ####
 
@@ -1428,7 +1428,7 @@ Breizh Bitcoin的反馈很清楚：这种方式效果很好，新人们在报纸
    一方面，如果500位用户在同一个讨论频道交换各种话题，您的大多数会员将逐渐停止跟进对话；其中一个原因是需要阅读的消息数量和相关通知的泛滥。因此，您可能需要**重新思考您的沟通渠道；比如Telegram超级群组，或者甚至是Discord服务器**，这两者都允许按主题分组对话。
    另一方面，交流频道中的人数增多也意味着更多的机器人、更多的诈骗，也意味着**需要进行更多的管理**。因此，您需要做好准备，例如起草一套规则，当您管理消息时可以依赖这套规则。根据经验，这将防止发生冲突；特别是当规则可以在您的沟通渠道上阅读时。从这个意义上说，比特币里尔协会几年前写了一套**[开源的规则](https://bitcoinlille.fr/reglement/)，适用于其Telegram群组和Discord服务器**，基于简单和普遍原则。其设计也是[可用的](https://www.canva.com/design/DAGHI692AD4/rjT4sqEnhajc5FiPA6GFZQ/edit?utm_content=DAGHI692AD4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)。
 
-![image](assets/fr/chapter36/59-frbis.webp)
+![image](assets/fr/57.webp)
 
 2. **您的聚会和活动将显著增加，有大量新用户想要相互交流**。
    为了面对这种显著的涌入，您可以讨论和考虑几种解决方法：
@@ -1478,7 +1478,7 @@ Breizh Bitcoin的反馈很清楚：这种方式效果很好，新人们在报纸
 
 1933年4月5日，时任美国第32任总统的富兰克林·罗斯福（Franklin Roosevelt)签署了6102号行政命令，禁止任何个人在整个领土内拥有金币、金条和金证书。
 
-![image](assets/fr/chapter37/60-enbis.webp)
+![image](assets/fr/58.webp)
 
 显然，大萧条（1929年的股市崩盘）今天已不再相关。但谁能说，明天另一个国家不会做同样的事情，**禁止任何个人拥有比特币？**
 
@@ -1491,7 +1491,7 @@ Breizh Bitcoin的反馈很清楚：这种方式效果很好，新人们在报纸
 
 当然，我们不应该陷入一种阴谋论思维。但**没有什么能阻止我们，从现在开始，就开始预见、去中心化和教育**。
 
-![image](assets/fr/chapter37/61-frter.webp)
+![image](assets/fr/59.webp)
 
 # 结论
 
@@ -1569,7 +1569,7 @@ Breizh Bitcoin的反馈很清楚：这种方式效果很好，新人们在报纸
 
 通过它，**我们还将详细介绍另一个重要点：大规模活动的组织，约有一百名参与者**。我们将讨论诸如：为什么？什么组织？在哪里？什么预算？如何？什么运作？
 为此，我们将从几个已经组织了自己活动的法国社区的经验开始，例如**BEF（比特币经济论坛，于5月在布列塔尼举行）和B-only（于11月在安纳西举办）**。
-![image](assets/fr/chapter38/62.webp)
+![image](assets/fr/61.webp)
 
 ####
 
@@ -1598,7 +1598,7 @@ Breizh Bitcoin的反馈很清楚：这种方式效果很好，新人们在报纸
 
 **此外，您可以向跟随您在这次冒险中的人请求帮助，即使这意味着分配一些任务**，而这些任务可能需要更长的时间。从长远角度来看，您的社区将显得更加团结和成熟。
 
-![image](assets/fr/chapter39/63.webp)
+![image](assets/fr/60.webp)
 独自一人可以迅速探索比特币兔子洞的众多内容之一，直到您到达尽头。但还有走返回的旅程。然后还有所有其他方向要探索。而**通过创建和/或加入一个比特币爱好者社区，通常与他们分享和交流，您将同时探索比特币兔子洞的所有方向**。
 
 那时，您会发现您能够更快地说：“我已经理解了比特币”。

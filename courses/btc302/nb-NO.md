@@ -38,7 +38,7 @@ Dette statistiske synet er selvfølgelig nært knyttet til:
 * den etterfølgende utviklingen av det spekulative markedet for kryptovalutaer, spesielt i 2017/2018 og i 2020/2021;
 * den stadig mer regelmessige fremtredelsen av Bitcoin i media.
 
-![bilde](assets/fr/chapter0/img1ter.webp)
+![bilde](assets/fr/01.webp)
 
 ####
 Selv om Bitcoin fortsatt er i sin barndom, leder denne observasjonen - som du helt sikkert allerede er kjent med - oss til å reflektere over to ting.
@@ -72,7 +72,7 @@ På den andre siden kan et Bitcoin-samfunn også ha mer åpne mål; spesielt med
 4. det ubegrunnede og/eller villedende tøvet som noen personligheter og medier søker å spre;
 5. dets grunnleggende forskjeller fra andre kryptovalutaer.
 
-![bilde](assets/fr/chapter1/img2-frbis.webp)
+![bilde](assets/fr/02.webp)
 
 Gradvis bygging av morgendagens første citadeller, **Bitcoin-samfunn rundt om i verden står som en spesielt relevant festning mot forsøk på feilinformasjon og/eller sensur i noen land**. Parallelt **skaper de en fruktbar grunn for å lære om grunnleggende prinsipper for Bitcoin**; slik at alle som ennå ikke har forstått det, når de er klare, har kontakter og ressurser for å forestille seg en ny verden.
 
@@ -86,7 +86,7 @@ Som tidligere sagt, **følger opprettelsen av et møte etter opprettelsen av et 
 Faktisk, gjennom reisen til en Bitcoin-entusiast, fremhever et veldig betydelig antall personer ønsket (og behovet) for å **møte og fysisk utveksle med andre** innenfor det samme økosystemet. Dette forklares generelt av fremveksten av en følelse av ensomhet, til stede blant mange av dem.
 Å organisere disse møtene kan dermed tillate fysiske møter som er mye mer hyggelige enn gjennom lyd- eller videosamtaler. De kan finne sted **over en drink eller et måltid**, og tillate mer presise og direkte utvekslinger, med et større antall personer.
 
-![bilde](assets/fr/chapter1/img3bis.webp)
+![bilde](assets/fr/03.webp)
 
 For Bitcoin-entusiaster kan møter da være et øyeblikk **gunstig for diskusjoner om tekniske emner eller prosjekter** de utvikler; og for "aspirerende Bitcoinere," for å **oppdage verdenen av Bitcoin og gradvis fordype seg i den**.
 ####
@@ -123,7 +123,7 @@ Her er noen tanker som kan veilede deg:
 Et annet punkt som er mer enn relevant å undersøke er: **finnes det allerede et meet-up nær meg?**
 For å gjøre dette, bør du være klar over at nettstedet [btcmap.org](https://btcmap.org/communities/map#0/0/0/) lister opp nesten alle de globale samfunnene og meet-ups.
 
-![image](assets/fr/chapter2/img4.webp)
+![image](assets/fr/04.webp)
 Etter litt forskning, hvis du bestemmer deg for å opprette et meet-up eller et samfunn i samme by (eller den nærliggende byen) som et aktivt meet-up som har vært i gang i flere måneder/år, bør du vite at dette kan skape en form for konkurranse; selv om det er utilsiktet. Selvfølgelig, gitt at Bitcoin er desentralisert, er alle frie til å gjøre som de ønsker. Det er imidlertid klart at **det er mer relevant å forene krefter så mye som mulig i stedet for å multiplisere nære samfunn; dermed redusere slagkraften til hver**.
 I denne forstand kan følgende "konvensjon" hjelpe deg med å bestemme saken: hvis det ikke finnes noe aktivt Bitcoin-samfunn innen 45 minutter fra din plassering (la oss si med bil, for eksempel), da kan det virke relevant å opprette et nytt.
 Men selvfølgelig, du er helt fri til å gjøre som du vil.
@@ -157,7 +157,7 @@ Faktisk kan det tillate for **kombinering av oppdagelsen av nye mennesker og utd
 
 Noen ganger, avhengig av emnene som adresseres (som for tekniske presentasjoner eller manuelle workshops), kan det være relevant å holde et **arrangement i tillegg til møtet**, på et annet sted og til en annen tid.
 
-![bilde](assets/fr/chapter3/img5.webp)
+![bilde](assets/fr/05.webp)
 
 ####
 3. Hvilken involvering ønsker jeg at mitt samfunn skal ha i Bitcoin-økosystemet?
@@ -207,17 +207,17 @@ Ut fra dette elementet, er det da mulig å designe en logo som er mer eller mind
 For å gi deg noen ideer, her er noen eksempler på logoer fra franske samfunn:
 - I Marseille representerer logoen basilikaen Notre-Dame-de-la-Garde, som troner over byen:
 
-![bilde](assets/fr/chapter4/img8.webp)
+![bilde](assets/fr/06.webp)
 
 - I Monaco refererer den til det monegaskiske fjellet:
 
-![bilde](assets/fr/chapter4/img7.webp)
+![bilde](assets/fr/07.webp)
 - I Lille representerer den strømlinjeformede logoen Vauban-citadellet og parken, som ligger bare noen få minutter fra sentrum:
-![bilde](assets/fr/chapter4/img6.webp)
+![bilde](assets/fr/08.webp)
 
 - I Saint-Malo er byens emblem, hermelinen, fremhevet:
 
-![bilde](assets/fr/chapter4/img9.webp)
+![bilde](assets/fr/09.webp)
 
 Det er nå opp til deg å **finne et betydelig element eller sted i din by og bruke det til å konstruere det visuelle for ditt Bitcoin-samfunn**.
 
@@ -249,7 +249,7 @@ For å veilede deg mer detaljert, tilbyr vi nedenfor en ikke-uttømmende videove
 
 Her er også noen forhåndsdesignet, dupliserbare og redigerbare filer til din disposisjon som vi bruker med vår forening, Bitcoin Lille:
 - **kunngjøring av meet-up plakat** (for sosiale nettverk, og trykt i A4 eller A3): [lenke](https://www.canva.com/design/DAGBvBXFJ8A/92-j_toeLU8QbVAD0NwoAA/edit?utm_content=DAGBvBXFJ8A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-![bilde](assets/fr/chapter5/img10-fr.webp)
+![bilde](assets/fr/10.webp)
 
 - **kunngjøring av fellesarrangement plakat** (for sosiale nettverk, og trykt i A4 eller A3): [lenke](https://www.canva.com/design/DAGBvG3rNCc/oXtNR9pduRs22AqclG4O2g/edit?utm_content=DAGBvG3rNCc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
@@ -257,14 +257,14 @@ Her er også noen forhåndsdesignet, dupliserbare og redigerbare filer til din d
 
 - **kunngjøring av en konkurranse**: [lenke](https://www.canva.com/design/DAGBvIjuA_w/YzSUXzOmbNV9oCma9mluOw/edit?utm_content=DAGBvIjuA_w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-![bilde](assets/fr/chapter5/img11bis.webp)
+![bilde](assets/fr/11.webp)
 
 - **charter** for vårt bibliotek, vist i A4 under meet-ups: [lenke](https://www.canva.com/design/DAGBvPqL7N4/LmUItfsysypRLSOFOzBXcQ/edit?utm_content=DAGBvPqL7N4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - **PowerPoint-presentasjon** "Kapittel 2 - Forståelse av Bitcoin-transaksjoner", av @ProfEduStream: [lenke](https://www.canva.com/design/DAFsEcnOro8/Mz9FYdTGhsvozZOe0Y9jtw/edit?utm_content=DAFsEcnOro8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - **Flyer** "21 Grunner til å Bruke Bitcoin", skrevet av @ProfEduStream: [lenke](https://www.canva.com/design/DAFtAR1NauQ/ZDwl2CchIJ9Gpb36N6-7iw/edit?utm_content=DAFtAR1NauQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-![bilde](assets/fr/chapter5/img12-fr.webp)
-![bilde](assets/fr/chapter5/img13-fr.webp)
+![bilde](assets/fr/12.webp)
+![bilde](assets/fr/13.webp)
 ####
 Som du kan observere, er mulighetene uendelige og avhenger åpenbart av dine behov. **Nøl ikke med å designe nye modeller selv, og ta deretter noen minutter til å dele dem med andre rundt deg slik at det kan spare flere timer med arbeid for andre samfunn i landet ditt**. Faktisk, glem ikke at **hvert samfunn vil, på et eller annet tidspunkt, møte de samme problemene og behovene som deg. Ved å dele ressursene dine på en åpen kilde-måte, akselererer du dermed indirekte utviklingen av alle andre Bitcoin-samfunn**.
 
@@ -300,19 +300,19 @@ For å gjøre dette, eksisterer det tallrike KI-er. Spesielt:
 I tilfelle man ønsker å skape, for eksempel, et futuristisk bilde eller logo for "Bitcoin London"-møtet, kan man da spørre AI "copilot":
 - [ ] *Lag en Bitcoin-logo med London Bridge og Big Ben i bakgrunnen. Futuristisk* - [Lenke](https://copilot.microsoft.com/images/create/un-logo-bitcoin-futuriste-avec-en-arric3a8re-plan-le-/1-6612ba1758df4384bc33c4bca00ab45b?FORM=SYDBIC)
 
-![bilde](assets/fr/chapter5/img14.webp)
+![bilde](assets/fr/14.webp)
 
 Hvis de fire forslagene fra copilot ikke er realistiske nok etter din smak, er det mulig å legge til i samtalen:
 - [ ] *Gjør den fjerde mye mer realistisk* - [Lenke](https://copilot.microsoft.com/images/create/un-logo-bitcoin-futuriste-avec-en-arric3a8re-plan-le-/1-6612ba64b72d4cea9830ab7eb844f785?FORM=SYDBIC)
 
-![bilde](assets/fr/chapter5/img15.webp)
+![bilde](assets/fr/15.webp)
 
 Det siste resultatet er forresten ganske fint!
 ####
 Men, hvis man ønsker en mye mer strømlinjeformet logo, for eksempel for en klistremerke, kan man da skrive inn på "copilot":
 - [ ] *Lag logoen for "London Bitcoin Meetup" med en britisk og strømlinjeformet stil* - [Lenke](https://copilot.microsoft.com/images/create/logo-for-27londres-bitcoin-meetup27-with-a-british-a/1-6612bb9451924859a6c34b350b3a6ebc?FORM=SYDBIC)
       
-![bilde](assets/fr/chapter5/img16.webp)
+![bilde](assets/fr/16.webp)
 
 Det andre resultatet er typisk og kunne perfekt gjøre jobben!
 ####
@@ -327,7 +327,7 @@ Så vær tålmodig, prøv å gi instruksjoner (eller "prompts") så presist som 
 
 Som tidligere nevnt, avhengig av individuelle motivasjoner og vaner, kan kommunikasjonskanalene til et samfunn være forskjellige. For eksempel, **i Frankrike, Tyskland, og Italia, er Telegram og Twitter de viktigste kommunikasjonskanalene**. Over tid har de blitt "kommunikasjonsstandarder" for Bitcoin-samfunnene i disse landene. Imidlertid bruker noen samfunn også andre kanaler for spesifikke formål. I kontrast, i Tsjekkia, bruker de mange samfunnene som har utviklet seg der **Matrix**, et kryptert direktemeldingsprotokoll. I deres land er dermed Telegram sjelden brukt.
 I denne forstand er **å velge kommunikasjonskanaler, den mest relevante tilnærmingen å starte med å ta eksempler fra nabosamfunn i ens eget land**. For å gjøre dette, vil tilgang til kartet på [btcmap.org](https://btcmap.org/communities/map#0/0/0/) gi deg en veldig presis ide om de mest brukte kommunikasjonskanalene i ditt land. I Sveits, for eksempel, formidles informasjon hovedsakelig gjennom Telegram, Twitter og samfunnets nettside.
-![bilde](assets/fr/chapter6/img17.webp)
+![bilde](assets/fr/17.webp)
 ####
 **I tilfellet Frankrike (og den fransktalende verden generelt), er den viktigste kommunikasjonskanalen Telegram**. Mer enn 90% av franske møter har en: det er et "must-have". Etter det, **er det viktigste sosiale nettverket brukt av samfunn Twitter** (70% av franske møter); et sosialt nettverk der et flertall av bitcoinere er til stede. Videre har nesten 30% av franske møter (samt alle kanadiske møter) en betalt konto på **Meetup**-appen. Dette kan faktisk være en utmerket måte å gi synlighet til arrangementer utenfor Bitcoin-økosystemet. Til slutt har 30% av franske møter også en **nettside**; og 10%, en **Discord**-server og en **NOSTR**-konto.
 ####
@@ -359,7 +359,7 @@ Så, gå direkte til neste seksjon, med tittelen [Opprette en Telegram-gruppe](L
 
 Faktisk er **en Telegram-kanal bare et utstillingsvindu av informasjon postet av administratorene, der medlemmer ikke kan gjøre stort mer enn å legge til emojis**.
 
-![bilde](assets/fr/chapter7/img18-fr.webp)
+![bilde](assets/fr/18.webp)
 Men det er mulig å legge til muligheten for at kanalmedlemmer kan kommentere på hver administrators innlegg, men dette vil bli gjort i separate diskusjoner; noe som betydelig deler opp utvekslingene. **Derfor er det generelt ikke anbefalt å opprette en Telegram-kanal for et fellesskap.**
 ####
 Veiledning for å opprette en Telegram-kanal:
@@ -370,7 +370,7 @@ Veiledning for å opprette en Telegram-kanal:
 Tvert imot er **det ganske relevant å opprette en Telegram-gruppe**.
 Faktisk, for å ta velkjente eksempler som Messenger- eller WhatsApp-grupper, vil alle som blir med i denne **Telegram-gruppen kunne utveksle med hverandre, svare hverandre; og dette, alt innenfor samme diskusjon**.
 
-![bilde](assets/fr/chapter7/img19-en.webp)
+![bilde](assets/fr/19.webp)
 
 Administratorer av denne kanalen vil da kunne:
 - poste meldinger selv;
@@ -403,7 +403,7 @@ Til slutt kan **spesifikke emner** (mining, utvikling av et prosjekt, neste konf
 
 Det er opp til deg å endre dette i henhold til dine ønsker; likt, for eksempel, supergruppen til Abidjan Bitcoin Meet-up.
 
-![bilde](assets/fr/chapter7/img20-fr.webp)
+![bilde](assets/fr/20.webp)
 ####
 Det bør imidlertid nevnes at **en Telegram supergruppe kan være vanskeligere å bruke for noen medlemmer**. Faktisk klarer noen ganger ikke noen å forstå **hvordan man får tilgang til de andre emnene i denne supergruppen** (for dette, klikk enkelt på gruppens logo; og dette åpner listen over opprettede emner). Å hjelpe dem ved å sende en kort opplæringsvideo i et skjermbilde kan da være en god idé.####
 Generelt er det ikke noe spesifikt antall medlemmer hvor det blir relevant å bruke en Telegram supergruppe over en Telegram-gruppe. Derfor er valget ditt, basert på behovene og forespørslene fra medlemmene dine; samtidig som du vet at en Telegram-gruppe enkelt kan konverteres til en Telegram supergruppe (og omvendt). For å gjøre dette, trenger du bare å opprette et emne (eller slette alle sammen).
@@ -436,7 +436,7 @@ Det er også **sterkt anbefalt å skrive en beskrivelse av ditt møte når du op
 > 
 > For å få tilgang til våre andre sosiale nettverk: [ØNSKET_LENKE] 🌐
 
-![bilde](assets/fr/chapter8/img21.webp)
+![bilde](assets/fr/21.webp)
 
 Det observeres også, i bildet ovenfor, at invitasjonslenken har blitt tilpasset av administratorene av Bitcoin Lille Telegram-gruppen, ettersom den er offentlig.
 
@@ -460,7 +460,7 @@ Blant de mange alternativene tilgjengelig med **botten [@GroupHelpBot](https://t
 - automatisk slette visse typer meldinger;
 - osv.
 
-![bilde](assets/fr/chapter9/img22-fr.webp)
+![bilde](assets/fr/22.webp)
 
 Tre andre enkle ideer er:
 - **opprette en "/link"-kommando** for å sende tilgangslenken til Telegram-gruppen;
@@ -519,7 +519,7 @@ Det er faktisk åpenbart at hvis ingen kan få tilgang til dine kommunikasjonska
 
 Blant disse sosiale nettverkene, **posisjonerer Twitter seg som nesten essensielt i Bitcoin-verdenen**. I denne forstand virker det viktig å **ha en profil på denne plattformen**; selv om dens sentralisering og utvikling er langt fra korrekt.
 Dette er grunnen til at en **NOSTR-profil spesifikk for ditt samfunn** også kan opprettes, med ideen om å forutse potensielle restriksjoner og/eller sensur på Twitter. Tross alt: det er bedre å forebygge enn å kurere.
-![bilde](assets/fr/chapter13/img23bis.webp)
+![bilde](assets/fr/23.webp)
 
 Andre sosiale nettverk kan åpenbart brukes. Dette er tilfellet for Facebook (i tilfellet en Facebook-gruppe eller side) eller til og med LinkedIn.
 Likevel er det viktig å huske at **jo flere kommunikasjonskanaler og sosiale nettverk det er å opprette - og derfor å vedlikeholde - jo mer tidkrevende blir det. Det er bedre å fokusere på de mest relevante; og Twitter (og NOSTR) ser ut til å være gode kandidater**.
@@ -537,7 +537,7 @@ Twitter er veldig brukervennlig og krever justering av noen innstillinger for å
 > Offisiell konto for Bitcoin-samfunnet [BY] #BTC | Møter hver første onsdag i måneden på [NAVN_PÅ_BAR] i [BY] 🍻 | Bli med oss på Telegram 🔽
 4. Under denne beskrivelsen er det også mulig å **sette inn en lenke**. Dette kan lede brukere til å få tilgang til en "sosiale nettverk"-side tilgjengelig på samfunnets nettsted, eller det kan dirigere dem til din Telegram-kommunikasjonskanal.
 
-![bilde](assets/fr/chapter14/img24-fr.webp)
+![bilde](assets/fr/24.webp)
 
 Videre **ser noen personverninnstillinger ut til å være relevante å endre**; de mest relevante er åpenbart:
 * valget om å **la Twitter-kontoen din være i "offentlig" modus** (innlegg synlige for alle);
@@ -569,7 +569,7 @@ For å spare deg for en betydelig mengde tid, har vi tatt oss tid til å studere
 ####
 Videre, **det er mulig å feste en tweet til din Twitter-profil som du ønsker å gi betydelig synlighet til**.
 
-![bilde](assets/fr/chapter14/img25-en.webp)
+![bilde](assets/fr/25.webp)
 
 Merk også at det er mulig, både på telefon og datamaskin, å være logget inn på to Twitter-kontoer samtidig. Dette kan være veldig praktisk for ikke å måtte logge inn / ut mellom din personlige konto og ditt samfunnskonto; akkurat som det kan slå tilbake hvis du ved et uhell poster et bilde av deg selv i kostyme med din samfunnskonto... Forsiktighet, derfor!
 
@@ -588,7 +588,7 @@ Faktisk, **dette vil tillate gjensidig følging, merking, og dermed kollektivt �
 Dette er tilfellet blant de femti eller så franske Bitcoin-samfunnene; og det samme gjelder for de fleste "Satoshi Spritz" initiativene i Italia og "Einundzwanzig" i Tyskland.
 Selv om det for noen kan virke unødvendig, kan **det å følge kontoene til lokale samfunn og initiativer i ditt land indirekte føre til realiseringen av felles prosjekter**, eller til og med "partnerskap". Slik kom Bitcoin Liège og Bitcoin Lille-samfunnene i kontakt (det samme gjelder for Bitcoin Aix og Bitcoin Marseille); noe som nå fører til at de holder minst ett felles møte i året. **Cercle du Coin**-middagene er et annet eksempel.
 
-![bilde](assets/fr/chapter15/img26bis.webp)
+![bilde](assets/fr/26.webp)
 
 Videre, i Frankrike, kan det også være relevant å **følge initiativer @KonsensusFR, @bitcoinpointfr, @DecouvreBitcoin, og @btcmap**. Dette er kun forslag, og hvert samfunn står selvfølgelig fritt til å gjøre som det vil, i full desentralisering og autonomi.
 Interessen i å følge hverandre gjensidig er ganske enkel: å gi hverandre synlighet. Faktisk, jo mer til stede du er på nettverk, jo flere vil snakke om deg; og jo flere som snakker om deg, jo mer sannsynlig er det at folk vil komme til arrangementene dine. Å like/retweete innlegg fra andre samfunn på sosiale nettverk kan også være interessant.
@@ -608,7 +608,7 @@ Blant disse finner vi spesielt:
 * **[BitcoinerEvents](https://www.bitcoinerevents.com/)** er et nettsted skapt av bitcoiners, for bitcoiners. Det er dermed mulig å **poste kommende arrangementer for ens samfunn** der. Dessverre er denne plattformen relativt lite brukt i Frankrike.
 * avhengig av landet, finnes det også unike initiativer. Dette er spesielt tilfellet **i Frankrike, med nettsiden [bitcoin.fr](https://bitcoin.fr/events/categories/evenements/), som lister opp dusinvis av Bitcoin-arrangementer i Frankrike hver måned**. Hvis du ikke allerede har fulgt dem på Twitter eller kontaktet dem for å gi informasjon om ditt samfunn og/eller arrangementer, er nå tiden inne! **Videre, med målet om å hjelpe dem med å holde denne franske arrangementskalenderen oppdatert, ville det bli satt pris på om alle franske Bitcoin-samfunn gjorde det til en vane å:**    * **nevne @bitcoinpointfr på Twitter med hver ny arrangementsannonsering fra deres samfunn**;
 * **feste annonseringen av nevnte arrangement i deres samfunns Telegram-gruppe**.
-![bilde](assets/fr/chapter16/img27bis.webp)
+![bilde](assets/fr/27.webp)
 #### 
 Det er verdt å merke seg at andre plattformer og applikasjoner også tillater økt synlighet. **[Meetup](https://www.meetup.com/)** er en av dem. Det er faktisk en nettside (og en telefonapplikasjon) som tillater opprettelsen av et arrangement; men også for å søke etter de rundt deg.
 Dessverre, for å kunne opprette meet-ups, må man bruke nær 8€ per måned (som er omtrent 90€ per år), noe som er dyrt for et samfunn som verken er strukturert eller modent ennå. Imidlertid er Meetup veldig populært i visse land, spesielt i Canada og USA; dens hovedfordel er at den tillater integrert håndtering av møteregistreringer.
@@ -631,7 +631,7 @@ Nå som sosiale nettverk og kommunikasjonskanaler for ditt samfunn er lansert, e
 Dette kan derfor tillate deg å frigjøre litt tid med målet om å tenke på å skape en "meet-up" type arrangement, i hvilket format du ønsker. Dette er spesielt relevant hvis du begynner å føle en viss iver innad i ditt samfunn.
 Som nevnt tidligere, kan **et Bitcoin-treff dermed ses som "neste nivå" av et fellesskap**. Det tillater, på den ene siden, **dets bitcoin-medlemmer å møtes**; og på den andre siden, å **utdanne nye personer interessert i dette økosystemet**. En "meet-up"-type hendelse vil dermed tillate - i din skala - å **skape entusiasme rundt Bitcoin i din by**; som kan utvide seg over tid avhengig av prosjektene ditt fellesskap tar på seg.
 
-![bilde](assets/fr/chapter17/28bis.webp)
+![bilde](assets/fr/28.webp)
 
 Naturligvis, jo større målene du setter for utviklingen av ditt fellesskap, desto mer nødvendig vil det være - for deg og dine medlemmer - å bruke tid på det.
 Det er derfor viktig å **starte med å sette oppnåelige mål for organiseringen av dette treffet**.
@@ -646,7 +646,7 @@ Derfor virker det relevant å **foreslå å organisere et treff fra det øyeblik
 Når du føler denne lille gnisten, er det da helt mulig for deg å foreslå ideen om et personlig møte. Hvis denne ideen vekker interesse hos andre, trenger du bare å **sette datoen for ditt første treff**.
 For å gjøre dette, er det sikkert å foretrekke å ikke sette en fast dato fra starten, men heller **å foreslå - omtrent ti dager i forveien - en undersøkelse som inneholder forskjellige dager og tidspunkter**. Slik, avhengig av alles stemmer, vil dette tillate å **maksimere medlemsdeltakelsen**, skape mer entusiasme; men også, å **bedre "optimalisere" tiden din**.
 
-![bilde](assets/fr/chapter18/29-fr.webp)
+![bilde](assets/fr/29.webp)
 
 Det er da viktig å ikke ha en fast ide, på forhånd, om hvordan dette treffet vil utfolde seg, hvor mange dere vil være, diskusjonstemaene, osv. Du risikerer å bli skuffet; og deltakerne, potensielt føle seg "undertrykt".
 I denne forstand virker det å foretrekke å la ting skje naturlig, kanskje over en drink. Samtaler bør da være enkle; selv om det betyr å ta opp Bitcoin hvis du finner deg selv alene med en bortkommen sau.####
@@ -660,7 +660,7 @@ Hvis du ønsker å **forutse visse stille perioder, kan du planlegge forskjellig
 - **[btcmap.org-kartet](https://btcmap.org/)** over fellesskap og bedrifter;
 - en uformell: "Hei, forresten, **har du noen gang sendt Bitcoin over Lightning?**"
 Det bør imidlertid bemerkes at når møtet akkurat har begynt, kan det være irrelevant å gjennomføre en formell presentasjon. Når dere bare er noen få, virker det å foretrekke å engasjere seg i diskusjoner på en mer åpen og vennlig måte.
-![image](assets/fr/chapter18/30.webp)
+![image](assets/fr/30.webp)
 ####
 Når møtet ditt har funnet sted, vil du sannsynligvis ønske å organisere et annet. **Så lenge samfunnet ditt fortsatt er lite, virker det å foretrekke å fortsette å foreslå datoen gjennom en undersøkelse; for eksempel en gang i måneden (eller hver andre måned)**. Det er opp til deg å diskutere dette med samfunnet ditt.
 
@@ -680,7 +680,7 @@ Til slutt, når samfunnet ditt vokser betydelig og møtene dine begynner å fyll
 I det første tilfellet, selv om det er nødvendig å være oppmerksom på alles følsomheter og ønsker, kan dette tillate alle deltakere å **forlate arrangementet med ny kunnskap**, samtidig som samtaleemnene fokuseres rundt Bitcoin (hvis de var avvikende).
 I det andre tilfellet, et andre arrangement i måneden, for eksempel, tillater **å adressere et spesifikt tema, som å sette opp "nybegynner" økter og/eller verksteder** (mining, lyn, nodeinstallasjon, osv.).
 
-![image](assets/fr/chapter18/31.webp)
+![image](assets/fr/31.webp)
 
 Husk imidlertid at **dette krever mer organisering; og vil derfor ta mer tid** (selv om mange åpen kildekode-ressurser vil være tilgjengelige i del 6/8, med tittelen "[Eksempler på prosjekter og initiativer](LINK).
 
@@ -694,7 +694,7 @@ Samtidig må mange kriterier vurderes. Blant dem:
 1) stedets beliggenhet: er det lett **tilgjengelig med offentlig transport? Med bil?** Kan man parkere der uten vanskeligheter?
 2) er stedet **behagelig og ikke for bråkete?** Leter du etter et formelt sted (coworking space, møterom) eller et uformelt sted (bar, eller til og med restaurant)? 3) har lokalet en **tilstrekkelig kapasitet til å ta imot dere?** Og det, selv på kvelden for en rugbykamp eller Champions League? 4) har lokalet en **videoprojektor og et stille område for presentasjonene dine?** 5) til slutt, i tilfelle av en bar (eller til og med en restaurant), **tillater menyen at alle kan spise og drikke?** Til disse punktene kan tre viktige merknader legges til: - i tilfelle der du ønsker å **dele kvelden i to deler** (først, en **presentasjon i et formelt rom** for å tillate alle å være mer fokuserte; deretter **bytte sted for å fortsette kvelden på en mer avslappet måte i en bar** eller en restaurant), er det viktig å være klar over at dette byttet av sted midt på kvelden vil føre til at **noen deltakere benytter anledningen til å dra. Derfor er denne typen arrangement ikke anbefalt**; - under dine første meet-ups, er det sannsynlig at få personer vil dukke opp, og så vil du sannsynligvis ikke holde en presentasjon. I denne forstand, virker det ikke nødvendig å gjøre deg kjent for eieren og å presentere dine mål, osv. Imidlertid, **når dine meet-ups blir regelmessige og godt besøkt, virker det relevant å introdusere deg selv, for å vise din seriøsitet og ditt ønske om å komme regelmessig**. Dette kan føre til mange diskusjoner (automatisk månedlig booking, gratis drikke og/eller fat, rabatter, diskusjon om Bitcoin, aksept av Bitcoin som betalingsmetode, osv.) Åpenbart, i tilfelle der du spesifikt leter etter et sted med en videoprojektor for presentasjoner, virker det essensielt å be om et møte (personlig, eller til og med per telefon) med eieren og/eller manageren på forhånd for å presentere ditt prosjekt og dine mål;
 
-![bilde](assets/fr/chapter19/32bis.webp)
+![bilde](assets/fr/32.webp)
 
 - til slutt, noen samfunn kan ønske å **holde sine arrangementer kun på steder som aksepterer Bitcoin som betalingsmetode**; og dette er helt forståelig. I denne perspektivet, virker det relevant å **starte med å søke etter bedrifter i din by som aksepterer Bitcoin (på [btcmap.org](https://btcmap.org/map/) for eksempel)** og kontakte dem for å finne et sted som møter dine kriterier. I tilfelle der, dessverre, ingenting er passende, har du da muligheten til å gå "om bord" nye handelsmenn. Forvent imidlertid å møte mange avslag, som kan være motløsende. Derfor **kan det være fornuftig å ikke sette dette som et mål fra starten, men å komme til det når ditt samfunn har utviklet seg godt** og du har tilstrekkelig "innflytelse."
 
@@ -707,7 +707,7 @@ Du har bestemt deg for å organisere en meet-up og har informert samfunnet ditt 
 1) **kontakt stedet** der du skal holde arrangementet ditt, for å **bekrefte en reservasjon** for et gitt antall personer;
 2) **kunngjør på sosiale medier og kommunikasjonskanaler ditt arrangement, og oppgi tydelig dato, tid, sted**, og legg til registreringslenken hvis nødvendig. For denne kommunikasjonen kan et spesifikt visuelt element opprettes (for eksempel en Canva-plakat, se del 2/8 "[Designing a unique identity for your Bitcoin community](LINK)"). Videre, for å sikre maksimal synlighet for denne kunngjøringen, kan den **festes på Telegram og Twitter**, og kan også inkludere en **"@everyone" på Discord**. Det virker også mer enn relevant å **poste disse kunngjøringene 1 uke til ti dager før arrangementsdatoen, slik at alle kan planlegge sitt oppmøte**;
 
-![bilde](assets/fr/chapter20/33-fr.webp)
+![bilde](assets/fr/33.webp)
 
 4) **to til tre dager før arrangementet, kan disse kunngjøringene bli tvitret på nytt og delt på nytt**, for å bringe mer synlighet;
 5) til slutt, avhengig av antall svar og/eller registreringer mottatt dagen før eller dagen før det, er det helt mulig for deg å kontakte eieren av stedet på nytt for å bekrefte antall forventede deltakere.
@@ -731,7 +731,7 @@ For å oppnå dette, vil det være nødvendig:
     - å vise, med Patafix, en **plakat foran stedet for ditt meet-up, som spesifiserer i hvilket rom du vil være** (tenk selvfølgelig å be om tillatelse på forhånd);
     - å vise, med Patafix, **spesifikke plakater** i rommet der du holder arrangementet ditt (**Bitcoin white paper, charteret til fellesskapet ditt, pågående prosjekter**, osv.);
 - å sette opp på ett eller flere bord **klistremerker, flygeblader eller til og med materiale som kan føre til diskusjon** (Nerdminer, stålplate, maskinvarelommebok, datamaskin slått på med mempoolen, ASIC, metallplate for å sikre din private nøkkel, osv.)
-![bilde](assets/fr/chapter21/34bis.webp)
+![bilde](assets/fr/34.webp)
 ####
 Åpenbart, hvis du bare forventer noen få deltakere og du ikke har informert lederne om ditt møte fordi du nettopp har startet det, ikke begynn å ta med og vise frem alt materialet ditt.
 Imidlertid, **når tillit er etablert med lederne, vil du være mye friere til å ordne rommet slik du ønsker**.
@@ -760,7 +760,7 @@ Dette kan starte med en liten gruppe ihuga bitcoinere, hvis mål er å regelmess
 På den ene siden, fra et sosialt perspektiv, er det avgjørende for utviklingen av et fellesskap at alle som deltar på et arrangement føler seg inkludert. Dette betyr: **å gjøre en innsats for å nærme seg disse nye deltakerne, være interessert i hvorfor de er der, ønske dem varmt velkommen**, osv. Ved å føle seg inkludert og velkommen, vil disse individene ønske å returnere; og til og med, i fremtiden, avhengig av deres profil, bli involvert i organiseringen av disse arrangementene.
 Åpenbart **krever dette tid og motivasjon**. I tilfelle der du ønsker velkommen en shitcoiner (eller verre: en XRP-maksimalist), kan det være ganske vanskelig å sette til side ens tidspreferanse og akseptere å "kaste bort tid" i ensidige diskusjoner. Men det er ved å ta seg tid til å snakke med disse menneskene at vi kan hjelpe dem å forstå deres misforståelser og feil i resonnement. Når de aksepterer disse, vil de da være klare til å forstå Bitcoin.
 
-![bilde](assets/fr/chapter22/35.webp)
+![bilde](assets/fr/35.webp)
 
 På den andre siden, fra et teknisk ståsted, kan flere spørsmål oppstå:
 - var stedet der **møtet fant sted hyggelig?**
@@ -793,7 +793,7 @@ Når du starter et Bitcoin-treff, møter du nye mennesker. Sosiale interaksjoner
 
 Alle har sine egne ønsker, sine egne tro, sin egen personlighet. Så det er ingen dom her om hvordan ett møte eller et annet fungerer. Tross alt, **det er rundt en øl vi reflekterer over verden, men det er ikke slik vi transformerer den dyptgående**.
 
-![bilde](assets/fr/chapter23/36bis.webp)
+![bilde](assets/fr/36.webp)
 
 ## Organiser tematiske møter, etter en definert årlig progresjon
 <chapterId>46afdbcc-a775-5c16-b20a-34956690d58f</chapterId>
@@ -843,7 +843,7 @@ Gjennom året kan andre arrangementer organiseres. Dette kan inkludere:
 - **en kveld eller en helg for å "feire" den kommende halveringen**;
 - **et "familie spill" arrangement rundt Bitcoin** og hvordan det fungerer. Spill som ["Le Coin de Table"](https://www.maximalist.ovh/) eller ["SHAmory"](https://shamory.com/) kan tas med;
 
-![bilde](assets/fr/chapter24/37ter.webp)
+![bilde](assets/fr/37.webp)
 
 - **en gruvearbeidsverksted**, med oppdagelsen av ulikt maskinvare (prosessor, grafikkort, FPGA, ASIC, nerdminer, bitaxe);
 - **en ettermiddag eller kveld spesielt for nybegynnere, med tematiske verksteder**;
@@ -861,7 +861,7 @@ Før du plasserer bestillingen din, kan det være relevant å vurdere følgende 
 - vurder **å bruke en vektorfil** i stedet for en bildefil. Dette vil forbedre trykkvaliteten;
 - **tenk nøye gjennom ønsket størrelse**. For eksempel er en sirkulær klistremerke med en diameter på 8 cm omtrent størrelsen på en voksens håndflate. Leter du etter denne størrelsen, som er ganske betydelig for synlighet, eller ser du etter noe mer diskret (4 cm i diameter, for eksempel)?
 - til slutt - og dette er litt teknisk - hvis du ønsker et rikt svart trykk (et "fire-farge svart"), bør egenskapene til dette være: 30% cyan, 30% magenta, 30% gul, og 100% svart. I tilfeller hvor kun 100% svart brukes, vil resultatet bli en noe gråaktig svart. Heldigvis, er skrivere generelt oppmerksomme på denne detaljen. Så, du burde ikke bekymre deg for mye om det.
-![bilde](assets/fr/chapter25/38.webp)
+![bilde](assets/fr/38.webp)
 #### 
 Avhengig av forespørselen din og leverandøren du velger, forvent å betale **mellom 100 og 250 euro for 1000 klistremerker**. Du kan også kontakte [@Mill3sim3 på Twitter](https://x.com/Mill3sim3), en fransk bitcoiner spesialisert på markedsføring som kan hjelpe deg med å få priser nesten 30% billigere enn de vanlige nettstedene. Ikke nøl med å kontakte ham for dette.
 
@@ -880,7 +880,7 @@ For å gjøre dette, kan du be alle interesserte om å dele sine lesninger ved �
 Dette tillater, for eieren, å dekke kostnadene i tilfelle glemsomhet eller tyveri; og, for låntakeren, å returnere til et fremtidig møte for å hente sine 21 000 satoshis!
 ####
 Hvis du driver **en forening og ønsker å investere en del av din kasse i utdannings- og pedagogiske ressurser**, kan du bestille flere bøker og tilby dem i ditt **Bitcoin-bibliotek** ved hvert møte.
-![image](assets/fr/chapter26/39.webp)
+![image](assets/fr/39.webp)
 ####
 I denne forbindelse, og med målet om å utvikle økosystemet, **[forlaget Konsensus.Network](https://konsensus.network/) tilbyr møter og internasjonale Bitcoin-fellesskap en rabatt som varierer fra 15% til 35% på alle sine bøker; startende fra tre kjøpte**.
 
@@ -894,7 +894,7 @@ Videre kan en bokutlånscharter skrives og vises under møter, som kort forklare
 Her er et åpen kildekode-eksempel, som du kan ta og modifisere som du ønsker:
 [Bokutlånscharter](https://www.canva.com/design/DAF7u1b5kRM/r2gEAlibe_jTIXIX-O9PMA/edit)
 
-![image](assets/fr/chapter26/40-fr.webp)
+![image](assets/fr/40.webp)
 #### 
 Parallelt, fortsatt med ideen om å fremme lesing om Bitcoin, kan en annen betydelig handling være å **besøke de kommunale bibliotekene i byen og sjekke om de har ulike bøker om Bitcoin**.
 Hvis ja, kan det være mulig å spørre bibliotekarene om det vil bli holdt **runde bord** om dette emnet i de kommende månedene, til og med gi dem kontakten til byens møteplass. Hvis ikke, kan **forslag om kjøp av flere bøker som du har valgt ut på forhånd** være en mulighet. [Konsensus forlagets](https://konsensus.network/) nettside kan være en kilde til inspirasjon for dette.
@@ -914,8 +914,8 @@ Flere flygeblader er allerede **tilgjengelige i åpen kildekode**, og andre vil 
 
 Blant dem vil du finne et [omfattende kildebasert flygeblad](https://profedustream.substack.com/p/21-raisons-dutiliser-bitcoin) som lister 21 grunner til å bruke Bitcoin. Dets design er også [tilgjengelig i åpen kildekode](https://www.canva.com/design/DAFtAR1NauQ/ZDwl2CchIJ9Gpb36N6-7iw/edit?utm_content=DAFtAR1NauQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
-![bilde](assets/fr/chapter27/41-fr.webp)
-![bilde](assets/fr/chapter27/42-fr.webp)
+![bilde](assets/fr/41.webp)
+![bilde](assets/fr/42.webp)
 
 Endre det, tilpass det og del det deretter som du vil. Husk imidlertid å sitere kildene dine.
 #### 
@@ -925,7 +925,7 @@ I Frankrike og i noen andre land finnes det også **"bokbokser"**.
 Vanligvis laget av tre, tar disse boksene fritt imot bøker for å gi dem bort. Derfor kunne en mulighet være å **legge igjen et flygeblad der; eller enda bedre: en bok!**
 
 ![bilde](assets/fr/chapter27/43.webp)
-![bilde](assets/fr/chapter27/44.webp)
+![bilde](assets/fr/43.webp)
 
 I denne åren, i 2023, ble **initiativet "Et Bitcoin White Paper i Bokboksene i Frankrike"** lansert.
 For å gjennomføre dette prosjektet vellykket med alle interesserte parter, var det først nødvendig å **få geolokaliseringen av alle bokboksene som eksisterer i landet**. For å gjøre dette, finnes forskjellige databaser:
@@ -938,8 +938,8 @@ For å gjennomføre dette prosjektet vellykket med alle interesserte parter, var
 
 Her er brosjyren som ble delt blant franske bitcoinere [brosjyren som har blitt delt blant franske bitcoinere](https://profedustream.substack.com/p/bitcoin-la-naissance-dune-nouvelle) og som endte sin reise i flere dusin bokutvekslinger over hele landet. Designet er også [tilgjengelig i åpen kildekode](https://www.canva.com/design/DAFs18FSoVM/Sy0QsfUkycTgXveeGgutBg/edit?utm_content=DAFs18FSoVM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
-![bilde](assets/fr/chapter27/45-fr.webp)
-![bilde](assets/fr/chapter27/46-fr.webp)
+![bilde](assets/fr/44.webp)
+![bilde](assets/fr/45.webp)
 
 ## Organisere en Videovisning
 <chapterId>892b248a-b837-5df6-aac9-4b3261ff0390</chapterId>
@@ -954,7 +954,7 @@ Følgelig, for det store flertallet av samfunn, er denne prisen forbydende. Like
 Parallelt kan andre visninger organiseres.
 I Frankrike, for eksempel, **godtok regissøren av dokumentaren "Stranded", [Alana Mediavilla](https://twitter.com/AlanaMediavilla), at landets møter fikk vise hennes dokumentar i forhåndsvisning**; noe av opptakene kommer fra sekvensene av [filmen "Dirty Coin"](https://www.dirtycointhemovie.com/) som vil bli utgitt i 2024.
 Det franske Bitcoiner-samfunnet tok da initiativet til å **fullstendig oversette dokumentaren "Stranded"**, integrere franske undertekster, og dele den med alle møtene over hele landet. I uken av 4. mars 2024, **ble en felles visning organisert i omtrent ti møter over hele landet**.
-![bilde](assets/fr/chapter28/47.webp)
+![bilde](assets/fr/46.webp)
 
 Denne kringkastingen førte til mange diskusjoner om Bitcoin-mining, dets strømforbruk, og dets innvirkning på økologien mer bredt.
 
@@ -963,14 +963,14 @@ Denne kringkastingen førte til mange diskusjoner om Bitcoin-mining, dets strøm
 I flere europeiske land (Tyskland, Spania, Frankrike, osv.), **har noen Bitcoin-entusiaster tatt initiativet til å henge opp plakater relatert til Bitcoin**. Noen av disse plakatene viser verk av Banksy, mens andre inkorporerer Bitcoin-logoen på forskjellige måter.
 Dette er spesielt tilfellet for [StreetCyberArt](https://twitter.com/streetcyber_art), en tysk Bitcoin-entusiast, som har skapt kollasjer og gatekunst i flere år.
 
-![bilde](assets/fr/chapter29/48.webp)
+![bilde](assets/fr/47.webp)
 ####
 Selvfølgelig, hvis du ønsker å begynne med gateplakatering, vil det være nødvendig å **være oppmerksom på lovene i ditt land**. I Frankrike, for eksempel, er det kun tillatt å **henge opp plakater på offentlige oppslagstavler**. Andre steder er dette forbudt og kan resultere i en bot.
 Åpenbart: **ute av syne, ute av sinn**. Så, i dette tilfellet, vær kanskje forsiktig med ikke å inkludere på disse plakatene noe element som kan spores tilbake til deg (navn på møtet, @ Twitter, osv.)
 
 Hvis du planlegger å **skrive ut denne typen plakater med en personlig skriver, vær oppmerksom på at dette generelt forårsaker at papiret smitter av kraftig, men også forringes raskt over tid**. I denne forstand, **er det beste definitivt å ta kontakt med et profesjonelt trykkeri for å produsere disse plakatene på spesifikt selvklebende papir, spesielt designet for utendørs bruk**. Kvaliteten vil dermed være sikret.
 
-![bilde](assets/fr/chapter29/49.webp)
+![bilde](assets/fr/48.webp)
 ####
 Det kan imidlertid ikke nektes at **dette initiativet har en betydelig kostnad: mer enn 0.40€ per plakat (dvs. 40€ for hundre plakater)**; og det, når du har gode kontakter. På nettet kan prisene faktisk variere fra dobbelt til fem ganger så mye.
 
@@ -983,7 +983,7 @@ Et annet unikt prosjekt er **skapelsen av personlige NFC-kort for betalinger ved
 For øyeblikket, på deres nettside på [https://swiss-bitcoin-pay.ch/cards](https://swiss-bitcoin-pay.ch/cards), tilbyr Swiss Bitcoin Pay fire grunnleggende design.
 Men, hvis du ønsker å bestille **mer enn 50 NFC-kort, kan du kontakte selskapet på dets offisielle nettside (eller på [Twitter](https://twitter.com/SwissBitcoinPay)) og foreslå et tilpasset design** som du har laget for forsiden av kortet. Baksiden er imidlertid standardisert.
 
-![bilde](assets/fr/chapter30/50bis.webp)
+![bilde](assets/fr/49.webp)
 
 Den [franske foreningen Bitcoin Lille](https://twitter.com/BitcoinLille) bestilte for eksempel hundre NFC-kort med et tilpasset design i 2023, til **en pris på omtrent 2.50€ til 5€ per kort** (prisen endres regelmessig og er progressiv).
 Således **mottar hver ny medlem av foreningen et tilpasset NFC-kort i deres velkomstpakke**.
@@ -1018,7 +1018,7 @@ Blant de mest kjente videoplattformene finner vi spesielt:
 
 Avhengig av hva du bestemmer deg for å implementere, vil du åpenbart trenge å **skape visuelle elementer spesifikke for denne plattformen**, med målet om å gjøre videokanalen din visuelt tiltalende. Det positive punktet er at med **Canva**, som vi diskuterte i [del 2/8 av dette kurset](LINK), er det en "YouTube Thumbnail"-kategori med visuelle elementer allerede designet og lett modifiserbare.
 
-![bilde](assets/fr/chapter31/51bis.webp)
+![bilde](assets/fr/50.webp)
 ####
 I tilfelle der du ønsker å **ta opp på datamaskinen din, fungerer programvare som ["Streamlabs"](https://streamlabs.com/fr-fr) veldig bra**. Det lar deg justere mange innstillinger, er gratis, og muliggjør også sceneoverganger.
 
@@ -1060,7 +1060,7 @@ Denne strategien, selv om den er litt formell, kan gjøre det mulig for noen med
 
 Flere modeller brukt av Bitcoin Lille-foreningen er også [tilgjengelige i åpen kildekode på Canva](https://www.canva.com/design/DAGHAsT15MU/AIA7-L_xBjNdsuxdD4-h-Q/edit?utm_content=DAGHAsT15MU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
-![bilde](assets/fr/chapter32/52-frter.webp)
+![bilde](assets/fr/51.webp)
 
 ## Reflektere over overgangen i tilfelle død
 <chapterId>c5febf18-235c-51bc-8fbb-9467dabe4cb0</chapterId>
@@ -1090,7 +1090,7 @@ Videre er **å ha et åpent tankesett, klar til å forenkle konsepter etter beho
 Så, hvis du føler deg i stand: gå for det! Vår verden trenger sårt til utdanning om hva Bitcoin er...
 Det sier seg imidlertid selv at for å utføre denne oppgaven, **vil du trenge mye motivasjon, en stor innsats; men også, de riktige kontaktene**.
 
-![bilde](assets/fr/chapter33/53bis.webp)
+![bilde](assets/fr/52.webp)
 ####
 Faktisk er **å organisere en konferanse eller en workshop på en skole og/eller universitet ingen enkel bragd**.
 For det første er det nødvendig å **skaffe en kontakt**. Dette kan oppnås **gjennom en bekjent, gjennom BDE ("Bureaux Des Étudiants" eller Studentkontorer); eller til og med studentforeninger**, som generelt organiserer sykluser med konferanser og møter hvert år. Dine **tidligere ingeniørskole og/eller universitetsprofessorer** kan også fungere som mellommenn.
@@ -1099,7 +1099,7 @@ I tilfellet med en post-baccalaureate skole, er det også mulig å **kontakte pe
 Dessverre, i vår nåværende verden, blir Bitcoin fortsatt altfor ofte bevisst demonisert av media og politikere; noe som fører mange nybegynnere til å tenke at det bør forbys fra klasserom og forelesningssaler. **Sannsynligheten er derfor ganske høy for at du vil møte mange avslag**; spesielt i det akademiske miljøet hvor Bitcoins proof of work og energiforbruk noen ganger virker tabu.
 Men, ingenting hindrer deg fra å prøve, spesielt med BDE og studentforeninger. **Med litt flaks, selv om avslaget er fast første gang, er det ikke umulig at du vil bli kontaktet igjen under den neste bull-run på fellesskapets e-postadresse for å holde en konferanse foran nesten 280 studenter!**
 
-![bilde](assets/fr/chapter33/54bis.webp)
+![bilde](assets/fr/53.webp)
 
 ## Nærme seg Bedrifter
 <chapterId>b730462b-7928-5d28-a14f-9ceaa773d3d2</chapterId>
@@ -1113,7 +1113,7 @@ Til disse problemene, legg til:
 - **vanskeligheten med å finne en programvareløsning** som fungerer perfekt;
 - men også, **viktigheten av å få dem til å forstå fordelene med å akseptere Bitcoin** som betalingsmetode.
 
-![bilde](assets/fr/chapter34/56.webp)
+![bilde](assets/fr/54.webp)
 ####
 Å utvikle Bitcoin-økosystemet i byen din kan derfor innebære å **få handlende med på laget**. For å gjøre dette, er den enkleste måten å **gå frem steg for steg**:
 
@@ -1135,7 +1135,7 @@ Til disse problemene, legg til:
 - å **på nytt foreslå å komme til dine meet-ups og arrangementer**;
 - for å **legge til denne bedriften på [btcmap.org-kartet](https://btcmap.org/)**, og informere [Swiss Bitcoin Pay på Twitter](https://x.com/swissbitcoinpay) for å gi synlighet til denne bedriften; - men også for å **potensielt holde arrangementer i denne bedriften**, som meet-ups eller workshops.
 
-![bilde](assets/fr/chapter34/57.webp)
+![bilde](assets/fr/55.webp)
 
 5) Når flere bedrifter i byen din har blitt med og har forstått hva Bitcoin bringer dem, kan du da **foreslå å opprette en spesiell Telegram-gruppe for handlende**; målet er å **muliggjøre at de kan hjelpe hverandre** og å gå videre i oransje-pillingen av andre bedrifter i byen. Parallelt kan denne gruppen også **fungere som teknisk støtte**, i tilfelle et problem oppstår med en kunde.
 ####
@@ -1162,7 +1162,7 @@ Selv om dette kan være spesifikt for lokaliteten du befinner deg i, her er en l
 Parallelt kan det også være interessant å **kontakte lokale radiostasjoner, for å foreslå, for eksempel, opprettelsen av en podcast eller et intervju**.
 Vær imidlertid klar over at ord i media lett kan bli snudd til deres ulempe. **Så, dette er ikke en enkel oppgave, og det kan være lurt å forberede seg på det**.
 
-![bilde](assets/fr/chapter35/58-fr.webp)
+![bilde](assets/fr/56.webp)
 ####
 Åpenbart, **kan mange andre prosjekter realiseres**. Generelt vil alt avhenge av din tid, din motivasjon; men også på vanskelighetsgraden av prosjektet i spørsmålet.
 I realiseringen av disse, **tre råd** kan veilede deg:
@@ -1189,7 +1189,7 @@ Det første blant dem (det enkleste å forutse) er åpenbart **økningen i antal
 På den ene siden, hvis du er 500 som utveksler om ulike emner i samme diskusjonskanal, vil et flertall av medlemmene dine gradvis slutte å følge med på samtalene; blant annet på grunn av overfloden av meldinger å lese og tilhørende varsler. I denne forstand, kan det være relevant å **revurdere dine kommunikasjonskanaler; som for eksempel Telegram supergrupper, eller til og med en Discord-server**, som begge tillater gruppering av samtaler etter tema.
 På den andre siden, flere personer i utvekslingskanalene betyr også flere boter, flere svindelforsøk, og også **mer moderering som må gjøres**. Du vil derfor trenge å være forberedt, ved for eksempel å utarbeide et sett med regler som du kan stole på når du modererer en melding. Fra erfaring, dette unngår en stor del av konflikter; spesielt når reglene er tilgjengelige for lesing på dine kommunikasjonskanaler. I denne forstand skrev Bitcoin Lille-foreningen for noen år siden **[et åpen kildekode sett med regler](https://bitcoinlille.fr/reglement/) for sin Telegram-gruppe og sin Discord-server**, basert på enkle og universelle prinsipper. Dets design er [også tilgjengelig](https://www.canva.com/design/DAGHI692AD4/rjT4sqEnhajc5FiPA6GFZQ/edit?utm_content=DAGHI692AD4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
-![bilde](assets/fr/chapter36/59-frbis.webp)
+![bilde](assets/fr/57.webp)
 
 2) **dine møter og arrangementer vil fylles betydelig opp, med en overflod av nye ansikter som ønsker å utveksle med hverandre**.
 I møte med denne betydelige tilstrømningen, kan flere tilnærminger diskuteres og vurderes:
@@ -1230,7 +1230,7 @@ I mål om å desentralisere enda videre, kan **bruk av åpen kildekode-programva
 
 Den 5. april 1933 signerte Franklin Roosevelt, den gang den 32. presidenten i USA, Executive Order 6102, som forbød enhver person å eie gullmynter, gullbarrer og gullsertifikater over hele territoriet.
 
-![image](assets/fr/chapter37/60-enbis.webp)
+![image](assets/fr/58.webp)
 
 Åpenbart er Den store depresjonen (børskrakket i 1929) ikke lenger relevant i dag. Men hvem kan si at, i morgen, ikke en annen stat vil gjøre det samme og **forby enhver person å eie bitcoin?**
 ####
@@ -1239,7 +1239,7 @@ Men hva vil skje **hvis verdenslederne endelig forstår at Bitcoin har kapasitet
 ####
 Selvfølgelig bør vi ikke falle inn i en form for konspirasjonstenkning. Men **ingenting hindrer oss, fra nå av, fra å forutse, desentralisere og utdanne**.
 
-![image](assets/fr/chapter37/61-frter.webp)
+![image](assets/fr/59.webp)
 
 # Konklusjon
 <partId>62bc2138-c0be-5d39-a341-594690863257</partId>
@@ -1302,7 +1302,7 @@ Med målet om å ytterligere blomstre ditt fellesskap, **vil et kurs kalt COMMU2
 
 Gjennom det, **vil vi også detaljere et annet viktig punkt: organiseringen av storskalahendelser, med rundt hundre deltakere**. Vi vil adressere spørsmål som: Hvorfor? Hvilken organisering? Hvor? Hvilket budsjett? Hvordan? Hvilken drift?
 For å oppnå dette, vil vi starte med erfaringen fra flere franske fellesskap som allerede har organisert sine egne hendelser, som **BEF (Bitcoin Economic Forum, i mai, i Bretagne) og B-only (i november, i Annecy)**.
-![bilde](assets/fr/chapter38/62.webp)
+![bilde](assets/fr/61.webp)
 ####
 Selvfølgelig, **i andre land, er lovgivningen og funksjonen av foreninger forskjellige**. Mange punkter vil imidlertid være svært nyttige for å skape en forening eller organisere en større hendelse; og **vi håper at andre bitcoinere vil komme til å supplere denne opplæringen på en måte som er spesifikk for deres land**.
 
@@ -1325,7 +1325,7 @@ Det fører oss også til å **tenke på morgendagens verden, den vi ønsker å b
 
 Tvert imot, **be om hjelp fra bitcoinere som allerede har gått gjennom denne samme galleriet, som allerede har utforsket de samme problemene og bygget de samme verktøyene**. Dette vil spare deg for en enorm mengde tid.
 **Foreslå også for folkene som vil følge deg i dette eventyret å hjelpe deg, selv om det betyr å delegere noen oppgaver** og at disse kan ta lengre tid. På lang sikt vil samfunnet ditt fremstå som forent og mer modent.
-![bilde](assets/fr/chapter39/63.webp)
+![bilde](assets/fr/60.webp)
 
 Alene kan man raskt utforske en av de mange galleriene i Bitcoin-kaninhullet, til man når enden. Men så er det returreisen å gjøre. Deretter alle de andre retningene å utforske.
 Mens **ved å skape og/eller bli med i et fellesskap av bitcoinere, ved å dele og utveksle med dem regelmessig, vil du utforske alle retningene av Bitcoin-kaninhullet samtidig**.
