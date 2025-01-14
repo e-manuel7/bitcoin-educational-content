@@ -111,7 +111,7 @@ Buona fortuna con i tuoi studi e se hai bisogno di contattare il nostro team o g
 
 
 
-## Valuta il corso
+## Recensioni & Valutazioni
 <chapterId>0217e8b0-942a-5fee-bd91-9a866551eff3</chapterId>
 <isCourseReview>true</isCourseReview>
 

@@ -1302,7 +1302,7 @@ Tämä mystinen näkökulma Bitcoinin luojasta tiivistettiin hyvin Hal Finneyn t
 >
 > Mitä S tarkoittaa?"
 
-## Kurssin arviointi
+## Arviot & Arvosanat
 
 <chapterId>73825805-29e2-54bf-a8c3-62614b52fbef</chapterId>
 <isCourseReview>true</isCourseReview>

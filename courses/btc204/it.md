@@ -3594,7 +3594,7 @@ _Per creare questo capitolo sui Pagamenti Silenziosi, ho utilizzato [il sito di 
 # Conclusione
 <partId>2aee56c0-b285-4799-b4f7-373a552ee2b2</partId>
 
-## Valuta questo corso
+## Recensioni & Valutazioni
 <chapterId>195d149f-80fa-5816-8b46-995a9226d082</chapterId>
 <isCourseReview>true</isCourseReview>
 

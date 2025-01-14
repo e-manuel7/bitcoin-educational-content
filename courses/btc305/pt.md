@@ -2408,7 +2408,7 @@ Como a configuração no Umbrel difere das duas opções hospedadas anteriorment
 
 
 
-## Avalie o curso
+## Avaliações & Notas
 <chapterId>d90bb93d-b894-551e-9fd6-6855c739a904</chapterId>
 <isCourseReview>true</isCourseReview>
 

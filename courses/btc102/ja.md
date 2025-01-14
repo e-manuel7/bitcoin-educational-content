@@ -953,7 +953,7 @@ _暗号資産の相続計画、所有者のための簡単なガイド、Pamela 
 
 <partId>a8425389-4a53-4b57-b9b4-36c1cab12de5</partId>
 
-## コースを評価する
+## レビュー & 評価
 
 <chapterId>3f43175a-fb7a-5b1c-a887-7dcf615d7a3a</chapterId>
 <isCourseReview>true</isCourseReview>

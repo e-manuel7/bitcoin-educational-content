@@ -934,7 +934,7 @@ Hyperinflasjon er et fascinerende emne som har blitt studert gjennom ulike histo
 
 <partId>cb1f4a4b-556a-4e47-a5cc-136be35a1f9a</partId>
 
-## Evaluer dette kurset
+## Vurderinger & Karakterer
 
 <chapterId>1a37317e-372a-5241-b478-8316d44f9283</chapterId>
 <isCourseReview>true</isCourseReview>

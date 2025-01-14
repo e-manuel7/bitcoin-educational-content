@@ -1575,7 +1575,7 @@ Loomulikult **erinevad teistes riikides seadusandlus ja ühingute toimimine**. P
 
 
 
-## Hinnake kursust
+## Hinnangud & Reitingud
 <chapterId>08a35d2a-204b-519a-9bb1-588665a037fa</chapterId>
 <isCourseReview>true</isCourseReview>
 

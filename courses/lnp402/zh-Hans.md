@@ -158,7 +158,7 @@ LN托斯卡纳活动的第一周
 <partId>aff1e861-e6a3-58ad-af6a-33ceaedbda99</partId>
 
 
-## 评估课程
+## 评价 & 评分
 <chapterId>9331e519-9e5c-5639-9d0d-055587d8ba4c</chapterId>
 <isCourseReview>true</isCourseReview>
 

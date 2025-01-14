@@ -1408,7 +1408,7 @@ Pro Hayeka minulá nestabilita tržní ekonomiky vychází z faktu, že nejdůle
 ![image](assets/6/img-006.webp)
 Hayek věřil, že volný trh s privátními měnami by vedl k větší měnové stabilitě. Téměř 50 let později kryptoměna jako Bitcoin ztělesňuje Hayekovu vizi konkurence tím, že nabízí decentralizovanou alternativu k monopolistickému systému centrálních bank. Bitcoin, se svým emisním limitem 21 milionů jednotek, je zárukou proti inflaci a libovůli regulátorů.
 
-## Ohodnoťte kurz
+## Recenze & Hodnocení
 
 <chapterId>6759868f-749d-5fe7-bbb1-24f603e8b34e</chapterId>
 <isCourseReview>true</isCourseReview>

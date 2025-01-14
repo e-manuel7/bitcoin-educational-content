@@ -1629,7 +1629,7 @@ Die Zukunft ist hell!
 
 <partId>0d839c56-4b1e-4863-851f-4d508f3e0020</partId>
 
-## Bewerten Sie den Kurs
+## Bewertungen & Noten
 
 <chapterId>86e358bb-88f4-5d20-af53-93f0f3524590</chapterId>
 <isCourseReview>true</isCourseReview>

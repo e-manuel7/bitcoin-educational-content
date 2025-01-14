@@ -1627,7 +1627,7 @@ Al concluir este curso, esperamos que apliques el conocimiento adquirido aquí e
 
 <partId>0d839c56-4b1e-4863-851f-4d508f3e0020</partId>
 
-## Evalúa el curso
+## Reseñas & Valoraciones
 
 <chapterId>86e358bb-88f4-5d20-af53-93f0f3524590</chapterId>
 <isCourseReview>true</isCourseReview>

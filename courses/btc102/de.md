@@ -1002,7 +1002,7 @@ In jedem Fall bleiben alle unsere Schulungen kostenlos, und es stehen viele Ress
 
 <partId>a8425389-4a53-4b57-b9b4-36c1cab12de5</partId>
 
-## Bewerten Sie den Kurs
+## Bewertungen & Noten
 
 <chapterId>3f43175a-fb7a-5b1c-a887-7dcf615d7a3a</chapterId>
 <isCourseReview>true</isCourseReview>

@@ -2473,7 +2473,7 @@ How does the setup on Umbrel differ from the previous two hosted options?
 
 
 
-## Evaluate the course
+## Reviews & Ratings
 <chapterId>d90bb93d-b894-551e-9fd6-6855c739a904</chapterId>
 <isCourseReview>true</isCourseReview>
 

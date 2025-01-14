@@ -1038,7 +1038,7 @@ I bunn og grunn tok Reagan fra Bastiat flere nøkkelelementer av et liberalt syn
 
 <partId>3b62de5c-5d4a-5182-ab14-f7ef13c97e28</partId>
 
-## Evaluer dette kurset
+## Vurderinger & Karakterer
 
 <chapterId>db20170d-ceb6-56cd-b4e5-c690942f8b29</chapterId>
 <isCourseReview>true</isCourseReview>

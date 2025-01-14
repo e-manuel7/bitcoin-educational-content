@@ -2391,7 +2391,7 @@ In che modo la configurazione su Umbrel differisce dalle precedenti due opzioni 
 
 
 
-## Valuta il corso
+## Recensioni & Valutazioni
 <chapterId>d90bb93d-b894-551e-9fd6-6855c739a904</chapterId>
 <isCourseReview>true</isCourseReview>
 

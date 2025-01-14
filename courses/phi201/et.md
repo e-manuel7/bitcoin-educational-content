@@ -1401,7 +1401,7 @@ Hayeki jaoks tuleneb turumajanduse varasem ebastabiilsus asjaolust, et turumehha
 ![image](assets/6/img-006.webp)
 Hayek uskus, et eraomanduses olevate valuutade vaba turg viiks suurema rahalise stabiilsuseni. Peaaegu 50 aastat hiljem kehastab krüptoraha nagu Bitcoin Hayeki konkurentsivõimelist visiooni, pakkudes detsentraliseeritud alternatiivi keskpankade monopolistlikule süsteemile. Bitcoin, mille emiteerimislimiit on 21 miljonit ühikut, on garantii inflatsiooni ja regulaatorite meelevaldsuse vastu.
 
-## Hinda kursust
+## Hinnangud & Reitingud
 
 <chapterId>6759868f-749d-5fe7-bbb1-24f603e8b34e</chapterId>
 <isCourseReview>true</isCourseReview>

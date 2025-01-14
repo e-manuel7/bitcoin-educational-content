@@ -1289,7 +1289,7 @@ Dette mystiske aspektet rundt skaperen av Bitcoin ble godt oppsummert av Hal Fin
 >
 > Hva står S for?"
 
-## Evaluer kurset
+## Vurderinger & Karakterer
 
 <chapterId>73825805-29e2-54bf-a8c3-62614b52fbef</chapterId>
 <isCourseReview>true</isCourseReview>

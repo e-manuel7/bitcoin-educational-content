@@ -503,7 +503,7 @@ Passkiz是另一种可行且安全的密码管理替代方案。然而，一个�
 
 <partId>3d8ac4c9-f05b-4133-a40a-6e19d579f05f</partId>
 
-## 评价本课程
+## 评价 & 评分
 
 <chapterId>6be74d2d-2116-5386-9d92-c4c3e2103c68</chapterId>
 <isCourseReview>true</isCourseReview>

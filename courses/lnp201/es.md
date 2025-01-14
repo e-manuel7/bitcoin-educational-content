@@ -978,7 +978,7 @@ Hemos visto que la gestión de liquidez es un desafío en Lightning para asegura
 
 <partId>b8715c1c-7ae2-49b7-94c7-35bf85346ad3</partId>
 
-## Evalúe este curso
+## Reseñas & Valoraciones
 
 <chapterId>38814c99-eb7b-5772-af49-4386ee2ce9b0</chapterId>
 <isCourseReview>true</isCourseReview>

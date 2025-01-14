@@ -2377,7 +2377,7 @@ Cài đặt trên Umbrel khác với hai lựa chọn sử dụng dịch vụ ho
 
 
 
-## Đánh giá khóa học
+## Nhận xét & Đánh giá
 <chapterId>d90bb93d-b894-551e-9fd6-6855c739a904</chapterId>
 <isCourseReview>true</isCourseReview>
 

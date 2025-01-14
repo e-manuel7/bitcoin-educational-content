@@ -138,7 +138,7 @@ Chúc bạn học tốt.
 
 
 
-## Đánh giá khóa học
+## Nhận xét & Đánh giá
 <chapterId>9331e519-9e5c-5639-9d0d-055587d8ba4c</chapterId>
 <isCourseReview>true</isCourseReview>
 

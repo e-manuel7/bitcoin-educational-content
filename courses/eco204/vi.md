@@ -957,7 +957,7 @@ Siêu lạm phát là một chủ đề thú vị đã được nghiên cứu qu
 
 <partId>cb1f4a4b-556a-4e47-a5cc-136be35a1f9a</partId>
 
-## Đánh giá khóa học này
+## Nhận xét & Đánh giá
 
 <chapterId>1a37317e-372a-5241-b478-8316d44f9283</chapterId>
 <isCourseReview>true</isCourseReview>

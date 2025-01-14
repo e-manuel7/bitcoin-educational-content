@@ -1287,7 +1287,7 @@ Thay đổi hệ thống tài chính đòi hỏi phải thay đổi tiền tệ.
 
 <partId>9ed4b454-2950-40b4-a56b-68d109689a82</partId>
 
-## Đánh giá khóa học
+## Nhận xét & Đánh giá
 
 <chapterId>585729e2-b0ab-51b5-89ec-593e3ea22c57</chapterId>
 <isCourseReview>true</isCourseReview>

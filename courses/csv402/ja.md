@@ -109,7 +109,7 @@ Bitcoinの最も先進的なトピックの1つであるこのコースを楽し
 
 
 
-## コースを評価してください
+## レビュー & 評価
 <chapterId>0217e8b0-942a-5fee-bd91-9a866551eff3</chapterId>
 <isCourseReview>true</isCourseReview>
 

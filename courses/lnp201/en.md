@@ -1005,7 +1005,7 @@ We have seen that liquidity management is a challenge on Lightning to ensure the
 
 <partId>b8715c1c-7ae2-49b7-94c7-35bf85346ad3</partId>
 
-## Evaluate this course
+## Reviews & Ratings
 
 <chapterId>38814c99-eb7b-5772-af49-4386ee2ce9b0</chapterId>
 <isCourseReview>true</isCourseReview>

@@ -1289,7 +1289,7 @@ See müstiline aspekt Bitcoini looja ümber võeti hästi kokku Hal Finney poolt
 >
 > Mida tähendab S?"
 
-## Hinda kursust
+## Hinnangud & Reitingud
 
 <chapterId>73825805-29e2-54bf-a8c3-62614b52fbef</chapterId>
 <isCourseReview>true</isCourseReview>

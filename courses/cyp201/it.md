@@ -2239,7 +2239,7 @@ Ed eccoci! Abbiamo raggiunto la fine di questo corso CYP201. Se hai trovato ques
 
 <partId>58111408-b734-54db-9ea7-0d5b67f99f99</partId>
 
-## Valuta questo corso
+## Recensioni & Valutazioni
 
 <chapterId>0cd71541-a7fd-53db-b66a-8611b6a28b04</chapterId>
 <isCourseReview>true</isCourseReview>

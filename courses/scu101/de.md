@@ -521,7 +521,7 @@ Im Rahmen des Lernmoduls "Sicherheit 101" von Entdecke Bitcoin auf der Akademie 
 
 <partId>3d8ac4c9-f05b-4133-a40a-6e19d579f05f</partId>
 
-## Bewerten Sie diesen Kurs
+## Bewertungen & Noten
 
 <chapterId>6be74d2d-2116-5386-9d92-c4c3e2103c68</chapterId>
 <isCourseReview>true</isCourseReview>

@@ -2380,7 +2380,7 @@ Hvordan skiller oppsettet på Umbrel seg fra de to tidligere vertsalternativene?
 
 
 
-## Evaluer kurset
+## Vurderinger & Karakterer
 <chapterId>d90bb93d-b894-551e-9fd6-6855c739a904</chapterId>
 <isCourseReview>true</isCourseReview>
 

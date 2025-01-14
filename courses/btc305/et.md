@@ -2423,7 +2423,7 @@ Kuidas erineb seadistamine Umbrelil võrreldes kahe eelneva majutatud võimaluse
 
 
 
-## Hinnake kursust
+## Hinnangud & Reitingud
 <chapterId>d90bb93d-b894-551e-9fd6-6855c739a904</chapterId>
 <isCourseReview>true</isCourseReview>
 

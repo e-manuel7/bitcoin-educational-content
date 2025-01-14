@@ -1327,7 +1327,7 @@ _自由の倫理_ および _国家の解剖学_ において、マレー・ロ�
 
 
 
-## コースを評価してください
+## レビュー & 評価
 <chapterId>6759868f-749d-5fe7-bbb1-24f603e8b34e</chapterId>
 <isCourseReview>true</isCourseReview>
 
@@ -1355,7 +1355,7 @@ _自由の倫理_ および _国家の解剖学_ において、マレー・ロ�
 (_経済政策: 今日と明日のための思考_、1979年)。
 # 結論
 <partId>df550767-5876-4034-9c6a-31238363e85f</partId>
-## このコースを評価する
+## レビュー & 評価
 <chapterId>b972fd24-47e1-4877-b21d-6451ffdafcdd</chapterId>
 <isCourseReview>true</isCourseReview>
 ## 最終試験

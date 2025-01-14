@@ -110,7 +110,7 @@ objectives:
 <partId>b0baebfc-d146-5938-849a-f835fafb386f</partId>
 
 
-## 评估课程
+## 评价 & 评分
 <chapterId>0217e8b0-942a-5fee-bd91-9a866551eff3</chapterId>
 <isCourseReview>true</isCourseReview>
 

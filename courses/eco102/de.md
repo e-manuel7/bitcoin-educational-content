@@ -1018,7 +1018,7 @@ Im Wesentlichen übernahm Reagan von Bastiat mehrere Schlüsselelemente einer li
 
 <partId>3b62de5c-5d4a-5182-ab14-f7ef13c97e28</partId>
 
-## Bewerten Sie diesen Kurs
+## Bewertungen & Noten
 
 <chapterId>db20170d-ceb6-56cd-b4e5-c690942f8b29</chapterId>
 <isCourseReview>true</isCourseReview>

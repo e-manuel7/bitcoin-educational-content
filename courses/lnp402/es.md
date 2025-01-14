@@ -137,7 +137,7 @@ Buena suerte con tus estudios.
 
 
 
-## Danos tu opinión sobre este curso
+## Reseñas & Valoraciones
 <chapterId>9331e519-9e5c-5639-9d0d-055587d8ba4c</chapterId>
 <isCourseReview>true</isCourseReview>
 

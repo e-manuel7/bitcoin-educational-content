@@ -1275,7 +1275,7 @@ Rahoitusjärjestelmän muuttaminen edellyttää valuutan muuttamista. Satoshi lo
 
 <partId>9ed4b454-2950-40b4-a56b-68d109689a82</partId>
 
-## Kurssin arviointi
+## Arviot & Arvosanat
 
 <chapterId>585729e2-b0ab-51b5-89ec-593e3ea22c57</chapterId>
 <isCourseReview>true</isCourseReview>

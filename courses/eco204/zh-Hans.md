@@ -937,7 +937,7 @@ Bernold提出的一个有趣观点是，货币改革的成功不仅取决于其�
 
 <partId>cb1f4a4b-556a-4e47-a5cc-136be35a1f9a</partId>
 
-## 评估本课程
+## 评价 & 评分
 
 <chapterId>1a37317e-372a-5241-b478-8316d44f9283</chapterId>
 <isCourseReview>true</isCourseReview>

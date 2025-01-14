@@ -534,7 +534,7 @@ La metodologia è un aspetto essenziale nell'economia e nelle scienze sociali in
 
 <partId>ae828713-d133-559f-93c2-101cb5245fca</partId>
 
-## Valuta il corso
+## Recensioni & Valutazioni
 
 <chapterId>29d4323c-e34e-5834-bf03-2f3ed10d751b</chapterId>
 <isCourseReview>true</isCourseReview>

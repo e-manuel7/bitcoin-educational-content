@@ -1225,7 +1225,7 @@ Questo aspetto misterioso che circonda il creatore di Bitcoin è stato ben riass
 >
 > Cosa rappresenta la S?"
 
-## Valuta il corso
+## Recensioni & Valutazioni
 <chapterId>73825805-29e2-54bf-a8c3-62614b52fbef</chapterId>
 <isCourseReview>true</isCourseReview>
 
@@ -1350,7 +1350,7 @@ In quarto luogo, Bitcoin è stata una creazione altruistica. Satoshi Nakamoto ha
 Nel 2011, Satoshi è scomparso, ma Bitcoin è sopravvissuto. La criptovaluta ha addirittura decollato definitivamente, sia dal punto di vista mediatico che economico. La macchina era stata avviata e nessuno poteva fermarla.
 # Conclusione
 <partId>89532d9b-af1f-49f3-b87a-b11987e303d5</partId>
-## Valuta questo corso
+## Recensioni & Valutazioni
 <chapterId>8f27cc89-8759-4a4f-aff2-c1d3d9ecf14e</chapterId>
 <isCourseReview>true</isCourseReview>
 ## Esame finale

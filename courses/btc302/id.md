@@ -1562,7 +1562,7 @@ Tentu saja, **di negara lain, legislasi dan fungsi asosiasi berbeda**. Namun, ba
 
 
 
-## Evaluasi kursus ini
+## Ulasan & Penilaian
 <chapterId>08a35d2a-204b-519a-9bb1-588665a037fa</chapterId>
 <isCourseReview>true</isCourseReview>
 

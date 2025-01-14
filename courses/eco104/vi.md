@@ -1666,7 +1666,7 @@ Tương lai tươi sáng!
 
 <partId>0d839c56-4b1e-4863-851f-4d508f3e0020</partId>
 
-## Đánh giá khóa học
+## Nhận xét & Đánh giá
 
 <chapterId>86e358bb-88f4-5d20-af53-93f0f3524590</chapterId>
 <isCourseReview>true</isCourseReview>

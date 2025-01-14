@@ -3484,7 +3484,7 @@ Vì tính năng này là mới, nên cần thận trọng và tránh sử dụng
 # Kết luận
 <partId>2aee56c0-b285-4799-b4f7-373a552ee2b2</partId>
 
-## Đánh giá khóa học này
+## Nhận xét & Đánh giá
 <chapterId>195d149f-80fa-5816-8b46-995a9226d082</chapterId>
 <isCourseReview>true</isCourseReview>
 

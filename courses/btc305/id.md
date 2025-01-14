@@ -2406,7 +2406,7 @@ Bagaimana cara pengaturan di Umbrel berbeda dari dua opsi hosted sebelumnya?
 
 
 
-## Evaluasi kursus ini
+## Ulasan & Penilaian
 <chapterId>d90bb93d-b894-551e-9fd6-6855c739a904</chapterId>
 <isCourseReview>true</isCourseReview>
 

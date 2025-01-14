@@ -1236,7 +1236,7 @@ Satoshi将网站、论坛和wiki的控制权转移给了Martti，Martti已经在
 > S代表什么？"
 
 
-## 评估课程
+## 评价 & 评分
 <chapterId>73825805-29e2-54bf-a8c3-62614b52fbef</chapterId>
 <isCourseReview>true</isCourseReview>
 
@@ -1361,7 +1361,7 @@ jimbobway在论坛上发布的与美元等值那天的照片（来源：[Bitcoin
 2011年，中本聪消失了，但比特币存活了下来。这种加密货币甚至从媒体和经济的角度 definitively 起飞了。这台机器启动了，没有人能停止它。
 # 总结
 <partId>89532d9b-af1f-49f3-b87a-b11987e303d5</partId>
-## 评价本课程
+## 评价 & 评分
 <chapterId>8f27cc89-8759-4a4f-aff2-c1d3d9ecf14e</chapterId>
 <isCourseReview>true</isCourseReview>
 ## 期末考试

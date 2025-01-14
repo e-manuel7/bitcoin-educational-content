@@ -1242,7 +1242,7 @@ Khía cạnh bí ẩn xung quanh người tạo ra Bitcoin đã được Hal Fin
 >
 > Chữ S đại diện cho cái gì?"
 
-## Đánh giá khóa học
+## Nhận xét & Đánh giá
 <chapterId>73825805-29e2-54bf-a8c3-62614b52fbef</chapterId>
 <isCourseReview>true</isCourseReview>
 
@@ -1368,7 +1368,7 @@ Thứ tư, Bitcoin là một sáng tạo vị tha. Satoshi Nakamoto đã cung c�
 Vào năm 2011, Satoshi biến mất, nhưng Bitcoin vẫn tồn tại. Đồng tiền mã hóa thậm chí đã chính thức cất cánh, từ cả quan điểm truyền thông và kinh tế. Cỗ máy đã được khởi động và không ai có thể ngăn cản nó.
 # Kết luận
 <partId>89532d9b-af1f-49f3-b87a-b11987e303d5</partId>
-## Đánh giá khóa học này
+## Nhận xét & Đánh giá
 <chapterId>8f27cc89-8759-4a4f-aff2-c1d3d9ecf14e</chapterId>
 <isCourseReview>true</isCourseReview>
 ## Kỳ thi cuối khóa

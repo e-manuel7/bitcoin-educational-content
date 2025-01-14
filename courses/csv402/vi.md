@@ -112,7 +112,7 @@ Chúc bạn may mắn với việc học của mình, và nếu bạn cần liê
 
 
 
-## Đánh giá khóa học
+## Nhận xét & Đánh giá
 <chapterId>0217e8b0-942a-5fee-bd91-9a866551eff3</chapterId>
 <isCourseReview>true</isCourseReview>
 

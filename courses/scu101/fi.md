@@ -504,7 +504,7 @@ Osana "Security 101" -koulutusmoduulia Découvre Bitcoin Academyssa keskustelimm
 
 <partId>3d8ac4c9-f05b-4133-a40a-6e19d579f05f</partId>
 
-## Arvioi tämä kurssi
+## Arviot & Arvosanat
 
 <chapterId>6be74d2d-2116-5386-9d92-c4c3e2103c68</chapterId>
 <isCourseReview>true</isCourseReview>

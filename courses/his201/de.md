@@ -1225,7 +1225,7 @@ Dieser mysteriöse Aspekt, der den Schöpfer von Bitcoin umgibt, wurde im Juni 2
 >
 > Wofür steht das S?"
 
-## Kurs bewerten
+## Bewertungen & Noten
 <chapterId>73825805-29e2-54bf-a8c3-62614b52fbef</chapterId>
 <isCourseReview>true</isCourseReview>
 
@@ -1348,7 +1348,7 @@ Viertens war die Schöpfung von Bitcoin altruistisch. Satoshi Nakamoto bot Bitco
 Im Jahr 2011 verschwand Satoshi, aber Bitcoin überlebte. Die Kryptowährung startete endgültig durch, sowohl aus medialer als auch wirtschaftlicher Sicht. Die Maschine war in Gang gesetzt und niemand konnte sie stoppen.
 # Abschluss
 <partId>89532d9b-af1f-49f3-b87a-b11987e303d5</partId>
-## Bewerten Sie diesen Kurs
+## Bewertungen & Noten
 <chapterId>8f27cc89-8759-4a4f-aff2-c1d3d9ecf14e</chapterId>
 <isCourseReview>true</isCourseReview>
 ## Abschlussprüfung

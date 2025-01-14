@@ -2392,7 +2392,7 @@ Umbrel запросит подтверждение введенных слов.
 
 
 
-## Оцените курс
+## Отзывы & Оценки
 <chapterId>d90bb93d-b894-551e-9fd6-6855c739a904</chapterId>
 <isCourseReview>true</isCourseReview>
 

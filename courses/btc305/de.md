@@ -2408,7 +2408,7 @@ Wie unterscheidet sich die Einrichtung auf Umbrel von den vorherigen zwei gehost
 
 
 
-## Bewerten Sie den Kurs
+## Bewertungen & Noten
 <chapterId>d90bb93d-b894-551e-9fd6-6855c739a904</chapterId>
 <isCourseReview>true</isCourseReview>
 

@@ -770,7 +770,7 @@ Braiins OS+支持ASIC的超频、降频和自动调频。它允许用户灵活�
 
 <partId>fa42ec0b-b1fd-47f6-8268-6eab684c1d2b</partId>
 
-## 评价本课程
+## 评价 & 评分
 
 <chapterId>6af13742-df68-5cf4-b7aa-93dc0c2eaae9</chapterId>
 <isCourseReview>true</isCourseReview>

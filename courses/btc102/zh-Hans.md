@@ -1007,7 +1007,7 @@ _Cryptoasset Inheritance Planning, A simple guide for owners, Pamela Morgan, ESQ
 
 <partId>a8425389-4a53-4b57-b9b4-36c1cab12de5</partId>
 
-## 评价课程
+## 评价 & 评分
 
 <chapterId>3f43175a-fb7a-5b1c-a887-7dcf615d7a3a</chapterId>
 <isCourseReview>true</isCourseReview>

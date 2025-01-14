@@ -1327,7 +1327,7 @@ Tất nhiên, **ở các quốc gia khác, luật pháp và cách thức hoạt 
 
 
 
-## Đánh giá khóa học
+## Nhận xét & Đánh giá
 <chapterId>08a35d2a-204b-519a-9bb1-588665a037fa</chapterId>
 <isCourseReview>true</isCourseReview>
 

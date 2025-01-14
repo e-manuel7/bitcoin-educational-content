@@ -111,7 +111,7 @@ Lykke til med studiene, og hvis du trenger å kontakte teamet vårt eller lærer
 
 
 
-## Evaluere kurset
+## Vurderinger & Karakterer
 <chapterId>0217e8b0-942a-5fee-bd91-9a866551eff3</chapterId>
 <isCourseReview>true</isCourseReview>
 

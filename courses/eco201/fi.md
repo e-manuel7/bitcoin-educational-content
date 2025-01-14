@@ -518,7 +518,7 @@ Metodologia on olennainen osa taloustieteessä ja yhteiskuntatieteissä yleensä
 
 <partId>ae828713-d133-559f-93c2-101cb5245fca</partId>
 
-## Arvioi kurssi
+## Arviot & Arvosanat
 
 <chapterId>29d4323c-e34e-5834-bf03-2f3ed10d751b</chapterId>
 <isCourseReview>true</isCourseReview>

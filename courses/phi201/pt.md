@@ -1406,7 +1406,7 @@ Hayek acreditava que um mercado livre de moedas privadas levaria a uma maior est
 
 
 
-## Avalie o curso
+## Avaliações & Notas
 <chapterId>6759868f-749d-5fe7-bbb1-24f603e8b34e</chapterId>
 <isCourseReview>true</isCourseReview>
 
@@ -1435,7 +1435,7 @@ Tudo o que acontece na sociedade global em que vivemos é resultado de ideias. A
 (_Economic Policy: Thoughts for Today and Tomorrow_, 1979).
 # Conclusão
 <partId>df550767-5876-4034-9c6a-31238363e85f</partId>
-## Avalie este curso
+## Avaliações & Notas
 <chapterId>b972fd24-47e1-4877-b21d-6451ffdafcdd</chapterId>
 <isCourseReview>true</isCourseReview>
 ## Exame final

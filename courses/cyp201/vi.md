@@ -2254,7 +2254,7 @@ Và đó là tất cả! Chúng ta đã đến cuối khóa học CYP201. Nếu 
 # Kết luận
 <partId>58111408-b734-54db-9ea7-0d5b67f99f99</partId>
 
-## Đánh giá khóa học này
+## Nhận xét & Đánh giá
 <chapterId>0cd71541-a7fd-53db-b66a-8611b6a28b04</chapterId>
 <isCourseReview>true</isCourseReview>
 

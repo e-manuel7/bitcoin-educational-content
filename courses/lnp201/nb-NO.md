@@ -978,7 +978,7 @@ Vi har sett at likviditetsstyring er en utfordring på Lightning for å sikre en
 
 <partId>b8715c1c-7ae2-49b7-94c7-35bf85346ad3</partId>
 
-## Evaluer dette kurset
+## Vurderinger & Karakterer
 
 <chapterId>38814c99-eb7b-5772-af49-4386ee2ce9b0</chapterId>
 <isCourseReview>true</isCourseReview>

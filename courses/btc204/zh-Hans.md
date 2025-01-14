@@ -3617,7 +3617,7 @@ _为了创建这一章节关于Silent Payments，我使用了[Silent Payments解
 
 <partId>2aee56c0-b285-4799-b4f7-373a552ee2b2</partId>
 
-## 评价此课程
+## 评价 & 评分
 
 <chapterId>195d149f-80fa-5816-8b46-995a9226d082</chapterId>
 <isCourseReview>true</isCourseReview>

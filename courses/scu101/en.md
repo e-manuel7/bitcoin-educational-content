@@ -524,7 +524,7 @@ As part of the "Security 101" training module on Découvre Bitcoin Academy, we a
 
 <partId>3d8ac4c9-f05b-4133-a40a-6e19d579f05f</partId>
 
-## Evaluate this course
+## Reviews & Ratings
 
 <chapterId>6be74d2d-2116-5386-9d92-c4c3e2103c68</chapterId>
 <isCourseReview>true</isCourseReview>

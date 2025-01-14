@@ -1406,7 +1406,7 @@ Hayek uskoi, että yksityisten valuuttojen vapaa markkinatalous johtaisi suuremp
 
 
 
-## Arvioi kurssi
+## Arviot & Arvosanat
 <chapterId>6759868f-749d-5fe7-bbb1-24f603e8b34e</chapterId>
 <isCourseReview>true</isCourseReview>
 
@@ -1435,7 +1435,7 @@ Kaikki, mitä tapahtuu globaalissa yhteiskunnassamme, on ideoiden tulosta. Sekä
 (_Talouspolitiikka: Ajatuksia tälle päivälle ja huomiselle_, 1979).
 # Yhteenveto
 <partId>df550767-5876-4034-9c6a-31238363e85f</partId>
-## Arvioi tämä kurssi
+## Arviot & Arvosanat
 <chapterId>b972fd24-47e1-4877-b21d-6451ffdafcdd</chapterId>
 <isCourseReview>true</isCourseReview>
 ## Loppukoe

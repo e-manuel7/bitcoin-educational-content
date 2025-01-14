@@ -1308,7 +1308,7 @@ Por supuesto, **en otros países, la legislación y el funcionamiento de las aso
 
 
 
-## Danos tu opinión sobre este curso
+## Reseñas & Valoraciones
 <chapterId>08a35d2a-204b-519a-9bb1-588665a037fa</chapterId>
 <isCourseReview>true</isCourseReview>
 

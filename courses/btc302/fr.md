@@ -1423,7 +1423,7 @@ Seul(e), il est vrai que l'on peut rapidement explorer une des nombreuses galeri
 
 Alors qu'**en créant et/ou en intégrant une communauté de bitcoiners, en partageant et en échangeant avec eux régulièrement, vous avancerez en même temps dans toutes les directions du terrier**.
 
-## Évaluez ce cours
+## Avis & Notes
 <chapterId>08a35d2a-204b-519a-9bb1-588665a037fa</chapterId>
 <isCourseReview>true</isCourseReview>
 

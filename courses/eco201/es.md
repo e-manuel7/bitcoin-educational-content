@@ -534,7 +534,7 @@ La metodología es un aspecto esencial en economía y en ciencias sociales en ge
 
 <partId>ae828713-d133-559f-93c2-101cb5245fca</partId>
 
-## Danos tu opinión sobre este curso
+## Reseñas & Valoraciones
 
 <chapterId>29d4323c-e34e-5834-bf03-2f3ed10d751b</chapterId>
 <isCourseReview>true</isCourseReview>

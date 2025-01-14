@@ -771,7 +771,7 @@ Braiins OS+は、ASICのオーバークロック、アンダークロック、�
 
 <partId>fa42ec0b-b1fd-47f6-8268-6eab684c1d2b</partId>
 
-## このコースを評価する
+## レビュー & 評価
 
 <chapterId>6af13742-df68-5cf4-b7aa-93dc0c2eaae9</chapterId>
 <isCourseReview>true</isCourseReview>

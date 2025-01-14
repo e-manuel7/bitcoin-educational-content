@@ -3474,7 +3474,7 @@ Silent Paymentsの提案は比較的最近のもので、これまでに実装�
 # 結論
 <partId>2aee56c0-b285-4799-b4f7-373a552ee2b2</partId>
 
-## このコースを評価する
+## レビュー & 評価
 <chapterId>195d149f-80fa-5816-8b46-995a9226d082</chapterId>
 <isCourseReview>true</isCourseReview>
 

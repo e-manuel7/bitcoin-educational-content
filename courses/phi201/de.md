@@ -1405,7 +1405,7 @@ Hayek glaubte, dass ein freier Markt privater Währungen zu größerer monetäre
 
 
 
-## Bewerten Sie den Kurs
+## Bewertungen & Noten
 <chapterId>6759868f-749d-5fe7-bbb1-24f603e8b34e</chapterId>
 <isCourseReview>true</isCourseReview>
 
@@ -1434,7 +1434,7 @@ Alles, was in der globalen Gesellschaft, in der wir leben, geschieht, ist das Er
 (_Wirtschaftspolitik: Gedanken für heute und morgen_, 1979).
 # Abschluss
 <partId>df550767-5876-4034-9c6a-31238363e85f</partId>
-## Bewerten Sie diesen Kurs
+## Bewertungen & Noten
 <chapterId>b972fd24-47e1-4877-b21d-6451ffdafcdd</chapterId>
 <isCourseReview>true</isCourseReview>
 ## Abschlussprüfung

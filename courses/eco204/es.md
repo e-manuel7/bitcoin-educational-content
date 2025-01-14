@@ -927,7 +927,7 @@ La hiperinflación es un tema fascinante que se ha estudiado a través de divers
 
 <partId>cb1f4a4b-556a-4e47-a5cc-136be35a1f9a</partId>
 
-## Evalúe este curso
+## Reseñas & Valoraciones
 
 <chapterId>1a37317e-372a-5241-b478-8316d44f9283</chapterId>
 <isCourseReview>true</isCourseReview>

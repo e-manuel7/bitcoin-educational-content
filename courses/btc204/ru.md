@@ -3853,7 +3853,7 @@ _Для создания этой главы о Silent Payments я исполь�
 
 <partId>2aee56c0-b285-4799-b4f7-373a552ee2b2</partId>
 
-## Оцените этот курс
+## Отзывы & Оценки
 
 <chapterId>195d149f-80fa-5816-8b46-995a9226d082</chapterId>
 <isCourseReview>true</isCourseReview>

@@ -1002,7 +1002,7 @@ Dù trường hợp nào, tất cả các khóa học của chúng tôi đều m
 
 <partId>a8425389-4a53-4b57-b9b4-36c1cab12de5</partId>
 
-## Đánh giá khóa học
+## Nhận xét & Đánh giá
 
 <chapterId>3f43175a-fb7a-5b1c-a887-7dcf615d7a3a</chapterId>
 <isCourseReview>true</isCourseReview>

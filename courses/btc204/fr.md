@@ -3971,7 +3971,7 @@ Puisque cette fonctionnalité est récente, il est conseillé de faire preuve de
 # Conclusion
 <partId>2aee56c0-b285-4799-b4f7-373a552ee2b2</partId>
 
-## Évaluez le cours
+## Avis & Notes
 
 <chapterId>195d149f-80fa-5816-8b46-995a9226d082</chapterId>
 <isCourseReview>true</isCourseReview>

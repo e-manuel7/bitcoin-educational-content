@@ -3752,7 +3752,7 @@ _Um dieses Kapitel über Silent Payments zu erstellen, habe ich [die Silent Paym
 # Abschluss
 <partId>2aee56c0-b285-4799-b4f7-373a552ee2b2</partId>
 
-## Bewerten Sie diesen Kurs
+## Bewertungen & Noten
 <chapterId>195d149f-80fa-5816-8b46-995a9226d082</chapterId>
 <isCourseReview>true</isCourseReview>
 

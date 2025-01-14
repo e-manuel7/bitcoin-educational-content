@@ -1339,7 +1339,7 @@ This mysterious aspect surrounding the creator of Bitcoin was well summarized by
 > What does the S stand for?"
 
 
-## Evaluate the course
+## Reviews & Ratings
 <chapterId>73825805-29e2-54bf-a8c3-62614b52fbef</chapterId>
 <isCourseReview>true</isCourseReview>
 
@@ -1479,7 +1479,7 @@ Fourthly, Bitcoin was an altruistic creation. Satoshi Nakamoto offered Bitcoin t
 In 2011, Satoshi disappeared, but Bitcoin survived. The cryptocurrency even definitively took off, both from a media and economic viewpoint. The machine was launched and no one could stop it.
 # Conclusion
 <partId>89532d9b-af1f-49f3-b87a-b11987e303d5</partId>
-## Evaluate this course
+## Reviews & Ratings
 <chapterId>8f27cc89-8759-4a4f-aff2-c1d3d9ecf14e</chapterId>
 <isCourseReview>true</isCourseReview>
 ## Final Exam
