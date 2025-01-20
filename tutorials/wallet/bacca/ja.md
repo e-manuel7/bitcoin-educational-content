@@ -104,6 +104,7 @@ https://planb.network/tutorials/wallet/hardware/ledger-nano-s-plus-75043cb3-2e8e
 
 https://planb.network/tutorials/wallet/hardware/ledger-flex-3728773e-74d4-4177-b39f-bd923700c76a
 
+
 ## バッカの使用
 
 Ledger をコンピューターに接続し、設定した PIN コードを使用してロックを解除します。Bacca が自動的に Ledger を検出します。
@@ -140,4 +141,6 @@ Baccaは、あなたのLedgerが本物かどうかをお知らせします。本
 
 また、GnuPGのチュートリアルでは、ソフトウェアをインストールする前に、そのソフトウェアの完全性と真正性をチェックする方法について説明していますので、こちらもご覧になることをお勧めします。これは、特にLianaやSparrowのようなポートフォリオ管理ソフトウェアをインストールする際に重要な習慣です：
 
+
 https://planb.network/tutorials/others/general/integrity-authenticity-21d0420a-be02-4663-94a3-8d487f23becc
+

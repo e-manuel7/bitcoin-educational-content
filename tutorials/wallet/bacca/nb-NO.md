@@ -104,6 +104,7 @@ https://planb.network/tutorials/wallet/hardware/ledger-nano-s-plus-75043cb3-2e8e
 
 https://planb.network/tutorials/wallet/hardware/ledger-flex-3728773e-74d4-4177-b39f-bd923700c76a
 
+
 ## Bruk av Bacca
 
 Koble Ledger til datamaskinen, og lås den opp ved hjelp av PIN-koden du har angitt. Bacca bør automatisk oppdage Ledger.
@@ -141,3 +142,4 @@ Hvis du fant denne opplæringen nyttig, ville jeg være takknemlig hvis du legge
 Jeg anbefaler også at du tar en titt på denne veiledningen om GnuPG, som forklarer hvordan du sjekker integriteten og autentisiteten til programvaren din før du installerer den. Dette er en viktig praksis, spesielt når du installerer programvare for porteføljeforvaltning som Liana eller Sparrow :
 
 https://planb.network/tutorials/others/general/integrity-authenticity-21d0420a-be02-4663-94a3-8d487f23becc
+

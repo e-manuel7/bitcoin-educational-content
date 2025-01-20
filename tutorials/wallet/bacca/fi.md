@@ -104,6 +104,7 @@ https://planb.network/tutorials/wallet/hardware/ledger-nano-s-plus-75043cb3-2e8e
 
 https://planb.network/tutorials/wallet/hardware/ledger-flex-3728773e-74d4-4177-b39f-bd923700c76a
 
+
 ## Baccan käyttäminen
 
 Liitä Ledger tietokoneeseen ja avaa sen lukitus asettamallasi PIN-koodilla. Baccan pitäisi tunnistaa Ledger automaattisesti.
@@ -140,4 +141,6 @@ Jos löysit tämän ohjeen hyödylliseksi, olisin kiitollinen, jos jättäisit v
 
 Suosittelen myös tutustumaan tähän GnuPG:tä käsittelevään oppaaseen, jossa kerrotaan, miten tarkistat ohjelmiston eheyden ja aitouden ennen sen asentamista. Tämä on tärkeä käytäntö erityisesti silloin, kun asennat salkunhallintaohjelmistoja, kuten Liana tai Sparrow :
 
+
 https://planb.network/tutorials/others/general/integrity-authenticity-21d0420a-be02-4663-94a3-8d487f23becc
+
