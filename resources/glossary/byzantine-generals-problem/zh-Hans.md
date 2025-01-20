@@ -1,5 +1,5 @@
 ---
-术语：拜占庭将军问题
+term: 拜占庭将军问题
 
 ---
 莱斯利-兰波特（Leslie Lamport）、罗伯特-肖斯塔克（Robert Shostak）和马歇尔-皮斯（Marshall Pease）于1982年7月在专业杂志《ACM Transactions on Programming Languages and Systems》第4卷第3期*["拜占庭将军问题"](https://lamport.azurewebsites.net/pubs/byz.pdf)上首次提出了这个问题。今天，它被用来说明当一个分布式系统无法信任任何行为者时，在决策方面所面临的挑战。

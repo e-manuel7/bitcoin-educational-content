@@ -1,5 +1,5 @@
 ---
-术语：TARO
+term: TARO
 
 ---
 Taproot Assets Protocol 的前身。

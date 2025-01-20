@@ -1,5 +1,5 @@
 ---
-术语：ECLAIR
+term: ECLAIR
 
 ---
 用 Scala 语言编写的闪电网络协议的主要实现。Eclair 由法国 Acinq 公司开发。

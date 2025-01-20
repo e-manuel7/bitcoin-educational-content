@@ -1,5 +1,5 @@
 ---
-术语：P2WPKH
+term: P2WPKH
 
 ---
 P2WPKH 是 *Pay to Witness Public Key Hash* 的缩写。它是一种标准脚本模型，用于在UTXO上建立消费条件。P2WPKH 是在 2017 年 8 月实施 SegWit 时引入的。

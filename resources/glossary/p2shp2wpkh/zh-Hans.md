@@ -1,5 +1,5 @@
 ---
-术语：P2SH-P2WPKH
+term: P2SH-P2WPKH
 
 ---
 P2SH-P2WPKH 代表*支付到脚本哈希-支付到见证公钥哈希*。这是一种标准脚本模式，用于在UTXO上建立消费条件，也称为 "嵌套式 SegWit"。

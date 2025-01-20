@@ -1,5 +1,5 @@
 ---
-項を参照してください：op_checksequenceverify (0xb2)
+term: op_checksequenceverify (0xb2)
 
 ---
 これらの特徴が1つでも見られた場合、トランザクションは無効となる：

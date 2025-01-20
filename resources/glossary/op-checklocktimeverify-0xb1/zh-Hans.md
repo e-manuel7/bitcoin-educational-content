@@ -1,5 +1,5 @@
 ---
-术语：op_checklocktimeverify (0xb1)
+term: op_checklocktimeverify (0xb1)
 
 ---
 使交易无效，除非满足所有这些条件：
