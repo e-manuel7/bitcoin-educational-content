@@ -3,7 +3,7 @@ from math import floor
 from ruamel.yaml import YAML
 from datetime import date
 
-BASE_FEE = 2500
+BASE_FEE = .1
 yaml = YAML()
 yaml.preserve_quotes = True
 yaml.indent(mapping=2, sequence=4, offset=2)
