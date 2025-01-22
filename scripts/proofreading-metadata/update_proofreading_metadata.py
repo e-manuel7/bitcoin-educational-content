@@ -140,9 +140,24 @@ def update_proofreading(root_dir, specific_files):
             
             # Check if 'proofreading' key exists in the data
             if 'proofreading' not in data:
-                failed_files.append((yml_filepath, "Missing 'proofreading' key"))
-                progress_bar.update(1)
-                continue  # Skip to next file instead of exiting
+                # Get the original language from the file name
+                original_language = data.get('original_language')
+                
+                if original_language:
+                    # Add proofreading section at the end of the file
+                    with open(yml_filepath, 'a', encoding='utf-8') as file:
+                        file.write(f"\nproofreading:\n  - language: {original_language}\n")
+                        file.write(f"    last_contribution_date: {datetime.now().date()}\n")
+                        file.write("    urgency: 1\n")
+                        file.write("    contributors_id:\n    - Asi0Flammeus\n")
+                        file.write("    reward: 0\n")
+                    
+                    # Reload the data after adding the section
+                    data = get_yml_content(yml_filepath)
+                else:
+                    failed_files.append((yml_filepath, "Could not determine original language"))
+                    progress_bar.update(1)
+                    continue
 
             existing_languages = get_language_list_for_content(dirpath)
             existing_languages = sorted(existing_languages)
@@ -178,7 +193,6 @@ def update_proofreading(root_dir, specific_files):
                             if current_reward == None:
                                 current_reward = 0
                             evaluated_reward = evaluate_proofreading_reward(yml_filepath, language)
-                            # print(dirpath, language, current_reward, evaluated_reward)
                             if current_reward != evaluated_reward:
                                 update_proofreading_reward(yml_filepath, language, evaluated_reward)
 
@@ -201,6 +215,7 @@ def update_proofreading(root_dir, specific_files):
             print(f"Error: {error}")
     else:
         print("\nAll files were processed successfully!")
+
 
 
 def add_new_supported_language(code_language, language_difficulty):
