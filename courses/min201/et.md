@@ -202,7 +202,6 @@ Spekulatsioonid ümbritsevad ploki ruumi tulevast kasutust, kuid üldiselt aktse
 
 <chapterId>879a66b0-c20a-56b5-aad0-8a21be61e338</chapterId>
 
-![Kes hoiab võimu? Bitcoin, energia ja tootjad](https://www.youtube.com/watch?v=4wywK6BfDw8)
 Kaevurite roll Bitcoin'i võrgus on olnud intensiivse arutelu objektiks plokkide suuruse sõdade ajal. Kuigi nad on võrgu turvalisuse ja funktsionaalsuse jaoks hädavajalikud, ei oma kaevurid Bitcoin'i ökosüsteemis tingimata lõplikku võimu. Tasakaal kaevurite, sõlmede ja lõppkasutajate vahel tagab võrgu terviklikkuse ja jaotuse.
 
 ### Plokkide Suuruse Sõjad
@@ -243,7 +242,6 @@ Kokkuvõtteks, kaevurid tugevdavad Bitcoini võrgustikku tsensuuri vastu, kasuta
 
 <chapterId>e6676214-007c-5181-968e-c27536231bd6</chapterId>
 
-![Kuidas saada puutumata ja puhast bitcoini?](https://youtu.be/A5MTtn4mm44?si=D1Yi0dVwkyafeHv-)
 
 ### Hashrate, hind ja kasumlikkus
 
@@ -300,13 +298,6 @@ Kampaaniatega nagu Greenpeace'i oma ja mõnede uuringute sageli eksitavate andme
 
 Järelduseks, hoolimata regulatiivsest riskist ja kaevandamiskeelu võimalusest Euroopas, jääb kõige võimsamaks relvaks haridus ja teave. Selge ja täpne arusaam kaevandamisest, selle toimimisest ja mõjust võib aidata demüstifitseerida tööstust ja võidelda väärinfo vastu, pakkudes seeläbi paremat vastupanu potentsiaalselt kahjulikele regulatsioonidele. Inimeste koolitamise ja teavitamise algatus kaevandamise kohta, nagu see arutelu teeb, on samm õiges suunas, et tagada kaevandamise jätkusuutlikkus ja kasv Euroopas ning üle maailma. Pidevad jõupingutused harida ja teavitada on hädavajalikud, et tagada Bitcoini kaevandamise tööstuse turvaline ja edukas tulevik.
 
-## Intervjuu kaevandustööstuse professionaaliga
-
-<chapterId>4d613261-d1a8-5ffe-a50c-047a3d77d6c5</chapterId>
-
-### Tööstusliku kaevandamise telgitagused - Sebastien Gouspillou
-
-![Tööstuskaevandamise telgitagused - Sebastien Gouspillou](https://www.youtube.com/watch?v=vYaQRLSDr5E&t=69s)
 
 # Kodukaevandamine ja soojuse taaskasutus
 

@@ -84,8 +84,6 @@ Es ist vor allem wichtig, diese neue Technologie im Allgemeinen zu verstehen. Wi
 
 <chapterId>9a94b627-5b69-5d81-9125-f1fa9b0aa6ad</chapterId>
 
-![Die Vorgeschichte von Bitcoin](https://www.youtube.com/watch?v=ljHLhTzrLsw)
-
 Bevor der Begriff "Bitcoin" mit digitaler Währung und finanzieller Transformation in Verbindung gebracht wurde, legten eine Reihe von Ideen, Innovationen und sozialen Bewegungen die Grundlagen für seine Entstehung. Eines der grundlegenden Elemente dieser Vorgeschichte von Bitcoin ist die Cypherpunk-Bewegung.
 
 ### Die Cypherpunks: Visionäre der digitalen Welt

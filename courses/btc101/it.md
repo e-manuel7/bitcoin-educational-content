@@ -84,7 +84,6 @@ L'importante qui è capire in generale questa nuova tecnologia. Speriamo che la 
 
 <chapterId>9a94b627-5b69-5d81-9125-f1fa9b0aa6ad</chapterId>
 
-![La preistoria di Bitcoin](https://www.youtube.com/watch?v=ljHLhTzrLsw)
 
 Prima che il termine "Bitcoin" diventasse sinonimo di moneta digitale e di trasformazione finanziaria, una serie di idee, innovazioni e movimenti sociali hanno gettato le basi per la sua creazione. Uno degli elementi fondamentali di questa preistoria di Bitcoin è il movimento cypherpunk.
 

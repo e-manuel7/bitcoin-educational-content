@@ -79,6 +79,8 @@ LN托斯卡纳活动的第一周
 
 <chapterId>915e523a-8fbd-5789-ab42-99b56a2a16c3</chapterId>
 
+![video](https://youtu.be/et8pKvYiO4c)
+
 ## Rust简介 (5/7)
 
 <chapterId>96d54999-cdbc-5601-acac-1bc7acbe2eb7</chapterId>

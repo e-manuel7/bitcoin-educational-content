@@ -204,7 +204,6 @@ La especulación rodea el uso futuro del espacio de bloques, pero generalmente s
 
 <chapterId>879a66b0-c20a-56b5-aad0-8a21be61e338</chapterId>
 
-![¿Quién tiene el poder? Bitcoin, energía y fabricantes](https://www.youtube.com/watch?v=4wywK6BfDw8)
 
 El papel de los mineros en la red Bitcoin ha sido un tema de debate intenso durante la guerra de los bloques. Aunque son esenciales para la seguridad y la funcionalidad de la red, los mineros no necesariamente poseen el poder último en el ecosistema Bitcoin. El equilibrio entre los mineros, los nodos y los usuarios finales garantiza la integridad y la distribución de la red.
 
@@ -246,7 +245,6 @@ En resumen, los mineros fortalecen la red de Bitcoin contra la censura al utiliz
 
 <chapterId>e6676214-007c-5181-968e-c27536231bd6</chapterId>
 
-![¿Cómo obtener un bitcoin blanco y puro?](https://youtu.be/A5MTtn4mm44?si=D1Yi0dVwkyafeHv-)
 
 ### Hashrate, precio y rentabilidad
 
@@ -314,13 +312,6 @@ Ante campañas como las de Greenpeace y las cifras a menudo engañosas de alguno
 
 En conclusión, a pesar de los riesgos regulatorios y la posibilidad de una prohibición de la minería en Europa, la educación y la información continúan siendo las herramientas más poderosas. Una comprensión clara de la minería, su funcionamiento y su impacto ayudará a desmitificar la industria y a combatir la desinformación, proporcionando así una mejor resistencia frente a regulaciones potencialmente perjudiciales. La iniciativa de formar e informar a la gente sobre la minería, como lo hace este curso, es un paso en la dirección correcta para garantizar la sostenibilidad y el crecimiento de la minería en Europa y en todo el mundo. Los esfuerzos continuos para educar e informar son esenciales para asegurar un futuro seguro y próspero para la industria de la minería de Bitcoin.
 
-## Entrevista a un profesional de la industria de la minería
-
-<chapterId>4d613261-d1a8-5ffe-a50c-047a3d77d6c5</chapterId>
-
-### Los entresijos de la minería industrial - Sebastien Gouspillou
-
-![Los entresijos de la minería industrial - Sebastien Gouspillou](https://www.youtube.com/watch?v=vYaQRLSDr5E&t=69s)
 
 # Minería en casa y reutilización del calor
 

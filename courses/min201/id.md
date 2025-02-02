@@ -204,7 +204,6 @@ Spekulasi mengelilingi penggunaan ruang blok di masa depan, tetapi umumnya diter
 
 <chapterId>879a66b0-c20a-56b5-aad0-8a21be61e338</chapterId>
 
-![Siapa yang Memegang Kekuatan? Bitcoin, Energi, dan Produsen](https://www.youtube.com/watch?v=4wywK6BfDw8)
 Peran penambang dalam jaringan Bitcoin telah menjadi subjek perdebatan intens selama perang ukuran blok. Meskipun esensial untuk keamanan dan fungsionalitas jaringan, penambang tidak selalu memegang kekuatan utama dalam ekosistem Bitcoin. Keseimbangan antara penambang, node, dan pengguna akhir memastikan integritas dan distribusi jaringan.
 
 ### Perang Ukuran Blok
@@ -244,7 +243,6 @@ Untuk merangkum, penambang memperkuat jaringan Bitcoin terhadap sensor dengan me
 
 <chapterId>e6676214-007c-5181-968e-c27536231bd6</chapterId>
 
-![Bagaimana mendapatkan bitcoin yang bersih dan tidak tersentuh?](https://youtu.be/A5MTtn4mm44?si=D1Yi0dVwkyafeHv-)
 
 ### Hashrate, Harga, dan Profitabilitas
 
@@ -303,13 +301,6 @@ Menghadapi kampanye seperti yang dilakukan oleh Greenpeace dan angka-angka menye
 
 Kesimpulannya, meskipun ada risiko regulasi dan kemungkinan larangan penambangan di Eropa, senjata paling kuat tetaplah pendidikan dan informasi. Pemahaman yang jelas dan tepat tentang penambangan, cara kerjanya, dan dampaknya dapat membantu mendemistifikasi industri dan melawan misinformasi, sehingga menawarkan perlawanan yang lebih baik terhadap regulasi yang berpotensi merugikan. Inisiatif untuk melatih dan menginformasikan orang tentang penambangan, seperti diskusi ini, adalah langkah dalam arah yang benar untuk memastikan keberlanjutan dan pertumbuhan penambangan di Eropa, dan di seluruh dunia. Upaya berkelanjutan untuk mendidik dan menginformasikan sangat penting untuk memastikan masa depan yang aman dan makmur bagi industri penambangan Bitcoin.
 
-## Wawancara dengan Profesional Industri Penambangan
-
-<chapterId>4d613261-d1a8-5ffe-a50c-047a3d77d6c5</chapterId>
-
-### Di Balik Layar Penambangan Industri - Sebastien Gouspillou
-
-![Di Balik Layar Pertambangan Industri - Sebastien Gouspillou](https://www.youtube.com/watch?v=vYaQRLSDr5E&t=69s)
 
 # Penambangan di Rumah dan Pemanfaatan Ulang Panas
 

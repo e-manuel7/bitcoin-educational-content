@@ -193,7 +193,6 @@ A especulação cerca do uso futuro do espaço de blocos, mas é geralmente acei
 
 <chapterId>7b9ee427-316a-54e3-a2d4-4ea97839a31b</chapterId>
 
-![Quem tem o poder? Bitcoin, energia e fabricantes](https://www.youtube.com/watch?v=4wywK6BfDw8)
 
 O papel dos mineradores na rede Bitcoin foi um tópico de debate intenso durante a guerra dos blocos. Embora sejam essenciais para a segurança e a funcionalidade da rede, os mineradores não necessariamente detêm o poder supremo no ecossistema Bitcoin. O equilíbrio entre os mineradores, os nós e os usuários finais garante a integridade e a distribuição da rede.
 
@@ -234,7 +233,6 @@ Para recapitular, os mineradores fortalecem a rede Bitcoin contra a censura usan
 
 <chapterId>879a66b0-c20a-56b5-aad0-8a21be61e338</chapterId>
 
-![Como obter um bitcoin branco e puro?](https://youtu.be/A5MTtn4mm44?si=D1Yi0dVwkyafeHv-)
 
 ### Hashrate, Preço e Rentabilidade
 
@@ -299,13 +297,6 @@ Diante de campanhas como as da Greenpeace e dos números frequentemente enganoso
 
 Em conclusão, apesar do risco regulatório e da possibilidade de uma proibição da mineração na Europa, a arma mais poderosa continua sendo a educação e a informação. A compreensão clara e precisa da mineração, seu funcionamento e seu impacto pode ajudar a desmistificar a indústria e combater a desinformação, oferecendo assim uma melhor resistência às regulamentações potencialmente prejudiciais. A iniciativa de formar e informar as pessoas sobre a mineração, como faz esta discussão, é um passo na direção certa para garantir a sustentabilidade e o crescimento da mineração na Europa e em todo o mundo. Os esforços contínuos para educar e informar são essenciais para assegurar um futuro seguro e próspero para a indústria de mineração de Bitcoin.
 
-## Entrevista com um profissional da indústria de mineração
-
-<chapterId>4d613261-d1a8-5ffe-a50c-047a3d77d6c5</chapterId>
-
-### Bastidores da mineração industrial - Sebastien Gouspillou
-
-![Bastidores da mineração industrial - Sebastien Gouspillou](https://www.youtube.com/watch?v=vYaQRLSDr5E&t=69s)
 
 # Mineração doméstica e reutilização de calor
 

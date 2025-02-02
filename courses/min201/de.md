@@ -69,7 +69,6 @@ Bereit, dieses faszinierende Abenteuer zu beginnen? Lassen Sie uns gemeinsam in 
 
 <chapterId>36a82de7-87ee-5e7a-b69e-48fc30030447</chapterId>
 
-![Was ist Bitcoin-Mining?](https://www.youtube.com/watch?v=neEQzEQzmPQ)
 
 ### Mining erklärt: Die Puzzle-Analogie
 
@@ -114,7 +113,6 @@ Zusammenfassend lässt sich sagen, dass sich die Bitcoin-Mining-Industrie weiter
 
 <chapterId>0896dfc1-c97e-5bec-9bf1-8c20b3388a2c</chapterId>
 
-![Ist das Bitcoin-Mining zu zentralisiert? Risiken und Lösungen](https://www.youtube.com/watch?v=xkiY8DgkcLQ)
 
 ### Mining-Pools
 
@@ -166,7 +164,6 @@ Die allgemeine Schlussfolgerung ist, dass die Dezentralisierung für die Sicherh
 
 <chapterId>7b9ee427-316a-54e3-a2d4-4ea97839a31b</chapterId>
 
-![Heizen Sie Ihr Zuhause, indem Sie Bitcoins minen?](https://www.youtube.com/watch?v=SQaK4_8M0kA)
 
 ### Das Prinzip von Attakai
 
@@ -205,7 +202,6 @@ Die Spekulation um die zukünftige Nutzung des Blockraums ist weit verbreitet, d
 
 <chapterId>879a66b0-c20a-56b5-aad0-8a21be61e338</chapterId>
 
-![Wer hat die Macht? Bitcoin, Energie und Hersteller](https://www.youtube.com/watch?v=4wywK6BfDw8)
 
 Die Rolle der Miner im Bitcoin-Netzwerk war ein intensiv diskutiertes Thema während des Blockkriegs. Obwohl sie für die Sicherheit und Funktionalität des Netzwerks unerlässlich sind, halten die Miner nicht notwendigerweise die ultimative Macht im Bitcoin-Ökosystem. Das Gleichgewicht zwischen den Minern, den Knoten und den Endbenutzern gewährleistet die Integrität und Verteilung des Netzwerks.
 
@@ -244,7 +240,6 @@ Zusammenfassend stärken die Miner das Bitcoin-Netzwerk gegen Zensur, indem sie 
 ## Bitcoin-Preis und Hashrate, eine Korrelation?
 
 <chapterId>e6676214-007c-5181-968e-c27536231bd6</chapterId>
-![Wie erhält man einen sauberen und unbenutzten Bitcoin?](https://youtu.be/A5MTtn4mm44?si=D1Yi0dVwkyafeHv-)
 
 ### Hashrate, Preis und Rentabilität
 
@@ -305,13 +300,6 @@ Angesichts von Kampagnen wie denen von Greenpeace und den oft irreführenden Zah
 
 Zusammenfassend lässt sich sagen, dass trotz des regulatorischen Risikos und der Möglichkeit eines Mining-Verbots in Europa, die mächtigste Waffe die Bildung und Information bleibt. Ein klares und präzises Verständnis des Minings, seiner Funktionsweise und seiner Auswirkungen kann dazu beitragen, die Industrie zu entmystifizieren und gegen Desinformation anzukämpfen, und bietet so eine bessere Widerstandsfähigkeit gegen potenziell schädliche Regulierungen. Die Initiative, Menschen über das Mining zu informieren und zu bilden, wie es diese Diskussion tut, ist ein Schritt in die richtige Richtung, um die Nachhaltigkeit und das Wachstum des Minings in Europa und weltweit zu gewährleisten. Kontinuierliche Bemühungen, zu erziehen und zu informieren, sind entscheidend, um eine sichere und florierende Zukunft für die Bitcoin-Mining-Industrie zu sichern.
 
-## Interview mit einem Fachmann aus der Mining-Industrie
-
-<chapterId>4d613261-d1a8-5ffe-a50c-047a3d77d6c5</chapterId>
-
-### Hinter den Kulissen des industriellen Minings - Sebastien Gouspillou
-
-![Hinter den Kulissen des industriellen Minings - Sebastien Gouspillou](https://www.youtube.com/watch?v=vYaQRLSDr5E&t=69s)
 
 # Home-Mining und Wärmerückgewinnung
 

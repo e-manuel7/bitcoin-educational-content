@@ -197,7 +197,6 @@ Det spekuleres i fremtidig bruk av blokkplass, men det er generelt akseptert at 
 
 <chapterId>879a66b0-c20a-56b5-aad0-8a21be61e338</chapterId>
 
-![Hvem holder makten? Bitcoin, Energi og Produsenter](https://www.youtube.com/watch?v=4wywK6BfDw8)
 
 Rollen til gruvearbeidere i Bitcoin-nettverket har vært et emne for intens debatt under blokkstørrelseskrigene. Selv om de er essensielle for sikkerheten og funksjonaliteten til nettverket, holder ikke nødvendigvis gruvearbeiderne den ultimate makten i Bitcoin-økosystemet. Balansen mellom gruvearbeidere, noder og sluttbrukere sikrer integriteten og distribusjonen av nettverket.
 
@@ -299,13 +298,6 @@ Når man står overfor kampanjer som de fra Greenpeace og ofte villedende tall f
 
 Konklusjonen er at til tross for den regulatoriske risikoen og muligheten for et gruvedriftsforbud i Europa, forblir det mest kraftfulle våpenet utdanning og informasjon. En klar og presis forståelse av gruvedrift, hvordan det fungerer, og dets påvirkning kan bidra til å avmystifisere industrien og bekjempe feilinformasjon, og dermed tilby bedre motstand mot potensielt skadelige reguleringer. Initiativet til å trene og informere folk om gruvedrift, som denne diskusjonen gjør, er et skritt i riktig retning for å sikre bærekraft og vekst for gruvedrift i Europa, og rundt om i verden. Kontinuerlige anstrengelser for å utdanne og informere er essensielle for å sikre en trygg og velstående fremtid for Bitcoin-gruvedriftsindustrien.
 
-## Intervju med en profesjonell innen gruveindustrien
-
-<chapterId>4d613261-d1a8-5ffe-a50c-047a3d77d6c5</chapterId>
-
-### Bak kulissene i industriell gruvedrift - Sebastien Gouspillou
-
-![Bak kulissene i industriell gruvedrift - Sebastien Gouspillou](https://www.youtube.com/watch?v=vYaQRLSDr5E&t=69s)
 
 # Hjemmegruvedrift og gjenbruk av varme
 
