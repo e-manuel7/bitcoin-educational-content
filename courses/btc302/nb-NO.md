@@ -244,7 +244,7 @@ Til slutt er det også mulig å søke på hjemmesiden etter en **forhåndsdesign
 Kort sagt, **mulighetene er uendelige og avhenger av dine behov, men også av den grafiske charteren du ønsker å skape** for ditt samfunn og dine møter/arrangementer!
 ####
 For å veilede deg mer detaljert, tilbyr vi nedenfor en ikke-uttømmende videoveiledning som presenterer noen muligheter:
-![Canva Tutorial](https://www.youtube.com/watch?v=sgloI_v-nAk)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 ####
 
 Her er også noen forhåndsdesignet, dupliserbare og redigerbare filer til din disposisjon som vi bruker med vår forening, Bitcoin Lille:
@@ -350,7 +350,7 @@ Som tidligere nevnt, er Telegram et "must-have" i mange land. Imidlertid, når d
 Vi vil se nærmere på dette senere, men **det anbefales sterkt å velge "Telegram-gruppe" når du oppretter** (eller, avhengig av dine mål, "Telegram-supergruppe").
 ####
 For opplæringene som vil følge, vil vi bruke APK-applikasjonen "Telegram+"; en applikasjon som tillater mer avansert konfigurasjon av din Telegram. Dette er imidlertid ikke nødvendig, da oppretting av en gruppe eller supergruppe på Telegram nå kan gjøres veldig enkelt på en telefon:
-![Telegram+ Opplæring](https://www.youtube.com/watch?v=Z5mE-LksBZw)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ### Opprette en Telegram-kanal
 
@@ -363,7 +363,7 @@ Faktisk er **en Telegram-kanal bare et utstillingsvindu av informasjon postet av
 Men det er mulig å legge til muligheten for at kanalmedlemmer kan kommentere på hver administrators innlegg, men dette vil bli gjort i separate diskusjoner; noe som betydelig deler opp utvekslingene. **Derfor er det generelt ikke anbefalt å opprette en Telegram-kanal for et fellesskap.**
 ####
 Veiledning for å opprette en Telegram-kanal:
-![Telegram Channel Tutorial](https://www.youtube.com/watch?v=N5S7cgySV8U)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ### Opprette en Telegram-gruppe
 
@@ -381,7 +381,7 @@ Administratorer av denne kanalen vil da kunne:
 - **Legge til et "profilbilde"** til Telegram-gruppen (dvs. logoen til fellesskapet ditt), **og endre navnet**.
 ####
 Veiledning for å opprette en Telegram-gruppe:
-![Telegram channel tutorial](https://www.youtube.com/watch?v=u1BuxEsmFuA)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 En rask merknad: som nevnt tidligere, ble ovennevnte veiledning laget på en datamaskin med APK-en "Telegram+". Men nå er det veldig enkelt å opprette en Telegram-gruppe på en telefon.
 Derfor er det ikke lenger nødvendig å laste ned "Telegram+" for å utføre denne oppgaven; med mindre du ønsker å fordype deg mer i gruppens personverninnstillinger.
@@ -409,7 +409,7 @@ Det bør imidlertid nevnes at **en Telegram supergruppe kan være vanskeligere �
 Generelt er det ikke noe spesifikt antall medlemmer hvor det blir relevant å bruke en Telegram supergruppe over en Telegram-gruppe. Derfor er valget ditt, basert på behovene og forespørslene fra medlemmene dine; samtidig som du vet at en Telegram-gruppe enkelt kan konverteres til en Telegram supergruppe (og omvendt). For å gjøre dette, trenger du bare å opprette et emne (eller slette alle sammen).
 
 Opplæring for å opprette en Telegram supergruppe:
-![Opplæring supergruppe Telegram](https://www.youtube.com/watch?v=GWVqpjBtg-U)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 Merk: som nevnt tidligere, ble opplæringen ovenfor gjort på en datamaskin med "Telegram+" APK. Det er imidlertid nå veldig enkelt å opprette en Telegram supergruppe på en telefon.
 For å gjøre dette, opprett enkelt en Telegram-gruppe; deretter, i innstillingene, klikk på "Emner"-knappen for å legge til noen. Når endringen er validert, vil en liste over emner vises; og du kan endre den som du ønsker.
@@ -470,7 +470,7 @@ Tre andre enkle ideer er:
 Utallige ytterligere alternativer er også tilgjengelige for deg. Men, ett råd: **prøv ikke å overbegrense utvekslinger**.
 ####
 Veiledning for å legge til en flerfunksjonsbot i en gruppe eller supergruppe på Telegram:
-![Flerfunksjons Telegram-bot veiledning](https://www.youtube.com/watch?v=l72GZcEFDtU)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 Liten merknad: som nevnt før, kan nå hele denne prosedyren gjøres på en telefon.
 
@@ -484,14 +484,14 @@ Men, som tidligere nevnt, **kan de potensielle "brukervennlighetsvanskene" og ø
 Åpenbart, i tillegg til Telegram og Twitter, krever dette fortsatt litt mer tid å administrere; spesielt under oppsettet og lanseringen.
 
 For å gjøre ting enklere for deg, **deler vi en [forhåndslaget, dupliserbar og modifiserbar Discord-server](https://discord.com/template/bDY4eXXJk2C8) for deg å tilpasse som du ønsker**:
-![Dupliserbar Discord-server veiledning](https://www.youtube.com/watch?v=i3V6_359Ajw)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 ####
 Dermed, når den er godt konstruert, kan en Discord-server være en virkelig ressurs for sitt samfunn. Faktisk bruker mange Bitcoiners allerede Discord daglig (og ikke Telegram), og **å tillate dem å følge samtaler fra Telegram-gruppen direkte innenfor Discord-serveren er en betydelig tidsbesparelse**. Og omvendt.
 Dette er grunnen til at en åpen kildekode-bot ved navn [TediCross](https://github.com/TediCross/TediCross) har blitt utviklet. Målet er enkelt: å automatisk overføre meldinger fra en Discord-tekstkanal til en Telegram-gruppe (eller et emne i en Telegram supergruppe); og motsatt. Dette kan derfor være veldig interessant å sette opp.
 Det er imidlertid verdt å merke seg at installasjonen ikke er veldig enkel, at **den krever kontinuerlig kjøring av en kommandoprompt (CMD) på en datamaskin for at denne botten skal fungere**; men også, at det noen ganger er feilbugs. Heldigvis, i denne situasjonen, trenger den bare å bli restartet; og deretter går alt tilbake til normalt.
 
 Med målet om å spare deg for tid igjen, her er en veiledning om hvordan du legger til en multifunksjonsbot til en Telegram-gruppe eller supergruppe:
-![TediCross Discord - Telegram bot tutorial](https://www.youtube.com/watch?v=e4YAPG0ITF8)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ## Vurder andre kommunikasjonskanaler, private og mer sikre
 <chapterId>29d0aad6-0612-5dd0-bcef-7337eaf4fefc</chapterId>
@@ -576,7 +576,7 @@ Merk også at det er mulig, både på telefon og datamaskin, å være logget inn
 Til slutt, selv om ditt brukernavn "@Bitcoin[CITY]" er unikt og nå tilhører deg, kan det være lurt å forebyggende opprette kontoer "@Bitcoin_[CITY]", "@[CITY]Bitcoin", eller "@[CITY]_Bitcoin" for å **sikre at ingen forsøker å duplisere din identitet**. Det er faktisk bedre å forutse!
 
 Veiledning for å opprette en Twitter-konto:
-![Twitter-konto veiledning](https://www.youtube.com/watch?v=pp3DDakV0bA)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ## Koble til med nærliggende meet-ups
 <chapterId>12a21c3b-235a-5292-8209-67bf60f61e49</chapterId>
@@ -997,7 +997,7 @@ Med målet om å ha et utstillingsvindu for ditt samfunn, møter, arrangementer 
 For å forenkle denne oppgaven med å skape, viser opplæringen nedenfor deg på en halv time stegene for å lage en **gratis nettside på WordPress-plattformen**. Dette nettstedet vil tillate deg å **ha en tilpassbar hjemmeside, opprette kategorier, publisere artikler, integrere media (YouTube-videoer, bilder, PDF-er)**, osv.
 Senere vil du kunne kjøpe ditt eget domenenavn og til og med hoste det på din personlige server hvis du ønsker det.
 
-![Opplæring for å lage en gratis WordPress-nettside](https://www.youtube.com/watch?v=cZzH4gj_kZY)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 ####
 Andre CMS eller plattformer tillater også opprettelsen av nettsider. Selv om noen er enklere på grunn av deres brukervennlige grensesnitt, er de resulterende nettstedene også mye mindre tilpassbare.
 **WordPress ser ut til å være det mest relevante valget for å komme i gang**. Dessuten tillater det **integrasjon av plug-ins**, hvorav noen er betalte, men av høy kvalitet, som muliggjør mye videre utvikling av et nettsted; og dette, uten å måtte kode.
@@ -1046,7 +1046,7 @@ Så, når arbeidet er gjort på "Spotify for podcasters", gjenstår bare formate
 I tilfelle du ønsker å **ta opp på datamaskinen din, fungerer gratis programvare som ["Audacity"](https://www.audacityteam.org/) veldig bra**. Den lar deg justere mange innstillinger, utføre crescendoer, og til og med forbedre lydklarheten under redigering. Å ta opp stemmen din og deretter redigere lyden av podcasten din bør derfor være ganske enkelt.
 
 Her er en kort opplæring som presenterer, på 10 minutter, de viktigste funksjonene å vite for å lage en podcast med Audacity.
-![Opplæring for å lage en podcast med Audacity](https://www.youtube.com/watch?v=z471_Ye6Y0I)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 Merk: som nevnt tidligere, i tilfelle at Bitcoin en dag skulle bli forbudt eller sensurert, kan det være relevant å alltid **beholde en lokal kopi på en harddisk av podcastene** du legger ut.
 
@@ -1283,7 +1283,7 @@ Til slutt:
 18) Gå enda lenger med prosjekter som du liker og bryr deg om.
 
 På en litt mindre detaljert måte, i en 21-minutters video, ser det slik ut:
-![Bitcoin Community Tutorial](https://www.youtube.com/watch?v=EHLAmHHuZd8)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 ####
 Uansett, **husk at du ikke er alene og at eksisterende samfunn er der for å hjelpe deg**.
 

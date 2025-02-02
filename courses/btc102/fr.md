@@ -58,7 +58,7 @@ Nous sommes dans une industrie ou deux branches principales émergent dans le se
 
 L'intégralité de cette université est porté sur l'univers Bitcoin et non crypto.
 
-![Arnaque et fraude financière](https://youtu.be/LeyI3CBw2g4)
+<videoId>a367d8aa-7003-4b15-b72a-dcedc75d925b</videoId>
 
 Le domaine des cryptomonnaies, dont le Bitcoin, reste relativement jeune et légèrement régulé. Il est ainsi riche en escroqueries diverses. La compréhension des dangers et la reconnaissance des pièges typiques sont essentielles. Voici quelques situations d'escroquerie fréquemment rencontrées :
 
@@ -164,7 +164,7 @@ Gardez toujours à l'esprit que tout le monde ne sera pas nécessairement transp
 
 <chapterId>f0873bf2-6a6f-5485-bb7a-d84be14f404d</chapterId>
 
-![sécurité en ligne](https://youtu.be/d9Ccy17yWB0)
+<videoId>a367d8aa-7003-4b15-b72a-dcedc75d925b</videoId>
 
 Outre les arnaques en crypto-monnaie et autour de la finance, la première raison de perdre des bitcoins est liée à une mauvaise gestion de sa sécurité en ligne. Il arrive souvent que les gens utilisent le même mot de passe pour toutes leurs comptes, oublient de mettre à jour leur ordinateur et négligent de sauvegarder régulièrement leurs données. Si vous vous sentez concerné par ces pratiques, ne vous inquiétez pas, il est toujours possible d'améliorer vos habitudes de sécurité en ligne. Voici quelques mesures de base à mettre en place :
 
@@ -213,7 +213,7 @@ Ecnore une fois, si ce sujet vous intéresse, la formation SECU 101 est disponib
 
 <chapterId>33134b3f-92c1-5185-afb6-88599e47e801</chapterId>
 
-![Conseil pour débutant](https://youtu.be/juMUJ3MWeZY)
+<videoId>a367d8aa-7003-4b15-b72a-dcedc75d925b</videoId>
 
 L'éducation formelle nous apprend peu de choses sur l'investissement. En conséquence, nous nous aventurons souvent seuls dans ce paysage d'investissement nouveau et complexe.
 
@@ -348,7 +348,7 @@ Si cela est nouveau pour vous, je vous encourage vivement à suivre BTC 101 avan
 
 <chapterId>d4327ac4-9ff8-5192-b542-cb78c0bd0aa7</chapterId>
 
-![pourquoi bitcoin est-il si important](https://youtu.be/Iq0wZF3Ui9A)
+<videoId>a367d8aa-7003-4b15-b72a-dcedc75d925b</videoId>
 
 Pourquoi l'importance de Bitcoin est-elle si cruciale ? C'est là la question centrale de cette université. Que cela concerne vos études ou votre stratégie d'investissement, sans une compréhension claire de l'importance de Bitcoin, vous risquez de dévier de votre plan d'action. L'objectif est donc de toujours garder à l'esprit les fondamentaux de Bitcoin, afin d'assurer que votre stratégie reste en phase avec vos convictions.
 
@@ -430,7 +430,7 @@ Bitcoin possède une dimension hautement philosophique, éthique et politique to
 
 <chapterId>e106c6f1-d75b-5a62-b245-0ea2e4d02ef8</chapterId>
 
-![comprendre l'industrie du bitcoin](https://youtu.be/fcXvjghA-uM)
+<videoId>a367d8aa-7003-4b15-b72a-dcedc75d925b</videoId>
 
 Avec l'arrivé de Bitcoin en 2009 par Satoshi Nakamoto, une industrie de plusieurs milliard de dollars est née. Cette industrie malgres, ca jeunesse, a connu une croissance exponentielle au cours des dix dernières années. De nouveaux acteurs arrivent chaque jour avec de grosse somme d'argent et sont prêts à pénétrer en force dans cette nouvelle industrie. Aujorud'hui l'industrie a atteint un point de non-retour où les gouvernements, banques, géant d'internet ou autres ont rejoint le mouvement avec toute sorte d'intervention.
 

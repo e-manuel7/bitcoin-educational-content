@@ -30,7 +30,7 @@ Théo; Contribution
 
 <chapterId>2f3d005d-8b49-5a3f-b90d-94c11f613407</chapterId>
 
-![introduction](https://youtu.be/DqLf72XBJUg)
+<videoId>1994a588-ab0f-4e22-837f-dd2f686baddc</videoId>
 
 ### Objectif : remise à jour !
 
@@ -91,7 +91,7 @@ Ce programme de formation est offert gratuitement sous une licence redistribuabl
 
 <chapterId>3a935da9-fa6e-57eb-bf85-7b3ec35e6ee2</chapterId>
 
-![navigation en ligne](https://youtu.be/BEK7vGnkO64)
+<videoId>1994a588-ab0f-4e22-837f-dd2f686baddc</videoId>
 
 Lors de la navigation sur internet, il est important d'éviter certaines erreurs courantes pour préserver sa sécurité en ligne. Voici quelques conseils pour les éviter :
 
@@ -134,7 +134,7 @@ https://planb.network/tutorials/others/general/tor-browser-a847e83c-31ef-4439-9e
 
 <chapterId>5aac83f4-a685-54b0-9759-d71bea7eeed2</chapterId>
 
-![vpn et connexion interet](https://youtu.be/oRO7sGexvzo)
+<videoId>1994a588-ab0f-4e22-837f-dd2f686baddc</videoId>
 
 ### les VPN
 
@@ -171,7 +171,7 @@ En résumé, l'utilisation de VPN peut grandement améliorer la sécurité en li
 
 <chapterId>16745632-b56b-5423-9873-ddf70fdf1efd</chapterId>
 
-![utilisation de l'ordinateur](https://youtu.be/lzJr5CIulSU)
+<videoId>1994a588-ab0f-4e22-837f-dd2f686baddc</videoId>
 
 La sécurité de nos ordinateurs est un enjeu majeur dans le monde numérique actuel. Aujourd'hui, nous allons aborder trois points clés :
 
@@ -219,7 +219,7 @@ En conclusion, il est primordial d'opter pour un système d'exploitation adapté
 
 <chapterId>9ddfcb6a-a253-5542-b7eb-df7222b46dc7</chapterId>
 
-![hack et gestion de back-up](https://youtu.be/CJDjWPV3PeU)
+<videoId>1994a588-ab0f-4e22-837f-dd2f686baddc</videoId>
 
 ### Comment les hackers attaquent-ils ?
 
@@ -268,7 +268,7 @@ https://planb.network/tutorials/others/general/veracrypt-d5ed4c83-7c1c-4181-95ea
 
 <chapterId>dfceea33-8712-5557-ace1-6ba5598d33d8</chapterId>
 
-![gestion de la boite mail](https://youtu.be/WjqH882f4cY)
+<videoId>1994a588-ab0f-4e22-837f-dd2f686baddc</videoId>
 
 Nous entamons désormais la section 2 du cours. Dans cette section, nous aborderons trois sujets essentiels pour assurer la sécurité des accès en ligne : la gestion des mails, l'utilisation d'un gestionnaire de mots de passe et l'authentification à deux facteurs (2FA).
 
@@ -302,7 +302,7 @@ https://planb.network/tutorials/others/general/proton-mail-c3b010ce-254d-4546-b3
 
 <chapterId>0b3c69b2-522c-56c8-9fb8-1562bd55930f</chapterId>
 
-![gestionnaire de mots de passe](https://youtu.be/HzLuZ6noePY)
+<videoId>1994a588-ab0f-4e22-837f-dd2f686baddc</videoId>
 
 ### Qu'est-ce qu'un gestionnaire de mots de passe ?
 
@@ -348,7 +348,7 @@ https://planb.network/tutorials/others/general/keepass-f8073bb7-5b4a-4664-9246-2
 
 <chapterId>9391e02e-e61b-5a86-93e0-91a07f217d35</chapterId>
 
-![les 2FA](https://youtu.be/863n4N1XNjk)
+<videoId>1994a588-ab0f-4e22-837f-dd2f686baddc</videoId>
 
 ### Pourquoi mettre en place le 2FA
 
@@ -403,7 +403,7 @@ Protéger sa boîte mail est une étape importante pour sécuriser ses activité
 
 https://planb.network/tutorials/others/general/proton-mail-c3b010ce-254d-4546-b382-19ab9261c6a2
 
-![video](https://youtu.be/vpYJYWhmEZg)
+<videoId>1994a588-ab0f-4e22-837f-dd2f686baddc</videoId>
 
 ## Sécurisation en 2FA
 
@@ -417,7 +417,7 @@ Une autre option est d'utiliser une clé de sécurité physique. Cet autre tutor
 
 https://planb.network/tutorials/others/general/security-key-61438267-74db-4f1a-87e4-97c8e673533e
 
-![video](https://youtu.be/mNcAKRDmz5o)
+<videoId>1994a588-ab0f-4e22-837f-dd2f686baddc</videoId>
 
 ## Création d'un gestionaire de mot de passe
 
@@ -433,7 +433,7 @@ Pour les utilisateurs plus confirmés, je vous propose également un tutoriel su
 
 https://planb.network/tutorials/others/general/keepass-f8073bb7-5b4a-4664-9246-228e307be246
 
-![video](https://youtu.be/y7Xkv4E5YmU)
+<videoId>1994a588-ab0f-4e22-837f-dd2f686baddc</videoId>
 
 ## Sécurisation de vos comptes
 
@@ -445,7 +445,7 @@ https://planb.network/tutorials/others/general/bitwarden-0532f569-fb00-4fad-acba
 
 https://planb.network/tutorials/others/general/keepass-f8073bb7-5b4a-4664-9246-228e307be246
 
-![video](https://youtu.be/0JHZRALmGY0)
+<videoId>1994a588-ab0f-4e22-837f-dd2f686baddc</videoId>
 
 ## Mise en place de Back-up
 
@@ -459,7 +459,7 @@ Et pour sécuriser vos fichiers stockés sur des support amovibles comme une cl�
 
 https://planb.network/tutorials/others/general/veracrypt-d5ed4c83-7c1c-4181-95ea-963fdf2d83c5
 
-![video](https://youtu.be/wTJnlSUkDRI)
+<videoId>1994a588-ab0f-4e22-837f-dd2f686baddc</videoId>
 
 ## Changement de navigateur & VPN
 
@@ -477,7 +477,7 @@ Découvrez également comment utiliser Tor Browser, un navigateur spécifiquemen
 
 https://planb.network/tutorials/others/general/tor-browser-a847e83c-31ef-4439-9eac-742b255129bb
 
-![video](https://youtu.be/vc6-Ouca09g)
+<videoId>1994a588-ab0f-4e22-837f-dd2f686baddc</videoId>
 
 # Allez plus loins
 
@@ -487,7 +487,7 @@ https://planb.network/tutorials/others/general/tor-browser-a847e83c-31ef-4439-9e
 
 <chapterId>aad1ae27-4280-5b07-b9ab-118ae013951a</chapterId>
 
-![conclusion et travailler dans l'industrie](https://youtu.be/YZ2EKaPvoZU)
+<videoId>1994a588-ab0f-4e22-837f-dd2f686baddc</videoId>
 
 La cybersécurité, un domaine en plein essor, offre une multitude d'opportunités pour ceux passionnés par la protection des systèmes et des données. Si cette industrie vous intrigue, voici quelques étapes clés pour vous orienter.
 
@@ -524,7 +524,7 @@ En maîtrisant ces compétences et outils, vous serez bien équipé pour navigue
 
 <chapterId>7d83fd98-ce22-514e-b9e8-729fbf71ee6e</chapterId>
 
-![Interview](https://youtu.be/RVjE-KOSKDs)
+<videoId>1994a588-ab0f-4e22-837f-dd2f686baddc</videoId>
 
 ### Gestion efficace des mots de passe et renforcement de l'authentification: une approche académique
 

@@ -71,3 +71,34 @@ proofreading:
     contributors_id:
       - Henry-Da0
     reward: 53081
+videos:
+  - id: a1660e86-700b-46a4-8030-11c7348f8960
+    youtube:
+      - fr: https://youtu.be/Hg8L_PIs008
+  - id: 9829b8d0-176b-468a-9ee6-d3bf7d8556cc
+    youtube:
+      - fr: https://youtu.be/hHk5oV8HsNQ
+  - id: b97747c1-e201-4241-b974-c7f55f9f97f4
+    youtube:
+      - fr: https://youtu.be/Pd-dWA-FrfY
+  - id: a35cec0b-b6cc-498e-93a2-183c3ee1168c
+    youtube:
+      - fr: https://youtu.be/yYeEyT0CKE4
+  - id: 63644cba-95bd-46ee-bea7-66f10fb6be5a
+    youtube:
+      - fr: https://www.youtube.com/watch?v=OMwkb5rpm_w&t=20s
+  - id: 24ecd3fc-bea6-4b00-ada8-376e7d219160
+    youtube:
+      - fr: https://youtu.be/qoHAN4Nj2pE
+  - id: 2e7660fa-b4ab-4bdd-93da-67a426122b0b
+    youtube:
+      - fr: https://youtu.be/MnAFWQKdYAM
+  - id: 5f209c4b-377c-4050-a442-877eb3a2e75e
+    youtube:
+      - fr: https://youtu.be/o7Gz8q_PfoE
+  - id: 1f8bda85-aafc-4922-927b-9254db72fd27
+    youtube:
+      - fr: https://youtu.be/h1uwR3Yge1M
+  - id: 3409768d-4781-427b-a336-2fd47d71e9f9
+    youtube:
+      - fr: https://youtu.be/cEon5lVtKZE

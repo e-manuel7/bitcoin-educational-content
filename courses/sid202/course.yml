@@ -14,3 +14,37 @@ proofreading:
     urgency: 1
     contributors_id:
     reward: 0
+videos:
+  - id: 1132ace2-eedc-4da7-8690-cfede22e67d2
+    youtube:
+      - en: https://youtu.be/gkQfnwYLyI0?si=H6cIPhgZaSAwHaHI
+  - id: d31d1c98-02d6-4019-8ea7-bd815b204412
+    youtube:
+      - en: https://youtu.be/ns-JLGdkNig?si=fmWye_boRSvVF1Bt
+  - id: f46d7553-5282-4ddb-81e2-cfd5bb9226a7
+    youtube:
+      - en: https://youtu.be/v0lzmfH81AY?si=V-xDWfmDLKyBcdPs
+  - id: 94d6aaf4-807f-498b-867e-5161191d7ed8
+    youtube:
+      - en: https://youtu.be/Frr_OjTEPAM?si=iq5XonJyQk8S5OAu
+  - id: 69f16d1c-073e-44d6-b0fe-bcbf4eaf0be1
+    youtube:
+      - en: https://youtu.be/-by2xBtXQeE?si=7bLo_geGn3qh7MXN
+  - id: 40004a64-58ab-4a67-91dc-a9ddf7071293
+    youtube:
+      - en: https://youtu.be/XnY4WZUNSs4?si=dG8I5OoSh_0EBdvL
+  - id: 0f2a84de-52d4-4b89-9bb6-29f5e3f60133
+    youtube:
+      - en: https://youtu.be/5em79YHtYk0?si=rhponm6Hw9AB6RJp
+  - id: 14a7d9b1-fc9d-4af9-80a6-c6e3a627f0c1
+    youtube:
+      - en: https://youtu.be/kxWX91fCnus?si=KItm_Am3_RrBcLBN
+  - id: f1e59c59-998a-4593-86b2-5ca9d7ce08e9
+    youtube:
+      - en: https://youtu.be/egYzj4N8CB8?si=v7_-IXsjHPE-ARDe
+  - id: 95c5a121-bf18-4b0c-937b-cef128f129b6
+    youtube:
+      - en: https://youtu.be/u-3rV7DGtD0?si=G1__H0Uelf4sTUDM
+  - id: 606df039-8a09-4753-a3b7-86811b70c7b6
+    youtube:
+      - en: https://youtu.be/CTMdamTZBBM?si=16LBcXvN4pBfC7lr

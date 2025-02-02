@@ -289,7 +289,7 @@ objectives:
 ####
 
 为了更详细地指导您，我们在下面提供了一个非详尽的视频教程，其展示了一些可能性：
-![Canva 教程](https://www.youtube.com/watch?v=sgloI_v-nAk)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ####
 
@@ -419,7 +419,7 @@ objectives:
 ####
 
 对于接下来的教程，我们将使用名为“Telegram+”的APK应用；其是允许对您的Telegram进行更高级配置的应用。然而，其并非必要，因为手机上现有的功能使创建群组或超级群组变得易于完成：
-![Telegram+ 教程](https://www.youtube.com/watch?v=Z5mE-LksBZw)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ### 创建一个Telegram频道
 
@@ -432,7 +432,7 @@ objectives:
 然而，您可以允许会员在每位管理员的帖子添加评论，但这将在单独的讨论平台中完成；这更显著地分割了交流。**因此，一般而言，我们不推荐为社区创建Telegram频道。**
 
 创建Telegram频道的教程：
-![Telegram频道教程](https://www.youtube.com/watch?v=N5S7cgySV8U)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ### 创建Telegram群组
 
@@ -453,7 +453,7 @@ objectives:
 ####
 
 创建Telegram群组的教程：
-![Telegram频道教程](https://www.youtube.com/watch?v=u1BuxEsmFuA)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 一个快速说明：如前所述，上述教程是在电脑上使用APK“Telegram+”制作的。但是，目前在手机上创建Telegram群组非常容易。
 因此，除非您想深入了解那您的群组的隐私设置，您无需下载“Telegram+”来执行这项任务。
@@ -484,7 +484,7 @@ Telegram群组具有一些缺点，当它拥有几百个会员时，同一个通
 一般来说，使用Telegram超级群或Telegram群组并不取决于会员数量，。因此，选择权在您手中，基于您的会员的需求和请求；同时知道Telegram群组可以轻松转换为Telegram超级群（反之亦然）。要做到这一点，您只需创建一个话题（或删除所有话题）。
 
 创建Telegram超级群的教程：
-![创建超级群教程 Telegram](https://www.youtube.com/watch?v=GWVqpjBtg-U)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 注意：如前所述，上述教程是在电脑上使用"Telegram+" APK完成的。然而，现在在手机上创建Telegram超级群非常容易。
 如果您要做到这一点，您只需创建一个Telegram群组；然后，在其设置中点击"话题"按钮以添加一些话题。一旦更改已验证，一个话题列表将会出现；您可以根据需要修改它。
@@ -552,7 +552,7 @@ Telegram群组具有一些缺点，当它拥有几百个会员时，同一个通
 ####
 
 在Telegram群组或超级群组添加多功能机器人的教程链接：
-![多功能Telegram机器人教程](https://www.youtube.com/watch?v=l72GZcEFDtU)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 小提示：如前所述，现在所有程序都可以在手机上完成。
 
@@ -567,7 +567,7 @@ Telegram群组具有一些缺点，当它拥有几百个会员时，同一个通
 显然，除了Telegram和Twitter外，这仍然需要更多的时间来管理；尤其是在其设置和启动方面。
 
 为了让事情变得更方便，**我们分享了一个[预制的、可复制的、可修改的Discord服务器](https://discord.com/template/bDY4eXXJk2C8)供您按需自定义**：
-![可复制的Discord服务器教程](https://www.youtube.com/watch?v=i3V6_359Ajw)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ####
 
@@ -579,7 +579,7 @@ Telegram群组具有一些缺点，当它拥有几百个会员时，同一个通
 然而，值得注意的是，它的安装并不非常直接，**它需要在计算机上持续运行命令提示符（CMD）才能使这个机器人能够工作**；但有时会出现错误漏洞。幸运的是，在这种情况下，您只需重启它；然后一切都会恢复正常。
 
 为了再次节省您的时间，这里有一个关于如何将一个多功能机器人添加到Telegram群组或超级群组的教程，：
-![TediCross Discord - Telegram机器人教程](https://www.youtube.com/watch?v=e4YAPG0ITF8)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ## 考虑其他的通信渠道，私密且更安全
 
@@ -680,7 +680,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 最后，虽然您的用户名“@Bitcoin[CITY]”是独一无二的，而且其已属于您，但您可能应预先创建用户名为“@Bitcoin\_[CITY]”、“@[CITY]Bitcoin”或“@[CITY]\_Bitcoin”的账户，以**确保没有人试图冒用您的身份**。预先防范总是更好的！
 
 创建Twitter账户的教程：
-![Twitter账户教程](https://www.youtube.com/watch?v=pp3DDakV0bA)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ## 与邻近的聚会建立联系
 
@@ -1196,7 +1196,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 为了简化创建任务，下面的教程在半小时内向您展示了在WordPress平台上创建**免费网站**的步骤。这个网站将允许您**拥有一个可定制的首页，创建分类，发布文章，集成媒体（YouTube视频，图片，PDFs）**等。
 后来，您还可以购买自己的域名，甚至可以在个人服务器上托管。
 
-![创建免费WordPress网站的教程](https://www.youtube.com/watch?v=cZzH4gj_kZY)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ####
 
@@ -1257,7 +1257,7 @@ Twitter非常用户友好，其需要一些设置调整以增强隐私性。
 若您需要**在计算机上录制，["Audacity"](https://www.audacityteam.org/) 等免费软件可作为良好的选择**。它允许您调整许多设置，执行渐强，并且甚至在编辑期间改善声音清晰度。因此，录制您的声音并编辑您的播客的音频应该相当容易。
 
 这里有一个简短的教程，在10分钟内展示了使用 Audacity 制作播客需要知道的主要功能。
-![使用 Audacity 创建播客的教程](https://www.youtube.com/watch?v=z471_Ye6Y0I)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 注意：如前所述，如果有一天，比特币被禁止或审查，那么您最好**在硬盘上保留播客的本地副本**。
 
@@ -1542,7 +1542,7 @@ Breizh Bitcoin的反馈很清楚：这种方式效果很好，新人们在报纸
 18. 进一步推进您喜欢并关心的项目。
 
 以稍微较为简单的方式，您可以在这一段21分钟的视频中理解相关的内容：
-![比特币社区教程](https://www.youtube.com/watch?v=EHLAmHHuZd8)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ####
 

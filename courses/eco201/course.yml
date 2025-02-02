@@ -82,3 +82,22 @@ proofreading:
     urgency: 1
     contributors_id:
     reward: 68365
+videos:
+  - id: f358f995-1778-4f08-a1de-3f8a80bae194
+    youtube:
+      - fr: https://youtu.be/pz0RxlXNs7Y
+  - id: cffa7889-5c16-4e38-a643-f6957c1c60ab
+    youtube:
+      - fr: https://youtu.be/ZSDCepNNacI
+  - id: c7de7ec2-756c-43df-bc69-83c7925283af
+    youtube:
+      - fr: https://youtu.be/Dt8ounex2jg
+  - id: 2cb8abe6-3c95-400f-89c9-749039c44902
+    youtube:
+      - fr: https://youtu.be/CrPE6mcOjx4
+  - id: f08ad2bb-0e50-4dfd-9310-3d5988f03e15
+    youtube:
+      - fr: https://youtu.be/E-9Fl6eg-mo
+  - id: 8c5cb27f-bb00-4eea-a9a1-1e5df2d1e7ee
+    youtube:
+      - fr: https://youtu.be/hMyYGwU76dI

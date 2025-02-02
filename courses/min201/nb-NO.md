@@ -237,7 +237,7 @@ For å oppsummere, minerne styrker Bitcoin-nettverket mot sensur ved å bruke el
 
 <chapterId>e6676214-007c-5181-968e-c27536231bd6</chapterId>
 
-![Hvordan skaffe en ren og uberørt bitcoin?](https://youtu.be/A5MTtn4mm44?si=D1Yi0dVwkyafeHv-)
+<videoId>cb75aefb-75cc-4a7f-ba7d-5260b0cecc0c</videoId>
 
 ### Hashrate, pris og lønnsomhet
 

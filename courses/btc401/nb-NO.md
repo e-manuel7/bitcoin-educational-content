@@ -25,7 +25,7 @@ Nyt!
 
 <chapterId>dcf2d37e-b32a-5eb8-aaa3-41ac92475ba9</chapterId>
 
-![Video](https://youtu.be/4VuI9we_XYM)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Filippo og Mario gir en introduksjonssamtale om CUBO+ 2023, som setter scenen for den omfattende læringsreisen som venter. De diskuterer strukturen på kursene, læringsresultatene, og hvordan disse vil styrke studentene i Bitcoin-utviklingsområdet.
 
@@ -47,7 +47,7 @@ Gjennom kurset vil deltakerne benytte nøkkelverktøy som vil hjelpe deres forst
 
 ### Hvorfor El Salvador trenger Bitcoin
 
-![video](https://youtu.be/VExfKFrGuYw)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 Velkommen til den første forelesningen i **Cubo Plus** utdanningsprogram. I dag dykker vi inn i verdenen av Bitcoin, ledet av Ricky, grunnleggeren av **Bitcoin Italia Podcast**. Ricky er en lidenskapelig menneskerettighetsaktivist som bruker Bitcoin som et verktøy for å beskytte og fremme menneskerettigheter. Med over seks års erfaring har Ricky reist mye, og dokumentert Bitcoins adopsjon i fremvoksende markeder som El Salvador og Guatemala. Hans arbeid strekker seg utover podcasting; han er også aktiv på YouTube (**Bitcoin Explorers**) og Twitter (**BTC Explorer**, **Ricky6**). Rickys engasjement for Bitcoin stammer fra hans tro på at det tilbyr finansiell frihet og personvern, og utfordrer tradisjonelle, sentraliserte banksystemer.
 ![Ubanksatte befolkning](assets/en/1/1.webp)
 _Den globale ubanksatte befolkningen_
@@ -155,13 +155,13 @@ Takk for at du engasjerer deg med dette materialet!
 
 ### Bitcoins teknologistabel
 
-![video](https://youtu.be/5UkjQomJsHU)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 I den første forelesningen av 'Hvordan Bitcoin'-kurset, begynte vi å utforske teknologistabelen som ligger til grunn for Bitcoin-nettverket. Vi dekket emner som **Hashcash**, **transaksjoner**, **blockchain**, **Lightning Network**, og andre nøkkelkomponenter i Bitcoin-protokollen.
 
 ### Bitcoins teknologistabel Del 2
 
-![video](https://youtu.be/UkwbPVhLeIk)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 I løpet av den andre forelesningen av 'Hvordan Bitcoin', gjennomførte vi en mer inngående undersøkelse av Bitcoins teknologistabel.
 
 ### Bitcoin-struktur
@@ -215,7 +215,7 @@ Bitcoins struktur og pågående utvikling viser innovasjonen og tilpasningsevnen
 
 ### Avlive Bitcoin-myter
 
-![video](https://youtu.be/f0Pf0u1y5F4)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 I denne forelesningen avliver vi vanlige myter omkring **Bitcoin**, **blokkjeder**, og **kryptovalutaer**. La oss adressere misforståelser om Bitcoins energiforbruk, kriminell bruk, og den bredere "FUD" (fear, uncertainty, doubt) som spres om denne teknologien.
 
@@ -273,7 +273,7 @@ FUD rundt Bitcoin overdriver ofte bekymringer om dens miljøpåvirkning, krimine
 
 ### Installasjon av Bitcoin Core
 
-![Video](https://youtu.be/fIUU2sRCEj0)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 I den første forelesningen av det 4. modulet utforsket vi Bitcoins arkitektur og installasjonen av en Bitcoin Core-node.
 
@@ -356,7 +356,7 @@ Dette er noen av de grunnleggende kommandoene når du konfigurerer noden din:
 
 ### Installasjon av C-lightning
 
-![video](https://youtu.be/zrB1Kc4BqvY)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 #### 1. **Bitcoin Core Oppsummering**
 
@@ -578,7 +578,7 @@ Til slutt, i dag har vi dekket de essensielle stegene for å reinstallere Bitcoi
 
 ### Sikkerhet og Maskinvareenheter
 
-![video](https://youtu.be/oVaI9WuLkgk)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 ### Specter og Ledger-enhet
 
@@ -674,7 +674,7 @@ Dette avslutter vår forelesning om sikkerhet og oppsett av enheter for Bitcoin 
 
 ### Åpne Problemer i Bitcoin-økosystemet
 
-![video](https://youtu.be/Vlm2ZdxcidA)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 I løpet av mer enn et tiår har Bitcoin vist seg å være en transformerende innovasjon i finansverdenen, med suksessfull drift på global skala og åpning av nye muligheter i den digitale økonomien. Likevel står den overfor utfordringer som krever kreative og samarbeidende løsninger. Den pågående utviklingen av Bitcoin presenterer en unik mulighet for de som er interessert i å forme fremtiden for desentralisert finans.
 
@@ -758,7 +758,7 @@ Avslutningsvis er det avgjørende å kontinuerlig adressere disse åpne probleme
 <chapterId>0b97af0c-015a-54e3-a7f0-0f62ceb96c07</chapterId>
 <professor>because-drama</professor>
 
-![Video](https://youtu.be/2f_rK74MB3U)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Velkommen til dagens forelesning om **Sikkerhet og Pålitelighet**. Vårt mål er å utforske det nyanserte forholdet mellom disse to grunnleggende aspektene av systemdesign og anvendelse i virkelige scenarioer.
 
@@ -822,7 +822,7 @@ Konklusjonen er at det å forstå og integrere prinsipper for sikkerhet og påli
 <chapterId>2c59d609-f1ef-53f4-9575-df62e4d066e9</chapterId>
 <professor>because-drama</professor>
 
-![Video](https://youtu.be/ln-FYziKqNY)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Bruken av Gratis og Åpen Kildekode Programvare (FLOSS) er kritisk i Bitcoins økosystem. Peter Todd utforsker viktigheten av FLOSS for Bitcoin, utforsker historien til FLOSS og undersøker hvordan Github lar oss samarbeide om å bygge åpen kildekode-programvare som Bitcoin.
 
@@ -866,7 +866,7 @@ Avslutningsvis drives økonomien i åpen kildekode-programvare av bidrag fra fel
 <chapterId>71867dd2-912c-55ad-b59c-9dbca8a39469</chapterId>
 <professor>happy-panda</professor>
 
-![Video](https://youtu.be/QcK-Cl8B9QU)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Velkommen! I dag skal vi dykke ned i de avgjørende aspektene ved kryptografi som hver Bitcoin-utvikler bør kjenne til. Vi vil fokusere på grunnleggende konsepter og praktiske anvendelser uten å overvelde deg med overdreven teoretisk detaljering. Hovedmålet er å utruste deg med kunnskapen til å forstå, implementere og feilsøke kryptografiske mekanismer i Bitcoin effektivt.
 
@@ -925,7 +925,7 @@ Ved å mestre disse konseptene og holde seg til beste praksis, vil du være godt
 <chapterId>a30ec3e7-b290-5145-a9a9-042224ab20d2</chapterId>
 <professor>because-drama</professor>
 
-![Video](https://youtu.be/g_BcT5YkZUQ)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 ### Naturen til Bitcoin
 
@@ -989,7 +989,7 @@ Konklusjonen er at Bitcoins fremtid og endringer bestemmes av brukernes kollekti
 <chapterId>75ea1d88-ee6f-5f98-af90-e4758c55e606</chapterId>
 <professor>happy-panda</professor>
 
-![Video](https://youtu.be/hGS8Cuj5Zb4)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Adam Gibson bryter ned de ulike komponentene i en Bitcoin-node. Kapittelet fokuserer på rollen hver komponent spiller i å opprettholde nettverkets funksjonalitet og integritet. Spesielt fokuserer han på hvorfor vi bør kjøre en bitcoin-node, hva en bitcoin-node gjør, og hvordan de forskjellige komponentene i en bitcoin-node fungerer.
 
@@ -1091,7 +1091,7 @@ UTXO-settet representerer den nåværende tilstanden til Bitcoin, og lister alle
 <chapterId>5ed314b1-8293-567d-bf03-730e8c9c774b</chapterId>
 <professor>radio-talent</professor>
 
-![video](https://youtu.be/okvV9hqDOtM)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Det primære målet med denne forelesningen er å veilede deg gjennom prosessen med å parse en Bitcoin-blokk ved å kode en parser i Rust. Dette innebærer å forstå strukturen til Bitcoin-blokker og transaksjoner, og implementere den nødvendige logikken for å trekke ut og tolke denne dataen.
 
@@ -1378,7 +1378,7 @@ Konklusjonen er at parsing av Bitcoin-blokker og transaksjoner i Rust innebærer
 <chapterId>96d64781-fc27-5209-88d8-2acf00d05ea8</chapterId>
 <professor>mad-salad</professor>
 
-![Video](https://youtu.be/xOdz9GEiShM)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Daniela Brozzoni gir en omfattende oversikt over Bitcoin Layer 1-programvarestakken, og forklarer lagene som utgjør grunnlaget for Bitcoins protokoll (dvs. Bitcoin-noder og Bitcoin-lommebøker) og hvordan man bygger Bitcoin-programvare med en introduksjon til Bitcoin-biblioteker og en dypdykking i Bitcoin Development Kit (BDK).
 
@@ -1648,7 +1648,7 @@ Ved å forstå disse komponentene, fra Bitcoin-noder og lommebøker til Bitcoin 
 <chapterId>a0b11c6e-c0ff-5e65-b809-b2ab9a2fc37b</chapterId>
 <professor>best-lion</professor>
 
-![Video](https://youtu.be/VtpbCspK5T4)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Velkommen til vår forelesning om moderne betalingsløsninger innen blokkjedeteknologi. I dag vil vi utforske den historiske konteksten og nøkkelutviklingene av multi-hop låser (MHLs) og Lightning Network.
 
@@ -1687,7 +1687,7 @@ Avslutningsvis gir forståelsen av den historiske konteksten og utfordringene ti
 <chapterId>28be7b31-e6b2-5eea-a5ed-62ce0a154b6e</chapterId>
 <professor>best-lion</professor>
 
-![Video](https://youtu.be/5OUgGHH6jPY)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 I våre tidligere diskusjoner dekket vi grunnleggende om enkle betalingskanaler. Disse kanalene lar to deltakere, la oss si Alice og Bob, utføre transaksjoner direkte med hverandre på en sømløs måte. Men, det er en åpenbar begrensning med denne modellen: Alice kan kun utføre transaksjoner med Bob og ikke med andre deltakere som Charlie, med mindre hun etablerer separate kanaler med hver av dem. Dette behovet for flere kanaler fører til ineffektivitet og skalérbarhetsproblemer, ettersom det ville være upraktisk for Alice å åpne en direkte kanal med alle hun trenger å utføre transaksjoner med.
 
 ### Sentraliserte Hopp
@@ -1745,7 +1745,7 @@ Oppsummert sikrer korrekt noddrift atomiske betalinger, og Lightning Network sik
 <chapterId>ba4b09ae-81de-53f2-8c15-316f037aaea9</chapterId>
 <professor>another-satoshi</professor>
 
-![Video](https://youtu.be/1aIuKBkPlkg)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Bitcoin-nettverket opererer som et tillitsløst verdibyttesystem, som primært fungerer som et oppgjørslag hvor transaksjoner blir registrert på en offentlig hovedbok. Dette sikrer sikkerhet og uforanderlighet, men kommer med begrensninger, spesielt når det gjelder transaksjonshastighet og gebyrer. Som et resultat kan Bitcoin være ineffektivt for daglige småtransaksjoner.
 
@@ -1869,7 +1869,7 @@ Avslutningsvis er det avgjørende for alle som ønsker å dykke ned i detaljene 
 <chapterId>a2ad8db4-aea2-5231-927c-616c53db31bf</chapterId>
 <professor>another-satoshi</professor>
 
-![Video](https://youtu.be/a0Q_5dzpqKw)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Lightning Network (LN) representerer et betydelig gjennombrudd i Bitcoin-skalerbarhet og transaksjonshastighet. LN-klienter, vanligvis referert til som Lightning-lommebøker, er spesialisert programvare eller apper som gjør det mulig for brukere å gjennomføre transaksjoner gjennom Lightning Network. Disse lommebøkene fungerer som et avgjørende grensesnitt mellom brukeren og LN, og muliggjør umiddelbart avregnede transaksjoner med lav avgift ved å utnytte off-chain veier.
 
@@ -2115,7 +2115,7 @@ Ved å adressere disse utfordringene, vil Lightning Network fortsette å modnes,
 <chapterId>c06763dd-bb26-5fec-8ac4-3e446e9517cd</chapterId>
 <professor>best-lion</professor>
 
-![Video](https://youtu.be/VXMON_nD650)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 ### Bitcoins Motstandsdyktighet og Evolusjon
 
@@ -2170,7 +2170,7 @@ Ved å forstå og sette pris på disse utviklingene, kan vi anerkjenne det mange
 <chapterId>f4d147bb-f146-5b36-a994-b9b70da83744</chapterId>
 <professor>radio-talent</professor>
 
-![Video](https://youtu.be/KqBfPaXqU2U)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 ### Utvide og Integrere Lightning-betalinger
 
@@ -2250,7 +2250,7 @@ Utvidelsen og integrasjonen av Lightning-betalinger gjennom ulike protokoller og
 <chapterId>a4eacfc3-7b37-5fa3-abd1-b1fc48b645f0</chapterId>
 <professor>diamond-jar</professor>
 
-![Video](https://youtu.be/W3Ra0cdG02I)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 #### Introduksjon
 
@@ -2361,7 +2361,7 @@ Avslutningsvis er verdenen av Bitcoin-mining et komplekst, flerfasett domene som
 <chapterId>f109f64f-9b73-5fbf-8870-5d34d5b69df8</chapterId>
 <professor>happy-panda</professor>
 
-![Video](https://youtu.be/VFjccozVwc8)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Adam Gibson gir innsikt i Joinmarket, og detaljerer hvordan denne CoinJoin-implementeringen forbedrer Bitcoins personvern og fungibilitet. Han diskuterer hvordan Joinmarket muliggjør samarbeidende, tillitsløse og anonyme transaksjoner innenfor Bitcoin-økosystemet. Deretter viser han i en andre del hvordan man kjører Joinmarket i Signet.
 
@@ -2371,31 +2371,31 @@ Adam Gibson gir innsikt i Joinmarket, og detaljerer hvordan denne CoinJoin-imple
 
 ### Gruppe 1 Hackathon - The Satoshi Legacy
 
-![Video](https://youtu.be/NiaahH57N1w)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Gruppen The Satoshi Legacy presenterer sitt arbeid med å bygge en Lightning e-handel med Shopify, React JS og Hydrogen og IBEX betalingsgateway.
 
 ### Gruppe 2 Hackathon - Honey Badger
 
-![Video](https://youtu.be/dds0-SV8ltE)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Honey Badger-gruppen presenterer sin løsning for en blogg med innebygde Lightning Powered Micropayments ved bruk av LnBits og Next.js, Node.js og Hydrogen.
 
 ### Gruppe 3 Hackathon
 
-![Video](https://youtu.be/2YjrrDMGU9c)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Den tredje gruppen presenterer et Lightning Network Node Dashboard via et tilpasset API, LND, vue.js, node.js, Bootstrap.
 
 ### Gruppe 4 Hackathon - Satoshi Fellowship
 
-![Video](https://youtu.be/mxLKiHa0mes#)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Gruppen Satoshi's Fellowship presenterer en LN spillapp ved bruk av LnBits og MongoDB, Poetry, Node.js.
 
 ### Gruppe 5 Hackathon - Lighting Walker
 
-![Video](https://youtu.be/IiY5PmkGNVo)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Lightning Walker-gruppen presenterer sin løsning for Remittance Service ved bruk av MySQL, JavaScript og ZDB's API.
 

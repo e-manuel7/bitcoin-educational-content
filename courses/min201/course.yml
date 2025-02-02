@@ -85,3 +85,53 @@ proofreading:
     urgency: 1
     contributors_id:
     reward: 72630
+videos:
+  - id: cb75aefb-75cc-4a7f-ba7d-5260b0cecc0c
+    youtube:
+      - nb-NO: https://youtu.be/A5MTtn4mm44?si=D1Yi0dVwkyafeHv-
+      - fr: https://www.youtube.com/watch?v=neEQzEQzmPQ
+  - id: 756cc072-84f6-4894-9cee-964f495d6d60
+    youtube:
+      - fr: https://www.youtube.com/watch?v=xkiY8DgkcLQ
+  - id: acaec739-18e3-492b-9952-8d3644780509
+    youtube:
+      - fr: https://www.youtube.com/watch?v=SQaK4_8M0kA
+  - id: ca65da1b-298f-445a-a3bc-4a67566b68be
+    youtube:
+      - fr: https://www.youtube.com/watch?v=4wywK6BfDw8
+  - id: 5b50f970-dccb-42d9-8a05-b3da165a1931
+    youtube:
+      - fr: https://youtu.be/A5MTtn4mm44?si=D1Yi0dVwkyafeHv-
+  - id: 96919484-66dc-493c-928d-3138033b5316
+    youtube:
+      - fr: https://www.youtube.com/watch?v=vYaQRLSDr5E&t=69s
+  - id: a6cb17a5-86bd-4072-856e-1fe06bdbf01f
+    youtube:
+      - fr: https://www.youtube.com/watch?v=gKoh44UCSnE&t=3s
+  - id: 37228607-bf92-4def-a280-b0a2351f5a89
+    youtube:
+      - fr: https://www.youtube.com/watch?v=U_PLo59lp-g
+  - id: 03caf8a6-7ffd-4938-a4b2-a9b024c05523
+    youtube:
+      - fr: https://www.youtube.com/watch?v=U_PLo59lp-g
+  - id: b784fa27-28a6-4aef-91e7-bca3d1c755f2
+    youtube:
+      - fr: https://www.youtube.com/watch?v=y4oYURBaPqg
+  - id: 17db3410-7e97-4a94-b89f-c919b818bc66
+    youtube:
+      - fr: https://www.youtube.com/watch?v=luqwlvzGsO4
+  - id: 9fd372db-f379-4876-9c81-304eb4a98b6d
+    youtube:
+      - fr: https://www.youtube.com/watch?v=dK0t8M8kLYg
+  - id: 38a6e831-ee55-40de-850a-987529851b95
+    youtube:
+      - fr: https://www.youtube.com/watch?v=2CNGKZiveuc
+  - id: 3a8b4de3-566f-4374-b43b-7aa286a1074b
+    youtube:
+      - fr: https://www.youtube.com/watch?v=2CNGKZiveuc
+  - id: 5baac036-b092-4259-87e2-516f85fe26a0
+    youtube:
+      - fr: https://www.youtube.com/watch?v=wM-dRog6mls&t=166s
+  - id: 2b5dd030-01d0-482e-9b5a-7a80578e6d12
+    youtube:
+      - fr: https://www.youtube.com/watch?v=yh8U9Ay1i-E&t=277s

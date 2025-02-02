@@ -27,7 +27,7 @@ Vous n'avez pas besoin de connaissances spécifiques pour vous lancer, la format
 
 <chapterId>27e3fb60-4b50-556b-9e70-c4f5475c121d</chapterId>
 
-![Introduction](https://youtu.be/PdiL6_1wbQY)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 ### Bienvenue dans un nouveau paradigme monétaire et technologique.
 
@@ -86,7 +86,7 @@ L'importance ici est surtout de comprendre de façon générale cette nouvelle t
 
 <chapterId>9a94b627-5b69-5d81-9125-f1fa9b0aa6ad</chapterId>
 
-![La préhistoire du Bitcoin](https://www.youtube.com/watch?v=ljHLhTzrLsw)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 Avant que le terme "Bitcoin" ne devienne synonyme de monnaie numérique et de transformation financière, une série d'idées, d'innovations et de mouvements sociaux ont posé les bases de sa création. L'un des éléments fondamentaux de cette préhistoire du Bitcoin est le mouvement cypherpunk.
 
@@ -147,7 +147,7 @@ https://planb.network/courses/his201
 
 <chapterId>c838e64d-d59f-5703-8c74-ea5e8c4fdd31</chapterId>
 
-![La monnaie](https://youtu.be/LslJVNCvHhA)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 L'évolution de la monnaie constitue un aspect fascinant de l'histoire humaine, reflétant l'ingéniosité des civilisations à travers les âges pour répondre à des besoins économiques en constante évolution.
 
@@ -211,7 +211,7 @@ Bitcoin, quant à lui, présente de nouvelles possibilités. De part ses propri�
 
 <chapterId>25151d46-7db1-5b48-8bba-cbde1944555a</chapterId>
 
-![Les monnaies Fiduciaires](https://youtu.be/1hOrDrmT27g)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 "Ceux qui n'apprennent pas de l'histoire sont voués à répéter les mêmes erreurs", a déclaré George Santayana. Une vérité qui résonne particulièrement lorsque l'on parle du système monétaire actuel.
 
@@ -270,7 +270,7 @@ https://planb.network/courses/eco102
 
 <chapterId>b04c024c-54f3-50cb-997f-58721cfc74be</chapterId>
 
-![Les hyperinflation](https://youtu.be/cYKmgflsy_8)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 L’hyperinflation est un phénomène monétaire propre aux monnaies fiduciaires. Elle se caractérise par une perte complète de la confiance dans une monnaie et une augmentation drastique de l’inflation via l’impression monétaire des autorités. En résultat, les économies accumulées par les individus peuvent se dissiper en un laps de temps relativement court, ceci poussant le pays au bord du gouffre économique, sociale et politique.
 
@@ -359,7 +359,7 @@ https://planb.network/courses/eco204
 
 <chapterId>f4a06d76-1963-56fd-93ff-dfa41489bcde</chapterId>
 
-![21 millions de Bitcoin](https://youtu.be/Y92R4EWk5uo)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 ### La politique monetaire du Bitcoin
 
@@ -445,7 +445,7 @@ En somme, le Bitcoin, par sa nature décentralisée, sa rareté programmée et s
 
 ### Conclusion de la section 1 !
 
-![conclusion sur la monnaie](https://youtu.be/xJsT7Jk5xWE)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 La monnaie est un outil social qui doit s'adapter aux besoins et à la technologie. Au fil du temps, l'or a été utilisé comme réserve de valeur car il était rare et ne pouvait pas être dévalué. Cependant, plus tard, l'or a été remplacé par de la dette et de la monnaie fiduciaire, qui est facile à transporter, mais aussi à manipuler via sa politique monétaire.
 
@@ -465,7 +465,7 @@ Maintenant que nous avons établi les différences entre Bitcoin et les monnaies
 
 Dans cette section 2, nous allons explorer le stockage et la sécurité des Bitcoins au sein de portefeuilles. Cela vous permettra de mieux comprendre où se trouvent ces fameux Bitcoins et comment interagir avec eux !
 
-![comprendre les portefeuilles Bitcoin](https://youtu.be/GsnX7qdODK8)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 ### Démystifions les portefeuilles Bitcoin
 
@@ -530,7 +530,7 @@ https://planb.network/courses/cyp201
 
 <chapterId>00c1afea-e54a-511f-bab3-2efc2fbfa6a1</chapterId>
 
-![Choisir sa sécurité](https://youtu.be/qhjEJuJHRf8)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 ### Se poser les bonnes questions avant de commencer
 
@@ -599,7 +599,7 @@ Maintenant que nous avons cela en tête, nous allons voir à la prochaine sectio
 
 <chapterId>615519eb-4565-557d-86a0-021badf7616f</chapterId>
 
-![mettre en place un portefeuille](https://youtu.be/2MRRERHm7ZM)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 La sécurité de vos Bitcoins est d'une importance cruciale et une simple erreur peut avoir des conséquences coûteuses. C'est pourquoi nous allons à présent voir les meilleures pratiques lors de la création d'un nouvel portefeuille Bitcoin.
 
@@ -644,7 +644,7 @@ https://planb.network/courses/btc102
 
 <chapterId>f58cd446-c202-5eff-aab7-e61cc40e5c06</chapterId>
 
-![passer l'épreuve du temps](https://youtu.be/p8eZPt_XnwI)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 La sécurité est une préoccupation majeure dans l'écosystème Bitcoin. En effet, comme toute forme de richesse, vos bitcoins doivent être protégés contre les pertes, les vols et la dégradation, en particulier sur le long terme. La sécurisation de vos bitcoins nécessite une certaine connaissance technique et la conscience des risques associés, ce qui nous amène à discuter de deux stratégies principales : la gravure de vos bitcoins dans l'acier et la création d'un plan d'héritage.
 
@@ -676,7 +676,7 @@ Dans la même logique, évitez de dévoiler haut et fort votre système de sécu
 
 ### Résumé sur la sécurité des portefeuilles Bitcoin
 
-![Conclusion chapitre 2](https://youtu.be/U28-oh950Dw)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 Les portefeuilles Bitcoin sont des logiciels permettant de stocker et transacter des bitcoins. Il en existe plusieurs types : portefeuilles sur mobile ou pc, pratique pour des petits montants et/ou des dépenses régulières ; les portefeuilles physiques, plutôt adapté à de la conservation de bitcoin sur le moyen et le long terme ; les portefeuilles multisig qui sont plus complexes à gérer et qui nécessitent plusieurs signatures pour effectuer des transactions.
 
@@ -696,7 +696,7 @@ Maintenant que nous avons bases des portefeuilles bitcoins et des bonnes pratiqu
 
 <chapterId>b7561082-8943-519d-95d1-a5f60dd2686d</chapterId>
 
-![Lancement de Bitcoin](https://youtu.be/GdeLB39QdUQ)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 ### Commençons par un peu d'Histoire.
 
@@ -756,7 +756,7 @@ Maintenant que nous avons quelques éléments de contexte, voyons à présent co
 
 <chapterId>03482644-5473-590b-975b-b43bb65eac21</chapterId>
 
-![Explication d'une transaction](https://youtu.be/GJlUqtGzxLk)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 Une transaction Bitcoin est simplement un transfert de propriété de bitcoins, grâce à l'utilisation d'une adresse bitcoin. Prenons, par exemple, deux protagonistes : Alice et Bob. Alice souhaite acquérir des Bitcoins, tandis que Bob en détient déjà.
 
@@ -820,7 +820,7 @@ Voyons donc plus en détail le fonctionnement d'un nœud Bitcoin.
 
 <chapterId>8533cebc-f799-528b-89df-8d75d4c37f1c</chapterId>
 
-![https://youtu.be/3vQmDJ4_ooM](https://youtu.be/3vQmDJ4_ooM)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 Les nœuds constituent un élément fondamental de l'architecture du réseau Bitcoin. Ils assurent diverses fonctions cruciales:
 
@@ -874,7 +874,7 @@ Suite à cette victoire, les nœuds ont activé une mise à jour nommée SegWit,
 
 <chapterId>dbb8264a-7434-57e4-9d1b-fbd1bae37fdf</chapterId>
 
-![les mineurs](https://youtu.be/Lr5L3uy244w)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 > Les mineurs servent à sécuriser le réseau et rajouter les transactions dans les blocs. Ils utilisent de l’électricité via des machines ASICS pour résoudre la preuve de travail Bitcoin.
 
@@ -952,7 +952,7 @@ https://planb.network/fr/courses/min201
 
 <chapterId>4b227ae6-443a-5739-b443-60b7931130d9</chapterId>
 
-![Bitcoin & écologie](https://youtu.be/nV2b2xAMfmU)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 Nous venons de voir à la section précédente que la sécurité du protocole Bitcoin repose sur un coût énergétique élevé pour produire un registre public des transactions sans tiers de confiance. Le coût énergétique global est souvent comparé à la consommation électrique d'un petit pays. Mais cette comparaison a-t-elle du sens ? Est-elle pertinente pour comprendre les raisons derrière d'un tel coût ?
 
@@ -1000,7 +1000,7 @@ La technologie du Bitcoin est souvent mal comprise, et les critiques concernant 
 
 ### Court résumé des aspects techniques de Bitcoin
 
-![conclusion chapitre 3](https://youtu.be/gqILoXTUKdc)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 Satoshi Nakamoto lança en Janvier 2009 le protocole Bitcoin, qui a depuis évolué grâce à une communauté grandissante de développeurs, mineurs et d'utilisateur avec des nœuds Bitcoin. Ces derniers en gardant leur propre copie de la blockchain Bitcoin, ce registre publique de toutes les transactions Bitcoin, peuvent s'assurer de la validité des transactions au regard des règles de consensus propres à Bitcoin. Notamment en s'assurant que les mineurs produisent des blocs valides, qui contiennent quelques milliers de transactions en attente.
 
@@ -1018,7 +1018,7 @@ Ainsi, le protocole Bitcoin est un système monétaire incensurable et instoppab
 
 <chapterId>d5e35e41-ea26-5478-8eb9-07daf9dff508</chapterId>
 
-![Bitcoin ne dort jamais](https://youtu.be/7535MAeHzxM)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 Le prix du Bitcoin est souvent caractérisé par une volatilité significative. Sa valeur peut fluctuer considérablement en fonction des variations du marché et des phases de marché haussier (bull market) et marché baissier (bear market). Ceci est présent sur 100% des marchés financiers, bitcoin y compris.
 
@@ -1078,7 +1078,7 @@ Aujourd'hui, en 2023, le Bitcoin continue de survivre et de grossir toujours plu
 
 <chapterId>be2d83be-406f-582c-83ca-6aa905ff7b04</chapterId>
 
-![obtenir des bitcoin en travaillant](https://youtu.be/sHkadVRUQF8)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 ### Une économie parallèle se développe
 
@@ -1124,7 +1124,7 @@ D'autres solutions intermédiaires ou concurrentes de ces choix existent bien é
 
 <chapterId>1d9570c6-5b63-51a6-b87c-7bdb0fc4aa87</chapterId>
 
-![epargne en bitcoin](https://youtu.be/Ir5zzYc95IQ)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 ### Avertissement avant de ce lancer !
 
@@ -1220,7 +1220,7 @@ Il est également important de noter qu'il est possible que des impôts soient m
 
 <chapterId>b7275d31-3b60-5fb7-b9f5-030097010553</chapterId>
 
-![hyper-bitcoinisation](https://youtu.be/lLxndxrzXR0)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 ### La course folle ne fait que commencer !
 
@@ -1252,7 +1252,7 @@ Si vous souhaitez développer vos connaissances sur le Bitcoin, un grand nombre 
 
 <chapterId>b403f1e4-f1ff-572b-a242-9b58cb3736d0</chapterId>
 
-![Le lightning Network](https://youtu.be/HFv3NN4z450)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 Maintenant que nous avons les bases du protocole Bitcoin, nous allons introduire un réseau de paiment qui utilise le protocole Bitcoin pour permettre de faire des transactions à la vitesse de l'éclair. Nous parlons évidemment du Lightning Network !
 
@@ -1301,7 +1301,7 @@ https://planb.network/courses/lnp201
 
 <chapterId>684e31f9-ebd1-51b6-91c0-1e6a315f1141</chapterId>
 
-![cas d'usage du LN](https://youtu.be/_UV2jmQ8TQM)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 Comme nous venons de le voir le protocole Bitcoin, bien que révolutionnaire, fait face à des défis importants en matière de mise à l'échelle, pour pouvoir effectuer toutes nos transactions du quotidien. Pour résoudre ces problèmes, une solution de deuxième couche connue sous le nom de Lightning Network a été proposée en 2016 et possède aujourd'hui plusieur implémentations différentes mais toutes interopérable:
 
@@ -1340,7 +1340,7 @@ En conclusion, le Lightning Network ouvre une multitude de cas d'utilisation pas
 
 <chapterId>c81cdb45-6aa9-5462-9835-c4852084b2cc</chapterId>
 
-![pilule rouge](https://youtu.be/nCRVIoyyyck)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 Comme le disait Morpheus à Néo : "Tu prends la pilule bleue, l’histoire s’arrête là, tu te réveilles dans ton lit, et tu crois ce que tu veux. Tu prends la pilule rouge, tu restes au Pays des Merveilles et je te montre jusqu’où va le terrier.". Êtes-vous prêt à explorer la terrier du Bitcoin ? Faites attention car vous risqueriez de retrouver votre liberté financière !
 
@@ -1394,7 +1394,7 @@ Bitcoin est important et ne doit pas être considéré comme un simple jeu d'arg
 
 ### Bitcoin : un protocole révolutionnaire
 
-![Conclusion](https://youtu.be/BoZL_D7uLAg)
+<videoId>e35a916d-522e-418e-9080-9648021acde5</videoId>
 
 Comme nous l'avons vu dans le chapitre précèdent, le protocole Bitcoin est neutre face à tous ces utilisateurs. Grâce aux règles de consensus et à la cryptographie, nous pouvons inscrire des transtions de manière immuable dans une regitre public mondial, garantissant des transfert de valeur monétaire sans aucun tiers de confiance. Les couches infrastructurelles de niveau 2 (et bientôt 3, avec RGB) permettent de faire évoluer le réseau et de développer de nouvelles fonctionnalités, notamment pour régler des problèmes de mise à l'échelle.
 

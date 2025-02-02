@@ -25,7 +25,7 @@ Enjoy!
 
 <chapterId>dcf2d37e-b32a-5eb8-aaa3-41ac92475ba9</chapterId>
 
-![Video](https://youtu.be/4VuI9we_XYM)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Filippo and Mario provide an introductory talk on CUBO+ 2023, setting the stage for the comprehensive learning journey that awaits. They discuss the structure of the courses, the learning outcomes, and how these will empower students in the Bitcoin development space.
 
@@ -47,7 +47,7 @@ Throughout the course, participants will leverage key tools that will aid their 
 
 ### Why El Salvador Needs Bitcoin
 
-![video](https://youtu.be/VExfKFrGuYw)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Welcome to the first lecture of the **Cubo Plus** educational program. Today, we are diving into the world of Bitcoin, led by Ricky, the founder of the **Bitcoin Italia Podcast**. Ricky is a passionate human rights activist who uses Bitcoin as a tool to protect and promote human rights. With over six years of experience, Ricky has traveled extensively, documenting Bitcoin adoption in emerging markets like El Salvador and Guatemala. His work goes beyond podcasting; he’s also active on YouTube (**Bitcoin Explorers**) and Twitter (**BTC Explorer**, **Ricky6**). Ricky's commitment to Bitcoin stems from his belief that it offers financial freedom and privacy, challenging traditional, centralized banking systems.
 
@@ -159,13 +159,13 @@ Thank you for engaging with this material!
 
 ### Bitcoin's Technology Stack
 
-![video](https://youtu.be/5UkjQomJsHU)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 In the first lecture of the 'How Bitcoin' course, we began exploring the technology stack that underpins the Bitcoin network. We covered topics such as **Hashcash**, **transactions**, the **blockchain**, the **Lightning Network**, and other key components of the Bitcoin protocol.
 
 ### Bitcoin's Technological Stack Part 2
 
-![video](https://youtu.be/UkwbPVhLeIk)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 During the second lecture of 'How Bitcoin', we conducted a more in-depth examination of Bitcoin's technology stack.
 
 ### Bitcoin Structure
@@ -221,7 +221,7 @@ Bitcoin's structure and ongoing evolution showcase the innovation and adaptabili
 
 ### Debunking Bitcoin
 
-![video](https://youtu.be/f0Pf0u1y5F4)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 In this lecture, we debunk common myths surrounding **Bitcoin**, **blockchains**, and **cryptocurrencies**. Let's address misconceptions about Bitcoin's energy consumption, criminal usage, and the broader "FUD" (fear, uncertainty, doubt) spread about this technology.
 
@@ -279,7 +279,7 @@ Understanding the realities of Bitcoin’s energy consumption, privacy features,
 
 ### Installation of Bitcoin Core
 
-![Video](https://youtu.be/fIUU2sRCEj0)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 In the first lecture of the 4th module, we explored Bitcoin's architecture and the installation of a Bitcoin Core node.
 
@@ -363,7 +363,7 @@ These are some of the basic commands when configuring your node:
 
 ### Installation of C-lightning
 
-![video](https://youtu.be/zrB1Kc4BqvY)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 #### 1. **Bitcoin Core Recap**
 
@@ -585,7 +585,7 @@ In conclusion, today we covered the essential steps for reinstalling Bitcoin Cor
 
 ### Security and Hardware devices
 
-![video](https://youtu.be/oVaI9WuLkgk)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 ### Specter and Ledger Device
 
@@ -685,7 +685,7 @@ This concludes our lecture on security and device setup for Bitcoin using Specte
 
 ### Open Problems in the Bitcoin ecosystem
 
-![video](https://youtu.be/Vlm2ZdxcidA)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Over more than a decade, Bitcoin has proven to be a transformative innovation in the financial world, successfully operating on a global scale and opening new possibilities in the digital economy. However, it still faces challenges that require creative and collaborative solutions. The ongoing evolution of Bitcoin presents a unique opportunity for those interested in shaping the future of decentralized finance.
 
@@ -772,7 +772,7 @@ In conclusion, continuously addressing these open problems and innovating within
 <chapterId>0b97af0c-015a-54e3-a7f0-0f62ceb96c07</chapterId>
 <professor>because-drama</professor>
 
-![Video](https://youtu.be/2f_rK74MB3U)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Welcome to today's lecture on **Security and Reliability**. Our objective is to explore the nuanced relationship between these two fundamental aspects of system design and application in real-world scenarios.
 
@@ -837,7 +837,7 @@ In conclusion, comprehending and integrating security and reliability principles
 <chapterId>2c59d609-f1ef-53f4-9575-df62e4d066e9</chapterId>
 <professor>because-drama</professor>
 
-![Video](https://youtu.be/ln-FYziKqNY)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 The use of Free and Open Source Software (FLOSS) is critical in Bitcoin's ecosystem. Peter Todd explores the importance of FLOSS for Bitcoin, exploring the history of FLOSS and examining how Github allow us to collaboratively build open-source software like Bitcoin.
 
@@ -884,7 +884,7 @@ In conclusion, the economics of open-source software are driven by community con
 <chapterId>71867dd2-912c-55ad-b59c-9dbca8a39469</chapterId>
 <professor>happy-panda</professor>
 
-![Video](https://youtu.be/QcK-Cl8B9QU)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Welcome! Today, we will dive into the crucial aspects of cryptography that every Bitcoin developer should know. We'll focus on foundational concepts and practical applications without overwhelming you with excessive theoretical details. The primary goal is to equip you with the knowledge to understand, implement, and troubleshoot cryptographic mechanisms in Bitcoin effectively.
 
@@ -945,7 +945,7 @@ By mastering these concepts and adhering to best practices, you'll be well-equip
 <chapterId>a30ec3e7-b290-5145-a9a9-042224ab20d2</chapterId>
 <professor>because-drama</professor>
 
-![Video](https://youtu.be/g_BcT5YkZUQ)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 ### Nature of Bitcoin
 
@@ -1012,7 +1012,7 @@ In conclusion, Bitcoin's future and changes are determined by the collective wil
 <chapterId>75ea1d88-ee6f-5f98-af90-e4758c55e606</chapterId>
 <professor>happy-panda</professor>
 
-![Video](https://youtu.be/hGS8Cuj5Zb4)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Adam Gibson breaks down the various components of a Bitcoin node. The chapter focuses on the role each component plays in maintaining the network's functionality and integrity. In particularly he focuses on why we should run a bitcoin node, what does a bitcoin node do, and how the different components of a bitcoin node function.
 
@@ -1115,7 +1115,7 @@ Running a Bitcoin node is a powerful way to participate in the Bitcoin network, 
 <chapterId>5ed314b1-8293-567d-bf03-730e8c9c774b</chapterId>
 <professor>radio-talent</professor>
 
-![video](https://youtu.be/okvV9hqDOtM)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 The primary goal of this lecture is to guide you through the process of parsing a Bitcoin block by coding a parser in Rust. This involves understanding the structure of Bitcoin blocks and transactions, and implementing the necessary logic to extract and interpret this data.
 
@@ -1402,7 +1402,7 @@ In conclusion, parsing Bitcoin blocks and transactions in Rust involves understa
 <chapterId>96d64781-fc27-5209-88d8-2acf00d05ea8</chapterId>
 <professor>mad-salad</professor>
 
-![Video](https://youtu.be/xOdz9GEiShM)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Daniela Brozzoni offers a comprehensive overview of the Bitcoin Layer 1 software stack, explaining the layers that comprise the foundation of Bitcoin's protocol (ie. Bitcoin nodes and Bitcoin wallets) and how to build Bitcoin software with an introduction to Bitcoin libraries and a deep dive into Bitcoin Development Kit (BDK).
 
@@ -1671,7 +1671,7 @@ By understanding these components, from Bitcoin nodes and wallets to the Bitcoin
 <chapterId>a0b11c6e-c0ff-5e65-b809-b2ab9a2fc37b</chapterId>
 <professor>best-lion</professor>
 
-![Video](https://youtu.be/VtpbCspK5T4)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 ### History of Payment Channels
 
@@ -1712,7 +1712,7 @@ In conclusion, understanding the historical context and challenges of Bitcoin, a
 <chapterId>28be7b31-e6b2-5eea-a5ed-62ce0a154b6e</chapterId>
 <professor>best-lion</professor>
 
-![Video](https://youtu.be/5OUgGHH6jPY)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 In our previous discussions, we covered the fundamentals of basic payment channels. These channels allow two participants, say Alice and Bob, to transact directly with each other seamlessly. However, there is a glaring limitation with this model: Alice can only transact with Bob and not with other participants like Charlie, unless she establishes separate channels with each one of them. This necessity for multiple channels leads to inefficiency and scalability issues, as it would be impractical for Alice to open a direct channel with everyone she needs to transact with.
 
@@ -1771,7 +1771,7 @@ In summary, proper node operation ensures atomic payments, and the Lightning Net
 <chapterId>ba4b09ae-81de-53f2-8c15-316f037aaea9</chapterId>
 <professor>another-satoshi</professor>
 
-![Video](https://youtu.be/1aIuKBkPlkg)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 The Bitcoin network operates as a trustless value exchange system, primarily serving as a settlement layer where transactions are recorded on a public ledger. This ensures security and immutability but comes with limitations, particularly in terms of transaction speed and fees. As a result, Bitcoin can be inefficient for everyday small transactions.
 
@@ -1895,7 +1895,7 @@ In conclusion, understanding the Second Layer Importance, Lightning Network Spec
 <chapterId>a2ad8db4-aea2-5231-927c-616c53db31bf</chapterId>
 <professor>another-satoshi</professor>
 
-![Video](https://youtu.be/a0Q_5dzpqKw)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 The Lightning Network (LN) represents a significant breakthrough in Bitcoin scalability and transaction speed. LN clients, typically referred to as Lightning wallets, are specialized software or apps that enable users to conduct transactions through the Lightning Network. These wallets serve as a crucial interface between the user and the LN, facilitating instantly settled, low-fee transactions by leveraging off-chain paths.
 
@@ -2140,7 +2140,7 @@ By addressing these challenges, the Lightning Network will continue to mature, b
 <chapterId>c06763dd-bb26-5fec-8ac4-3e446e9517cd</chapterId>
 <professor>best-lion</professor>
 
-![Video](https://youtu.be/VXMON_nD650)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 ### Bitcoin's Resilience and Evolution
 
@@ -2197,7 +2197,7 @@ By understanding and appreciating these developments, we can recognize the multi
 <chapterId>f4d147bb-f146-5b36-a994-b9b70da83744</chapterId>
 <professor>radio-talent</professor>
 
-![Video](https://youtu.be/KqBfPaXqU2U)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 ### Extending and Integrating Lightning Payments
 
@@ -2280,7 +2280,7 @@ The extension and integration of Lightning payments through various protocols an
 <chapterId>a4eacfc3-7b37-5fa3-abd1-b1fc48b645f0</chapterId>
 <professor>diamond-jar</professor>
 
-![Video](https://youtu.be/W3Ra0cdG02I)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 #### Introduction
 
@@ -2391,7 +2391,7 @@ In conclusion, the world of Bitcoin mining is a complex, multifaceted domain tha
 <chapterId>f109f64f-9b73-5fbf-8870-5d34d5b69df8</chapterId>
 <professor>happy-panda</professor>
 
-![Video](https://youtu.be/VFjccozVwc8)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Adam Gibson offers insight into Joinmarket, detailing how this CoinJoin implementation enhances Bitcoin's privacy and fungibility. He discusses how Joinmarket facilitates collaborative, trustless, and anonymous transactions within the Bitcoin ecosystem. Then in a second part, he show how to run Joinmarket in Signet.
 
@@ -2401,31 +2401,31 @@ Adam Gibson offers insight into Joinmarket, detailing how this CoinJoin implemen
 
 ### Groupe 1 Hackathon - The Satoshi Legacy
 
-![Video](https://youtu.be/NiaahH57N1w)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 The Satoshi Legacy's group presents their work on building a Lightning e-commerce with Shopify, React JS and Hydrogen and the IBEX payment gateway.
 
 ### Groupe 2 Hackathon - Honey Badger
 
-![Video](https://youtu.be/dds0-SV8ltE)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Honey Badger's group presents her solution for a blog with Lightning Powered Micropayments built-in with the use of LnBits and Next.js, Node.js and Hydrogen.
 
 ### Groupe 3 Hackathon
 
-![Video](https://youtu.be/2YjrrDMGU9c)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 The third group presents a Lightning Network Node Dashboard via a customed API, LND, vue.js, node.js, Bootstrap.
 
 ### Groupe 4 Hackathon - Satoshi Fellowship
 
-![Video](https://youtu.be/mxLKiHa0mes#)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Satoshi's Fellowship's group presents a LN gaming app using LnBits and MongoDB, Poetry, Node.js.
 
 ### Groupe 5 Hackathon - Lighting Walker
 
-![Video](https://youtu.be/IiY5PmkGNVo)
+<videoId>22cdecc6-0737-418e-b8e5-fcb37d1899b6</videoId>
 
 Lightning Walker's group presents their solution for Remittances Service using MySQL, JavaScript and ZDB's API.
 

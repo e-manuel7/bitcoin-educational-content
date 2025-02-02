@@ -282,7 +282,7 @@ Lyhyesti sanottuna, **mahdollisuuksia on loputtomasti ja ne riippuvat tarpeistas
 ####
 
 Ohjataksesi sinua yksityiskohtaisemmin, tarjoamme alla olevan ei-tyhjentävän videon, joka esittelee joitakin mahdollisuuksia:
-![Canva Tutorial](https://www.youtube.com/watch?v=sgloI_v-nAk)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ####
 
@@ -411,7 +411,7 @@ Myöhemmin näemme, mutta **on erittäin suositeltavaa valita "Telegram-ryhmä" 
 ####
 
 Seuraavissa ohjeissa käytämme APK-sovellusta "Telegram+"; sovellus, joka mahdollistaa Telegramin tarkemman määrittämisen. Tämä ei kuitenkaan ole välttämätöntä, sillä ryhmän tai super-ryhmän luominen Telegramissa voidaan nyt tehdä erittäin helposti puhelimella:
-![Telegram+ Tutorial](https://www.youtube.com/watch?v=Z5mE-LksBZw)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ### Telegram-kanavan luominen
 
@@ -426,7 +426,7 @@ Kuitenkin on mahdollista lisätä kanavan jäsenille mahdollisuus kommentoida ku
 ####
 
 Ohjeet Telegram-kanavan luomiseen:
-![Telegram-kanavan ohje](https://www.youtube.com/watch?v=N5S7cgySV8U)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ### Telegram-ryhmän luominen
 
@@ -447,7 +447,7 @@ Tämän kanavan ylläpitäjät voivat sitten:
 ####
 
 Ohjeet Telegram-ryhmän luomiseen:
-![Telegram-kanavan ohje](https://www.youtube.com/watch?v=u1BuxEsmFuA)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 Pikahuomautus: kuten aiemmin mainittiin, yllä oleva opas tehtiin tietokoneella APK "Telegram+" avulla. Kuitenkin nyt on erittäin helppoa luoda Telegram-ryhmä puhelimella.
 Siksi "Telegram+" lataamista ei enää tarvita tämän tehtävän suorittamiseen; ellet halua perehtyä syvemmin ryhmäsi yksityisyysasetuksiin.
@@ -480,7 +480,7 @@ On kuitenkin huomattava, että **Telegram-superryhmän käyttö voi olla joillek
 Yleisesti ottaen ei ole tiettyä jäsenmäärää, jonka kohdalla Telegram-superryhmän käyttöönotto Telegram-ryhmän sijaan muuttuu relevantiksi. Siksi valinta on sinun, perustuen jäsenten tarpeisiin ja pyyntöihin; samalla tietäen, että Telegram-ryhmän voi helposti muuntaa Telegram-superryhmäksi (ja päinvastoin). Tämän tekemiseksi sinun tarvitsee vain luoda aihe (tai poistaa kaikki niistä).
 
 Opetusvideo Telegram-superryhmän luomiseksi:
-![Opetusvideo superryhmä Telegram](https://www.youtube.com/watch?v=GWVqpjBtg-U)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 Huomio: kuten aiemmin mainittiin, yllä oleva opetusvideo tehtiin tietokoneella, jossa on "Telegram+" APK. Kuitenkin nyt on erittäin helppoa luoda Telegram-superryhmä puhelimella.
 Tämän tekemiseksi, luo yksinkertaisesti Telegram-ryhmä; sitten sen asetuksissa, klikkaa "Aiheet" -nappia lisätäksesi joitakin. Kun muutos on vahvistettu, aiheiden lista ilmestyy; ja voit muokata sitä haluamallasi tavalla.
@@ -549,7 +549,7 @@ Lukuisia lisävaihtoehtoja on myös saatavillasi. Kuitenkin yksi neuvo: **älä 
 ####
 
 Ohje monitoimibotin lisäämiseen ryhmään tai super-ryhmään Telegramissa:
-![Monitoimibotin Telegram-ohje](https://www.youtube.com/watch?v=l72GZcEFDtU)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 Pieni huomautus: kuten aiemmin mainittiin, kaikki tämä toimenpide voidaan nyt tehdä puhelimella.
 
@@ -564,7 +564,7 @@ Kuitenkin, kuten aiemmin mainittiin, **mahdolliset "käytettävyysvaikeudet" ja 
 Ilmeisesti, Telegramin ja Twitterin lisäksi, tämä vaatii silti hieman enemmän aikaa hallinnoida; erityisesti sen asetuksen ja käynnistyksen aikana.
 
 Helpottaaksemme asioita, **jaamme [valmiin, duplikoitavan ja muokattavan Discord-palvelimen](https://discord.com/template/bDY4eXXJk2C8) mukautettavaksi haluamallasi tavalla**:
-![Duplikoitavan Discord-palvelimen ohje](https://www.youtube.com/watch?v=i3V6_359Ajw)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ####
 
@@ -576,7 +576,7 @@ Tämän vuoksi on kehitetty avoimen lähdekoodin botti nimeltä [TediCross](http
 On kuitenkin huomionarvoista, että sen asentaminen ei ole kovin suoraviivaista, että **sen toimiminen vaatii jatkuvasti komentokehotteen (CMD) käynnissä pitämistä tietokoneella**; mutta myös, että joskus esiintyy virheilmoituksia. Onneksi tässä tilanteessa riittää, että botti käynnistetään uudelleen; ja sitten kaikki palaa normaaliksi.
 
 Aikasi säästämiseksi, tässä on opas monitoimibotin lisäämiseksi Telegram-ryhmään tai super-ryhmään:
-![TediCross Discord - Telegram botin opas](https://www.youtube.com/watch?v=e4YAPG0ITF8)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ## Harkitse muita viestintäkanavia, yksityisiä ja turvallisempia
 
@@ -675,7 +675,7 @@ Huomaa myös, että sekä puhelimella että tietokoneella on mahdollista olla ki
 Lopuksi, vaikka käyttäjänimesi "@Bitcoin[CITY]" on ainutlaatuinen ja nyt kuuluu sinulle, saattaa olla viisasta ennaltaehkäisevästi luoda tilejä "@Bitcoin\_[CITY]", "@[CITY]Bitcoin", tai "@[CITY]\_Bitcoin" **varmistaaksesi, ettei kukaan yritä kopioida identiteettiäsi**. On todellakin parempi ennakoida!
 
 Twitter-tilin luomisen opas:
-![Twitter-tilin opas](https://www.youtube.com/watch?v=pp3DDakV0bA)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ## Yhteydenpito naapuritapaamisiin
 
@@ -1184,7 +1184,7 @@ Tavoitteena on luoda yhteisöllesi näyteikkuna, joka sisältää tapaamisia, ta
 Tämän luomistehtävän yksinkertaistamiseksi alla oleva opas näyttää puolessa tunnissa askeleet **ilmaisen verkkosivuston luomiseen WordPress-alustalla**. Tämä sivusto mahdollistaa **muokattavan kotisivun luomisen, kategorioiden luomisen, artikkeleiden julkaisemisen, median (YouTube-videot, kuvat, PDF:t)** integroimisen jne.
 Myöhemmin voit ostaa oman verkkotunnuksesi ja jopa isännöidä sitä henkilökohtaisella palvelimellasi, jos haluat.
 
-![Opas ilmaisen WordPress-verkkosivuston luomiseen](https://www.youtube.com/watch?v=cZzH4gj_kZY)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ####
 
@@ -1245,7 +1245,7 @@ Joten, kun työ on tehty "Spotify for podcasters" -palvelussa, jäljellä on vai
 Tapauksessa, jossa haluaisit **nauhoittaa tietokoneellasi, ilmainen ohjelmisto kuten ["Audacity"](https://www.audacityteam.org/) toimii erittäin hyvin**. Se mahdollistaa monien asetusten säätämisen, crescendojen suorittamisen, ja jopa äänen selkeyden parantamisen muokkauksen aikana. Äänesi nauhoittaminen ja sitten podcastisi äänen muokkaaminen pitäisi siis olla melko helppoa.
 
 Tässä on lyhyt opas, joka esittelee 10 minuutissa tärkeimmät ominaisuudet, jotka tulee tietää podcastin tekemiseksi Audacityllä.
-![Opas podcastin luomiseen Audacityllä](https://www.youtube.com/watch?v=z471_Ye6Y0I)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 Huom: kuten aiemmin mainittiin, tapauksessa, että jonain päivänä Bitcoin kiellettäisiin tai sensuroitaisiin, saattaisi olla järkevää aina **pitää paikallinen kopio kovalevyllä podcasteista**, jotka postaat.
 
@@ -1529,7 +1529,7 @@ Seuranta:
 18. Mene vielä pidemmälle projekteissa, joista pidät ja jotka ovat sinulle tärkeitä.
 
 Hieman vähemmän yksityiskohtaisesti, 21-minuuttisessa videossa, se näyttää tältä:
-![Bitcoin Community Tutorial](https://www.youtube.com/watch?v=EHLAmHHuZd8)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ####
 

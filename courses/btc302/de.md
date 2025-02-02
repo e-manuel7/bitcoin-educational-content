@@ -244,7 +244,7 @@ Schließlich ist es auch möglich, auf der Startseite nach einem **vorgefertigte
 Kurz gesagt, **die Möglichkeiten sind endlos und hängen von Ihren Bedürfnissen ab, aber auch von der grafischen Charta, die Sie für Ihre Gemeinschaft und Ihre Treffen/Veranstaltungen erstellen möchten**!
 ####
 Um Sie detaillierter zu führen, bieten wir unten ein nicht erschöpfendes Video-Tutorial an, das einige Möglichkeiten vorstellt:
-![Canva Tutorial](https://www.youtube.com/watch?v=sgloI_v-nAk)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 ####
 
 Hier sind auch einige vorgefertigte, duplizierbare und bearbeitbare Dateien, die wir mit unserem Verein, Bitcoin Lille, verwenden:
@@ -347,7 +347,7 @@ Wie bereits erwähnt, ist Telegram in vielen Ländern ein "Muss". Wenn Sie jedoc
 Wir werden später darauf eingehen, aber **es wird dringend empfohlen, "Telegram-Gruppe" zu wählen, wenn Sie erstellen** (oder, abhängig von Ihren Zielen, "Telegram-Super-Gruppe").
 ####
 Für die folgenden Tutorials werden wir die APK-Anwendung "Telegram+" verwenden; eine Anwendung, die eine fortgeschrittenere Konfiguration Ihres Telegram ermöglicht. Dies ist jedoch nicht notwendig, da das Erstellen einer Gruppe oder Super-Gruppe auf Telegram jetzt sehr einfach auf einem Telefon durchgeführt werden kann:
-![Telegram+ Tutorial](https://www.youtube.com/watch?v=Z5mE-LksBZw)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ### Erstellen eines Telegram-Kanals
 
@@ -360,7 +360,7 @@ Tatsächlich ist **ein Telegram-Kanal nur eine Schaufenster der Informationen, d
 Es ist jedoch möglich, die Fähigkeit für Kanalmitglieder hinzuzufügen, Kommentare zu jedem Beitrag eines Administrators zu verfassen, aber dies wird in separaten Diskussionen erfolgen; was die Austausche erheblich teilt. **Daher wird generell nicht empfohlen, einen Telegram-Kanal für eine Gemeinschaft zu erstellen.**
 ####
 Anleitung zur Erstellung eines Telegram-Kanals:
-![Telegram-Kanal Tutorial](https://www.youtube.com/watch?v=N5S7cgySV8U)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ### Erstellung einer Telegram-Gruppe
 
@@ -378,7 +378,7 @@ Die Administratoren dieses Kanals können dann:
 - Ein **"Profilbild"** zur Telegram-Gruppe hinzufügen (d.h. das Logo Ihrer Gemeinschaft) **und dessen Namen ändern**.
 ####
 Anleitung zur Erstellung einer Telegram-Gruppe:
-![Telegram-Kanal Tutorial](https://www.youtube.com/watch?v=u1BuxEsmFuA)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 Eine kurze Anmerkung: wie zuvor erwähnt, wurde das obige Tutorial auf einem Computer mit der APK "Telegram+" erstellt. Es ist jedoch jetzt sehr einfach, eine Telegram-Gruppe auf einem Telefon zu erstellen.
 Daher ist es nicht mehr notwendig, "Telegram+" herunterzuladen, um diese Aufgabe auszuführen; es sei denn, Sie möchten tiefer in die Datenschutzeinstellungen Ihrer Gruppe eintauchen.
@@ -407,7 +407,7 @@ Es sollte jedoch beachtet werden, dass **eine Telegram-Supergruppe für einige M
 Generell gibt es keine spezifische Mitgliederanzahl, bei der es relevant wird, eine Telegram-Supergruppe anstelle einer Telegram-Gruppe zu nutzen. Daher liegt die Wahl bei Ihnen, basierend auf den Bedürfnissen und Anfragen Ihrer Mitglieder; wobei zu beachten ist, dass eine Telegram-Gruppe leicht in eine Telegram-Supergruppe (und umgekehrt) umgewandelt werden kann. Dazu müssen Sie lediglich ein Thema erstellen (oder alle löschen).
 
 Tutorial zur Erstellung einer Telegram-Supergruppe:
-![Tutorial Supergruppe Telegram](https://www.youtube.com/watch?v=GWVqpjBtg-U)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 Hinweis: Wie zuvor erwähnt, wurde das obige Tutorial auf einem Computer mit der "Telegram+" APK durchgeführt. Es ist jedoch jetzt sehr einfach, eine Telegram-Supergruppe auf einem Telefon zu erstellen.
 Dazu einfach eine Telegram-Gruppe erstellen; dann in ihren Einstellungen auf den Button "Themen" klicken, um einige hinzuzufügen. Sobald die Änderung bestätigt ist, erscheint eine Liste von Themen; und Sie können diese nach Belieben ändern.
@@ -468,7 +468,7 @@ Drei weitere einfache Ideen sind:
 Zahlreiche zusätzliche Optionen stehen Ihnen ebenfalls zur Verfügung. Ein Rat jedoch: **Versuchen Sie nicht, den Austausch übermäßig einzuschränken**.
 ####
 Anleitung zum Hinzufügen eines Multi-Funktion-Bots zu einer Gruppe oder Super-Gruppe auf Telegram:
-![Multi-Funktion Telegram-Bot Anleitung](https://www.youtube.com/watch?v=l72GZcEFDtU)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 Kleine Anmerkung: Wie zuvor erwähnt, kann dieses Verfahren mittlerweile auch auf einem Telefon durchgeführt werden.
 
@@ -482,14 +482,14 @@ Wie zuvor erwähnt, können jedoch **die potenziellen "Benutzbarkeitsschwierigke
 Offensichtlich erfordert dies, zusätzlich zu Telegram und Twitter, immer noch etwas mehr Zeit zum Verwalten; insbesondere während der Einrichtung und des Starts.
 
 Um Ihnen die Dinge zu erleichtern, **teilen wir einen [vorgefertigten, duplizierbaren und modifizierbaren Discord-Server](https://discord.com/template/bDY4eXXJk2C8) mit Ihnen, den Sie nach Belieben anpassen können**:
-![Duplizierbare Discord-Server Anleitung](https://www.youtube.com/watch?v=i3V6_359Ajw)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 ####
 So kann ein gut konstruierter Discord-Server ein echter Gewinn für seine Gemeinschaft sein. Tatsächlich nutzen viele Bitcoiner bereits täglich Discord (und nicht Telegram), und **ihnen zu ermöglichen, den Gesprächen der Telegram-Gruppe direkt innerhalb des Discord-Servers zu folgen, spart erheblich Zeit**. Und umgekehrt.
 Aus diesem Grund wurde ein Open-Source-Bot namens [TediCross](https://github.com/TediCross/TediCross) entwickelt. Sein Ziel ist einfach: Nachrichten automatisch von einem Discord-Textkanal in eine Telegram-Gruppe (oder ein Thema in einer Telegram-Supergruppe) zu übertragen; und umgekehrt. Dies kann daher sehr interessant sein, um es einzurichten.####
 Es ist jedoch zu beachten, dass seine Installation nicht sehr einfach ist, dass **es erfordert, kontinuierlich eine Befehlszeile (CMD) auf einem Computer laufen zu lassen, damit dieser Bot funktioniert**; aber auch, dass es manchmal Fehler gibt. Glücklicherweise muss in dieser Situation einfach neu gestartet werden; und dann geht alles wieder zum Normalzustand zurück.
 
 Um Ihnen erneut Zeit zu sparen, finden Sie hier ein Tutorial, wie Sie einen Multifunktions-Bot zu einer Telegram-Gruppe oder Supergruppe hinzufügen können:
-![TediCross Discord - Telegram Bot Tutorial](https://www.youtube.com/watch?v=e4YAPG0ITF8)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ## Betrachten Sie andere Kommunikationskanäle, privat und sicherer
 <chapterId>29d0aad6-0612-5dd0-bcef-7337eaf4fefc</chapterId>
@@ -574,7 +574,7 @@ Beachte auch, dass es sowohl auf dem Telefon als auch am Computer möglich ist, 
 Schließlich, obwohl dein Benutzername "@Bitcoin[CITY]" einzigartig ist und dir jetzt gehört, könnte es klug sein, präventiv Konten "@Bitcoin_[CITY]", "@[CITY]Bitcoin" oder "@[CITY]_Bitcoin" zu erstellen, um **sicherzustellen, dass niemand versucht, deine Identität zu duplizieren**. Es ist tatsächlich besser, zu antizipieren!
 
 Tutorial zur Erstellung eines Twitter-Kontos:
-![Twitter-Konto Tutorial](https://www.youtube.com/watch?v=pp3DDakV0bA)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ## Verbindung mit benachbarten Meet-ups
 <chapterId>12a21c3b-235a-5292-8209-67bf60f61e49</chapterId>
@@ -1003,7 +1003,7 @@ Mit dem Ziel, eine Schaufenster für Ihre Gemeinschaft, Meet-ups, Veranstaltunge
 Um diese Aufgabe der Erstellung zu vereinfachen, zeigt Ihnen das folgende Tutorial in einer halben Stunde die Schritte, um eine **kostenlose Webseite auf der WordPress-Plattform** zu erstellen. Diese Seite ermöglicht es Ihnen, **eine anpassbare Startseite zu haben, Kategorien zu erstellen, Artikel zu veröffentlichen, Medien zu integrieren (YouTube-Videos, Bilder, PDFs)**, usw.
 Später können Sie Ihren eigenen Domainnamen kaufen und sogar auf Ihrem persönlichen Server hosten, wenn Sie möchten.
 
-![Tutorial zur Erstellung einer kostenlosen WordPress-Webseite](https://www.youtube.com/watch?v=cZzH4gj_kZY)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 ####
 Andere CMS oder Plattformen ermöglichen ebenfalls die Erstellung von Webseiten. Obwohl einige aufgrund ihrer benutzerfreundlichen Oberfläche einfacher sind, sind die resultierenden Webseiten auch viel weniger anpassbar.
 **WordPress scheint die relevanteste Wahl für den Einstieg zu sein**. Darüber hinaus ermöglicht es die **Integration von Plug-ins**, von denen einige kostenpflichtig, aber von hoher Qualität sind, was eine viel weitergehende Entwicklung einer Webseite ermöglicht; und das, ohne programmieren zu müssen.
@@ -1051,7 +1051,7 @@ Sobald die Arbeit auf "Spotify for podcasters" erledigt ist, bleibt nur noch die
 Für den Fall, dass Sie **auf Ihrem Computer aufnehmen möchten, funktioniert eine kostenlose Software wie ["Audacity"](https://www.audacityteam.org/) sehr gut**. Sie ermöglicht es Ihnen, viele Einstellungen anzupassen, Crescendos durchzuführen und sogar die Klangklarheit während der Bearbeitung zu verbessern. Ihre Stimme aufzunehmen und dann das Audio Ihres Podcasts zu bearbeiten, sollte daher ziemlich einfach sein.
 
 Hier ist ein kurzes Tutorial, das in 10 Minuten die wichtigsten Funktionen vorstellt, die man kennen sollte, um einen Podcast mit Audacity zu machen.
-![Tutorial zur Erstellung eines Podcasts mit Audacity](https://www.youtube.com/watch?v=z471_Ye6Y0I)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 Hinweis: wie zuvor erwähnt, für den Fall, dass Bitcoin eines Tages verboten oder zensiert werden sollte, könnte es relevant sein, immer **eine lokale Kopie auf einer Festplatte der Podcasts** zu behalten, die Sie posten.
 
@@ -1287,7 +1287,7 @@ Schließlich:
 18) Gehen Sie noch weiter mit Projekten, die Ihnen gefallen und die Ihnen am Herzen liegen.
 
 In einer etwas weniger detaillierten Weise sieht es in einem 21-minütigen Video so aus:
-![Bitcoin Community Tutorial](https://www.youtube.com/watch?v=EHLAmHHuZd8)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 ####
 Unabhängig davon, **denken Sie daran, dass Sie nicht allein sind und dass bestehende Gemeinschaften da sind, um Ihnen zu helfen**.
 

@@ -289,7 +289,7 @@ Kokkuvõttes, **võimalused on lõputud ja sõltuvad teie vajadustest, aga ka gr
 ####
 
 Et juhendada teid üksikasjalikumalt, pakume allpool mitteammendavat videoõpetust, mis tutvustab mõningaid võimalusi:
-![Canva Õpetus](https://www.youtube.com/watch?v=sgloI_v-nAk)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ####
 
@@ -422,7 +422,7 @@ Nagu hiljem näeme, on **soovitatav valida "Telegrami grupp" loomisel** (või, o
 ####
 
 Järgnevate õpetuste jaoks kasutame APK rakendust "Telegram+"; rakendust, mis võimaldab Telegrami seadistada täpsemalt. Siiski, see ei ole vajalik, kuna grupi või super-grupi loomine Telegramis on nüüd väga lihtne teha telefonis:
-![Telegram+ Tutorial](https://www.youtube.com/watch?v=Z5mE-LksBZw)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ### Telegrami Kanali Loomine
 
@@ -437,7 +437,7 @@ Siiski on võimalik lisada kanaliliikmetele võimalus kommenteerida iga administ
 ####
 
 Õpetus Telegrami kanali loomiseks:
-![Telegrami kanali õpetus](https://www.youtube.com/watch?v=N5S7cgySV8U)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ### Telegrami grupi loomine
 
@@ -458,7 +458,7 @@ Selle kanali administraatorid saavad siis:
 ####
 
 Õpetus Telegrami grupi loomiseks:
-![Telegrami kanali õpetus](https://www.youtube.com/watch?v=u1BuxEsmFuA)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 Kiire märkus: nagu varem mainitud, tehti ülaltoodud õpetus arvutis APK "Telegram+" abil. Siiski on nüüd väga lihtne luua Telegrami gruppi telefonis.
 Seega pole enam vajalik "Telegram+" allalaadimine selle ülesande täitmiseks; välja arvatud juhul, kui soovite süveneda oma grupi privaatsusseadetesse.
@@ -491,7 +491,7 @@ Siiski tuleb märkida, et **Telegrami supergrupi kasutamine võib mõnele liikme
 Üldiselt ei ole kindlat liikmete arvu, mille juures muutub Telegrami supergrupi kasutamine Telegrami grupi eelistamiseks asjakohaseks. Seega on valik teie, lähtudes teie liikmete vajadustest ja soovidest; teades, et Telegrami gruppi saab hõlpsasti muuta Telegrami supergrupiks (ja vastupidi). Selleks peate lihtsalt looma teema (või kustutama kõik olemasolevad).
 
 Õpetus Telegrami supergrupi loomiseks:
-![Õpetus supergrupi Telegram](https://www.youtube.com/watch?v=GWVqpjBtg-U)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 Märkus: nagu varem mainitud, tehti ülaltoodud õpetus arvutis, kasutades "Telegram+" APK-d. Siiski on nüüd väga lihtne luua Telegrami supergrupp telefonis.
 Selleks looge lihtsalt Telegrami grupp; seejärel klõpsake selle seadetes nupul "Teemad", et mõned lisada. Kui muudatus on kinnitatud, ilmub teemade loend; ja saate seda soovi korral muuta.
@@ -560,7 +560,7 @@ Teile on saadaval ka arvukalt täiendavaid võimalusi. Siiski, üks nõuanne: **
 ####
 
 Juhend mitmefunktsioonilise bota lisamiseks gruppi või supergruppi Telegramis:
-![Mitmefunktsioonilise Telegrami bota juhend](https://www.youtube.com/watch?v=l72GZcEFDtU)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 Väike märkus: nagu varem mainitud, saab kogu seda protseduuri nüüd teha telefonis.
 
@@ -575,7 +575,7 @@ Siiski, nagu varem mainitud, **võimalikud "kasutatavuse raskused" ja teemade ni
 Ilmselgelt, lisaks Telegramile ja Twitterile, nõuab see siiski veidi rohkem aega haldamiseks; eriti selle seadistamise ja käivitamise ajal.
 
 Et teile asju lihtsamaks teha, **jagame [eelnevalt valmistatud, dubleeritavat ja muudetavat Discordi serverit](https://discord.com/template/bDY4eXXJk2C8), mida saate soovi korral kohandada**:
-![Dubleeritava Discordi serveri juhend](https://www.youtube.com/watch?v=i3V6_359Ajw)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ####
 
@@ -584,7 +584,7 @@ Sellepärast on välja töötatud avatud lähtekoodiga bot nimega [TediCross](ht
 Siiski on oluline märkida, et selle paigaldamine ei ole väga lihtne, et **selle bota töötamiseks on vajalik pidevalt käitada käsurida (CMD) arvutis**; aga ka see, et mõnikord esineb tõrkeid. Õnneks sellises olukorras piisab, kui see taaskäivitada; ja siis kõik naaseb normaalseks.
 
 Selleks, et teile jälle aega säästa, on siin juhend, kuidas lisada multifunktsionaalne bot Telegrami gruppi või supergruppi:
-![TediCross Discord - Telegram bota juhend](https://www.youtube.com/watch?v=e4YAPG0ITF8)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ## Kaaluge teisi suhtluskanaleid, privaatseid ja turvalisemaid
 
@@ -682,7 +682,7 @@ Pane tähele, et nii telefonis kui arvutis on võimalik olla korraga sisse logit
 Lõpuks, kuigi sinu kasutajanimi "@Bitcoin[CITY]" on unikaalne ja nüüd kuulub sulle, võib olla mõistlik ennetavalt luua kontod "@Bitcoin\_[CITY]", "@[CITY]Bitcoin" või "@[CITY]\_Bitcoin", et **tagada, et keegi ei üritaks sinu identiteeti kopeerida**. Tõepoolest on parem ette näha!
 
 Twitteri konto loomise õpetus:
-![Twitteri konto õpetus](https://www.youtube.com/watch?v=pp3DDakV0bA)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ## Ühenduse loomine naaberkohtumistega
 
@@ -1194,7 +1194,7 @@ Kogukonna, kohtumiste, ürituste ja haridusdokumentide esitlemise eesmärgil võ
 Selle loomisülesande lihtsustamiseks näitab allpool olev juhend teile poole tunni jooksul samme, kuidas luua **tasuta veebileht WordPressi platvormil**. See sait võimaldab teil **omada kohandatavat avalehte, luua kategooriaid, avaldada artikleid, integreerida meediat (YouTube'i videod, pildid, PDFid)** jne.
 Hiljem on teil võimalik osta oma domeeninimi ja isegi majutada see oma isiklikul serveril, kui soovite.
 
-![Juhend tasuta WordPressi veebilehe loomiseks](https://www.youtube.com/watch?v=cZzH4gj_kZY)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ####
 
@@ -1255,7 +1255,7 @@ Niisiis, kui töö on "Spotify for podcasters" platvormil tehtud, jääb ülejä
 Juhul, kui soovite **salvestada oma arvutis, töötab tasuta tarkvara nagu ["Audacity"](https://www.audacityteam.org/) väga hästi**. See võimaldab teil kohandada paljusid seadeid, teha krescendosid ja isegi parandada heli selgust montaaži ajal. Seega peaks teie hääle salvestamine ja seejärel oma podcasti heli redigeerimine olema üsna lihtne.
 
 Siin on lühike õpetus, mis tutvustab 10 minutiga peamisi funktsioone, mida teada, et teha podcasti Audacity'ga.
-![Õpetus podcasti loomiseks Audacity'ga](https://www.youtube.com/watch?v=z471_Ye6Y0I)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 Märkus: nagu varem mainitud, juhul, kui ühel päeval peaks Bitcoin olema keelatud või tsenseeritud, võib olla asjakohane alati **hoida kohalikku koopiat kõvakettal podcastidest**, mida postitate.
 
@@ -1540,7 +1540,7 @@ Järeltegevus:
 18. Minge veelgi kaugemale projektidega, mis teile meeldivad ja millest hoolite.
 
 Veidi vähem üksikasjalikul viisil, 21-minutilises videos, näeb see välja nii:
-![Bitcoin Community Tutorial](https://www.youtube.com/watch?v=EHLAmHHuZd8)
+<videoId>56e302c2-b42c-4a4e-88fc-af207232f5ae</videoId>
 
 ####
 

@@ -88,3 +88,19 @@ proofreading:
     contributors_id:
       - MilankovicProtocol
     reward: 20575
+videos:
+  - id: a367d8aa-7003-4b15-b72a-dcedc75d925b
+    youtube:
+      - fr: https://youtu.be/LeyI3CBw2g4
+  - id: c0d68315-d45d-444b-aec7-77437aef8195
+    youtube:
+      - fr: https://youtu.be/d9Ccy17yWB0
+  - id: 6bf4f0c8-de8b-4398-9bdf-0cc507e390ad
+    youtube:
+      - fr: https://youtu.be/juMUJ3MWeZY
+  - id: 5457dfb7-7e66-41d0-8947-48f280a12b96
+    youtube:
+      - fr: https://youtu.be/Iq0wZF3Ui9A
+  - id: 58f89f15-c5a0-4e94-989d-531cbd2f1496
+    youtube:
+      - fr: https://youtu.be/fcXvjghA-uM

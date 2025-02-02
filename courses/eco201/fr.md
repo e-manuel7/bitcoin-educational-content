@@ -43,7 +43,7 @@ Si vous êtes prêt à vous lancer dans cette aventure, je vous invite à clique
 
 <chapterId>29faebd9-9326-52de-8161-e4bb33033cd6</chapterId>
 
-![Explication du système bancaire traditionnel](https://youtu.be/pz0RxlXNs7Y)
+<videoId>f358f995-1778-4f08-a1de-3f8a80bae194</videoId>
 
 > "Le problème fondamental avec la monnaie conventionnelle est toute la confiance qui est nécessaire pour la faire fonctionner. La banque centrale doit être digne de confiance pour ne pas dévaluer la monnaie, mais l'histoire des monnaies fiduciaires est pleine de violations de cette confiance. Les banques doivent être dignes de confiance pour garder notre argent et le transférer électroniquement, mais elles le prêtent en vagues de bulles de crédit avec à peine une fraction en réserve. Nous devons leur faire confiance pour notre vie privée, leur faire confiance pour ne pas laisser les voleurs d'identité vider nos comptes."
 >
@@ -142,7 +142,7 @@ Dans le prochain chapitre, nous nous pencherons sur la pierre angulaire fondamen
 >
 > Carl Menger, Principes d'économie politique
 
-![Introduction à l'économie autrichienne](https://youtu.be/ZSDCepNNacI)
+<videoId>f358f995-1778-4f08-a1de-3f8a80bae194</videoId>
 
 ### La révolution marginale
 
@@ -223,7 +223,7 @@ Les chapitres suivants seront consacrés à l'émergence de l'argent en tant que
 
 <chapterId>14ded794-0578-5478-ba5b-b2106c74f3ef</chapterId>
 
-![Argent](https://youtu.be/Dt8ounex2jg)
+<videoId>f358f995-1778-4f08-a1de-3f8a80bae194</videoId>
 
 Bien que les individus aient un intérêt commun pour la spécialisation et la maximisation de la division du travail, il existe encore des problèmes de coordination qui limitent cette expansion.
 
@@ -381,7 +381,7 @@ C'est ce que nous découvrirons dans le prochain chapitre consacré à la théor
 
 <chapterId>718afaa8-ce78-58aa-9477-073eef0bd137</chapterId>
 
-![Cycles économiques pour l'école autrichienne](https://youtu.be/CrPE6mcOjx4)
+<videoId>f358f995-1778-4f08-a1de-3f8a80bae194</videoId>
 
 > "Plus le boom du crédit bancaire inflationniste dure longtemps, plus les investissements non rentables dans les biens d'équipement sont nombreux et plus la nécessité de liquider ces investissements insensés est grande. Lorsque l'expansion du crédit s'arrête, se retourne, ou même ralentit significativement, les investissements non rentables sont révélés."
 >
@@ -458,7 +458,7 @@ Cela sera le sujet du prochain et dernier chapitre de ce cours.
 
 <chapterId>2578a9d8-90e9-58dd-a8c5-6366948564c7</chapterId>
 
-![L'impossibilité du calcul économique dans un système socialiste](https://youtu.be/E-9Fl6eg-mo)
+<videoId>f358f995-1778-4f08-a1de-3f8a80bae194</videoId>
 
 > "Lorsqu'il n'y a pas de prix du marché pour les facteurs de production car ils ne sont ni achetés ni vendus, il est impossible de recourir au calcul pour planifier l'action future et déterminer le résultat de l'action passée. Une gestion socialiste de la production ne saurait tout simplement pas savoir si ce qu'elle planifie et exécute est le moyen le plus approprié pour atteindre les fins recherchées. Elle opérera dans l'obscurité, pour ainsi dire. Elle gaspillera les facteurs de production rares, tant matériels qu'humains (travail). Le chaos et la pauvreté pour tous en résulteront inévitablement."
 >
@@ -529,7 +529,7 @@ La tradition autrichienne incarne une approche humble de l'action humaine, tiran
 
 <chapterId>419129c1-82ba-54e3-b385-95d4d89a447e</chapterId>
 
-![la méthodologie autrichienne](https://youtu.be/hMyYGwU76dI)
+<videoId>f358f995-1778-4f08-a1de-3f8a80bae194</videoId>
 
 L'école autrichienne d'économie se distingue des autres écoles par sa méthodologie axiomatique-déductive, qui diffère de l'approche positiviste souvent utilisée dans les sciences sociales. L'approche positiviste est basée sur des lois établies à partir de données empiriques, adoptant une méthode similaire à celle des sciences physiques. Elle formule des hypothèses à partir d'observations, qui sont ensuite confirmées ou réfutées par des expériences temporaires. La méthode scientifique consiste à retenir l'hypothèse qui explique le mieux les données et à continuer à l'explorer jusqu'à ce qu'une hypothèse plus précise soit trouvée.
 

@@ -70,7 +70,7 @@ Dies ist eine Klassenübung, also wenn Sie diesen Kurs selbst machen, können Si
 
 Die Übung beginnt nach dem Ansehen der Einführung „Wie Bitcoin und die Blockchain funktionieren“ von der BBC.
 
-![wie bitcoin und die blockchain funktionieren](https://youtu.be/mhE_vvwAiRc)
+<videoId>f1631c36-2f18-41aa-b2b6-ef7a462dd7ac</videoId>
 
 Für diese Übung sind mindestens neun Personen erforderlich. Diese Übung soll eine physische Vorstellung davon vermitteln, wie Bitcoin funktioniert. Indem jede Rolle im Netzwerk gespielt wird, haben Sie eine interaktive und spielerische Art zu lernen. Diese Übung beinhaltet nicht das Lightning Network.
 
@@ -655,7 +655,7 @@ Die erste Methode, die wir in der aktuellen Situation verwenden werden, auch die
 In diesem Kurs gehen wir darauf ein, einen Seed-Phrase auf einem Hardware Wallet zu speichern. Die Teilnahme an diesem Kurs unter Anleitung eines Lehrers schließt möglicherweise nicht immer ein solches Gerät ein. Im Kursmaterial sind Hardware Wallets aufgelistet, die für diese Übung geeignet wären.
 Wir werden in diesem Beispiel den BTCPay Server Vault und ein Blockstream Jade Hardware-Wallet verwenden.
 Sie können auch ein Video zur Referenz heranziehen, um zu sehen, wie ein Hardware-Wallet verbunden wird.
-![BTCPay Server - Wie Sie Ihr Hardware-Wallet mit BTCPay Vault verbinden.](https://youtu.be/s4qbGxef43A)
+<videoId>f1631c36-2f18-41aa-b2b6-ef7a462dd7ac</videoId>
 
 BTCPay Server Vault herunterladen: https://github.com/btcpayserver/BTCPayServer.Vault/releases
 

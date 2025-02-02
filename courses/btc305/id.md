@@ -70,7 +70,7 @@ Ini adalah latihan kelas jadi jika Anda mengikuti kursus ini sendiri, Anda tidak
 
 Latihan dimulai setelah menonton pengantar “Bagaimana Bitcoin dan blockchain bekerja” oleh BBC.
 
-![bagaimana bitcoin dan blockchain bekerja](https://youtu.be/mhE_vvwAiRc)
+<videoId>f1631c36-2f18-41aa-b2b6-ef7a462dd7ac</videoId>
 
 Latihan ini membutuhkan setidaknya sembilan orang untuk berpartisipasi. Latihan ini bertujuan untuk secara fisik mendapatkan ide tentang bagaimana Bitcoin bekerja. Dengan memainkan setiap peran dalam jaringan, Anda akan memiliki cara belajar yang interaktif dan menyenangkan. Latihan ini tidak melibatkan Lightning Network.
 
@@ -653,7 +653,7 @@ Metode pertama yang akan kita gunakan dalam situasi saat ini, juga yang paling t
 Dalam kursus ini, kami menyentuh tentang penyimpanan frasa benih pada hardware wallet. Mengikuti kursus ini oleh seorang instruktur mungkin tidak selalu menyertakan perangkat seperti itu. Dalam materi panduan kursus, telah ditulis daftar hardware wallet yang disediakan yang cocok untuk latihan ini.
 Kita akan menggunakan BTCPay Server vault dan dompet perangkat keras Blockstream Jade dalam contoh ini.
 Anda juga dapat mengikuti video referensi untuk cara menghubungkan dompet perangkat keras.
-![BTCPay Server - Cara menghubungkan dompet perangkat keras Anda dengan BTCPay Vault.](https://youtu.be/s4qbGxef43A)
+<videoId>f1631c36-2f18-41aa-b2b6-ef7a462dd7ac</videoId>
 
 Unduh BTCPay Server Vault: https://github.com/btcpayserver/BTCPayServer.Vault/releases
 

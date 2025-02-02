@@ -69,7 +69,7 @@ Prêts à commencer cette aventure captivante ? Plongeons ensemble dans le monde
 
 <chapterId>36a82de7-87ee-5e7a-b69e-48fc30030447</chapterId>
 
-![Qu'est-ce que le minage de bitcoin ?](https://www.youtube.com/watch?v=neEQzEQzmPQ)
+<videoId>cb75aefb-75cc-4a7f-ba7d-5260b0cecc0c</videoId>
 
 ### Le Minage Expliqué : L'Analogie du Puzzle
 
@@ -118,7 +118,7 @@ En conclusion, l'industrie du minage de Bitcoin continue de s'adapter et de se d
 
 <chapterId>0896dfc1-c97e-5bec-9bf1-8c20b3388a2c</chapterId>
 
-![Le minage de Bitcoin trop centralisé ? Risques et solutions](https://www.youtube.com/watch?v=xkiY8DgkcLQ)
+<videoId>cb75aefb-75cc-4a7f-ba7d-5260b0cecc0c</videoId>
 
 ### Les Pools de Minage
 
@@ -171,7 +171,7 @@ La conclusion générale est que la décentralisation est cruciale pour la sécu
 
 <chapterId>7b9ee427-316a-54e3-a2d4-4ea97839a31b</chapterId>
 
-![Chauffer son domicile en minant des bitcoins ?](https://www.youtube.com/watch?v=SQaK4_8M0kA)
+<videoId>cb75aefb-75cc-4a7f-ba7d-5260b0cecc0c</videoId>
 
 ### Le principe de Attakai
 
@@ -213,7 +213,7 @@ La spéculation entoure l'utilisation future de l'espace des blocs, mais il est 
 
 <chapterId>879a66b0-c20a-56b5-aad0-8a21be61e338</chapterId>
 
-![Qui a le pouvoir ? Bitcoin, énergie et fabricants ](https://www.youtube.com/watch?v=4wywK6BfDw8)
+<videoId>cb75aefb-75cc-4a7f-ba7d-5260b0cecc0c</videoId>
 
 Le rôle des mineurs dans le réseau Bitcoin à été un sujet de débat intense pendant la guerre des blocs. Bien que essentiels pour la sécurité et la fonctionnalité du réseau, les mineurs ne détiennent pas nécessairement le pouvoir ultime dans l'écosystème Bitcoin. L'équilibre entre les mineurs, les nœuds et les utilisateurs finaux garantit l'intégrité et la distribution du réseau.
 
@@ -256,7 +256,7 @@ Pour récapituler, les mineurs fortifient le réseau Bitcoin contre la censure e
 
 <chapterId>e6676214-007c-5181-968e-c27536231bd6</chapterId>
 
-![Comment obtenir un bitcoin blanc et vierge ? ](https://youtu.be/A5MTtn4mm44?si=D1Yi0dVwkyafeHv-)
+<videoId>cb75aefb-75cc-4a7f-ba7d-5260b0cecc0c</videoId>
 
 ### Hashrate, prix et rentabilité
 
@@ -321,7 +321,7 @@ En conclusion, malgré le risque réglementaire et la possibilité d'une interdi
 
 #### Les coulisses du minage industriel - Sebastien Gouspillou
 
-![Les coulisses du minage industriel - Sebastien Gouspillou](https://www.youtube.com/watch?v=vYaQRLSDr5E&t=69s)
+<videoId>cb75aefb-75cc-4a7f-ba7d-5260b0cecc0c</videoId>
 
 # Home-mining et réutilisation de la chaleur
 
@@ -331,7 +331,7 @@ En conclusion, malgré le risque réglementaire et la possibilité d'une interdi
 
 <chapterId>1f5d1b74-2f99-5f31-a088-a73d36491ebf</chapterId>
 
-![On vous présente Attakaï !](https://www.youtube.com/watch?v=gKoh44UCSnE&t=3s)
+<videoId>cb75aefb-75cc-4a7f-ba7d-5260b0cecc0c</videoId>
 
 Attakai, qui signifie « la température idéal » en japonais, est le nom de l’initiative visant à découvrir le minage de bitcoins à travers la réutilisation de la chaleur lancée par @ajelexBTC et @jimzap21 avec Découvre Bitcoin.
 
@@ -383,7 +383,7 @@ C’est une excellente opportunité pour apprendre en pratiquant tout en étant 
 
 <chapterId>3b0b3bf0-859b-57f2-b92f-843ac70b7e68</chapterId>
 
-![Introduction à Attakaï: se chauffer avec Bitcoin](https://www.youtube.com/watch?v=U_PLo59lp-g)
+<videoId>cb75aefb-75cc-4a7f-ba7d-5260b0cecc0c</videoId>
 
 Dans cette section nous allons voir les bonnes pratiques afin d’acheter un Bitmain Antminer S9 d’occasion, la machine sur laquelle ce tutoriel de retrofitting en radiateur sera basé. Ce guide fonctionne aussi pour d’autres modèles d’ASIC car il s’agit d’un guide d’achat général pour du matériel de minage d’occasion.
 
@@ -442,7 +442,7 @@ Pour synthétiser ce guide en une phrase : **« Ne faites pas confiance, vérifi
 
 <chapterId>fa5f5eca-bcbf-5a83-9b03-98ecbadbabd6</chapterId>
 
-![Introduction à Attakaï: se chauffer avec Bitcoin](https://www.youtube.com/watch?v=U_PLo59lp-g)
+<videoId>cb75aefb-75cc-4a7f-ba7d-5260b0cecc0c</videoId>
 
 Propriétaire d’un Antminer S9, vous savez probablement à quel point cet équipement peut être bruyant et encombrant. Cependant, il est possible de le transformer en un chauffage silencieux et connecté en suivant quelques étapes simples. Dans cette partie nous allons vous présenter les équipements nécessaires pour effectuer les modifications.
 
@@ -497,7 +497,7 @@ Liste du matériel et liens
 
 <chapterId>3cf487a4-21ef-5b24-83d5-789b811f740f</chapterId>
 
-![Connecter un Antminer S9 à son réseau Wifi](https://www.youtube.com/watch?v=y4oYURBaPqg)
+<videoId>cb75aefb-75cc-4a7f-ba7d-5260b0cecc0c</videoId>
 
 Pour connecter votre ASIC en WIFI vous aurez besoin d’un appareil appelé bridge celui-ci permet de récupérer le signal WIFI de votre box et de le transmettre à un autre appareil en Ethernet.
 
@@ -551,7 +551,7 @@ Cette méthode peut être appliquée entre 2 minutes et 10 minutes après le dé
 
 <chapterId>38e8b1a8-8b1d-51ed-8b92-59d4ddb15184</chapterId>
 
-![Installer Braiins OS+ sur son Antminer S9](https://www.youtube.com/watch?v=luqwlvzGsO4)
+<videoId>cb75aefb-75cc-4a7f-ba7d-5260b0cecc0c</videoId>
 
 Le logiciel d'origine installé par Antminer, sur leur machines de minage est limité en fonctionnalité. C'est pourquoi dans ce guide nous allons installer un autre logiciel appelé BraiinsOS+. C'est un logiciel tiers qui est développé par la toute première pool de minage Bitcoin qui possède plus de fonctionnalités et qui permet par exemple de modifier la puissance de la machine.
 
@@ -589,7 +589,7 @@ Nous allons voir ici comment installer facilement Braiins OS+ directement sur la
 
 <chapterId>36e432f2-85bc-52d0-a62a-009fc4c69338</chapterId>
 
-![Configurer son Antminer S9 avec Braiins OS+](https://www.youtube.com/watch?v=dK0t8M8kLYg)
+<videoId>cb75aefb-75cc-4a7f-ba7d-5260b0cecc0c</videoId>
 
 Vous devrez vous connecter à votre ASIC en utilisant l’adresse IP locale de votre appareil sur votre réseau à travers un navigateur.
 
@@ -639,7 +639,7 @@ Sur cette première page vous pourrez observer les performances de votre machine
 
 <chapterId>0c6befa7-f3ef-5bcf-ae8d-0ad5e5d41d70</chapterId>
 
-![Remplacer les ventilateurs pour réduire les nuisances sonores](https://www.youtube.com/watch?v=2CNGKZiveuc)
+<videoId>cb75aefb-75cc-4a7f-ba7d-5260b0cecc0c</videoId>
 
 > ATTENTION : Il est essentiel d’avoir préalablement installé Braiins OS+ sur votre mineur, ou tout autre logiciel ayant la capacité de réduire les performances de votre machine. Cette mesure est cruciale, car dans le but de réduire le bruit, nous allons installer des ventilateurs moins puissants, qui pourront dissiper moins de chaleur.  
 
@@ -713,7 +713,7 @@ Enfin, remettez le couvercle du boîtier en place puis revissez les 6 vis sur le
 
 <chapterId>a29f60f1-3fa3-57fc-a630-9c97cec30e56</chapterId>
 
-![Remplacer les ventilateurs pour réduire les nuisances sonores](https://www.youtube.com/watch?v=2CNGKZiveuc)
+<videoId>cb75aefb-75cc-4a7f-ba7d-5260b0cecc0c</videoId>
 
 > ATTENTION : Il est essentiel d’avoir préalablement installé Braiins OS+ sur votre mineur, ou tout autre logiciel ayant la capacité de réduire les performances de votre machine. Cette mesure est cruciale, car dans le but de réduire le bruit, nous allons installer des ventilateurs moins puissants, qui pourront dissiper moins de chaleur.  
 
@@ -773,7 +773,7 @@ Et voilà, bravo ! Vous venez de remplacer l’ensemble de la partie mécanique 
 
 <chapterId>b57a6105-0a53-5fe9-bad1-d6d9daf97c0d</chapterId>
 
-![Rejoindre une pool de minage avec un Antminer S9](https://www.youtube.com/watch?v=wM-dRog6mls&t=166s)
+<videoId>cb75aefb-75cc-4a7f-ba7d-5260b0cecc0c</videoId>
 
 On peut imaginer une pool de minage comme une coopérative agricole. Les agriculteurs mettent en commun leur production pour réduire la variance de l’offre et de la demande et ainsi obtenir des revenus plus stables pour leur exploitation. Une pool de minage fonctionne de la même manière et la matière première mise en commun sont des hash. En effet, la découverte d’un seul hash valide permet la création d’un bloc et ainsi de remporter la coinbase ou la récompense aujourd’hui de 6,25 BTC plus les frais des transactions inclus dans le bloc. Si vous minez seul, vous ne serez récompensé que lorsque vous trouverez un bloc. Étant en compétition contre tous les autres mineurs de la planète, vous auriez donc très peu de chances de remporter ce grand loto et vous devriez malgré tout payer les frais associés à l’utilisation de votre mineur sans aucune garantie de réussite. Les pools de minage viennent répondre à cette problématique en mutualisant la puissance de calcul de plusieurs (milliers) de mineurs et en partageant la récompense de ces derniers en fonction du pourcentage de participation au hashrate de la pool lorsqu’un bloc a été trouvé. Pour visualiser vos chance de miner un block de miner un block seul vous pouvez utiliser cet outil. En rentrant les informations d’un Antminer S9 on voit que les chances de trouver un hash permettant la création d’un block sont de 1/24 777 849 chaque bloc ou de 1/ 172 068 par jour. Il faudrait en moyenne (avec un hashrate et une difficulté constante) 471 ans pour trouver un bloc.
 
@@ -807,7 +807,7 @@ Vous pouvez à présent retourner dans l’interface de Braiins OS+ afin de rent
 
 <chapterId>25380972-31c7-540d-80d8-17a06b171ca0</chapterId>
 
-![Optimiser les performances de son Antminer S9 avec l'auto-tunning](https://www.youtube.com/watch?v=yh8U9Ay1i-E&t=277s)
+<videoId>cb75aefb-75cc-4a7f-ba7d-5260b0cecc0c</videoId>
 
 L’overclocking et l’autotuning consiste tous les deux à ajuster les fréquences sur les cartes de hachage pour améliorer les performances de l’ASIC. La différence entre les deux réside dans la complexité de ces réglages de fréquence.
 
