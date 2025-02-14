@@ -1,25 +1,25 @@
 ---
-name: Soukromí na Bitcoinu
-goal: Porozumět a ovládnout principy ochrany soukromí při používání Bitcoinu
-objectives:
-  - Definovat teoretické pojmy nezbytné pro pochopení důležitosti ochrany soukromí
-  - Umět identifikovat a minimalizovat rizika spojená se ztrátou soukromí uživatele na Bitcoinu
-  - Používat metody a nástroje k ochraně vašeho soukromí na Bitcoinu
-  - Porozumět metodám analýzy řetězce a vyvinout obranné strategie
+name: Ochrana osobních údajů v bitcoinech
+goal: Pochopení a zvládnutí zásad ochrany soukromí při používání Bitcoinu
+objectives: 
+
+  - Definovat teoretické koncepty potřebné k pochopení významu ochrany soukromí
+  - Vědět, jak identifikovat a zmírnit rizika spojená se ztrátou soukromí uživatelů bitcoinů
+  - Používání metod a nástrojů na ochranu soukromí na Bitcoinu
+  - Porozumět metodám analýzy řetězců a vypracovat obranné strategie
+
 ---
+# Chraňte své soukromí na Bitcoin
 
-# Ochrana vašeho soukromí na Bitcoinu
+Ve světě, kde se soukromí finančních transakcí postupně stává luxusem, je pochopení a zvládnutí zásad ochrany soukromí při používání Bitcoinu nezbytné. Toto školení vám poskytne všechny klíče, teoretické i praktické, abyste tohoto cíle dosáhli sami.
 
-Ve světě, kde se soukromí finančních transakcí postupně stává luxusem, je zásadní porozumět a ovládnout principy ochrany soukromí při vašem používání Bitcoinu. Toto školení vám dává všechny klíče, jak teoretické, tak praktické, k dosažení tohoto cíle samostatně.
+V současné době existují společnosti, které se specializují na analýzu řetězce Bitcoin. Jejich hlavní činností je právě narušování vašeho soukromí s cílem ohrozit důvěrnost vašich transakcí. Ve skutečnosti "právo na soukromí" na Bitcoinu neexistuje. Je tedy na vás, uživatelích, abyste se domáhali svých přirozených práv a chránili důvěrnost svých transakcí, protože nikdo jiný to za vás neudělá.
 
-Dnes na Bitcoinu existují společnosti specializující se na analýzu řetězce. Jejich hlavní činností je přesně proniknout do vaší soukromé sféry, aby ohrozily důvěrnost vašich transakcí. Ve skutečnosti "právo na soukromí" na Bitcoinu neexistuje. Proto je na vás, uživateli, abyste prosazovali svá přirozená práva a chránili důvěrnost vašich transakcí, protože to za vás nikdo jiný neudělá.
+Toto školení je prezentováno jako komplexní, všeobecný kurz. Každý technický pojem je podrobně popsán a podpořen vysvětlujícími schématy. Cílem je zpřístupnit znalosti každému. Školení BTC204 je proto přístupné začátečníkům i středně pokročilým uživatelům. Toto školení nabízí přidanou hodnotu i zkušenějším bitcoinářům, protože se v něm ponoříme do některých často neznámých technických pojmů.
 
-Toto školení je prezentováno jako kompletní a generalistická cesta. Každý technický pojem je podrobně vysvětlen a podpořen vysvětlujícími diagramy. Cílem je učinit znalosti přístupné pro každého. BTC204 je tedy přístupný pro začátečníky a pokročilé uživatele. Toto školení také nabízí přidanou hodnotu pro nejzkušenější bitcoinery, protože se zabýváme některými technickými koncepty, které jsou často neznámé.
-
-Přidejte se k nám, abyste proměnili své používání Bitcoinu a stali se informovaným uživatelem, schopným porozumět otázkám týkajícím se důvěrnosti a ochrany vašeho soukromí.
+Připojte se k nám, abyste změnili způsob používání bitcoinu a stali se informovanými uživateli, kteří rozumí otázkám důvěrnosti a chrání své soukromí.
 
 +++
-
 # Úvod
 
 <partId>e17474a8-8899-4bdb-a7f8-bc52ddb01440</partId>
@@ -28,87 +28,91 @@ Přidejte se k nám, abyste proměnili své používání Bitcoinu a stali se in
 
 <chapterId>08ba1933-f393-4fb5-8279-777d874caedb</chapterId>
 
-Ve světě, kde se soukromí finančních transakcí postupně stává luxusem, je zásadní porozumět a ovládnout principy ochrany soukromí při vašem používání Bitcoinu. Toto školení vám dává všechny klíče, jak teoretické, tak praktické, k dosažení tohoto cíle samostatně.
-Dnes, v ekosystému Bitcoinu, existují společnosti specializující se na analýzu řetězce. Jejich hlavní činností je přesně proniknout do vaší soukromé sféry, čímž ohrožují důvěrnost vašich transakcí. Ve skutečnosti "právo na soukromí" na Bitcoinu neexistuje. Proto je na vás, uživateli, abyste prosazovali svá přirozená práva a chránili důvěrnost vašich transakcí, protože to za vás nikdo jiný neudělá.
+Ve světě, kde se soukromí finančních transakcí postupně stává luxusem, je pochopení a zvládnutí zásad ochrany soukromí při používání Bitcoinu nezbytné. Toto školení vám poskytne všechny klíče, teoretické i praktické, abyste tohoto cíle dosáhli sami.
 
-Bitcoin není jen pro "Number Go Up" a zachování hodnoty úspor. Díky svým jedinečným vlastnostem a historii je především nástrojem protiekonomiky. Díky této pozoruhodné vynálezu můžete svobodně spravovat své peníze, utrácet je a hromadit je, aniž by vám to kdokoli mohl zabránit.
+V ekosystému bitcoinu dnes existují společnosti, které se specializují na analýzu blockchainu. Jejich hlavní činností je právě narušování vašeho soukromí a ohrožování důvěrnosti vašich transakcí. Ve skutečnosti "právo na soukromí" na Bitcoinu neexistuje. Je tedy na vás, uživatelích, abyste se domáhali svých přirozených práv a chránili důvěrnost svých transakcí, protože nikdo jiný to za vás neudělá.
 
-Bitcoin nabízí mírový únik z jha států, umožňuje vám plně si užívat vašich přirozených práv, která nemohou být zpochybněna zavedenými zákony. Díky vynálezu Satoshiho Nakamota máte moc vynutit respekt k vašemu soukromému majetku a znovu získat svobodu smlouvat.
+Bitcoin tu není jen pro "Number Go Up" a zachování hodnoty úspor. Díky svým jedinečným vlastnostem a historii je především nástrojem alternativní ekonomiky. Díky tomuto pozoruhodnému vynálezu můžete volně nakládat se svými penězi, utrácet je a hromadit, aniž by vám v tom kdokoli mohl zabránit.
 
-Nicméně, Bitcoin není anonymní ve výchozím nastavení, což může představovat riziko pro jednotlivce zapojené do protiekonomiky, zejména v regionech pod despotickými režimy. Ale to není jediné nebezpečí. Vzhledem k tomu, že bitcoin je cenný a necenzurovatelný majetek, může přitahovat pozornost zlodějů. Takže ochrana vašeho soukromí se stává také otázkou bezpečnosti: může vám pomoci předcházet kybernetickým útokům a fyzickým útokům.
-Jak uvidíme, i když protokol nabízí určité vrozené ochrany soukromí, je zásadní používat další nástroje k optimalizaci a obraně tohoto soukromí.
-Tento trénink je navržen jako komplexní a generalistický kurz pro pochopení důležitosti soukromí na Bitcoinu. Každý technický pojem je podrobně diskutován a podpořen vysvětlujícími diagramy. Cílem je zpřístupnit znalosti všem, i začátečníkům a pokročilým uživatelům. Pro zkušenější bitcoinisty také pokrýváme velmi technické a někdy méně známé koncepty během tohoto tréninku, aby se prohloubilo porozumění každému tématu.
+Bitcoin nabízí klidný únik z područí států a umožňuje vám plně využívat vašich přirozených práv, která nelze zpochybnit zavedenými zákony. Díky vynálezu Satoshiho Nakamota máte možnost prosadit své právo na soukromé vlastnictví a znovu získat svobodu uzavírat smlouvy.
 
-Cílem tohoto tréninku není udělat vás zcela anonymními ve vašem používání Bitcoinu, ale spíše vám poskytnout základní nástroje, abyste věděli, jak chránit vaše soukromí podle vašich osobních cílů. Budete mít svobodu vybrat si z konceptů a nástrojů prezentovaných k vývoji vašich vlastních strategií, přizpůsobených vašim specifickým cílům a potřebám.
+Bitcoin však ve výchozím nastavení není anonymní, což může představovat riziko pro jednotlivce zapojené do alternativní ekonomiky, zejména v regionech s despotickými režimy. To však není jediné nebezpečí. Protože bitcoin je cenné a necenzurované aktivum, může přitahovat pozornost zlodějů. Ochrana soukromí se proto stává také otázkou bezpečnosti: může vám pomoci zabránit kybernetickým útokům a fyzickým napadením.
 
-### Sekce 1: Definice a klíčové koncepty
+Jak uvidíme, ačkoli protokol nabízí určitou inherentní ochranu soukromí, je nezbytné používat další nástroje k optimalizaci a ochraně tohoto soukromí. Tento kurz je koncipován jako komplexní, všeobecná cesta k pochopení problematiky ochrany soukromí v Bitcoinu. Každý technický pojem je podrobně probrán a podpořen vysvětlujícími diagramy. Cílem je zpřístupnit znalosti všem, včetně začínajících a středně pokročilých uživatelů. Pro zkušenější bitcoináře se v průběhu tohoto kurzu věnujeme i velmi technickým a někdy méně známým pojmům, abychom prohloubili porozumění jednotlivým tématům.
 
-Na začátku společně probereme základní principy, které řídí fungování Bitcoinu, abychom poté mohli klidně přistoupit k pojmosloví souvisejícímu se soukromím. Je zásadní ovládat několik základních konceptů, jako jsou UTXOs, přijímací adresy nebo skripty, než budeme plně rozumět konceptům, které budeme adresovat v následujících sekcích. Také představíme obecný model soukromí Bitcoinu, jak jej viděl Satoshi Nakamoto, což nám umožní pochopit důležitost a rizika s tím spojená.
-![BTC204](assets/cs/11/1.webp)
+Cílem tohoto kurzu není zajistit, abyste byli při používání Bitcoinu zcela anonymní, ale spíše vám poskytnout základní nástroje, abyste věděli, jak chránit své soukromí v souladu s vašimi osobními cíli. Z představených konceptů a nástrojů si budete moci svobodně vybrat vlastní strategii, přizpůsobenou vašim konkrétním cílům a potřebám.
 
-### Sekce 2: Porozumění analýze řetězce a jak se proti ní bránit
+### Oddíl 1: Definice a klíčové pojmy
 
-Ve druhé sekci studujeme techniky používané společnostmi pro analýzu řetězce k sledování vaší aktivity na Bitcoinu. Porozumění těmto metodám je zásadní pro zvýšení ochrany vašeho soukromí. Tato část má za cíl prozkoumat strategie útočníků, aby lépe porozuměla rizikům a položila základy pro techniky, které budeme studovat v následujících sekcích. Analyzujeme vzory transakcí, interní a externí heuristiky, stejně jako pravděpodobné interpretace těchto vzorů. Kromě teoretické složky se naučíme používat block explorer k provádění analýzy řetězce, prostřednictvím praktických příkladů a cvičení.
+Na začátku se společně podíváme na základy, kterými se řídí fungování Bitcoinu, a poté se v klidu podíváme na pojmy související s ochranou soukromí. Než plně pochopíme pojmy, kterým se budeme věnovat v následujících kapitolách, je nezbytné zvládnout některé základní pojmy, jako jsou UTXO, přijímací adresy nebo skripty. Představíme si také obecný model soukromí Bitcoinu, jak si jej představoval Satoshi Nakamoto, což nám umožní pochopit problematiku a související rizika.
 
-![BTC204](assets/notext/11/2.webp)
+![BTC204](assets/it/11/1.webp)
 
-### Sekce 3: Ovládnutí nejlepších postupů pro ochranu vašeho soukromí
+### Oddíl 2: Pochopení analýzy řetězce a způsob ochrany
 
-Ve třetí sekci našeho tréninku se dostáváme k jádru věci: praxe! Cílem je ovládnout všechny zásadní nejlepší postupy, které by se měly stát přirozenými reflexy pro každého uživatele Bitcoinu. Budeme se věnovat používání čerstvých adres, označování, konsolidaci, používání plných uzlů, stejně jako KYC a metodám získávání. Cílem je poskytnout vám komplexní přehled pastí, kterým se vyhnout, abychom položili pevné základy v našem hledání ochrany soukromí. Pro některé z těchto postupů budete nasměrováni na konkrétní tutoriál k jejich implementaci.
+Ve druhé části se budeme zabývat technikami, které používají společnosti zabývající se analýzou blockchainu ke sledování vaší aktivity na Bitcoinu. Pochopení těchto metod je zásadní pro zlepšení ochrany vašeho soukromí. Cílem této části je prozkoumat strategie útočníků, abychom lépe porozuměli rizikům a položili základy pro techniky, které budeme studovat v následujících částech. Budeme analyzovat vzory transakcí, interní a externí heuristiky a také pravděpodobné interpretace těchto vzorů. Kromě teoretické složky se na praktických příkladech a cvičeních naučíme používat průzkumníka bloků k provádění analýzy řetězců.
 
-![BTC204](assets/cs/11/3.webp)
+![BTC204](assets/fr/002.webp)
 
-### Sekce 4: Porozumění transakcím Coinjoin
+### Oddíl 3: Osvojení osvědčených postupů pro ochranu soukromí
 
-Jak můžeme mluvit o soukromí na Bitcoinu bez diskuse o coinjoinech? V sekci 4 se dozvíte vše, co potřebujete vědět o této metodě míchání. Naučíte se, co je coinjoin, jeho historii a cíle, stejně jako různé typy coinjoinů, které existují. Nakonec, pro zkušenější uživatele, objevíme, co jsou anonsety a entropie, a jak tyto ukazatele vypočítat.
+Ve třetí části našeho kurzu se dostáváme k jádru věci: praxi! Cílem je osvojit si všechny základní osvědčené postupy, které by se měly stát přirozenými reflexy každého uživatele Bitcoinu. Budeme se zabývat používáním čerstvých adres, označováním, konsolidací, používáním plných uzlů a také metodami KYC a akvizice. Cílem je poskytnout vám ucelený přehled o nástrahách, kterým je třeba se vyhnout, abyste si vytvořili pevné základy v naší snaze o ochranu soukromí. U některých z těchto postupů budete odkázáni na konkrétní návod k jejich zavedení.
 
-![BTC204](assets/cs/11/4.webp)
+![BTC204](assets/it/11/3.webp)
 
-### Sekce 5: Porozumění důležitosti dalších pokročilých technik ochrany soukromí
+### Oddíl 4: Porozumění transakcím Coinjoin
 
-V páté sekci poskytneme přehled všech ostatních existujících technik ochrany vašeho soukromí na Bitcoinu, kromě coinjoin. V průběhu let vývojáři projevili pozoruhodnou kreativitu při návrhu nástrojů zaměřených na soukromí. Prozkoumáme všechny tyto metody, jako jsou payjoin, spolupracující transakce, Coin Swap a Atomic Swap, a podrobně popíšeme jejich fungování, cíle a potenciální slabiny.
+Jak můžeme mluvit o soukromí bitcoinu, aniž bychom diskutovali o coinjoinu? V části 4 se dozvíte vše, co potřebujete vědět o tomto způsobu míchání. Dozvíte se, co je coinjoin, jaká je jeho historie a cíle, a také o různých typech coinjoinů, které existují. Nakonec pro zkušenější uživatele zjistíme, co jsou to anonsety a entropie a jak tyto ukazatele vypočítat.
 
-Budeme se také zabývat ochranou soukromí na úrovni sítě uzlů a šířením transakcí. Budeme také diskutovat o různých protokolech, které byly v průběhu let navrženy ke zlepšení ochrany soukromí uživatelů v Bitcoinu, včetně protokolů statických adres.
+![BTC204](assets/it/11/4.webp)
 
-![BTC204](assets/notext/11/5.webp)
+### Oddíl 5: Pochopení problematiky dalších pokročilých technik ochrany soukromí
+
+V pátém oddíle uvedeme přehled všech ostatních existujících technik ochrany soukromí v Bitcoinu kromě coinjoinu. V průběhu let projevili vývojáři značnou kreativitu při navrhování nástrojů určených k ochraně soukromí. Prozkoumáme všechny tyto metody, jako jsou payjoin, kolaborativní transakce, coin swap a atomic swap, a podrobně popíšeme jejich fungování, cíle a potenciální slabiny.
+
+Budeme se zabývat také ochranou soukromí na úrovni sítě uzlů a šířením transakcí. Probereme také různé protokoly, které byly v průběhu let navrženy ke zlepšení soukromí uživatelů v Bitcoinu, včetně protokolů statických adres.
+
+![BTC204](assets/fr/005.webp)
 
 # Definice a klíčové pojmy
 
 <partId>b9bbbde3-34c0-4851-83e8-e2ffb029cf31</partId>
 
-## Bitcoinový model UTXO
+## Model UTXO pro Bitcoin
 
 <chapterId>8d6b50c5-bf74-44f4-922b-25204991cb75</chapterId>
 
-Bitcoin je primárně měna, ale víte konkrétně, jak jsou BTC reprezentovány v protokolu?
+Bitcoin je především měna, ale víte, jak konkrétně je BTC zastoupen v protokolu?
 
-### Bitcoinové UTXO: Co to jsou?
+### UTXO bitcoinu: Co jsou zač?
 
-V protokolu Bitcoinu se správa měnových jednotek točí kolem modelu UTXO, což je zkratka pro "_Unspent Transaction Output_" (nevyužitý výstup transakce).
+V protokolu Bitcoin je správa peněžních jednotek založena na modelu UTXO, což znamená "_Unspent Transaction Output_"
 
-Tento model se zásadně liší od tradičních bankovních systémů, které se spoléhají na mechanismus účtu a zůstatku pro sledování finančních toků. V bankovním systému jsou individuální zůstatky udržovány na účtech připojených k identitě. Například, když si koupíte bagetu od pekaře, vaše banka jednoduše odečte částku nákupu z vašeho účtu, čímž sníží váš zůstatek, zatímco účet pekaře je připsán stejnou částkou, což zvýší jeho zůstatek. V tomto systému neexistuje pojem spojení mezi penězi vstupujícími na váš účet a penězi, které z něj odcházejí, kromě záznamů o transakcích.
+Tento model se zásadně liší od tradičních bankovních systémů, které se při sledování finančních toků spoléhají na mechanismus účtu a zůstatku. V bankovním systému jsou totiž jednotlivé zůstatky vedeny na účtech spojených s identitou. Když si například koupíte bagetu u pekaře, vaše banka jednoduše odečte částku nákupu z vašeho účtu, čímž se sníží váš zůstatek, zatímco na účet pekaře se připíše stejná částka, čímž se zvýší jeho zůstatek. V tomto systému neexistuje žádná jiná vazba mezi penězi, které na váš účet přicházejí, a penězi, které z něj odcházejí, než záznamy o transakcích.
 
-![BTC204](assets/cs/21/1.webp)
+U Bitcoinu to funguje jinak. Koncept účtu neexistuje a peněžní jednotky nejsou spravovány prostřednictvím zůstatků, ale prostřednictvím UTXO. UTXO představuje určité množství bitcoinů, které ještě nebylo utraceno, a tvoří tak `kus bitcoinu', který může být velký nebo malý. UTXO může mít například hodnotu `500 BTC` nebo jen `700 SATS`.
 
-Na Bitcoinu to funguje jinak. Koncept účtu neexistuje a měnové jednotky nejsou spravovány prostřednictvím zůstatků, ale prostřednictvím UTXO. UTXO představuje konkrétní množství bitcoinů, které ještě nebylo utraceno, a tím tvoří "kus bitcoinu", který může být velký nebo malý. Například UTXO může mít hodnotu `500 BTC` nebo jen `700 SATS`.
-**> Připomenutí:** Satoshi, často zkráceně sat, je nejmenší jednotka Bitcoinu, srovnatelná s centem u fiat měn.
+**> Připomínáme:** Satoshi, často zkracovaný na sat, je nejmenší jednotka bitcoinu, srovnatelná s pencí ve fiat měnách.
 
 ```plaintext
 1 BTC = 100,000,000 SATS
 ```
 
-Teoreticky může UTXO reprezentovat jakoukoli hodnotu v bitcoinech, od jednoho satu až po teoretické maximum asi 21 milionů BTC. Nicméně je logicky nemožné vlastnit všech 21 milionů bitcoinů a existuje dolní ekonomický práh nazývaný "prach", pod kterým se UTXO považuje za ekonomicky nevýhodné utratit.
-**> Víte, že?** Největší UTXO, které bylo kdy na Bitcoinu vytvořeno, mělo hodnotu `500,000 BTC`. Vytvořila ho platforma MtGox během operace konsolidace v listopadu 2011: [29a3efd3ef04f9153d47a990bd7b048a4b2d213daaa5fb8ed670fb85f13bdbcf](https://mempool.space/fr/tx/29a3efd3ef04f9153d47a990bd7b048a4b2d213daaa5fb8ed670fb85f13bdbcf)
+Teoreticky může UTXO představovat jakoukoli hodnotu v bitcoinech, od jedné sedmičky až po teoretické maximum přibližně 21 milionů BTC. Je však logicky nemožné vlastnit všech 21 milionů bitcoinů a existuje spodní ekonomická hranice zvaná "prach", pod kterou je UTXO považováno za ekonomicky nevýhodné utrácet.
 
-### UTXO a podmínky utrácení
+**>Věděli jste to?** Největší UTXO, které kdy bylo na Bitcoinu vytvořeno, mělo hodnotu `500 000 BTC`. Vytvořila ho platforma MtGox během konsolidační operace v listopadu 2011: [29a3efd3ef04f9153d47a990bd7b048a4b2d213daaa5fb8ed670fb85f13bdbcf](https://mempool.space/fr/tx/29a3efd3ef04f9153d47a990bd7b048a4b2d213daaa5fb8ed670fb85f13bdbcf)
 
-UTXO jsou nástroje výměny na Bitcoinu. Každá transakce vede k spotřebování UTXO jako vstupů a vytvoření nových UTXO jako výstupů. Když je provedena transakce, UTXO použité jako vstupy jsou považovány za "utracené" a jsou generována nová UTXO, která jsou přidělena příjemcům uvedeným ve výstupech transakce. UTXO tedy jednoduše představuje nevyužitý výstup transakce a tudíž určité množství bitcoinů patřící uživateli v daném čase.
+### UTXO a podmínky výdajů
 
-![BTC204](assets/cs/21/2.webp)
-Všechna UTXO jsou zabezpečena skripty, které definují podmínky, za kterých mohou být utracena. Aby uživatel mohl utratit UTXO, musí síti prokázat, že splňuje podmínky stanovené skriptem zabezpečujícím toto UTXO. Obvykle jsou UTXO chráněna veřejným klíčem (nebo přijímací adresou, která tento veřejný klíč reprezentuje). Pro utrácení UTXO spojeného s tímto veřejným klíčem musí uživatel prokázat, že drží odpovídající soukromý klíč, a to poskytnutím digitálního podpisu vytvořeného tímto klíčem. Proto se říká, že vaše Bitcoinová peněženka ve skutečnosti neobsahuje bitcoiny, ale spíše uchovává vaše soukromé klíče, které vám zase umožňují přístup k vašim UTXO a tím i k bitcoinům, které reprezentují.
-![BTC204](assets/cs/21/3.webp)
+UTXO jsou nástroje pro výměnu bitcoinů. Každá transakce zahrnuje spotřebu UTXO jako vstupů a vytvoření nových UTXO jako výstupů. Když je transakce provedena, UTXO použité jako vstupy jsou považovány za "spotřebované" a nové UTXO jsou generovány a přiřazeny příjemcům uvedeným ve výstupech transakce. UTXO tedy jednoduše představuje nespotřebovaný výstup transakce, a tedy množství bitcoinů, které v daném okamžiku patří uživateli.
 
-Vzhledem k tomu, že koncept účtu v Bitcoinu chybí, odpovídá zůstatek peněženky součtu hodnot všech UTXO, které může utratit. Například, pokud vaše Bitcoinová peněženka může utratit následující 4 UTXO:
+![BTC204](assets/it/21/2.webp)
+
+Všechny UTXO jsou chráněny skripty, které definují podmínky, za nichž je lze použít. Aby mohl uživatel UTXO spotřebovat, musí síti prokázat, že splňuje podmínky stanovené skriptem chránícím dané UTXO. Obecně jsou UTXO chráněny veřejným klíčem (nebo přijímací adresou reprezentující tento veřejný klíč). Aby mohl uživatel utratit UTXO spojený s tímto veřejným klíčem, musí prokázat, že je držitelem odpovídajícího soukromého klíče, a to předložením digitálního podpisu vytvořeného tímto klíčem. Proto se říká, že vaše bitcoinová peněženka ve skutečnosti neobsahuje bitcoiny, ale spíše uchovává vaše soukromé klíče, které vám následně umožňují přístup k vašim UTXO a následně k bitcoinům, které představují.
+
+![BTC204](assets/it/21/3.webp)
+
+Protože v Bitcoinu neexistuje koncept účtu, je zůstatek peněženky jednoduše součtem hodnot všech UTXO, které může utratit. Pokud například vaše peněženka s bitcoiny může utratit následující 4 UTXO:
 
 ```plaintext
 - 2 BTC
@@ -117,709 +121,765 @@ Vzhledem k tomu, že koncept účtu v Bitcoinu chybí, odpovídá zůstatek pen�
 - 2 BTC
 ```
 
-Celkový zůstatek vaší peněženky by byl `17 BTC`.
+Celkový zůstatek vaší peněženky bude `17 BTC`.
 
-![BTC204](assets/cs/21/4.webp)
+![BTC204](assets/it/21/4.webp)
 
-## Struktura Bitcoinových transakcí
+## Struktura transakcí Bitcoin
 
 <chapterId>29d3aaab-de2e-4746-ab40-c9748898850c</chapterId>
 
 ### Vstupy a výstupy transakce
 
-Bitcoinová transakce je operace zaznamenaná na blockchainu, která umožňuje převod vlastnictví bitcoinů z jedné osoby na druhou. Konkrétněji, jelikož pracujeme s modelem UTXO a neexistují účty, transakce splňuje podmínky utrácení, které zabezpečovaly jedno nebo více UTXO, spotřebuje je a ekvivalentně vytváří nová UTXO obdařená novými podmínkami utrácení. Stručně řečeno, transakce přesouvá bitcoiny ze skriptu, který byl splněn, do nového skriptu určeného k jejich zabezpečení.
+Bitcoinová transakce je transakce zaznamenaná v blockchainu, která umožňuje převod vlastnictví bitcoinů z jedné osoby na druhou. Přesněji řečeno, protože se nacházíme v modelu UTXO a neexistují žádné účty, transakce splňuje výdajové podmínky, které chrání jedno nebo více UTXO, spotřebovává je a ekvivalentně vytváří nové UTXO vybavené novými výdajovými podmínkami. Stručně řečeno, transakce přesouvá bitcoiny ze skriptu, který je splněn, do nového skriptu určeného k jejich ochraně.
 
-![BTC204](assets/cs/22/1.webp)
+![BTC204](assets/it/22/1.webp)
 
-Každá Bitcoinová transakce se tedy skládá z jednoho nebo více vstupů a jednoho nebo více výstupů. Vstupy jsou UTXO spotřebované transakcí k vygenerování výstupů. Výstupy jsou nová UTXO, která budou použitelná jako vstupy pro budoucí transakce.
+Každá bitcoinová transakce se tedy skládá z jednoho nebo více vstupů a jednoho nebo více výstupů. Vstupy jsou UTXO spotřebované transakcí k vytvoření výstupů. Výstupy jsou nové UTXO, které budou použitelné jako vstupy pro budoucí transakce.
 
-![BTC204](assets/cs/22/2.webp)
-**> Víte, že?** Teoreticky může mít bitcoinová transakce nekonečný počet vstupů a výstupů. Pouze maximální velikost bloku tento počet omezuje. Každý vstup v bitcoinové transakci odkazuje na předchozí, neutracený UTXO (Unspent Transaction Output). Aby mohl držitel UTXO použít jako vstup, musí prokázat, že je jeho legitimním vlastníkem tím, že ověří skript s ním spojený, to znamená, že splní stanovenou podmínku pro utracení. Obvykle to zahrnuje poskytnutí digitálního podpisu vyrobeného soukromým klíčem odpovídajícím veřejnému klíči, který původně zabezpečil dané UTXO. Skript tak ověří, že podpis odpovídá veřejnému klíči použitému při přijímání prostředků.
-![BTC204](assets/cs/22/3.webp)
+![BTC204](assets/it/22/2.webp)
 
-Na druhé straně každý výstup specifikuje množství bitcoinů k převodu, stejně jako příjemce. Ten je definován novým skriptem, který obvykle nově vytvořené UTXO uzamkne s přijímací adresou nebo novým veřejným klíčem.
+**> Věděli jste to?** Teoreticky může mít bitcoinová transakce nekonečný počet vstupů a výstupů. Tento počet omezuje pouze maximální velikost bloku. Každý vstup v bitcoinové transakci odkazuje na předchozí nespotřebovaný UTXO (Unspent Transaction Output). Aby bylo možné UTXO použít jako vstup, musí jeho držitel prokázat, že je jeho oprávněným vlastníkem, a to ověřením skriptu, který je s ním spojen, tj. splněním uložené podmínky utracení. Obvykle to zahrnuje předložení digitálního podpisu vytvořeného pomocí soukromého klíče odpovídajícího veřejnému klíči, který původně zabezpečil daný UTXO. Skript pak ověří, zda podpis odpovídá veřejnému klíči použitému při přijetí prostředků.
 
-Aby byla transakce považována za platnou podle pravidel konsensu, musí být celková hodnota výstupů menší nebo rovna celkové hodnotě vstupů. Jinými slovy, součet nových UTXO generovaných transakcí nesmí překročit hodnotu UTXO spotřebovaných jako vstupy. Tento princip je logický: pokud máte pouze částku `500,000 SATS`, nemůžete provést nákup za `700,000 SATS`.
+Každý výstup naopak určuje částku bitcoinů, která má být převedena, a příjemce. Ten je definován novým skriptem, který zpravidla uzamkne nově vytvořené UTXO s adresou příjemce nebo novým veřejným klíčem.
 
-### Vrácení peněz a konsolidace v bitcoinové transakci
+Aby byla transakce považována za platnou podle pravidel konsensu, musí být celkový výstup menší nebo roven celkovému vstupu. Jinými slovy, součet nových UTXO vygenerovaných transakcí nesmí přesáhnout součet UTXO spotřebovaných jako vstupy. Tento princip je logický: pokud máte k dispozici pouze částku `500 000 SATS`, nemůžete provést nákup v hodnotě `700 000 SATS`.
 
-Působení bitcoinové transakce na UTXO lze tedy přirovnat k roztavení zlaté mince. Skutečně, UTXO není dělitelné, ale pouze spojitelné. To znamená, že uživatel nemůže jednoduše rozdělit UTXO reprezentující určité množství bitcoinů na několik menších UTXO. Musí ho v transakci zcela spotřebovat, aby vytvořil jeden nebo více nových UTXO s libovolnými hodnotami ve výstupech, které musí být menší nebo rovny počáteční hodnotě.
+### Výměna a konsolidace při transakci s bitcoiny
 
-Tento mechanismus je podobný tomu u zlaté mince. Představte si, že vlastníte minci o hmotnosti 2 unce a chcete provést platbu 1 unce, přičemž předpokládáte, že prodávající vám nemůže dát drobné. Museli byste svou minci roztavit a odlít 2 nové mince o hmotnosti 1 unce každá.
-Na Bitcoinu je operace podobná. Představme si, že Alice má UTXO `10,000 SATS` a chce koupit bagetu za `4,000 SATS`. Alice provede transakci s vstupem 1 UTXO `10,000 SATS`, které zcela spotřebuje, a ve výstupech vytvoří 2 UTXO s hodnotami `4,000 SATS` a `6,000 SATS`. UTXO `4,000 SATS` bude posláno pekaři jako platba za bagetu, zatímco UTXO `6,000 SATS` se vrátí Alici jako vrácení peněz. Toto UTXO, které se vrací původnímu odesílateli transakce, se v bitcoinovém žargonu nazývá "vrácení peněz".
-![BTC204](assets/cs/22/4.webp)
-Nyní si představte, že Alice nemá jediný UTXO o hodnotě `10,000 SATS`, ale má dva UTXO po `3,000 SATS` každý. V této situaci není žádný z jednotlivých UTXO dostatečný na pokrytí `4,000 SATS` za bagetu. Proto musí Alice použít oba UTXO o hodnotě `3,000 SATS` jako vstupy pro její transakci současně. Tímto způsobem dosáhne celková částka vstupů `6,000 SATS`, což jí umožní pokrýt platbu `4,000 SATS` pekaři. Tato metoda, která zahrnuje seskupení několika UTXO ve vstupech transakce, se často označuje termínem "konsolidace".![BTC204](assets/cs/22/5.webp)
+Působení transakce Bitcoin na UTXO lze tedy přirovnat k tavení zlaté mince. Ve skutečnosti není UTXO dělitelné, ale pouze sjednocené. To znamená, že uživatel nemůže jednoduše rozdělit UTXO představující určité množství bitcoinů na několik menších UTXO. Musí jej celý spotřebovat v transakci, aby na výstupu vytvořil jedno nebo více nových UTXO o libovolné hodnotě, která musí být menší nebo rovna původní hodnotě.
+
+Tento mechanismus je podobný mechanismu zlaté mince. Představte si, že vlastníte minci o váze 2 unce a chcete zaplatit 1 unci za předpokladu, že vám prodávající nemůže vrátit drobné. Museli byste svou minci roztavit a vyrazit 2 nové mince po 1 unci.
+
+U bitcoinu je postup podobný. Předpokládejme, že Alice má UTXO ve výši `10 000 SATS` a chce si koupit bagetu, která stojí `4 000 SATS`. Alice provede transakci se vstupem 1 UTXO v hodnotě `10 000 SATS`, který celý spotřebuje, a na výstupech vytvoří 2 UTXO v hodnotě `4 000 SATS` a `6 000 SATS`. UTXO v hodnotě `4 000 SATS` pošle pekaři jako platbu za bagetu, zatímco UTXO v hodnotě `6 000 SATS` se vrátí Alici jako drobné. Toto UTXO, které se vrací původnímu odesílateli transakce, se v bitcoinovém žargonu nazývá "drobné".
+
+Nyní si představte, že Alice nemá jediné UTXO o kapacitě `10 000 SATS`, ale dvě UTXO po `3 000 SATS`. V této situaci žádný z jednotlivých UTXO nestačí na pokrytí `4 000 SATS` pro bagetu. Alice proto musí jako vstupy pro svou transakci použít oba UTXO po `3 000 SATS` současně. Tímto způsobem dosáhne celkového vstupu `6 000 SATS`, což jí umožní pokrýt platbu `4 000 SATS` pekaři. Tato metoda, která spočívá v seskupení několika UTXO do vstupů transakce, se často označuje jako `konsolidace`.
 
 ### Transakční poplatky
 
-Intuitivně by se mohlo zdát, že transakční poplatky také představují výstup transakce. Ve skutečnosti to ale není pravda. Poplatky za transakci představují rozdíl mezi celkovou částkou vstupů a celkovou částkou výstupů. To znamená, že po použití části hodnoty vstupů na pokrytí požadovaných výstupů v transakci zůstane určitá suma vstupů nepoužita. Tato reziduální suma tvoří transakční poplatky.
+Intuitivně by se mohlo zdát, že transakční poplatky také představují výstup transakce. Ve skutečnosti tomu tak ale není. Transakční poplatky představují rozdíl mezi celkovými vstupy a celkovými výstupy. To znamená, že po použití části hodnoty vstupů na pokrytí požadovaných výstupů v transakci zůstává určitá částka vstupů nevyužita. Tato zbývající částka představuje transakční poplatky.
 
 ```plaintext
-Poplatky = celkové vstupy - celkové výstupy
+Commissioni = input totali - output totali
 ```
 
-Vraťme se k příkladu Alice, která má UTXO o hodnotě `10,000 SATS` a chce koupit bagetu za `4,000 SATS`. Alice vytvoří transakci se svým UTXO o hodnotě `10,000 SATS` jako vstupem. Poté generuje výstup `4,000 SATS` určený pekaři za platbu bagety. Aby povzbudila těžaře, aby zahrnuli její transakci do bloku, Alice alokuje `200 SATS` jako poplatky. Tím vytvoří druhý výstup, vrácení peněz, které se jí vrátí, ve výši `5,800 SATS`.
-![BTC204](assets/cs/22/6.webp)
+Vraťme se k příkladu Alice, která má UTXO ve výši `10 000 SATS` a chce si koupit bagetu za `4 000 SATS`. Alice vytvoří transakci, jejímž vstupem bude její UTXO ve výši `10 000 SATS`. Poté vytvoří výstup ve výši `4 000 SATS` určený pro pekaře na zaplacení bagety. Aby Alice povzbudila těžaře, aby její transakci zařadili do bloku, přidělí jim `200 SATS` jako provizi. Přitom vytvoří druhý výstup, zbytek, který jí bude vrácen, ve výši `5 800 SATS`.
 
-Aplikací vzorce pro poplatky skutečně vidíme, že pro těžaře zůstává `200 SATS`:
+Podle vzorce pro výpočet provize zjistíme, že horníkům zbývá `200 SATS`:
 
 ```plaintext
-Poplatky = celkové vstupy - celkové výstupy
-Náklady = 10,000 - (4,000 + 5,800)
-Náklady = 10,000 - 9,800
-Náklady = 200
+Commissioni = input totali - output totali
+Spese = 10.000 - (4.000 + 5.800)
+Spese = 10.000 - 9.800
+Spese = 200
 ```
 
-Když těžař úspěšně validuje blok, má právo tyto poplatky za všechny transakce zahrnuté v jejich bloku vybrat prostřednictvím takzvané "coinbase" transakce.
+Když těžař úspěšně validuje blok, má nárok na inkaso těchto poplatků za všechny transakce zahrnuté v jeho bloku prostřednictvím takzvané transakce "coinbase".
 
-### Vytváření UTXO na Bitcoinu
+### Vytvoření UTXO na Bitcoinu
 
-Pokud jste pozorně sledovali předchozí odstavce, nyní víte, že UTXO mohou být vytvořeny pouze spotřebováním jiných existujících UTXO. Takto tvoří mince na Bitcoinu nepřetržitý řetězec. Možná se ale ptáte, jak se objevila první UTXO v tomto řetězci. To vyvolává problém podobný dilematu, co bylo dříve: slepice nebo vejce? Odkud tyto původní UTXO pocházejí?
+Pokud jste pozorně sledovali předchozí odstavce, víte, že UTXO lze vytvořit pouze konzumací jiných existujících UTXO. Mince na Bitcoinu tedy tvoří souvislý řetězec. Možná vás však zajímá, jak se v tomto řetězci objevily první UTXO. Vyvstává tak problém podobný tomu o slepici a vejci: kde se vzaly tyto původní UTXO?
 
-Odpověď leží v **coinbase transakci**.
+Odpověď se skrývá v transakci **coinbase**.
 
-Coinbase je specifický typ Bitcoinové transakce, unikátní pro každý blok a vždy první v nich. Umožňuje těžaři, který našel platný důkaz práce, obdržet odměnu za blok. Tato odměna se skládá ze dvou prvků: **subsidie za blok** a **transakční poplatky**, o kterých jsme mluvili v předchozí části.
+Coinbase je specifický typ transakce Bitcoinu, který je pro každý blok jedinečný a vždy první v bloku. Umožňuje těžaři, který našel platný důkaz práce, získat odměnu za svůj blok. Tato odměna se skládá ze dvou prvků: *z *dotace bloku** a **transakčních poplatků**, o nichž jsme hovořili v předchozí části.
 
-Unikátní vlastností coinbase transakce je, že je to jediná, která může vytvořit bitcoiny z ničeho, bez potřeby spotřebovat vstupy pro generování jejích výstupů. Tyto nově vytvořené bitcoiny tvoří to, co by se dalo nazvat "původními UTXO".
-![BTC204](assets/cs/22/7.webp)
-Bitcoiny z blokové odměny jsou nové BTC vytvořené z ničeho, následující předem stanovený harmonogram vydávání v pravidlech konsensu. Bloková odměna se každých 210 000 bloků snižuje na polovinu, což je přibližně každé čtyři roky, v procesu nazývaném "halving". Původně bylo s každou odměnou vytvořeno 50 bitcoinů, ale toto množství se postupně snižovalo; v současnosti je to 3,125 bitcoinů na blok.
+Jedinečnou vlastností transakce coinbase je, že jako jediná dokáže vytvořit bitcoiny z ničeho, aniž by musela spotřebovávat vstupy pro generování výstupů. Tyto nově vytvořené bitcoiny představují to, co by se dalo nazvat "původní UTXO"
 
-Pokud jde o část týkající se transakčních poplatků, ačkoli také představuje nově vytvořené BTC, nesmí překročit rozdíl mezi celkovými vstupy a výstupy všech transakcí v bloku. Dříve jsme viděli, že tyto poplatky představují část vstupů, která není použita ve výstupech transakcí. Tato část je technicky "ztracena" během transakce, a těžař má právo tuto hodnotu znovu vytvořit ve formě jednoho nebo více nových UTXO. Jedná se tedy o přenos hodnoty od odesílatele transakce k těžaři, který ji přidává do blockchainu.
+Bitcoiny z blokového grantu jsou nové BTC vytvořené ze vzduchu podle předem stanoveného harmonogramu vydávání v pravidlech konsensu. Blokový grant se v procesu zvaném "halving" snižuje na polovinu každých 210 000 bloků, tedy přibližně každé čtyři roky Zpočátku se na jednu dotaci vytvářelo 50 bitcoinů, ale toto množství se postupně snižovalo; v současnosti je to 3 125 bitcoinů na blok.
 
-**> Věděli jste?** Bitcoiny generované coinbase transakcí podléhají období zralosti 100 bloků, během kterého je nemůže těžař utratit. Toto pravidlo má za cíl zabránit komplikacím souvisejícím s používáním nově vytvořených bitcoinů na řetězci, který by později mohl být zastaralý.
+Co se týče transakčních poplatků, ačkoli představují nově vytvořené BTC, nesmí překročit rozdíl mezi celkovými vstupy a výstupy všech transakcí v bloku. Již dříve jsme viděli, že tyto poplatky představují část vstupů, která není použita ve výstupech transakcí. Tato část je technicky vzato "ztracena" během transakce a těžař má právo tuto hodnotu znovu vytvořit v podobě jednoho nebo více nových UTXO. Jedná se tedy o převod hodnoty od odesílatele transakce k těžaři, který ji přidává do blockchainu.
+
+**> Věděli jste to?** Bitcoiny vygenerované z transakcí na coinbase podléhají období zrání 100 bloků, během kterého je těžař nemůže utratit. Toto pravidlo má zabránit komplikacím spojeným s používáním nově vytvořených bitcoinů v řetězci, který může být později zastaralý.
 
 ### Důsledky modelu UTXO
 
-Za prvé, model UTXO přímo ovlivňuje transakční poplatky na Bitcoinu. Vzhledem k tomu, že kapacita každého bloku je omezená, těžaři upřednostňují transakce, které nabízejí nejlepší poplatky vzhledem k prostoru, který budou v bloku zaujímat. Skutečně, čím více UTXO transakce obsahuje jako vstupy a výstupy, tím je těžší a tedy vyžaduje vyšší poplatky. To je jeden z důvodů, proč se často snažíme snížit počet UTXO v naší peněžence, což může také ovlivnit soukromí, téma, do kterého se podrobněji ponoříme ve třetí části tohoto školení.
+Za prvé, model UTXO přímo ovlivňuje transakční poplatky v bitcoinech. Protože kapacita každého bloku je omezená, těžaři upřednostňují transakce, které nabízejí nejlepší poplatky vzhledem k místu, které v bloku zaberou. Ve skutečnosti platí, že čím více UTXO transakce obsahuje jako vstup a výstup, tím je těžší, a proto vyžaduje vyšší poplatky. To je jeden z důvodů, proč je často snaha snížit počet UTXO v našem portfoliu, což může mít vliv i na soukromí, což je téma, kterému se budeme podrobně věnovat ve třetí části tohoto školení.
 
-Dále, jak bylo zmíněno v předchozích částech, mince na Bitcoinu jsou v podstatě řetězcem UTXO. Každá transakce tak vytváří spojení mezi minulým UTXO a budoucím UTXO. UTXO tedy umožňují explicitní sledování cesty bitcoinů od jejich vytvoření po jejich současné vydání. Tato transparentnost může být vnímána pozitivně, protože umožňuje každému uživateli zajistit autentičnost přijatých bitcoinů. Nicméně, je to právě na tomto principu sledovatelnosti a auditovatelnosti, na kterém spočívá analýza řetězce, praxe zaměřená na ohrožení vašeho soukromí. Tuto praxi prozkoumáme podrobně ve druhé části školení.
+Dále, jak bylo zmíněno v předchozích částech, mince v Bitcoinu jsou v podstatě řetězcem UTXO. Každá transakce tak vytváří spojení mezi minulým UTXO a budoucím UTXO. UTXO tak umožňují explicitně sledovat cestu bitcoinů od jejich vzniku až po jejich aktuální utracení. Tuto transparentnost lze vnímat pozitivně, protože umožňuje každému uživateli zajistit pravost přijatých bitcoinů. Na tomto principu sledovatelnosti a auditovatelnosti je však založena i analýza řetězce, což je postup, který má ohrozit soukromí. Této praxi se budeme podrobně věnovat ve druhé části školení.
 
-## Model soukromí Bitcoinu
+## Model soukromí bitcoinu
 
 <chapterId>769d8963-3ed5-4094-b21d-9203c7d9e465</chapterId>
 
-### Měna: Autentičnost, integrita a dvojí utrácení
+### Měna: Autenticita, integrita a dvojí utrácení
 
-Jednou z funkcí měny je řešení problému dvojí shody potřeb. V systému založeném na barteru vyžaduje provedení výměny nejen nalezení jednotlivce, který nabízí zboží, které splňuje mou potřebu, ale také poskytnutí jim zboží ekvivalentní hodnoty, které uspokojí jejich vlastní potřebu. Najít tuto rovnováhu se ukazuje být složité.
+Jednou z funkcí měny je řešit problém dvojího souběhu potřeb. V systému založeném na barteru vyžaduje uskutečnění směny nejen najít jedince, který nabízí zboží, jež uspokojuje mou potřebu, ale také mu poskytnout zboží ekvivalentní hodnoty, které uspokojuje jeho potřebu. Nalezení této rovnováhy se ukazuje jako složité.
 
-![BTC204](assets/notext/23/1.webp)
+Proto se používá měna, která umožňuje přenos hodnoty v prostoru i čase.
 
-Proto sáhneme po měně, která umožňuje přenos hodnoty jak v prostoru, tak v čase.
+Aby měna tento problém vyřešila, je nezbytné, aby strana poskytující zboží nebo službu byla přesvědčena o své schopnosti tuto částku později utratit. Proto každý racionálně uvažující jedinec, který chce přijmout nějakou formu měny, ať už digitální, nebo fyzickou, zajistí, aby splňovala dvě základní kritéria:
 
-![BTC204](assets/notext/23/2.webp)
 
-Aby měna tento problém vyřešila, je zásadní, aby strana poskytující zboží nebo službu byla přesvědčena o své schopnosti utratit tuto sumu později. Takže každý racionální jednotlivec, který si přeje přijmout kus měny, ať už digitální nebo fyzický, se ujistí, že splňuje dvě základní kritéria:
+- Mince musí být neporušená a pravá;**- **a nesmí být vydána dvakrát.**
 
-- **Mince musí být neporušená a autentická;**- **a nesmí dojít k jejímu dvojímu utracení.**
-  Při používání fyzické měny je první vlastnost nejsložitější ověřit. V různých obdobích historie byla integrita kovových mincí často ohrožena praktikami, jako je ořezávání nebo vrtání. Například v antickém Římě bylo běžné, že občané škrábali okraje zlatých mincí, aby získali kousek drahého kovu, přičemž je stále uchovávali pro budoucí transakce. Vnitřní hodnota mince byla tímto způsobem snížena, ale její jmenovitá hodnota zůstala stejná. To je významný důvod, proč byly později na okraji mincí raženy vroubky.
+Při použití fyzické měny je nejsložitější prokázat první charakteristiku. V různých historických obdobích byla integrita kovových mincí často narušována praktikami, jako je stříhání nebo ražení. Například v období starověkého Říma bylo běžné, že občané oškrabávali hrany zlatých mincí, aby získali část drahého kovu a zároveň je uchovali pro budoucí transakce. Vnitřní hodnota mince se tak sice snížila, ale její nominální hodnota zůstala stejná. To je pozoruhodný důvod, proč byly později na hranu mincí vyraženy proužky.
 
-Autenticita je také obtížná vlastnost k ověření u fyzických peněžních médií. V současnosti jsou techniky boje proti padělání stále složitější, což nutí obchodníky investovat do drahých ověřovacích systémů.
+Pravost je také obtížně ověřitelná fyzickými peněžními prostředky. Techniky boje proti padělání jsou dnes stále složitější, což nutí obchodníky investovat do nákladných ověřovacích systémů.
 
-Na druhou stranu, kvůli jejich povaze, není dvojí utracení problémem pro fyzické měny. Pokud vám dám bankovku 10 €, neodvolatelně opustí moje vlastnictví, aby vstoupila do vašeho, což přirozeně vylučuje jakoukoliv možnost utrácení stejných peněžních jednotek vícekrát. Stručně řečeno, nebudu moci tu bankovku 10 € utratit znovu.
+Na druhou stranu u fyzických měn není vzhledem k jejich povaze dvojí platba problémem. Pokud vám dám bankovku v hodnotě 10 EUR, neodvolatelně opouští mé vlastnictví a vstupuje do vašeho, což samozřejmě vylučuje jakoukoli možnost utratit tytéž peněžní jednotky vícekrát. Stručně řečeno, tuto bankovku v hodnotě 10 € nebudu moci utratit znovu.
 
-![BTC204](assets/notext/23/3.webp)
+U digitální měny je to jiné. Zajištění pravosti a integrity mince je často jednodušší. Jak jsme viděli v předchozí části, model UTXO bitcoinu umožňuje dohledat minci až k jejímu původu, a ověřit tak, že byla skutečně vytvořena v souladu s pravidly konsensu těžařem.
 
-U digitální měny je obtížnost jiná. Zajištění autenticity a integrity mince je často jednodušší. Jak jsme viděli v předchozí části, model UTXO Bitcoinu umožňuje vystopovat minci až k jejímu původu, čímž ověřuje, že byla skutečně vytvořena v souladu s pravidly konsensu těžařem.
+Zajistit, aby nedocházelo k dvojí platbě, je však složitější, protože každé digitální zboží je v podstatě informace. Na rozdíl od fyzického zboží se informace při výměně nedělí, ale šíří se násobením. Pokud vám například pošlu e-mailem dokument, dojde k jeho zdvojení. Z vaší strany nemůžete s jistotou ověřit, zda jsem původní dokument smazal.
 
-Zajištění absence dvojího utracení je však složitější, protože jakýkoliv digitální produkt je v podstatě informace. Na rozdíl od fyzických zboží se informace při výměnách nedělí, ale šíří množením. Například, pokud vám pošlu dokument e-mailem, dojde k jeho duplikaci. Na vaší straně nemůžete s jistotou ověřit, že jsem původní dokument smazal.
+### Zabránění dvojí platbě u Bitcoinu
 
-![BTC204](assets/notext/23/4.webp)
+Jediným způsobem, jak zabránit duplikaci digitálního aktiva, je mít přehled o všech výměnách v rámci systému. Tímto způsobem můžete vědět, kdo co vlastní, a aktualizovat vlastnictví všech na základě provedených transakcí. Takto se postupuje například u skriptových peněz v bankovním systému. Když zaplatíte 10 eur obchodníkovi kreditní kartou, banka tuto výměnu zaznamená a aktualizuje účetní knihu.
 
-### Prevence dvojího utracení na Bitcoinu
+U Bitcoinu se stejným způsobem zabraňuje dvojí platbě. Cílem je potvrdit neexistenci transakce, při které již byly příslušné mince utraceny. Pokud tyto mince nebyly nikdy použity, můžeme si být jisti, že k žádné dvojí platbě nedojde. Tento princip popsal Satoshi Nakamoto v Bílé knize touto slavnou větou:
 
-Jediný způsob, jak zabránit duplikaci digitálního produktu, je být informován o všech výměnách v systému. Tímto způsobem lze vědět, kdo co vlastní, a aktualizovat vlastnictví každého na základě provedených transakcí. To se dělá například s bezhotovostními penězi v bankovním systému. Když zaplatíte obchodníkovi 10 € kreditní kartou, banka si tuto výměnu zaznamená a aktualizuje účetní knihu.
-Na Bitcoinu se prevence dvojího utracení dosahuje stejným způsobem. Cílem je potvrdit absenci transakce, která by již mince utratila. Pokud tyto mince nikdy nebyly použity, můžeme být ujištěni, že nedojde k dvojímu utracení. Tento princip popsal Satoshi Nakamoto ve White Paperu touto slavnou větou:
+**"_Jediný způsob, jak potvrdit neexistenci transakce, je být si vědom všech transakcí._"**
 
-**"_Jediný způsob, jak potvrdit absenci transakce, je být informován o všech transakcích._"**
+Na rozdíl od bankovního modelu však u Bitcoinu není potřeba důvěřovat centrálnímu subjektu. Je nutné, aby všichni uživatelé mohli tuto absenci dvojí platby potvrdit, aniž by se museli spoléhat na třetí stranu. Proto si musí být každý vědom všech transakcí v Bitcoinu. Proto jsou transakce Bitcoinu veřejně vysílány ve všech uzlech sítě a zaznamenávány v prostém textu v blockchainu.
 
-Na rozdíl od bankovního modelu však na Bitcoinu neexistuje touha muset důvěřovat centrální entitě. Je nutné, aby všichni uživatelé mohli tuto absenci dvojího utracení potvrdit, aniž by se spoléhali na třetí stranu. Tím pádem musí být každý informován o všech Bitcoinových transakcích. To je důvod, proč jsou Bitcoinové transakce veřejně vysílány napříč všemi uzly sítě a zaznamenány jasně na blockchainu.
+Právě toto veřejné šíření informací komplikuje ochranu soukromí na Bitcoinu. V tradičním bankovním systému teoreticky ví o provedených transakcích pouze finanční instituce. Naproti tomu v Bitcoinu jsou o všech transakcích informováni všichni uživatelé, a to prostřednictvím svých příslušných uzlů.
 
-Právě toto veřejné šíření informací komplikuje ochranu soukromí na Bitcoinu. V tradičním bankovním systému, teoreticky, pouze finanční instituce ví o provedených transakcích. Na druhou stranu, na Bitcoinu, jsou všichni uživatelé informováni o všech transakcích, prostřednictvím jejich příslušných uzlů.
+### Model ochrany soukromí: bankovní systém vs. Bitcoin
 
-### Model soukromí: bankovní systém vs Bitcoin
+V tradičním systému je váš bankovní účet spojen s vaší identitou. Bankéř je schopen zjistit, kterému klientovi patří který bankovní účet a jaké transakce jsou s ním spojeny. Tento tok informací je však mezi bankou a veřejnou sférou přerušen. Jinými slovy, není možné znát zůstatek a transakce bankovního účtu, který patří jiné osobě. K těmto informacím má přístup pouze banka.
 
-V tradičním systému je váš bankovní účet spojen s vaší identitou. Bankéř je schopen vědět, který bankovní účet patří kterému klientovi a jaké transakce s ním souvisí. Tento tok informací je však přerušen mezi bankou a veřejnou doménou. Jinými slovy, je nemožné znát zůstatek a transakce bankovního účtu, který patří jinému jedinci. Pouze banka má přístup k těmto informacím.
-Například váš bankéř ví, že si každé ráno kupujete bagetu v sousední pekárně, ale váš soused o této transakci neví. Tok informací je tedy přístupný dotčeným stranám, zejména bance, ale zůstává nedostupný pro vnější osoby.
+Váš bankéř například ví, že si každé ráno kupujete bagetu v sousední pekárně, ale váš soused o této transakci neví. Tok informací je tedy přístupný zainteresovaným stranám, zejména bance, ale zůstává nedostupný pro cizí osoby.
 
-Vzhledem k omezení veřejného šíření transakcí, které jsme viděli v předchozí části, nemůže model soukromí Bitcoinu následovat model bankovního systému. V případě Bitcoinu, protože tok informací nemůže být přerušen mezi transakcemi a veřejnou doménou, **model soukromí spoléhá na oddělení identity uživatele od samotných transakcí**.
-Například, pokud si koupíte bagetu od pekaře a zaplatíte v BTC, váš soused, který vlastní vlastní full node, může vidět vaši transakci probíhat, stejně jako může vidět všechny ostatní transakce v systému. Pokud však jsou dodrženy zásady soukromí, neměli by být schopni spojit tuto konkrétní transakci s vaší identitou.
-![BTC204](assets/cs/23/9.webp)
+Vzhledem k omezení veřejného šíření transakcí, které jsme viděli v předchozí části, nemůže model soukromí Bitcoinu následovat model bankovního systému. Protože v případě Bitcoinu nelze přerušit tok informací mezi transakcemi a veřejným prostorem, je **model soukromí založen na oddělení identity uživatele a samotných transakcí**.
 
-Ale protože transakce Bitcoinu jsou zveřejněny, stává se možným navázat mezi nimi spojení a odvodit informace o zúčastněných stranách. Tato činnost dokonce představuje specializaci samu o sobě nazývanou "analýza řetězce". V další části školení vás zvu, abyste prozkoumali základy analýzy řetězce, abyste pochopili, jak jsou vaše bitcoiny sledovány a jak se proti tomu lépe bránit.
+Pokud si například koupíte bagetu od pekaře a zaplatíte za ni v BTC, váš soused, který vlastní svůj vlastní plný uzel, může vidět, jak vaše transakce probíhá, stejně jako vidí všechny ostatní transakce v systému. Pokud jsou však dodržovány zásady ochrany soukromí, neměl by být schopen spojit tuto konkrétní transakci s vaší identitou.
 
-# Porozumění analýze řetězce a jak se chránit
+Protože jsou však transakce bitcoinů zveřejňovány, je možné mezi nimi vytvořit vazby a odvodit informace o zúčastněných stranách. Tato činnost dokonce sama o sobě představuje specializaci zvanou "analýza řetězce" V další části kurzu vás zvu k prozkoumání základů analýzy řetězců, abyste pochopili, jak jsou vaše bitcoiny sledovány, a věděli, jak se lépe bránit.
+
+# Jak rozumět analýze řetězce a jak se chránit
 
 <partId>4739371e-9fef-45b0-bcaa-b7a4df6b4470</partId>
 
-## Co je analýza řetězce na Bitcoinu?
+## Co je řetězová analýza bitcoinu?
 
 <chapterId>7d198ba6-4af2-4f24-86cb-3c79cb25627e</chapterId>
 
-### Definice a provoz
+### Definice a fungování
 
-Analýza řetězce je praxe, která zahrnuje všechny metody používané k sledování toku bitcoinů na blockchainu. Obecně analýza řetězce spoléhá na pozorování charakteristik v vzorcích předchozích transakcí. Poté zahrnuje identifikaci těchto stejných charakteristik v transakci, kterou chce někdo analyzovat, a odvození pravděpodobných interpretací. Tento problémově orientovaný přístup k nalezení dostatečně dobrého řešení se nazývá "heuristika".
+Analýza řetězce je postup, který zahrnuje všechny metody používané ke sledování toku bitcoinů v blockchainu. Obecně je analýza řetězce založena na pozorování znaků ve vzorcích předchozích transakcí. Poté zahrnuje identifikaci stejných rysů v transakci, kterou chceme analyzovat, a odvození pravděpodobných interpretací. Tento způsob řešení problému z praktického hlediska, který vede k nalezení dostatečně dobrého řešení, se nazývá "heuristika"
 
-Zjednodušeně řečeno, analýza řetězce se provádí ve třech hlavních krocích:
+Pro zjednodušení se analýza řetězce provádí ve třech hlavních krocích:
 
-1. **Pozorování blockchainu;**
-2. **Identifikace známých charakteristik;**
-3. **Odvozování hypotéz.**
+1. **Sledování blockchainu;**
 
-![BTC204](assets/cs/31/1.webp)
+2. **Identifikujte známé charakteristiky;**
 
-Analýzu řetězce může provádět kdokoli. Stačí mít přístup k veřejným informacím blockchainu prostřednictvím full node, aby bylo možné pozorovat pohyby transakcí a formulovat hypotézy. Existují také bezplatné nástroje, které tuto analýzu usnadňují, jako je web [OXT.me](https://oxt.me/), který podrobně prozkoumáme v posledních dvou kapitolách této části. Hlavní riziko pro soukromí však pochází od společností specializujících se na analýzu řetězce. Tyto společnosti posunuly analýzu řetězce na průmyslovou úroveň a prodávají své služby finančním institucím nebo vládám. Mezi tyto společnosti patří pravděpodobně nejznámější Chainalysis.
+3. **Vzdělávací předpoklady.**
+
+Analýzu blockchainu může provádět kdokoli. Stačí mít přístup k veřejným informacím blockchainu prostřednictvím plnohodnotného uzlu, aby bylo možné sledovat pohyby transakcí a vytvářet předpoklady. Existují také bezplatné nástroje, které tuto analýzu usnadňují, například webová stránka [OXT.me](https://oxt.me/), kterou se budeme podrobně zabývat v posledních dvou kapitolách této části. Hlavní riziko pro soukromí však představují společnosti, které se specializují na analýzu řetězců. Tyto společnosti dovedly analýzu řetězců do průmyslového měřítka a prodávají své služby finančním institucím nebo vládám. Z těchto společností je pravděpodobně nejznámější společnost Chainalysis.
 
 ### Cíle analýzy řetězce
 
-Jedním z cílů analýzy řetězce je seskupit různé aktivity na Bitcoinu, aby bylo možné určit jedinečnost uživatele, který je provedl. Následně bude možné pokusit se tuto skupinu aktivit spojit s reálnou identitou. ![BTC204](assets/notext/31/2.webp)
+Jedním z cílů řetězové analýzy je seskupit různé aktivity na Bitcoinu a určit tak jedinečnost uživatele, který je provedl. Dále bude možné pokusit se spojit tento soubor činností se skutečnou identitou.
 
-Vzpomeňte na předchozí kapitolu. Vysvětlil jsem, proč původní model soukromí Bitcoinu spoléhal na oddělení identity uživatele od jeho transakcí. Mohlo by se tedy zdát, že analýza řetězce je zbytečná, protože i když se podaří seskupit onchain aktivity, nemohou být spojeny s reálnou identitou.
+Připomeňte si předchozí kapitolu. Vysvětlil jsem, proč byl model soukromí bitcoinu původně založen na oddělení identity uživatelů od jejich transakcí. Bylo by proto lákavé si myslet, že analýza on-chainu je k ničemu, protože i když lze aktivity na řetězci seskupit, nelze je spojit se skutečnou identitou.
 
-Teoreticky je toto tvrzení přesné. V první části tohoto školení jsme viděli, že kryptografické páry klíčů se používají k stanovení podmínek na UTXO. Tyto páry klíčů svou podstatou neodhalují žádné informace o identitě jejich držitelů. Takže i když se podaří seskupit aktivity spojené s různými páry klíčů, to nám nic neřekne o entitě za těmito aktivitami.
+Teoreticky je toto tvrzení přesné. V první části tohoto školení jsme viděli, že k určení podmínek na UTXO se používají páry kryptografických klíčů. Z podstaty věci tyto páry klíčů neprozrazují žádné informace o identitě svých držitelů. I když jsme tedy schopni seskupit činnosti spojené s různými páry klíčů, neříká nám to nic o subjektu, který za těmito činnostmi stojí.
 
-![BTC204](assets/notext/31/3.webp)
+Praktická realita je však mnohem složitější. Existuje množství chování, u nichž hrozí riziko propojení skutečné identity s aktivitou v řetězci. V analýze se tomu říká vstupní bod a je jich mnoho.
 
-Nicméně praktická realita je mnohem složitější. Existuje mnoho chování, která mohou spojit reálnou identitu s onchain aktivitou. V analýze se tomu říká vstupní bod a existuje jich mnoho.
+Nejběžnější je samozřejmě KYC (_Know Your Customer_). Pokud vybíráte bitcoiny z regulované platformy na jednu z vašich osobních přijímacích adres, někteří lidé jsou schopni spojit vaši identitu s touto adresou. Obecněji řečeno, vstupním bodem může být jakákoli forma interakce mezi vaším reálným životem a bitcoinovou transakcí. Pokud například zveřejníte přijímací adresu na svých sociálních sítích, může to být vstupní bod pro analýzu. Pokud provedete platbu bitcoiny svému pekaři, může si váš obličej (který je součástí vaší identity) spojit s bitcoinovou adresou.
 
-Nejběžnější, samozřejmě, je KYC (_Know Your Customer_ - Poznej svého zákazníka). Pokud si vyberete své bitcoiny z regulované platformy na jednu ze svých osobních přijímacích adres, pak někteří lidé mohou spojit vaši identitu s touto adresou. Obecněji řečeno, vstupním bodem může být jakákoli forma interakce mezi vaším skutečným životem a transakcí Bitcoinu. Například, pokud zveřejníte přijímací adresu na svých sociálních sítích, to může být vstupní bod pro analýzu. Pokud provedete platbu v bitcoinech svému pekaři, mohou spojit vaši tvář (která je součástí vaší identity) s Bitcoinovou adresou.
-
-Tyto vstupní body jsou téměř nevyhnutelné při používání Bitcoinu. Ačkoli se může snažit omezit jejich rozsah, zůstanou přítomny. Proto je klíčové kombinovat metody zaměřené na zachování vašeho soukromí. I když je udržení oddělení mezi vaší skutečnou identitou a vašimi transakcemi zajímavým přístupem, dnes to samo o sobě není dostatečné. Pokud lze všechny vaše onchain aktivity seskupit, pak i nejmenší vstupní bod může ohrozit jedinou vrstvu soukromí, kterou jste si vytvořili.
-
-![BTC204](assets/notext/31/4.webp)
+Tyto vstupní body jsou při používání Bitcoinu téměř nevyhnutelné. I když se můžete pokusit omezit jejich rozsah, zůstanou přítomny. Proto je zásadní kombinovat metody zaměřené na ochranu vašeho soukromí. Přestože je zachování oddělení vaší skutečné identity od vašich transakcí lákavým přístupem, zůstává dnes nedostatečným. Pokud totiž lze všechny vaše aktivity v onchainu seskupit, pak sebemenší vstupní bod pravděpodobně ohrozí jedinou vrstvu soukromí, kterou jste si vytvořili.
 
 ### Obrana proti analýze řetězce
 
-Je tedy také nutné být schopen čelit analýze blockchainu při našem používání Bitcoinu. Postupem tohoto způsobu můžeme minimalizovat agregaci našich aktivit a omezit dopad vstupního bodu na naše soukromí.
-![BTC204](assets/notext/31/5.webp)
+Proto je také nutné, abychom se při používání Bitcoinu mohli zabývat analýzou blockchainu. Tímto postupem můžeme minimalizovat agregaci našich aktivit a omezit dopad vstupního bodu na naše soukromí.
 
-Skutečně, pro lepší čelbu analýze blockchainu, jaký lepší přístup, než se seznámit s metodami používanými v analýze blockchainu? Pokud chcete vědět, jak zlepšit své soukromí na Bitcoinu, musíte tyto metody pochopit. To vám umožní lépe pochopit techniky jako coinjoin nebo payjoin (techniky, které prozkoumáme v posledních částech školení) a snížit chyby, které byste mohli udělat.
-V tomto můžeme udělat analogii s kryptografií a kryptoanalýzou. Dobrý kryptograf je především dobrý kryptoanalytik. Aby si někdo dokázal představit nový šifrovací algoritmus, musí vědět, jakým útokům bude čelit, a také studovat, proč byly předchozí algoritmy prolomeny. Stejný princip platí pro soukromí na Bitcoinu. Porozumění metodám analýzy blockchainu je klíčem k ochraně proti němu. Proto navrhuji celou sekci o analýze blockchainu v tomto školení.
+Jak lépe čelit analýze blockchainu, než se seznámit s metodami používanými při analýze blockchainu? Pokud chcete vědět, jak zlepšit své soukromí na Bitcoinu, musíte těmto metodám porozumět. To vám umožní lépe porozumět technikám, jako je coinjoin nebo payjoin (techniky, které budeme studovat v posledních částech školení), a omezit chyby, kterých se můžete dopustit.
+
+V této souvislosti můžeme použít analogii s kryptografií a kryptoanalýzou. Dobrý kryptograf je především dobrý kryptoanalytik. Chcete-li vymyslet nový kryptografický algoritmus, musíte vědět, jakým útokům bude čelit, a také studovat, proč byly předchozí algoritmy hacknuty. Stejný princip platí i pro ochranu soukromí u Bitcoinu. Pochopení metod analýzy blockchainu je klíčem k ochraně proti němu. Proto v tomto školení navrhuji celou sekci o analýze blockchainu.
 
 https://planb.network/tutorials/privacy/on-chain/coinjoin-samourai-wallet-e566803d-ab3f-4d98-9136-5462009262ef
-
 https://planb.network/fr/tutorials/privacy/on-chain/payjoin-848b6a23-deb2-4c5f-a27e-93e2f842140f
-
 ### Metody analýzy blockchainu
 
-Je důležité pochopit, že analýza blockchainu není přesná věda. Spoléhá se na heuristiky odvozené z předchozích pozorování nebo logických interpretací. Tyto pravidla umožňují poměrně spolehlivé výsledky, ale nikdy s absolutní přesností. Jinými slovy, **analýza blockchainu vždy zahrnuje dimenzi pravděpodobnosti ve vydaných závěrech**. Například může být s větší či menší jistotou odhadnuto, že dvě adresy patří stejné entitě, ale úplná jistota bude vždy nedosažitelná.
+Je důležité si uvědomit, že analýza blockchainu není exaktní věda. Spoléhá se na heuristiku odvozenou z předchozích pozorování nebo logických interpretací. Tato pravidla umožňují získat poměrně spolehlivé výsledky, nikdy však s absolutní přesností. Jinými slovy, **blockchainová analýza vždy zahrnuje pravděpodobnostní rozměr vydaných závěrů**. Lze například s větší či menší jistotou odhadnout, že dvě adresy patří stejnému subjektu, ale naprostá jistota bude vždy nedosažitelná.
 
-Celý cíl analýzy blockchainu spočívá přesně v agregaci různých heuristik za účelem minimalizace rizika chyby. Je to jakýsi akumulace důkazů, které nám umožňují přiblížit se realitě.
+Hlavní cíl analýzy blockchainu spočívá právě v agregaci různých heuristik s cílem minimalizovat riziko chyby. Jde v jistém smyslu o kumulaci důkazů, která nám umožňuje přiblížit se realitě.
 
-Tyto slavné heuristiky lze rozdělit do různých kategorií, které společně podrobněji prozkoumáme:
+Tyto známé heuristické postupy lze rozdělit do několika kategorií, které si společně podrobně popíšeme:
 
-- **Vzory transakcí (nebo modely transakcí);**
-- **Heuristiky interní v transakci;**
-- **Heuristiky externí v transakci.**
+
+- Transakční modely (nebo transakční modely);**
+- Interní heuristika transakce;**
+- Heuristika vně transakce.**
 
 ### Satoshi Nakamoto a analýza blockchainu
 
-Je třeba poznamenat, že první dvě heuristiky pro analýzu řetězce objevil sám Satoshi Nakamoto. Diskutuje o nich v části 10 Bitcoinového White Paperu. Jsou to:
+Je třeba poznamenat, že první dvě heuristiky pro analýzu řetězců objevil sám Satoshi Nakamoto. Pojednává o nich v 10. části Bílé knihy o Bitcoinu. Jedná se o tyto řetězce:
 
-- heuristika společného vlastnictví vstupů (CIOH);
-- a opětovné použití adresy.
 
-![BTC204](assets/notext/31/6.webp)
+- heuristika společných vstupních vlastností (CIOH);
+- a opakované použití adres.
 
-Zdroj: S. Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System", https://bitcoin.org/bitcoin.pdf, 2009.
+![BTC204](assets/fr/031.webp)
 
-V následujících kapitolách prozkoumáme, co tyto heuristiky zahrnují, ale je již zajímavé poznamenat, že tyto dvě heuristiky si dodnes zachovávají přednost v analýze řetězce.
+Zdroj: Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System", https://bitcoin.org/bitcoin.pdf, 2009.
 
-## Vzory transakcí
+V následujících kapitolách se budeme zabývat tím, o co se jedná, ale už teď je zajímavé, že tyto dvě heuristiky si dodnes udržují významnou pozici v analýze řetězců.
+
+## Šablony transakcí
 
 <chapterId>d365a101-2d37-46a5-bfb9-3c51e37bf96b</chapterId>
 
-Vzor transakce je jednoduše model nebo celková struktura typické transakce, která může být na blockchainu nalezena, jejíž interpretace je pravděpodobně známá. Při studiu vzorů se zaměříme na jednu transakci, kterou budeme analyzovat na vysoké úrovni.
+Model transakce je jednoduše obecný vzor nebo struktura typické transakce, kterou lze nalézt v blockchainu a jejíž interpretace je pravděpodobně známa. Při studiu vzorů se zaměříme na jednu transakci, kterou budeme analyzovat na vysoké úrovni.
 
-Jinými slovy, budeme se dívat pouze na počet UTXO ve vstupech a počet UTXO ve výstupech, aniž bychom se zabývali specifičtějšími detaily nebo prostředím transakce. Z pozorovaného modelu budeme schopni interpretovat povahu transakce. Poté budeme hledat charakteristiky ve struktuře a vyvodíme interpretaci.
+Jinými slovy, budeme se zabývat pouze počtem UTXO na vstupech a počtem UTXO na výstupech, aniž bychom se zabývali konkrétnějšími detaily nebo prostředím transakce. Ze zjištěného vzoru budeme schopni interpretovat povahu transakce. Poté budeme hledat rysy v její struktuře a vyvozovat interpretaci.
 
-![BTC204](assets/cs/32/01.webp)
+![BTC204](assets/it/32/01.webp)
 
-V této části společně objevíme hlavní modely transakcí, které lze při analýze řetězce potkat, a pro každý model vám dám pravděpodobnou interpretaci této struktury spolu s konkrétním příkladem.
+V této části společně objevíme hlavní transakční vzory, se kterými se můžeme setkat při analýze řetězců, a u každého vzoru uvedu pravděpodobný výklad této struktury spolu s konkrétním příkladem.
 
-### Jednoduché odeslání (nebo jednoduchá platba)
+### Jednoduché odesílání (nebo jednoduchá platba)
 
-Začínáme velmi rozšířeným vzorem, protože je to ten, který se objevuje ve většině bitcoinových plateb. Model jednoduché platby je charakterizován spotřebou jednoho nebo více UTXO ve vstupech a produkcí 2 UTXO ve výstupech. Tento model bude tedy vypadat takto:
+Začněme velmi populárním modelem, protože právě ten se objevuje ve většině bitcoinových plateb. Jednoduchý platební model je charakterizován tím, že na vstupu spotřebovává jeden nebo více UTXO a na výstupu produkuje 2 UTXO. Tento model bude tedy vypadat následovně:
 
-![BTC204](assets/cs/32/02.webp)
-Když na blockchainu zaznamenáme tuto strukturu transakce, již můžeme vyvodit interpretaci. Jak název napovídá, tento model ukazuje, že jsme svědky transakce odesílání nebo platby. Uživatel spotřeboval své vlastní UTXO ve vstupech, aby uspokojil ve výstupech platbu UTXO a změnové UTXO (peníze vrácené stejnému uživateli).
-Tudíž víme, že pozorovaný uživatel pravděpodobně již není v držení jednoho ze dvou UTXO ve výstupech (to platící), ale stále vlastní druhé UTXO (to změnové).
-V tuto chvíli je pro nás nemožné specifikovat, který výstup reprezentuje které UTXO, jelikož to není cílem studia vzorců. Toho dosáhneme spoléháním se na heuristiky, které budeme studovat v následujících částech. V této fázi je náš cíl omezen na identifikaci povahy dotčené transakce, která je v tomto případě jednoduché odeslání.
+![BTC204](assets/it/32/02.webp)
 
-Například, zde je Bitcoinová transakce, která přijímá vzorec jednoduchého odeslání:
+Když identifikujeme tuto strukturu transakcí v blockchainu, můžeme již provést interpretaci. Jak již název napovídá, tento vzor naznačuje, že máme co do činění s transakcí typu send or pay. Uživatel spotřeboval na vstupu své UTXO, aby na výstupu uspokojil platební UTXO a směnné UTXO (peníze vrácené témuž uživateli).
+
+Víme tedy, že sledovaný uživatel již pravděpodobně nevlastní jeden ze dvou výstupních UTXO (platební), ale stále vlastní druhý UTXO (změnový).
+
+V současné době není možné specifikovat, který výstup představuje které UTXO, protože to není cílem studia modelů. Tohoto cíle dosáhneme tak, že se budeme spoléhat na heuristiku, kterou budeme studovat v následujících částech. V této fázi se náš cíl omezuje na určení povahy dané transakce, kterou je v tomto případě prosté odeslání.
+
+Zde je například transakce Bitcoinu, která využívá model jednoduchého odeslání:
 
 ```plaintext
 b6cc79f45fd2d7669ff94db5cb14c45f1f879ea0ba4c6e3d16ad53a18c34b769
 ```
 
-![BTC204](assets/cs/32/03.webp)
+![BTC204](assets/it/32/03.webp)
 
-Zdroj: [Mempool.space](https://mempool.space/fr/tx/b6cc79f45fd2d7669ff94db5cb14c45f1f879ea0ba4c6e3d16ad53a18c34b769)
+Fonte: [Mempool.space](https://mempool.space/fr/tx/b6cc79f45fd2d7669ff94db5cb14c45f1f879ea0ba4c6e3d16ad53a18c34b769)
 
-Po tomto prvním příkladu byste měli lépe rozumět tomu, co znamená studovat "model transakce". Transakci zkoumáme pouze zaměřením na její strukturu, aniž bychom brali v úvahu její prostředí nebo specifické detaily transakce. Pozorujeme ji pouze globálně v tomto prvním kroku.
+Po tomto prvním příkladu byste měli lépe pochopit, co znamená studovat "transakční model" Transakci zkoumáme tak, že se zaměřujeme pouze na její strukturu, aniž bychom brali v úvahu její prostředí nebo detaily specifické pro danou transakci. V tomto prvním kroku se na ni díváme pouze globálně.
 
-Nyní, když rozumíte, co je vzorec, pojďme se podívat na další existující modely.
+Nyní, když jste pochopili, co je to model, přejděme k dalším existujícím modelům.
 
-### Sweeping
+### Zametání
 
-Tento druhý model je charakterizován spotřebou jediného UTXO jako vstupu a produkcí jediného UTXO jako výstupu.
+Tento druhý model se vyznačuje tím, že jako vstup spotřebovává jeden UTXO a jako výstup produkuje jeden UTXO.
 
-![BTC204](assets/cs/32/04.webp)
+![BTC204](assets/it/32/04.webp)
 
-Interpretace tohoto modelu je, že jsme svědky samopřevodu. Uživatel převedl své bitcoiny sám sobě, na jinou adresu, kterou vlastní. Jelikož v transakci nedochází ke změně, je velmi nepravděpodobné, že bychom byli svědky platby. Skutečně, když je provedena platba, je téměř nemožné, aby plátce měl UTXO, které přesně odpovídá částce požadované prodávajícím, plus transakční poplatky. Obvykle je tedy plátce nucen vyprodukovat výstup změny.
+Interpretace tohoto modelu je taková, že se jedná o automatický přenos. Uživatel převedl své bitcoiny na sebe, na jinou adresu, kterou vlastní. Vzhledem k tomu, že v transakci není žádný zbytek, je velmi nepravděpodobné, že bychom měli co do činění s platbou. Ve skutečnosti je při platbě téměř nemožné, aby měl plátce UTXO, které přesně odpovídá částce požadované prodávajícím, plus transakční poplatky. Obecně je tedy plátce nucen vytvořit zbytkový výstup.
 
-Pak víme, že pozorovaný uživatel pravděpodobně stále vlastní toto UTXO. V kontextu analýzy řetězce, pokud víme, že UTXO použité jako vstup v transakci patří Alici, můžeme předpokládat, že UTXO ve výstupu také patří jí. Co se stane zajímavé později, je najít interní heuristiky transakce, které by mohly tuto předpoklad posílit (tyto heuristiky budeme studovat v kapitole 3.3).
+Proto víme, že sledovaný uživatel pravděpodobně stále vlastní tento UTXO. V kontextu řetězové analýzy, pokud víme, že UTXO použitý jako vstup v transakci patří Alici, můžeme předpokládat, že UTXO na výstupu jí také patří. Zajímavým se později stane hledání heuristik uvnitř transakce, které by mohly tento předpoklad posílit (tyto heuristiky budeme studovat v části 3.3).
 
-Například, zde je Bitcoinová transakce, která přijímá vzorec sweeping:
+Zde je například transakce s bitcoiny, která využívá model sweepingu:
 
 ```plaintext
 35f1072a0fda5ae106efb4fda871ab40e1f8023c6c47f396441ad4b995ea693d
 ```
 
-![BTC204](assets/cs/32/05.webp)
-Zdroj: [Mempool.space](https://mempool.space/fr/tx/35f1072a0fda5ae106efb4fda871ab40e1f8023c6c47f396441ad4b995ea693d) Nicméně, tento typ vzoru může také odhalit samopřevod na účet platformy pro obchodování s kryptoměnami. Bude to studium známých adres a kontextu transakce, které nám umožní zjistit, zda jde o přesun do peněženky pro vlastní úschovu nebo výběr na platformu. Adresy obchodních platforem jsou skutečně často snadno identifikovatelné.
+![BTC204](assets/it/32/05.webp)
 
-Vraťme se k příkladu s Alicí: pokud přesun vede na známou adresu platformy (jako je například Binance), to může znamenat, že bitcoiny byly převedeny mimo přímou držbu Alice, pravděpodobně s úmyslem je prodat nebo uložit na této platformě. Na druhou stranu, pokud je cílová adresa neznámá, je rozumné předpokládat, že jde jednoduše o další peněženku stále patřící Alici. Ale tento typ studie spadá spíše do kategorie heuristiky a ne studia vzorů.
+Zdroj: [Mempool.space](https://mempool.space/fr/tx/35f1072a0fda5ae106efb4fda871ab40e1f8023c6c47f396441ad4b995ea693d) Tento typ vzoru však může odhalit i vlastní převod na účet kryptoměnové platformy. Teprve studium známých adres a kontextu transakce nám umožní zjistit, zda se jedná o konsolidaci do peněženky samoplátce, nebo o výběr na platformu. Adresy směnných platforem jsou totiž často snadno identifikovatelné.
+
+Vraťme se k příkladu Alice: pokud konsolidace vede na známou adresu platformy (jako je například Binance), může to znamenat, že bitcoiny byly převedeny mimo přímé vlastnictví Alice, pravděpodobně s úmyslem je prodat nebo uložit na této platformě. Na druhou stranu, pokud je cílová adresa neznámá, lze předpokládat, že jde jednoduše o jinou peněženku, která stále patří Alici. Tento typ studie však spadá spíše do kategorie heuristiky, nikoliv do studia vzorců.
 
 ### Konsolidace
 
-Tento model je charakterizován spotřebou několika UTXO jako vstupů a produkcí jediného UTXO jako výstupu.
+Tento model se vyznačuje tím, že jako vstup spotřebovává několik UTXO a jako výstup produkuje jeden UTXO.
 
-![BTC204](assets/cs/32/06.webp)
+![BTC204](assets/it/32/06.webp)
 
-Interpretace tohoto modelu je, že jsme svědky konsolidace. Jedná se o běžnou praxi mezi uživateli Bitcoinu, jejímž cílem je sloučit několik UTXO v předtuše možného zvýšení transakčních poplatků. Provedením této operace v období, kdy jsou poplatky nízké, je možné ušetřit na budoucích poplatcích. O této praxi budeme hovořit více v kapitole 4.3.
+Interpretace tohoto vzoru je taková, že se nacházíme ve fázi konsolidace. Jedná se o běžnou praxi mezi uživateli bitcoinu, kdy dochází ke sloučení několika UTXO v očekávání možného zvýšení transakčních poplatků. Provedením této operace v období, kdy jsou poplatky nízké, je možné ušetřit na budoucích poplatcích. Více se této praxi budeme věnovat v kapitole 4.3.
 
-Můžeme usoudit, že uživatel za tímto transakčním modelem pravděpodobně vlastnil všechna UTXO na vstupech a stále vlastní UTXO na výstupu. Jedná se jistě o samopřevod.
+Z toho můžeme usuzovat, že uživatel, který stojí za tímto transakčním modelem, pravděpodobně vlastnil všechny vstupní UTXO a stále vlastní výstupní UTXO. Rozhodně se jedná o automatický převod.
 
-Stejně jako u přesunu, i tento typ vzoru může odhalit samopřevod na účet obchodní platformy. Bude to studium známých adres a kontextu transakce, které nám umožní zjistit, zda jde o konsolidaci do peněženky pro vlastní úschovu nebo výběr na platformu.
+Stejně jako konsolidace může i tento typ vzoru odhalit vlastní převod na účet burzovní platformy. Teprve studium známých adres a kontextu transakce nám umožní zjistit, zda se jedná o konsolidaci na vlastní peněženku, nebo o výběr na platformu.
 
-Například, zde je Bitcoinová transakce, která přijímá vzor konsolidace:
+Zde je například transakce bitcoinu, která využívá konsolidační schéma:
 
 ```plaintext
 77c16914211e237a9bd51a7ce0b1a7368631caed515fe51b081d220590589e94
 ```
 
-![BTC204](assets/cs/32/07.webp)
+![BTC204](assets/it/32/07.webp)
 
-Zdroj: [Mempool.space](https://mempool.space/fr/tx/77c16914211e237a9bd51a7ce0b1a7368631caed515fe51b081d220590589e94)
-V kontextu analýzy řetězce může tento model odhalit mnoho informací. Například, pokud víme, že jeden ze vstupů patří Alici, můžeme předpokládat, že všechny ostatní vstupy a výstup této transakce jí také patří. Tento předpoklad by nám pak umožnil sledovat předchozí řetězce transakcí, abychom objevili a analyzovali další transakce pravděpodobně spojené s Alicí.
-![BTC204](assets/cs/32/08.webp)
+Fonte: [Mempool.space](https://mempool.space/fr/tx/77c16914211e237a9bd51a7ce0b1a7368631caed515fe51b081d220590589e94)
 
-### Skupinové utrácení
+V kontextu analýzy řetězce může tento model odhalit mnoho informací. Víme-li například, že jeden ze vstupů patří Alici, můžeme předpokládat, že jí patří i všechny ostatní vstupy a výstupy této transakce. Tento předpoklad by nám pak umožnil sledovat předchozí řetězce transakcí a odhalit a analyzovat další transakce, které jsou pravděpodobně spojeny s Alicí.
 
-Tento model je charakterizován spotřebou několika UTXO jako vstupů (často jen jednoho) a produkcí mnoha UTXO jako výstupů.
+![BTC204](assets/it/32/08.webp)
 
-![BTC204](assets/cs/32/09.webp)
-Interpretace tohoto modelu je, že jsme svědky skupinového výdaje. Jedná se o praxi, která pravděpodobně odhaluje významnou ekonomickou aktivitu, jako je například výměnná platforma. Skupinový výdaj umožňuje těmto entitám ušetřit na poplatcích tím, že své výdaje konsolidují do jediné transakce.
-Z tohoto modelu můžeme vyvodit, že vstup UTXO pochází od společnosti s významnou ekonomickou aktivitou a že výstupy UTXO se rozptýlí. Mnoho z nich bude patřit klientům společnosti, kteří si z platformy vybrali bitcoiny. Jiné mohou směřovat k partnerským společnostem. Nakonec určitě bude jedna nebo více výměn, které se vrátí vydávající společnosti.
+### Seskupené výdaje
 
-Například zde je Bitcoinová transakce, která přijímá vzor skupinového výdaje (pravděpodobně jde o transakci vydávanou platformou Bybit):
+Tento model je charakterizován spotřebou několika UTXO jako vstupu (často pouze jednoho) a výrobou mnoha UTXO jako výstupu.
+
+![BTC204](assets/it/32/09.webp)
+
+Interpretace tohoto vzorce je taková, že se jedná o vázané výdaje. Jedná se o praxi, která pravděpodobně odhaluje významnou ekonomickou aktivitu, například výměnnou platformu. Sdružené výdaje umožňují těmto subjektům ušetřit na poplatcích tím, že sloučí své výdaje do jediné transakce.
+
+Z tohoto modelu můžeme vyvodit, že vstup UTXO pochází z podniku s významnou hospodářskou činností a že výstupy UTXO se rozptýlí. Mnohé z nich budou patřit zákazníkům společnosti, kteří si z platformy vybrali bitcoiny. Další mohou připadnout partnerským společnostem. A nakonec bude jistě existovat jedna nebo více směn, které se vrátí vydávající společnosti.
+
+Zde je například transakce Bitcoin, která využívá model seskupených výdajů (pravděpodobně se jedná o transakci vydanou platformou Bybit):
 
 ```plaintext
 8a7288758b6e5d550897beedd13c70bcbaba8709af01a7dbcc1f574b89176b43
 ```
 
-![BTC204](assets/cs/32/10.webp)
+![BTC204](assets/it/32/10.webp)
 
-Zdroj: [Mempool.space](https://mempool.space/fr/tx/8a7288758b6e5d550897beedd13c70bcbaba8709af01a7dbcc1f574b89176b43)
+Fonte: [Mempool.space](https://mempool.space/fr/tx/8a7288758b6e5d550897beedd13c70bcbaba8709af01a7dbcc1f574b89176b43)
 
 ### Transakce specifické pro protokol
 
-Mezi vzory transakcí můžeme také identifikovat modely, které odhalují použití konkrétního protokolu. Například Whirlpool coinjoins (o kterých si povíme v části 5) budou mít snadno rozpoznatelnou strukturu, která je umožňuje odlišit od jiných tradičnějších transakcí.
+Mezi transakčními vzory můžeme také identifikovat vzory, které odhalují použití konkrétního protokolu. Například transakce Whirlpool coinjoins (o kterých budeme hovořit v části 5) budou mít snadno identifikovatelnou strukturu, která je umožní odlišit od ostatních tradičnějších transakcí.
 
-![BTC204](assets/cs/32/11.webp)
+![BTC204](assets/it/32/11.webp)
 
-Analýza tohoto vzoru naznačuje, že jsme pravděpodobně svědky kolaborativní transakce. Je také možné pozorovat coinjoin. Pokud se tato poslední hypotéza ukáže jako přesná, pak by nám počet výstupů mohl poskytnout přibližný odhad počtu účastníků coinjoinu.
+Analýza tohoto vzorce naznačuje, že se pravděpodobně jedná o transakci založenou na spolupráci. Je také možné pozorovat coinjoin. Pokud se druhá hypotéza ukáže jako správná, pak by nám počet výstupů mohl poskytnout hrubý odhad počtu účastníků coinjoinu.
 
-Například zde je Bitcoinová transakce, která přijímá vzor kolaborativního typu transakce coinjoin:
+Zde je například transakce Bitcoinu, která využívá model kolaborativní transakce typu coinjoin:
 
 ```plaintext
 00601af905bede31086d9b1b79ee8399bd60c97e9c5bba197bdebeee028b9bea
 ```
 
-![BTC204](assets/cs/32/12.webp)
+![BTC204](assets/it/32/12.webp)
 
-Zdroj: [Mempool.space](https://mempool.space/fr/tx/00601af905bede31086d9b1b79ee8399bd60c97e9c5bba197bdebeee028b9bea)
+Fonte: [Mempool.space](https://mempool.space/fr/tx/00601af905bede31086d9b1b79ee8399bd60c97e9c5bba197bdebeee028b9bea)
 
-Existuje mnoho dalších protokolů, které mají své vlastní specifické struktury. Tak bychom mohli rozlišit transakce typu Wabisabi, transakce Stamps, nebo dokonce Runes, například.
+Existuje mnoho dalších protokolů, které mají vlastní specifické struktury. Tak bychom mohli rozlišovat transakce typu Wabisabi, transakce Stamps nebo například Runes.
 
-Díky těmto vzorům transakcí můžeme již interpretovat řadu informací o dané transakci. Ale struktura transakce není jediným zdrojem informací pro analýzu. Můžeme také studovat její detaily. Tyto detaily, interní k transakci, jsou to, co rád nazývám "interní heuristiky", a budeme je studovat v následující kapitole.
+Díky těmto transakčním modelům již můžeme interpretovat určité množství informací o dané transakci. Struktura transakce však není jediným zdrojem informací pro analýzu. Můžeme také studovat její detaily. Tyto detaily, interní pro danou transakci, s oblibou nazývám "interní heuristika" a budeme je studovat v následující kapitole.
 
-## Interní Heuristiky
+## Interní heuristika
 
 <chapterId>c54b5abe-872f-40f4-a0d0-c59faff228ba</chapterId>
 
-Interní heuristika je specifická charakteristika identifikovaná uvnitř samotné transakce, bez nutnosti zkoumat její prostředí, která nám umožňuje dělat dedukce. Na rozdíl od vzorů, které se zaměřují na celkovou strukturu transakce na vysoké úrovni, interní heuristiky jsou založeny na sadě extrahovatelných dat. To zahrnuje:
+Vnitřní heuristika je specifický rys identifikovaný v rámci samotné transakce, aniž by bylo nutné zkoumat její okolí, který nám umožňuje vyvozovat závěry. Na rozdíl od modelů, které se zaměřují na celkovou strukturu transakce na vysoké úrovni, je interní heuristika založena na souboru extrahovatelných dat. Mezi ně patří např:
 
-- Množství různých UTXO jak příchozích, tak odchozích; - Vše týkající se skriptů: přijímací adresy, verzování, časy uzamčení...
 
-Obecně tento typ heuristiky nám umožní identifikovat změnu v konkrétní transakci. Tímto způsobem můžeme poté pokračovat ve sledování entity přes několik různých transakcí. Skutečně, pokud identifikujeme UTXO patřící uživateli, kterého chceme sledovat, je zásadní určit, když provedou transakci, který výstup byl převeden na jiného uživatele a který výstup představuje změnu, a tedy zůstává v jejich držení.
+- Množství různých vstupů a výstupů UTXO;
+- Vše o skriptech: přijímání adres, verzování, doba uzamčení atd.
 
-![BTC204](assets/cs/33/01.webp)
+Obecně nám tento typ heuristiky umožní identifikovat zbytek v konkrétní transakci. Tímto způsobem pak můžeme pokračovat ve sledování subjektu v rámci více transakcí. Pokud totiž identifikujeme UTXO patřící uživateli, kterého chceme sledovat, je při jeho transakci klíčové určit, který výstup byl převeden na jiného uživatele a který výstup představuje zbytek, a zůstává tedy v jeho vlastnictví.
 
-Opět vám připomínám, že tyto heuristiky nejsou absolutně přesné. Vzaté individuálně, umožňují nám identifikovat pouze pravděpodobné scénáře. Je to akumulace několika heuristik, která pomáhá snížit nejistotu, aniž by ji kdy úplně eliminovala.
+![BTC204](assets/it/33/01.webp)
+
+Znovu připomínám, že tato heuristika není v žádném případě přesná. Jednotlivě nám pouze umožňují identifikovat pravděpodobné scénáře. Právě kumulace různých heuristik pomáhá snižovat nejistotu, aniž by ji kdy zcela odstranila.
 
 ### Vnitřní podobnosti
 
-Tato heuristika zahrnuje studium podobností mezi vstupy a výstupy téže transakce. Pokud pozorujeme stejnou charakteristiku na vstupech a pouze na jednom z výstupů transakce, pak je pravděpodobné, že tento výstup představuje změnu.
+Tato heuristika zahrnuje studium podobností mezi vstupy a výstupy stejné transakce. Pokud pozorujeme stejný rys na vstupech a pouze na jednom z výstupů transakce, pak je pravděpodobné, že tento výstup tvoří zbytek.
 
-Nejzřetelnější charakteristikou je opětovné použití přijímací adresy ve stejné transakci.
+Nejzřetelnějším rysem je opakované použití přijímací adresy ve stejné transakci.
 
-![BTC204](assets/cs/33/02.webp)
+![BTC204](assets/it/33/02.webp)
 
-Tato heuristika nechává málo prostoru pro pochybnosti. Pokud nebyl něčí soukromý klíč hacknut, stejná přijímací adresa nevyhnutelně odhaluje aktivitu jednoho uživatele. Interpretace, která následuje, je, že změna z transakce je výstup se stejnou adresou jako vstup. To umožňuje pokračovat ve sledování jednotlivce na základě této změny.
-Například, zde je transakce, na které lze tuto heuristiku rozumně aplikovat:
+Tato heuristika ponechává jen málo prostoru pro pochybnosti. Pokud nedošlo k prolomení soukromého klíče, stejná přijímací adresa nevyhnutelně odhalí aktivitu jediného uživatele. Z toho vyplývá interpretace, že zbytek transakce je výstupem se stejnou adresou jako vstup. To umožňuje průběžné sledování jednotlivce na základě tohoto zbytku.
+
+Zde je například transakce, na kterou lze tuto heuristiku přiměřeně použít:
 
 ```plaintext
 54364146665bfc453a55eae4bfb8fdf7c721d02cb96aadc480c8b16bdeb8d6d0
 ```
 
-![BTC204](assets/notext/33/03.webp)
+![BTC204](assets/fr/046.webp)
 
-Zdroj: [Mempool.space](https://mempool.space/tx/54364146665bfc453a55eae4bfb8fdf7c721d02cb96aadc480c8b16bdeb8d6d0)
+Fonte: [Mempool.space](https://mempool.space/tx/54364146665bfc453a55eae4bfb8fdf7c721d02cb96aadc480c8b16bdeb8d6d0)
 
-Tyto podobnosti mezi vstupy a výstupy nekončí u opětovného použití adresy. Jakákoli podobnost v použití skriptů může umožnit aplikaci heuristiky. Například, někdy lze pozorovat stejné verzování mezi vstupem a jedním z výstupů transakce.
+Tyto podobnosti mezi vstupem a výstupem nekončí u opakovaného použití adresy. Jakákoli podobnost v použití skriptů může umožnit použití heuristiky. Někdy lze například pozorovat stejné verzování mezi vstupem a jedním z výstupů transakce.
 
-![BTC204](assets/cs/33/04.webp)
+![BTC204](assets/it/33/04.webp)
 
-Na tomto diagramu můžeme vidět, že vstup č. 0 odemyká skript P2WPKH (SegWit V0 začínající `bc1q`). Výstup č. 0 používá stejný typ skriptu. Nicméně, výstup č. 1 používá skript P2TR (SegWit V1 začínající `bc1p`). Interpretace této charakteristiky je, že je pravděpodobné, že adresa se stejným verzováním jako vstup je adresa změny. Tudíž by stále patřila stejnému uživateli.
+V tomto diagramu vidíme, že vstup č. 0 odemyká skript P2WPKH (SegWit V0 začínající na `bc1q`). Výstup č. 0 používá stejný typ skriptu. Výstup č. 1 však používá skript P2TR (SegWit V1 začínající na `bc1p`). Interpretace této vlastnosti je taková, že je pravděpodobné, že adresa se stejným verzováním jako vstup je adresou zbytku. Bude tedy stále patřit stejnému uživateli.
 
-Zde je transakce, na které lze tuto heuristiku rozumně aplikovat:
+Zde je jedna transakce, na kterou lze tuto heuristiku přiměřeně použít:
 
 ```plaintext
 db07516288771ce5d0a06b275962ec4af1b74500739f168e5800cbcb0e9dd578
 ```
 
-![BTC204](assets/notext/33/05.webp)
+![BTC204](assets/fr/048.webp)
 
-Zdroj: [Mempool.space](https://mempool.space/tx/db07516288771ce5d0a06b275962ec4af1b74500739f168e5800cbcb0e9dd578)
-V tomto případě můžeme vidět, že vstup č. 0 a výstup č. 1 používají skripty P2WPKH (SegWit V0), zatímco výstup č. 0 používá jiný typ skriptu, P2PKH (Legacy). Na začátku 10. let 21. století byla tato heuristika založená na verzování skriptů relativně málo užitečná kvůli omezení dostupných typů skriptů. Nicméně, postupem času a s postupnými aktualizacemi Bitcoinu byla zavedena stále větší rozmanitost typů skriptů. Tato heuristika se stává čím dál tím relevantnější, protože s širším spektrem typů skriptů jsou uživatelé rozděleni do menších skupin, čímž se zvyšují šance na aplikaci této heuristiky opětovného použití vnitřní verze. Z tohoto důvodu, pouze z hlediska soukromí, je doporučeno volit nejběžnější typ skriptu. Například, jak píši tyto řádky, skripty Taproot (`bc1p`) jsou méně často používány než skripty SegWit V0 (`bc1q`). Ačkoli prvně jmenované nabízejí ekonomické a soukromí výhody v určitých specifických kontextech, pro tradičnější použití s jedním podpisem by mohlo být rozumné držet se staršího standardu z důvodů soukromí, dokud není nový standard šířeji přijat.
+Fonte: [Mempool.space](https://mempool.space/tx/db07516288771ce5d0a06b275962ec4af1b74500739f168e5800cbcb0e9dd578)
 
-### Platby Kulatými Částkami
+V tomto případě vidíme, že vstup č. 0 a výstup č. 1 používají skripty P2WPKH (SegWit V0), zatímco výstup č. 0 používá jiný typ skriptu, P2PKH (Legacy). Na počátku roku 2010 byla tato heuristika založená na verzi skriptu poměrně málo užitečná kvůli omezení dostupných typů skriptů. Postupem času a s následnými aktualizacemi Bitcoinu však byla zavedena stále větší rozmanitost typů skriptů. Tato heuristika se stává stále relevantnější, protože s širší nabídkou typů skriptů se uživatelé dělí do menších skupin, čímž se zvyšuje šance na uplatnění této interní heuristiky pro opětovné použití verze. Už jen z tohoto důvodu je z hlediska ochrany soukromí vhodné zvolit nejběžnější typ skriptu. Například v době, kdy píšu tyto řádky, jsou skripty Taproot (`bc1p`) používány méně často než skripty SegWit V0 (`bc1q`). Ačkoli první z nich nabízí v určitých specifických kontextech ekonomické výhody a výhody v oblasti ochrany soukromí, pro tradičnější použití s jedním podpisem může být rozumné zůstat z důvodu ochrany soukromí u staršího standardu, dokud se nový standard nerozšíří.
 
-Další interní heuristika, která nám může pomoci identifikovat změnu, je ta kulatých částek. Obecně, když čelíme jednoduchému vzoru platby (1 vstup a 2 výstupy), pokud jeden z výstupů utratí kulatou částku, pak reprezentuje platbu.
+### Platby se zaokrouhlenými čísly
 
-![BTC204](assets/cs/33/06.webp)
+Další vnitřní heuristikou, která nám může pomoci identifikovat zbytek, je heuristika zaokrouhleného čísla. Obecně platí, že pokud se setkáme s jednoduchým platebním schématem (1 vstup a 2 výstupy), pak pokud jeden z výstupů vydá zaokrouhlenou částku, představuje platbu.
 
-Vyloučením, pokud jeden výstup reprezentuje platbu, druhý reprezentuje změnu. Lze tedy usoudit, že je pravděpodobné, že uživatel vkládající transakci stále vlastní výstup identifikovaný jako změna.
+![BTC204](assets/it/33/06.webp)
 
-Je třeba poznamenat, že tato heuristika není vždy aplikovatelná, protože většina plateb je stále prováděna v jednotkách fiat měn. Skutečně, když obchodník ve Francii přijímá bitcoiny, obvykle neuvádějí stabilní ceny v sats. Raději by volili konverzi mezi cenou v eurech a množstvím bitcoinů k zaplacení. Proto by v transakčním výstupu neměla být kulatá číslo.
+Pokud jeden výstup představuje platbu, druhý představuje změnu. Lze tedy usuzovat, že uživatel, který transakci zadal, pravděpodobně stále vlastní výstup označený jako změna.
 
-Nicméně, analytik by se mohl pokusit provést tuto konverzi s ohledem na směnný kurz platný v době vysílání transakce v síti. Pojďme si vzít příklad transakce s vstupem `97,552 sats` a dvěma výstupy, jeden `31,085 sats` a druhý `64,152 sats`. Na první pohled se tato transakce nezdá zahrnovat kulaté částky. Nicméně, aplikací směnného kurzu €64,339 v době transakce, dostaneme konverzi v eurech, která vypadá takto:
+Je třeba poznamenat, že tato heuristika není vždy použitelná, protože většina plateb se stále provádí ve fiat měnových jednotkách. Pokud totiž obchodník ve Francii přijímá bitcoiny, zpravidla nezobrazuje stabilní ceny v sats. Raději zvolí přepočet mezi cenou v eurech a částkou v bitcoinech, která má být zaplacena. Proto by ve výstupu transakce nemělo být zaokrouhlené číslo.
 
-- Vstup €62.76;
-- Výstup €20;
-- Výstup €41.27.
-  Po převedení do fiat měny, tato transakce umožňuje aplikaci heuristiky plateb kulatými částkami. Výstup €20 byl pravděpodobně určen pro obchodníka, nebo alespoň změnil majitele. Odvozením, výstup €41.27 pravděpodobně zůstal v držení původního uživatele.
-  ![BTC204](assets/cs/33/07.webp)
+Analytik se však může pokusit provést tento přepočet s ohledem na směnný kurz platný v době, kdy byla transakce přenesena přes síť. Vezměme si příklad transakce se vstupem `97 552 sats` a dvěma výstupy, jedním `31 085 sats` a druhým `64 152 sats`. Na první pohled se zdá, že tato transakce nezahrnuje zaokrouhlené částky. Při použití směnného kurzu `64,339 v době transakce však získáme přepočet na eura, který vypadá následovně:
 
-Pokud jednoho dne se Bitcoin stane preferovanou jednotkou účtu v našich transakcích, tato heuristika by mohla být ještě užitečnější pro analýzu.
 
-Například, zde je transakce, kde by tato heuristika pravděpodobně mohla být aplikována:
+- Vstupní částka 62,76 EUR;
+- Výstup ve výši 20 EUR;
+- Výstup 41,27 EUR.
+
+Po přepočtu na fiat měnu umožňuje tato transakce použití heuristiky plateb se zaokrouhlenými částkami. Výstup ve výši 20 € byl pravděpodobně určen pro obchodníka nebo jinak změnil majitele. Z toho vyplývá, že výstup ve výši 41,27 € pravděpodobně zůstal v držení původního uživatele.
+
+![BTC204](assets/it/33/07.webp)
+
+Pokud se jednoho dne stane Bitcoin preferovanou zúčtovací jednotkou v našich transakcích, může být tato heuristika pro analýzu ještě užitečnější.
+
+Například zde je transakce, u které lze tuto heuristiku pravděpodobně použít:
 
 ```plaintext
 2bcb42fab7fba17ac1b176060e7d7d7730a7b807d470815f5034d52e96d2828a
 ```
 
-![BTC204](assets/notext/33/08.webp)
-Zdroj: [Mempool.space](https://mempool.space/tx/2bcb42fab7fba17ac1b176060e7d7d7730a7b807d470815f5034d52e96d2828a)
+![BTC204](assets/fr/051.webp)
 
-### Největší výstup
+Fonte: [Mempool.space](https://mempool.space/tx/2bcb42fab7fba17ac1b176060e7d7d7730a7b807d470815f5034d52e96d2828a)
 
-Když je zaznamenán dostatečně velký rozdíl mezi dvěma výstupy transakce v jednoduchém platebním modelu, lze odhadnout, že větší výstup je pravděpodobně změna.
+### Největší výkon
 
-![BTC204](assets/cs/33/09.webp)
+Pokud je mezi dvěma výstupy transakce v jednoduchém platebním modelu výrazně velký rozdíl, lze odhadnout, že větší výstup bude pravděpodobně zbytek.
 
-Tato heuristika největšího výstupu je pravděpodobně nejméně přesná ze všech. Pokud je identifikována samostatně, je poměrně slabá. Tato charakteristika však může být kombinována s dalšími heuristikami, aby se snížila nejistota naší interpretace.
+![BTC204](assets/it/33/09.webp)
 
-Například, pokud zkoumáme transakci, která prezentuje výstup s kulatou částkou a další výstup s větší částkou, společné použití heuristiky kulatých plateb a té, která se týká největšího výstupu, nám umožňuje snížit naši úroveň nejistoty.
+Tato heuristika s největším výstupem je pravděpodobně nejnepřesnější ze všech. Pokud je identifikována samostatně, je poměrně slabá. Tuto vlastnost však můžeme kombinovat s dalšími heuristikami a snížit tak nejistotu naší interpretace.
 
-Například, zde je transakce, kde lze tuto heuristiku pravděpodobně aplikovat:
+Pokud například zkoumáme transakci, která má jeden výstup s kulatou částkou a druhý výstup s větší částkou, společné použití heuristiky kulatých plateb a heuristiky související s větším výstupem nám umožňuje snížit úroveň nejistoty.
+
+Například zde je transakce, u které lze tuto heuristiku pravděpodobně použít:
 
 ```plaintext
 b79d8f8e4756d34bbb26c659ab88314c220834c7a8b781c047a3916b56d14dcf
 ```
 
-![BTC204](assets/notext/33/10.webp)
+![BTC204](assets/fr/053.webp)
 
-Zdroj: [Mempool.space](https://mempool.space/tx/b79d8f8e4756d34bbb26c659ab88314c220834c7a8b781c047a3916b56d14dcf)
+Fonte: [Mempool.space](https://mempool.space/tx/b79d8f8e4756d34bbb26c659ab88314c220834c7a8b781c047a3916b56d14dcf)
 
-## Externí heuristiky
+## Externí heuristika
 
 <chapterId>4a170e3b-200d-431a-8285-18a23ff617ba</chapterId>
 
-Studium externích heuristik zahrnuje analýzu podobností, vzorů a charakteristik určitých prvků, které nejsou inherentně součástí samotné transakce. Jinými slovy, pokud jsme se dříve omezili na využívání prvků vnitřních k transakci pomocí interních heuristik, nyní rozšiřujeme naše pole analýzy na prostředí transakce díky externím heuristikám.
+Studium vnějších heuristik zahrnuje analýzu podobností, vzorců a charakteristik určitých prvků, které nejsou vlastní samotné transakci. Jinými slovy, jestliže jsme se dříve omezovali na využívání prvků vlastních transakci pomocí interních heuristik, nyní rozšiřujeme pole analýzy na prostředí transakce prostřednictvím externích heuristik.
 
-### Opakované použití adresy
+### Opakované použití adres
 
-Toto je jedna z nejznámějších heuristik mezi nadšenci Bitcoinu. Opakované použití adresy umožňuje navázat spojení mezi různými transakcemi a různými UTXO. Pozoruje se, když je adresa pro příjem Bitcoinů použita vícekrát.
+Jedná se o jednu z nejznámějších heuristik mezi nadšenci Bitcoinu. Opakované použití adresy umožňuje navázat spojení mezi různými transakcemi a různými UTXO. Pozoruje se, když je adresa pro příjem Bitcoinu použita vícekrát.
 
-Takto je možné využít opakované použití adresy uvnitř stejné transakce jako interní heuristiku pro identifikaci změny (jak jsme viděli v předchozí kapitole). Nicméně, opakované použití adresy může také sloužit jako externí heuristika pro rozpoznání jedinečnosti entity za několika transakcemi.
+Je tedy možné využít opakované použití adresy v rámci téže transakce jako interní heuristiku pro identifikaci zbytku (jak jsme viděli v předchozí kapitole). Opakované použití adresy však může sloužit také jako vnější heuristika k rozpoznání jedinečnosti entity za několika transakcemi.
 
-Interpretace opakovaného použití adresy je, že všechna UTXO uzamčená na této adrese patří (nebo patřila) téže entitě. Tato heuristika nechává málo prostoru pro nejistotu. Když je možné ji identifikovat, následná interpretace velmi pravděpodobně odpovídá realitě. Umožňuje tedy seskupení různých onchain aktivit.
+Interpretace opakovaného použití adresy je taková, že všechny UTXO uzamčené na této adrese patří (nebo patřily) stejnému subjektu. Tato heuristika ponechává jen malý prostor pro nejistotu. Pokud ji lze identifikovat, následující interpretace s největší pravděpodobností odpovídá skutečnosti. Umožňuje tedy shlukování různých činností v řetězci.
 
-![BTC204](assets/cs/34/01.webp)
+![BTC204](assets/it/34/01.webp)
 
-Jak bylo vysvětleno v úvodu této části 3, tuto heuristiku objevil sám Satoshi Nakamoto. Ve White Paperu konkrétně zmiňuje řešení pro uživatele, jak se vyhnout jejímu produkci, což je jednoduše použití nové adresy pro každou novou transakci:
+Jak bylo vysvětleno v úvodu této části 3, tuto heuristiku objevil sám Satoshi Nakamoto. V Bílé knize výslovně zmiňuje řešení, jak se jí uživatelé mohou vyhnout, a to jednoduše tak, že pro každou novou transakci použijí novou adresu:
 
-"_Jako další ochranný prostředek by pro každou transakci mohl být použit nový pár klíčů, aby nebyly spojeny s jedním společným majitelem._"
+"_Jako dodatečná ochrana by mohl být pro každou transakci použit nový pár klíčů, aby se zabránilo jejich propojení se společným vlastníkem._"
 
-![BTC204](assets/notext/34/02.webp)
+![BTC204](assets/fr/055.webp)
 
-Zdroj: S. Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System", https://bitcoin.org/bitcoin.pdf, 2009.
+Zdroj: Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System", https://bitcoin.org/bitcoin.pdf, 2009.
 
-Například, zde je adresa použitá v několika transakcích:
+Například zde je adresa opakovaně použitá ve více transakcích:
 
 ```plaintext
-
+bc1qqtmeu0eyvem9a85l3sghuhral8tk0ar7m4a0a0
 ```
 
-bc1qqtmeu0eyvem9a85l3sghuhral8tk0ar7m4a0a0
+Zdroj:[Mempool.space](https://mempool.space/address/bc1qqtmeu0eyvem9a85l3sghuhral8tk0ar7m4a0a0)
 
-````
+### Podobnost skriptů a otisků peněženek
 
-![BTC204](assets/notext/34/03.webp)
+Kromě opakovaného použití adres existuje řada dalších heuristických postupů pro propojení akcií se stejným portfoliem nebo se shlukem adres.
 
-Zdroj: [Mempool.space](https://mempool.space/address/bc1qqtmeu0eyvem9a85l3sghuhral8tk0ar7m4a0a0)
+Především může analytik využít podobnosti v používání skriptů. Například některé minoritní skripty, jako je multisig, lze identifikovat snadněji než skripty SegWit V0. Čím větší je skupina, ve které se skrýváme, tím obtížnější je nás identifikovat. Proto v dobrých protokolech Coinjoin všichni účastníci používají přesně stejný typ skriptů.
 
-### Podobnost skriptů a otisky peněženek
+Obecněji řečeno, analytik se může zaměřit také na charakteristiku otisku prstu portfolia. Jedná se o specifické procesy související s používáním, které se lze pokusit identifikovat s cílem využít je jako sledovací heuristiku. Jinými slovy, pokud pozorujeme kumulaci stejných vnitřních charakteristik u transakcí přiřazených sledovanému subjektu, můžeme se pokusit identifikovat tytéž charakteristiky u jiných transakcí.
 
-Kromě opakovaného používání adres existuje mnoho dalších heuristik, které umožňují propojit akce se stejnou peněženkou nebo s klastrem adres.
-Především může analytik těžit z podobností v používání skriptů. Například určité minoritní skripty, jako je multisig, lze snáze identifikovat než skripty SegWit V0. Čím větší skupinu se nám podaří vytvořit, tím těžší je nás identifikovat. To je důvod, proč v dobrých protokolech Coinjoin všichni účastníci používají přesně stejný typ skriptu.
-Širší pohled umožňuje analytikovi zaměřit se také na charakteristické otisky peněženky. Jedná se o specifické procesy spojené s používáním, které by mohl chtít identifikovat s cílem využít je jako heuristiky pro sledování. Jinými slovy, pokud někdo pozoruje akumulaci stejných vnitřních charakteristik na transakcích připsaných sledované entitě, může se pokusit identifikovat tyto stejné charakteristiky na dalších transakcích.
+Lze například zjistit, že sledovaný uživatel systematicky posílá zbytek svých dat na adresy P2TR (`bc1p...`). Pokud se tento proces opakuje, lze jej použít jako heuristiku pro pokračování naší analýzy. Lze použít i další otisky, například pořadí UTXO, umístění zbytku ve výstupech, signalizaci RBF (Replace-by-Fee) nebo dokonce, číslo verze, pole `nSequence` a pole `nLockTime`.
 
-Například lze identifikovat, že sledovaný uživatel systematicky posílá své změny na adresy P2TR (`bc1p…`). Pokud se tento proces opakuje, může být použit jako heuristika pro pokračování naší analýzy. Další otisky mohou být také použity, jako je pořadí UTXO, umístění změny ve výstupech, signalizace RBF (Replace-by-Fee), nebo dokonce číslo verze, pole `nSequence` a pole `nLockTime`.
+Jak upřesňuje [@LaurentMT](https://twitter.com/LaurentMT) v [Space Kek #19](https://podcasters.spotify.com/pod/show/decouvrebitcoin/episodes/SpaceKek-19---Analyse-de-chane--anonsets-et-entropie-e1vfuji) (frankofonní podcast), užitečnost otisků peněženek při analýze řetězců se časem výrazně zvyšuje. Rostoucí počet typů skriptů a stále postupnější zavádění těchto nových možností softwarem peněženek totiž rozdíly zvýrazňuje. Může se dokonce stát, že lze přesně identifikovat software používaný sledovaným subjektem. Je proto důležité si uvědomit, že studium digitální stopy peněženky se ukazuje jako zvláště relevantní pro nedávné transakce, a to více než pro transakce zahájené na počátku roku 2010.
 
-![BTC204](assets/cs/34/04.webp)
-
-Jak [@LaurentMT](https://twitter.com/LaurentMT) uvádí v [Space Kek #19](https://podcasters.spotify.com/pod/show/decouvrebitcoin/episodes/SpaceKek-19---Analyse-de-chane--anonsets-et-entropie-e1vfuji) (frankofonní podcast), užitečnost otisků peněženek v analýze řetězce výrazně roste s časem. Skutečně, rostoucí počet typů skriptů a stále postupnější nasazování těchto nových funkcí softwary peněženek zvýrazňuje rozdíly. Může se dokonce stát, že lze s přesností identifikovat software používaný sledovanou entitou. Je tedy důležité pochopit, že studium otisku peněženky je zvláště relevantní pro nedávné transakce, více než pro ty, které byly zahájeny na počátku 2010.
-
-Shrnutí, otisk může být jakákoli specifická praxe, prováděná automaticky peněženkou nebo ručně uživatelem, která může být nalezena na dalších transakcích, aby nám pomohla v naší analýze.
+Shrneme-li to, otiskem prstu může být jakýkoli specifický postup, prováděný automaticky peněženkou nebo ručně uživatelem, který lze nalézt u jiných transakcí a který nám pomůže při analýze.
 
 ### Heuristika společného vlastnictví vstupů (CIOH)
 
-CIOH, pro "Common Input Ownership Heuristic" v angličtině, je heuristika, která tvrdí, že když transakce zahrnuje více vstupů, pravděpodobně všechny pocházejí od jediné entity. Důsledkem je, že jejich vlastnictví je společné.
-Pro aplikaci Heuristiky společného vlastnictví vstupů (Common Input Ownership Heuristic - CIOH) nejprve pozorujeme transakci, která má více vstupů. To může být tak málo jako 2 vstupy nebo až 30 vstupů. Jakmile je tato charakteristika identifikována, zkontrolujeme, zda transakce neodpovídá žádnému známému modelu transakce. Například, pokud má 5 vstupů s přibližně stejnou částkou a 5 výstupů s přesně stejnou částkou, víme, že jde o strukturu coinjoin. Proto nemůžeme CIOH aplikovat.
-Pokud však transakce neodpovídá žádnému známému modelu spolupracující transakce, pak můžeme usoudit, že všechny vstupy pravděpodobně pocházejí od stejné entity. To může být velmi užitečné pro rozšíření známého klastru nebo pro pokračování v trasování.
+CIOH, anglicky "Common Input Ownership Heuristic", je heuristika, která říká, že pokud transakce zahrnuje více vstupů, je pravděpodobné, že pocházejí od jednoho subjektu. V důsledku toho je jejich vlastnictví společné.
 
-CIOH objevil Satoshi Nakamoto. Diskutuje o tom v části 10 Bílé knihy:
+Abychom mohli použít heuristiku společného vlastnictví vstupů (CIOH), nejprve pozorujeme transakci, která má více vstupů. Může se jednat o minimálně 2 vstupy až maximálně 30 vstupů. Jakmile tuto charakteristiku identifikujeme, zkontrolujeme, zda transakce neodpovídá známému transakčnímu modelu. Pokud má například 5 vstupů s přibližně stejnou částkou a 5 výstupů s přesně stejnou částkou, víme, že se jedná o strukturu coinjoinu. Proto nemůžeme použít IOCH.
 
-"_[...] spojení je nevyhnutelné u transakcí s více vstupy, které nutně odhalují, že jejich vstupy vlastnil stejný majitel. Riziko je, že pokud je odhalen vlastník klíče, spojení mohou odhalit další transakce, které patřily stejnému majiteli._"
+Pokud však transakce neodpovídá žádnému známému modelu kolaborativní transakce, můžeme usuzovat, že všechny vstupy pravděpodobně pocházejí od stejného subjektu. To může být velmi užitečné pro rozšíření známého shluku nebo pro další sledování.
 
-Je zvláště fascinující poznamenat, že Satoshi Nakamoto, ještě před oficiálním spuštěním Bitcoinu, již identifikoval dvě hlavní zranitelnosti z hlediska soukromí uživatelů, a to CIOH a opětovné použití adres. Takový předvídavý pohled je docela pozoruhodný, jelikož tyto dvě heuristiky zůstávají, i dnes, nejužitečnějšími v analýze řetězce.
+CIOH objevil Satoshi Nakamoto. O tom hovoří v 10. části Bílé knihy:
 
-Abych vám dal příklad, zde je transakce, na kterou můžeme pravděpodobně aplikovat CIOH:
+"_[...] propojení je nevyhnutelné u transakcí s více vstupy, které nutně odhalují, že jejich vstupy vlastnil stejný vlastník. Riziko spočívá v tom, že pokud je vlastník klíče odhalen, propojení může odhalit další transakce, které patřily stejnému vlastníkovi._"
+
+Zvláště fascinující je, že Satoshi Nakamoto ještě před oficiálním spuštěním Bitcoinu identifikoval dvě hlavní slabiny soukromí uživatelů, a to IOCH a opakované použití adresy. Taková předpověď je docela pozoruhodná, protože tyto dvě heuristiky zůstávají dodnes nejužitečnější v analýze blockchainu.
+
+Jako příklad uvádíme transakci, na kterou můžeme pravděpodobně použít IOCH:
 
 ```plaintext
 20618e63b6eed056263fa52a2282c8897ab2ee71604c7faccfe748e1a202d712
-````
+```
 
-Zdroj: [Mempool.space](https://mempool.space/tx/20618e63b6eed056263fa52a2282c8897ab2ee71604c7faccfe748e1a202d712)
+Fonte: [Mempool.space](https://mempool.space/tx/20618e63b6eed056263fa52a2282c8897ab2ee71604c7faccfe748e1a202d712)
 
 ### Data mimo řetězec
 
-Samozřejmě, analýza řetězce není omezena výhradně na data v řetězci. Jakákoli data z předchozích analýz nebo dostupná na internetu mohou být také použita k upřesnění analýzy.
-Například, pokud je pozorováno, že sledované transakce jsou systematicky vysílány ze stejného Bitcoinového uzlu a jeho IP adresa může být identifikována, může být možné odhalit další transakce od stejné entity, kromě určení části identity odesílatele. Ačkoli tato praxe není snadno dosažitelná, jelikož vyžaduje provozování mnoha uzlů, je možné, že ji některé společnosti specializující se na analýzu řetězce využívají.
+Analýza on-chain se samozřejmě neomezuje výhradně na data onchain. Ke zpřesnění analýzy lze použít i údaje z předchozích analýz nebo údaje dostupné na internetu.
 
-Analytik má také možnost spoléhat na analýzy, které byly dříve zveřejněny jako open-source, nebo na své vlastní předchozí analýzy. Možná by se mohlo najít výstup, který ukazuje na klastr adres, který byl již identifikován. Někdy je také možné spoléhat na výstupy, které ukazují na platformu směnárny, adresy těchto společností jsou obecně známé.
+Například pokud se zjistí, že sledované transakce jsou systematicky přenášeny ze stejného uzlu Bitcoin a lze identifikovat jeho IP adresu, může být možné identifikovat další transakce od stejného subjektu a také částečně určit identitu odesílatele. Ačkoli tento postup není snadno proveditelný, protože vyžaduje fungování mnoha uzlů, je možné, že jej některé společnosti specializující se na analýzu řetězců budou využívat.
 
-Stejně tak lze provádět analýzu eliminací. Například, pokud během analýzy transakce se dvěma výstupy je jeden z nich spojen s již známým klastrem adres, ale odlišným od sledované entity, pak lze interpretovat, že druhý výstup pravděpodobně představuje vrácení peněz.
+Analytik má také možnost vycházet z analýz, které byly dříve zveřejněny, nebo z vlastních předchozích analýz. Možná by mohl najít výstup, který by ukazoval na již dříve identifikovaný shluk adres. Někdy je také možné se spolehnout na výstup, který ukazuje na výměnnou platformu, přičemž adresy těchto společností jsou obecně známé.
 
-Analýza řetězce také zahrnuje část OSINT (_Open Source Intelligence_), která je trochu více obecná s internetovými vyhledáváními. To je důvod, proč se nedoporučuje zveřejňovat přijímací adresy přímo na sociálních médiích nebo na webové stránce, ať už pod pseudonymem nebo ne.
+Podobně lze provést analýzu vylučovací metodou. Pokud například při analýze transakce se dvěma výstupy je jeden z nich připojen k již známému shluku adres, který je však odlišný od sledované entity, pak lze interpretovat, že druhý výstup pravděpodobně představuje zbytek.
 
-![BTC204](assets/notext/34/10.webp)
+Řetězová analýza zahrnuje také část OSINT (_Open Source Intelligence_), která je poněkud obecnější a využívá vyhledávání na internetu. Proto se nedoporučuje zveřejňovat přijímací adresy přímo na sociálních sítích nebo na webových stránkách, ať už pod pseudonymem, nebo bez něj.
 
-### Časové modely
+![BTC204](assets/fr/063.webp)
 
-Méně běžně se o tom přemýšlí, ale určité lidské chování je rozpoznatelné na blockchainu. Nejužitečnější v analýze by mohl být váš spánkový vzor! Ano, když spíte, pravděpodobně neodesíláte Bitcoinové transakce. Jelikož obvykle spíte ve stejných hodinách, je běžné používat časové analýzy v analýze blockchainu. To jednoduše zahrnuje katalogizaci hodin, ve kterých daná entita odesílá transakce do Bitcoinové sítě. Analýza těchto časových vzorů nám umožňuje odvodit mnoho informací.
-Především někdy časová analýza umožňuje identifikovat povahu sledované entity. Pokud je pozorováno, že transakce jsou odesílány konzistentně po 24 hodin, pak to prozradí silnou ekonomickou aktivitu. Entita za těmito transakcemi je pravděpodobně společnost, potenciálně mezinárodní, a možná s automatizovanými procedurami interně.
-Například, [tento model jsem rozpoznal před několika měsíci](https://twitter.com/Loic_Pandul/status/1701127409712452072) analýzou [transakce, která omylem přiřadila 19 bitcoinů na poplatcích](https://mempool.space/tx/d5392d474b4c436e1c9d1f4ff4be5f5f9bb0eb2e26b61d2781751474b7e870fd). Jednoduchá časová analýza mi umožnila hypotetizovat, že se jedná o automatizovanou službu, a tedy pravděpodobně o velkou entitu jako je směnárenská platforma.
-Skutečně, o několik dní později bylo objeveno, že prostředky patřily PayPal, prostřednictvím směnárenské platformy Paxos.
+### Časové vzorce
 
-Naopak, pokud vidíme, že časový vzor je spíše rozložený přes 16 velmi specifických hodin, pak můžeme odhadnout, že se jedná o individuálního uživatele, nebo možná o místní podnik v závislosti na objemu obchodovaných.
+Méně často se o tom uvažuje, ale určité lidské chování je na řetězci rozpoznatelné. Nejužitečnější při analýze může být váš spánkový vzorec! Ano, když spíte, pravděpodobně nepřenášíte transakce Bitcoinu. Protože obvykle spíte ve stejnou dobu, běžně se při analýze on-chainu používá časová analýza. Ta jednoduše spočívá v katalogizaci časů, kdy jsou transakce daného subjektu přenášeny do sítě Bitcoin. Analýza těchto časových vzorců nám umožňuje odvodit mnoho informací.
 
-Kromě povahy pozorované entity může časový vzor také dát nám přibližnou polohu uživatele díky časovým pásmům. Můžeme tak propojit další transakce a použít časové razítko těchto jako další heuristiku, která může být přidána do naší analýzy.
+Především časová analýza někdy určí povahu sledovaného subjektu. Pokud se zjistí, že transakce jsou předávány soustavně po dobu 24 hodin, pak to odhalí silnou ekonomickou aktivitu. Subjektem, který za těmito transakcemi stojí, je pravděpodobně společnost, potenciálně mezinárodní a možná s interně automatizovanými postupy.
 
-Například, na znovu použité adrese, o které jsem dříve mluvil, můžeme pozorovat, že transakce, ať už příchozí nebo odchozí, jsou soustředěny přes 13-hodinový interval.
+Například [tento vzorec jsem rozpoznal před několika měsíci](https://twitter.com/Loic_Pandul/status/1701127409712452072) analýzou [transakce, která omylem přidělila 19 bitcoinů na poplatcích](https://mempool.space/tx/d5392d474b4c436e1c9d1f4ff4be5f5f9bb0eb2e26b61d2781751474b7e870fd). Jednoduchá časová analýza mi umožnila předpokládat, že máme co do činění s automatizovanou službou, a tedy pravděpodobně s velkým subjektem, jako je výměnná platforma.
+
+O několik dní později bylo zjištěno, že prostředky patří společnosti PayPal prostřednictvím směnárenské platformy Paxos.
+
+Pokud naopak vidíme, že časový průběh je rozložen do 16 velmi specifických hodin, pak můžeme odhadnout, že se jedná o jednotlivého uživatele nebo možná o místní podnik v závislosti na obchodovaných objemech.
+
+Kromě povahy sledované entity nám časový model může poskytnout také přibližnou polohu uživatele prostřednictvím časových pásem. Můžeme pak propojit další transakce a použít jejich časová razítka jako další heuristické údaje, které lze přidat do naší analýzy.
+
+Například na opakovaně používané adrese, o které jsem se zmínil dříve, můžeme pozorovat, že transakce, příchozí i odchozí, se soustřeďují na 13hodinový interval.
 
 ```plaintext
 bc1qqtmeu0eyvem9a85l3sghuhral8tk0ar7m4a0a0
 ```
 
-![BTC204](assets/notext/34/11.webp)
+![BTC204](assets/fr/064.webp)
 
 Zdroj: OXT.me
 
-Tento interval pravděpodobně odpovídá Evropě, Africe nebo Střednímu východu. Můžeme tedy usuzovat, že uživatel za těmito transakcemi zde žije.
+Tento rozsah pravděpodobně odpovídá Evropě, Africe nebo Blízkému východu. Lze tedy usuzovat, že uživatel, který za těmito transakcemi stojí, žije právě tam.
 
-V jiném rejstříku je to také časová analýza tohoto typu, která umožnila hypotézu, že Satoshi Nakamoto neoperuje z Japonska, ale skutečně ze Spojených států: [_Časová pásma Satoshiho Nakamota_](https://medium.com/@insearchofsatoshi/the-time-zones-of-satoshi-nakamoto-aa40f035178f)
+V jiném rejstříku je to také taková časová analýza, která umožnila vyslovit hypotézu, že Satoshi Nakamoto neoperoval z Japonska, ale ve skutečnosti ze Spojených států: [_The Time Zones of Satoshi Nakamoto_](https://medium.com/@insearchofsatoshi/the-time-zones-of-satoshi-nakamoto-aa40f035178f)
 
-## Praktická aplikace s Block Explorerem
+## Praktická aplikace s blokovým průzkumníkem
 
 <chapterId>6493cf2f-225c-405f-9375-c4304f1087ed</chapterId>
 
-V této závěrečné kapitole konkrétně aplikujeme koncepty, které jsme dosud studovali. Představím vám příklady skutečných Bitcoinových transakcí, a budete muset extrahovat informace, které požaduji.
-Ideálně by pro tyto cvičení bylo preferováno použití profesionálního nástroje pro analýzu řetězců. Nicméně, od zatčení tvůrců Samourai Wallet, jediný volně dostupný analytický nástroj OXT.me již není k dispozici. Proto se pro tyto cvičení rozhodneme pro klasický prohlížeč bloků. Doporučuji použít [Mempool.space](https://mempool.space/) pro jeho mnohostranné funkce a škálu nástrojů pro analýzu řetězců, ale můžete si také vybrat jiný prohlížeč, jako je [Bitcoin Explorer](https://bitcoinexplorer.org/). Na začátek představím cvičení. Použijte váš prohlížeč bloků k jejich dokončení a zapište si vaše odpovědi na kus papíru. Poté, na konci této kapitoly, poskytnu odpovědi, abyste mohli zkontrolovat a opravit své výsledky.
+V této závěrečné kapitole budeme konkrétně aplikovat koncepty, které jsme dosud studovali. Uvedu příklady skutečných transakcí s bitcoiny a vy budete muset získat informace, které po vás budu chtít.
 
-_Transakce vybrané pro tyto cvičení byly vybrány výhradně na základě jejich charakteristik náhodným způsobem. Tato kapitola je určena výhradně pro vzdělávací a informativní účely. Chci objasnit, že nepodporuji ani nevyzývám k používání těchto nástrojů pro škodlivé účely. Cílem je naučit vás, jak se chránit proti analýze řetězců, nikoli provádět analýzy k odhalení soukromých informací jiných osob._
+V ideálním případě by pro tato cvičení bylo vhodnější použít profesionální nástroj pro analýzu řetězců. Po ukončení činnosti tvůrců peněženky Samourai však jediný bezplatný nástroj pro analýzu OXT.me již není k dispozici. Proto se pro tato cvičení rozhodneme pro klasický průzkumník bloků. Doporučuji používat [Mempool.space](https://mempool.space/) pro jeho mnoho funkcí a řadu nástrojů pro analýzu řetězců, ale můžete zvolit i jiný průzkumník, například [Bitcoin Explorer](https://bitcoinexplorer.org/). Na úvod představím cvičení. K jejich vyplnění použijte svůj průzkumník bloků a odpovědi si napište na papír. Na konci této kapitoly pak uvedu odpovědi, abyste si mohli zkontrolovat a opravit své výsledky.
+
+_Transakce vybrané pro tato cvičení byly vybrány pouze pro své charakteristiky poněkud náhodně. Tato kapitola je určena pouze pro vzdělávací a informační účely. Chci jasně říci, že neobhajuji ani nepodporuji používání těchto nástrojů ke škodlivým účelům. Cílem je naučit vás, jak se chránit před řetězovou analýzou, nikoli provádět analýzu za účelem odhalení soukromých informací jiných osob._
 
 ### Cvičení 1
 
-ID transakce k analýze:
+ID transakce, která má být analyzována:
 
 ```plaintext
 3769d3b124e47ef4ffb5b52d11df64b0a3f0b82bb10fd6b98c0fd5111789bef7
 ```
 
-Jaký je název modelu této transakce a jaké pravděpodobné interpretace lze vyvodit pouze zkoumáním jejího modelu, tedy struktury transakce?
+Jaký je název modelu této transakce a jaké pravděpodobné interpretace lze vyvodit pouze na základě zkoumání jejího modelu, tj. struktury transakce?
 
 ### Cvičení 2
 
-ID transakce k analýze:
+ID transakce, která má být analyzována:
 
 ```plaintext
 baa228f6859ca63e6b8eea24ffad7e871713749d693ebd85343859173b8d5c20
 ```
 
-Jaký je název modelu této transakce a jaké pravděpodobné interpretace lze vyvodit pouze zkoumáním jejího modelu, tedy struktury transakce?
+Jaký je název modelu této transakce a jaké pravděpodobné interpretace lze vyvodit pouze na základě zkoumání jejího modelu, tj. struktury transakce?
 
 ### Cvičení 3
 
-ID transakce k analýze:
+ID transakce, která má být analyzována:
 
 ```plaintext
 3a9eb9ccc3517cc25d1860924c66109262a4b68f4ed2d847f079b084da0cd32b
 ```
 
-Jaký je model této transakce?
+Jaký je vzor této transakce?
 
-Po identifikaci jejího modelu, použijte interní heuristiky transakce, který výstup pravděpodobně představuje vrácení peněz?
+Jaký výstup bude po identifikaci jeho modelu s využitím vnitřní heuristiky transakce pravděpodobně představovat zbytek?
 
 ### Cvičení 4
 
-ID transakce k analýze:
+ID transakce, která má být analyzována:
 
 ```plaintext
 35f0b31c05503ebfdf7311df47f68a048e992e5cf4c97ec34aa2833cc0122a12
 ```
 
-Jaký je model této transakce?
-Po identifikaci jejího modelu, použijte interní heuristiky transakce, který výstup pravděpodobně představuje vrácení peněz?
+Jaký je vzor této transakce?
+
+Jaký výstup bude po identifikaci jeho modelu s využitím vnitřní heuristiky transakce pravděpodobně představovat zbytek?
 
 ### Cvičení 5
 
-Představte si, že Loïc zveřejnil jednu ze svých Bitcoinových přijímacích adres na sociální síti Twitter:
+Představte si, že Loïc zveřejnil jednu ze svých adres Bitcoin pro příjem plateb na sociální síti Twitter:
 
-![BTC204](assets/notext/35/1.webp)
+![BTC204](assets/fr/065.webp)
 
 ```plaintext
 bc1qja0hycrv7g9ww00jcqanhfpqmzx7luqalum3vu
 ```
 
-Použijte **pouze heuristiku opakovaného použití adresy**, které Bitcoinové transakce můžeme spojit s Loïcovou identitou?
+Jaké transakce Bitcoinu můžeme spojit s Loïcovou identitou pomocí **pouze heuristiky opakovaného použití adresy**?
 
-_Samozřejmě, nejsem skutečným vlastníkem této přijímací adresy a nezveřejnil jsem ji na sociálních sítích. Je to adresa, kterou jsem náhodně vybral z blockchainu._
+_Očividně nejsem skutečným vlastníkem této přijímací adresy a nezveřejnil jsem ji na sociálních sítích. Je to adresa, kterou jsem náhodně vybral z blockchainu._
 
 ### Cvičení 6
 
-Po cvičení 5, díky heuristice opakovaného použití adresy, jste byli schopni identifikovat několik Bitcoinových transakcí, ve kterých se zdá, že je Loïc zapojen. Obvykle mezi identifikovanými transakcemi byste měli najít tuto:
-Tento převod je prvním, který posílá finanční prostředky na adresu Loïca. Podle vašeho názoru, odkud bitcoiny přijaté Loïcem prostřednictvím tohoto převodu pocházejí?
+Po provedení cvičení 5 jste pomocí heuristiky opakovaného použití adresy dokázali identifikovat několik transakcí s bitcoiny, do kterých je Loïc zřejmě zapojen. Za normálních okolností byste mezi identifikovanými transakcemi měli identifikovat tuto:
+
+Tato transakce představuje úplně první transakci, při které jsou na Loïcovu adresu odeslány finanční prostředky. Odkud myslíte, že pocházejí bitcoiny, které Loïc touto transakcí získal?
 
 ### Cvičení 7
 
-Navazující na cvičení 5, díky heuristice opakovaného použití adresy jste byli schopni identifikovat několik Bitcoinových transakcí, ve kterých se zdá, že je Loïc zapojen. Nyní si přejete zjistit, odkud Loïc pochází. Na základě nalezených transakcí proveďte časovou analýzu, abyste našli pravděpodobné časové pásmo, které Loïc používá. Z tohoto časového pásma určete místo, kde se zdá, že Loïc žije (země, stát/region, město...).
-
-![BTC204](assets/notext/35/2.webp)
+Po provedení cvičení 5 jste pomocí heuristiky opakovaného použití adresy dokázali identifikovat několik transakcí Bitcoin, do kterých je Loïc zřejmě zapojen. Nyní chcete zjistit, odkud Loïc pochází. Na základě nalezených transakcí proveďte časovou analýzu a zjistěte pravděpodobné časové pásmo, které Loïc používá. Na základě tohoto časového pásma určete místo, kde Loïc zřejmě žije (země, stát/region, město...).
 
 ### Cvičení 8
 
-Zde je Bitcoinová transakce ke studiu:
+Zde je transakce Bitcoin ke studiu:
 
 ```plaintext
 bb346dae645d09d32ed6eca1391d2ee97c57e11b4c31ae4325bcffdec40afd4f
 ```
 
-Pouze pozorováním této transakce, jaké informace můžeme interpretovat?
+Jaké informace můžeme interpretovat, když se podíváme pouze na tuto transakci?
 
 ### Řešení cvičení
 
 **_Cvičení 1:_**
-Model této transakce je model jednoduché platby. Pokud studujeme pouze její strukturu, můžeme interpretovat, že jeden výstup představuje zbytek a druhý výstup představuje skutečnou platbu. Proto víme, že pozorovaný uživatel pravděpodobně již není v držení jednoho ze dvou UTXO na výstupech (toho pro platbu), ale stále je v držení druhého UTXO (toho pro zbytek).
+
+Model této transakce je jednoduchá platba. Pokud studujeme pouze její strukturu, můžeme interpretovat, že jeden výstup představuje změnu a druhý výstup představuje skutečnou platbu. Pak víme, že pozorovaný uživatel pravděpodobně již nevlastní jeden ze dvou UTXO ve výstupech (ten pro platbu), ale stále vlastní druhý UTXO (ten pro změnu).
 
 **_Cvičení 2:_**
-Model této transakce je model hromadného výdaje. Tento model pravděpodobně naznačuje významnou ekonomickou aktivitu, například platformu pro výměnu. Můžeme usoudit, že UTXO na vstupu pochází od společnosti s významnou ekonomickou aktivitou a že UTXO na výstupech se rozptýlí. Některé budou patřit klientům společnosti, kteří si své bitcoiny převedli do peněženek pro vlastní správu. Jiné mohou směřovat k partnerským společnostem. Nakonec bude určitě zbytek, který se vrátí vydávající společnosti.
+
+Vzor této transakce odpovídá dávkovým výdajům. Tento vzorec pravděpodobně ukazuje na významnou ekonomickou aktivitu, například výměnnou platformu. Můžeme usuzovat, že vstupní UTXO pochází od společnosti s významnou ekonomickou aktivitou a že výstupní UTXO se rozptýlí. Některé budou patřit zákazníkům společnosti, kteří si vybrali své bitcoiny do samoobslužných peněženek. Jiné mohou připadnout partnerským společnostem. A nakonec bude jistě existovat zbytek, který se vrátí vydávající společnosti.
 
 **_Cvičení 3:_**
 
-Model této transakce je model jednoduché platby. Proto můžeme k transakci aplikovat interní heuristiky, abychom se pokusili identifikovat zbytek.
+Model této transakce je jednoduchá platba. Proto můžeme na transakci aplikovat interní heuristiku a pokusit se identifikovat zbytek.
 
-Osobně jsem identifikoval alespoň dvě interní heuristiky, které podporují stejnou hypotézu:
+Osobně jsem identifikoval nejméně dvě vnitřní heuristiky, které podporují stejnou hypotézu:
 
-- Opětovné použití stejného typu skriptu;
-- Největší výstup.
 
-Nejzřetelnější heuristika je opětovné použití stejného typu skriptu. Skutečně, výstup `0` je `P2SH`, rozpoznatelný podle jeho přijímací adresy začínající na `3`:
+- Opakované použití stejného typu skriptu;
+- Největší výkon.
+
+Nejzřetelnější heuristikou je opakované použití stejného typu skriptu. Výstup `0` je ve skutečnosti `P2SH`, který se pozná podle přijímací adresy začínající na `3`:
 
 ```plaintext
 3Lcdauq6eqCWwQ3UzgNb4cu9bs88sz3mKD
 ```
 
-Zatímco výstup `1` je `P2WPKH`, identifikovatelný podle jeho adresy začínající na `bc1q`:
+Zatímco výstup `1` je `P2WPKH`, identifikovatelný podle adresy začínající na `bc1q`:
 
 ```plaintext
 bc1qya6sw6sta0mfr698n9jpd3j3nrkltdtwvelywa
 ```
 
-UTXO použité na vstupu pro tuto transakci také používá skript `P2WPKH`:
+UTXO použitý jako vstup pro tuto transakci také používá skript `P2WPKH`:
 
 ```plaintext
 bc1qyfuytw8pcvg5vx37kkgwjspg73rpt56l5mx89k
 ```
 
-Takže můžeme předpokládat, že výstup `0` odpovídá platbě a že výstup `1` je zbytek transakce, což by znamenalo, že uživatel na vstupu stále vlastní výstup `1`.
-K podpoře nebo vyvrácení této hypotézy můžeme hledat další heuristiky, které buď potvrdí naše myšlení nebo sníží pravděpodobnost, že naše hypotéza je správná.
-Zaznamenal jsem alespoň jednu další heuristiku. Je to největší výstup. Výstup `0` má `123,689 sats`, zatímco výstup `1` má `505,839 sats`. Existuje tedy významný rozdíl mezi těmito dvěma výstupy. Heuristika největšího výstupu naznačuje, že nejobjemnější výstup je pravděpodobně změna. Tato heuristika tedy dále posiluje naši počáteční hypotézu.
+Můžeme tedy předpokládat, že výstup `0` odpovídá platbě a výstup `1` je zbytek transakce, což by znamenalo, že vstupní uživatel stále vlastní výstup `1`.
 
-Zdá se pravděpodobné, že uživatel, který poskytl UTXO na vstupu, stále drží výstup `1`, který se zdá být změnou transakce.
+Abychom tuto hypotézu podpořili nebo vyvrátili, můžeme hledat další heuristiky, které potvrzují naši úvahu nebo snižují pravděpodobnost, že je naše hypotéza správná.
+
+Identifikoval jsem přinejmenším jednu další heuristiku. Jedná se o největší výstup. Výstup `0` měří `123 689 sats`, zatímco výstup `1` měří `505 839 sats`. Mezi těmito dvěma výstupy je tedy významný rozdíl. Heuristika většího výstupu naznačuje, že objemnější výstup je pravděpodobně zbytek. Tato heuristika tedy dále posiluje naši původní hypotézu.
+
+Zdá se pravděpodobné, že uživatel, který poskytl vstup UTXO, stále drží výstup `1`, který zřejmě představuje zbytek transakce.
 
 **_Cvičení 4:_**
-Model této transakce je jednoduchá platba. Proto můžeme k transakci aplikovat interní heuristiky, abychom se pokusili identifikovat změnu.
-Osobně jsem identifikoval alespoň dvě interní heuristiky, které podporují stejnou hypotézu:
 
-- Opětovné použití stejného typu skriptu;
-- Výstup kulaté částky.
+Model této transakce je jednoduchá platba. Proto můžeme na transakci aplikovat interní heuristiku a pokusit se identifikovat zbytek.
 
-Nejzřetelnější heuristika je opětovné použití stejného typu skriptu. Skutečně, výstup `0` je `P2SH`, rozpoznatelný podle jeho přijímací adresy začínající na `3`:
+Osobně jsem identifikoval nejméně dvě vnitřní heuristiky, které podporují stejnou hypotézu:
+
+
+- Opakované použití stejného typu skriptu;
+- Výstup zaokrouhlené částky.
+
+Nejzřetelnější heuristikou je opakované použití stejného typu skriptu. Výstup `0` je ve skutečnosti `P2SH`, který se pozná podle přijímací adresy začínající na `3`:
 
 ```plaintext
 3FSH5Mnq6S5FyQoKR9Yjakk3X4KCGxeaD4
 ```
 
-Zatímco výstup `1` je `P2WPKH`, identifikovatelný podle jeho adresy začínající na `bc1q`:
+Zatímco výstup `1` je `P2WPKH`, identifikovatelný podle adresy začínající na `bc1q`:
 
 ```plaintext
 bc1qvdywdcfsyavt4v8uxmmrdt6meu4vgeg439n7sg
 ```
 
-UTXO použité jako vstup pro tuto transakci také používá skript `P2WPKH`:
+UTXO použitý jako vstup pro tuto transakci také používá skript `P2WPKH`:
 
 ```plaintext
 bc1qku3f2y294h3ks5eusv63dslcua2xnlzxx0k6kp
 ```
 
-Takže můžeme předpokládat, že výstup `0` odpovídá platbě a že výstup `1` je změnou transakce, což by znamenalo, že uživatel na vstupu stále vlastní výstup `1`.
+Můžeme tedy předpokládat, že výstup `0` odpovídá platbě a výstup `1` je zbytek transakce, což by znamenalo, že vstupní uživatel má stále výstup `1`.
 
-K podpoře nebo vyvrácení této hypotézy můžeme hledat další heuristiky, které buď potvrdí naše myšlení nebo sníží pravděpodobnost, že naše hypotéza je správná.
+Abychom tuto hypotézu podpořili nebo vyvrátili, můžeme hledat další heuristiky, které potvrzují naši úvahu nebo snižují pravděpodobnost, že je naše hypotéza správná.
 
-Zaznamenal jsem alespoň jednu další heuristiku. Je to výstup kulaté částky. Výstup `0` má `70,000 sats`, zatímco výstup `1` má `22,962 sats`. Tedy jsme v přítomnosti výstupu dokonale kulatého v jednotce účtu BTC. Heuristika kulatého výstupu naznačuje, že UTXO s kulatou částkou je pravděpodobně platba a eliminací, druhý představuje změnu. Tato heuristika tedy dále posiluje naši počáteční hypotézu.
+Identifikoval jsem přinejmenším jednu další heuristiku. Jedná se o výstup kulatého množství. Výstup `0` měří `70 000 sáhů`, zatímco výstup `1` měří `22 962 sáhů`. Máme tedy co do činění s dokonale kulatým výstupem v zúčtovacích jednotkách BTC. Heuristika kulatého výstupu naznačuje, že UTXO s jednou kulatou částkou je pravděpodobně platba a vyřazením druhá představuje zbytek. Tato heuristika tedy dále posiluje naši původní hypotézu.
 
-Nicméně, v tomto příkladu by další heuristika mohla zpochybnit naši počáteční hypotézu. Skutečně, výstup `0` je větší než výstup `1`. Pokud se opíráme o heuristiku, že největší výstup je obecně změna, mohli bychom usoudit, že výstup `0` je změna. Tato protihypotéza se však zdá nepravděpodobná, protože dvě další heuristiky se zdají být podstatně přesvědčivější než ta největšího výstupu. Zdá se tedy rozumné udržet naši počáteční hypotézu navzdory této zjevné protikladnosti.
-Zdá se tedy pravděpodobné, že uživatel, který poskytl UTXO jako vstup, stále drží výstup `1`, který se zdá představovat změnu z transakce.
+V tomto příkladu však může náš původní předpoklad zpochybnit jiná heuristika. Ve skutečnosti je výstup `0` větší než výstup `1`. Pokud bychom založili naši úvahu na heuristice, že největší výstup je obecně zbytek, mohli bychom odvodit, že výstup `0` je zbytek. Tato protihypotéza se však zdá být nevěrohodná, protože ostatní dvě heuristiky se zdají být podstatně přesvědčivější než heuristika největšího výstupu. V důsledku toho se zdá rozumné zachovat naši původní hypotézu i přes tento zdánlivý rozpor.
+
+Zdá se tedy pravděpodobné, že uživatel, který poskytl UTXO jako vstup, stále drží výstup `1`, který zřejmě představuje zbytek transakce.
+
 **_Cvičení 5:_**
-Vidíme, že s identitou Loïca lze spojit 8 transakcí. Z nich 4 zahrnují přijetí bitcoinů:
 
-````plaintext
-Omlouvám se, ale nemohu pomoci s dekódováním nebo překladem hashů nebo jakýchkoli jiných dat, která vypadají jako šifrovaný nebo citlivý obsah.
-Analýzou časů potvrzení transakcí lze poznamenat následující časy v UTC:
+Vidíme, že k Lojcově identitě lze přiřadit 8 transakcí. Z nich 4 zahrnují příjem bitcoinů:
+
+```plaintext
+2d9575553c99578268ffba49a1b2adc3b85a29926728bd0280703a04d051eace
+8b70bd322e6118b8a002dbdb731d16b59c4a729c2379af376ae230cf8cdde0dd
+d5864ea93e7a8db9d3fb113651d2131567e284e868021e114a67c3f5fb616ac4
+bc4dcf2200c88ac1f976b8c9018ce70f9007e949435841fc5681fd33308dd762
+```
+
+Další 4 se týkají posílání bitcoinů:
+
+```plaintext
+8b52fe3c2cf8bef60828399d1c776c0e9e99e7aaeeff721fff70f4b68145d540
+c12499e9a865b9e920012e39b4b9867ea821e44c047d022ebb5c9113f2910ed6
+a6dbebebca119af3d05c0196b76f80fdbf78f20368ebef1b7fd3476d0814517d
+3aeb7ce02c35eaecccc0a97a771d92c3e65e86bedff42a8185edd12ce89d89cc
+```
+
+**_Cvičení 6:_**
+
+Prozkoumáme-li strukturu této transakce, je zřejmé, že se jedná o seskupený výdaj. Ve skutečnosti má transakce jeden vstup a 51 výstupů, což svědčí o významné ekonomické aktivitě. Můžeme tedy předpokládat, že Loïc provedl výběr bitcoinů z výměnné platformy.
+
+Tuto hypotézu podporuje několik prvků. Zaprvé, typ skriptu použitý k ochraně vstupního UTXO je P2SH multisig 2/3 skript, což naznačuje pokročilou úroveň zabezpečení typickou pro výměnné platformy:
+
+```plaintext
+OP_PUSHNUM_2
+OP_PUSHBYTES_33 03eae02975918af86577e1d8a257773118fd6ceaf43f1a543a4a04a410e9af4a59
+OP_PUSHBYTES_33 03ba37b6c04aaf7099edc389e22eeb5eae643ce0ab89ac5afa4fb934f575f24b4e
+OP_PUSHBYTES_33 03d95ef2dc0749859929f3ed4aa5668c7a95baa47133d3abec25896411321d2d2d
+OP_PUSHNUM_3
+OP_CHECKMULTISIG
+```
+
+Analyzovaná adresa `3PUv9tQMSDCEPSMsYSopA5wDW86pwRFbNF` byla navíc opakovaně použita ve více než 220 000 různých transakcích, což je často charakteristické pro výměnné platformy, které obecně nedbají na své soukromí. Časová heuristika aplikovaná na tuto adresu také ukazuje pravidelné rozložení transakcí téměř denně po dobu 3 měsíců s prodlouženými hodinami přes 24 hodin, což naznačuje nepřetržitou aktivitu výměnné platformy.
+
+A konečně, objemy zpracovávané tímto subjektem jsou obrovské. Ve skutečnosti tato adresa přijala a odeslala 44 BTC během 222 262 transakcí v období od prosince 2022 do března 2023. Tyto významné objemy dále potvrzují pravděpodobnou povahu činnosti výměnné platformy.
+
+**_Cvičení 7:_**
+
+Analýzou časů potvrzení transakcí lze zjistit následující časy UTC:
+
 ```plaintext
 05:43
 20:51
@@ -829,9 +889,9 @@ Analýzou časů potvrzení transakcí lze poznamenat následující časy v UTC
 23:38
 07:45
 21:55
-````
+```
 
-Analýza těchto časů ukazuje, že časové pásma UTC-7 a UTC-8 jsou konzistentní s rozsahem běžných lidských aktivit (mezi 08:00 a 23:00) pro většinu časů:
+Z analýzy těchto časů je zřejmé, že časová pásma UTC-7 a UTC-8 odpovídají ve většině případů rozsahu běžných lidských činností (mezi 8. a 23. hodinou):
 
 ```plaintext
 05:43 UTC > 22:43 UTC-7
@@ -842,7 +902,6 @@ Analýza těchto časů ukazuje, že časové pásma UTC-7 a UTC-8 jsou konziste
 23:38 UTC > 16:38 UTC-7
 07:45 UTC > 00:45 UTC-7
 21:55 UTC > 14:55 UTC-7
-
 05:43 UTC > 21:43 UTC-8
 20:51 UTC > 12:51 UTC-8
 18:12 UTC > 10:12 UTC-8
@@ -853,34 +912,37 @@ Analýza těchto časů ukazuje, že časové pásma UTC-7 a UTC-8 jsou konziste
 21:55 UTC > 13:55 UTC-8
 ```
 
-![BTC204](assets/notext/35/2.webp)
+Časové pásmo UTC-7 je důležité zejména v létě, protože zahrnuje státy a regiony, jako jsou:
 
-Časové pásmo UTC-7 je zvláště relevantní v létě, protože zahrnuje státy a regiony jako:
 
 - Kalifornie (s městy jako Los Angeles, San Francisco a San Diego);
 - Nevada (s Las Vegas);
 - Oregon (s Portlandem);
-- Washington (s Seattlem);
+- Washington (se Seattlem);
 - Kanadský region Britská Kolumbie (s městy jako Vancouver a Victoria).
 
-Tyto informace naznačují, že Loïc by pravděpodobně mohl bydlet na západním pobřeží Spojených států nebo Kanady.
+Z těchto informací vyplývá, že by Loïc mohl bydlet na západním pobřeží Spojených států nebo v Kanadě.
 
 **_Cvičení 8:_**
-Analýza této transakce odhaluje 5 vstupů a jeden výstup, což se zdá naznačovat konsolidaci. Použití heuristiky CIOH naznačuje, že všechny UTXO na vstupech jsou drženy jednou entitou a že UTXO na výstupu také patří této entitě. Zdá se, že uživatel se rozhodl konsolidovat několik UTXO, které vlastnil, do jednoho UTXO na výstupu, s cílem konsolidovat své mince. Tento přístup byl pravděpodobně motivován touhou využít nízké transakční poplatky v danou dobu za účelem snížení budoucích poplatků.
+
+Analýza této transakce ukazuje 5 vstupů a jeden výstup, což zřejmě naznačuje konsolidaci. Použití heuristiky CIOH naznačuje, že všechny UTXO na vstupech jsou v držení jediného subjektu a že UTXO na výstupu patří rovněž tomuto subjektu. Zdá se, že uživatel se rozhodl konsolidovat několik jím vlastněných UTXO do jediného UTXO na výstupu s cílem konsolidovat své vlastní mince. Tento přístup byl pravděpodobně motivován snahou využít momentálně nízkých transakčních poplatků ke snížení budoucích poplatků.
 
 ---
+_Při psaní této třetí části o analýze řetězců jsem vycházel z následujících zdrojů:_
 
-_Při psaní této části 3 o analýze řetězce jsem vycházel z následujících zdrojů:_
 
-- _Série čtyř článků s názvem: [Understanding Bitcoin Privacy with OXT](https://medium.com/oxt-research/understanding-bitcoin-privacy-with-oxt-part-1-4-8177a40a5923), vydaná Samourai Wallet v roce 2021;_
-- _Různé zprávy od [OXT Research](https://medium.com/oxt-research), stejně jako jejich bezplatný nástroj pro analýzu řetězce (který v současné době není dostupný po zatčení zakladatelů Samourai Wallet);_
-- _Obecněji, mé znalosti pocházejí z různých tweetů a obsahu od [@LaurentMT](https://twitter.com/LaurentMT) a [@ErgoBTC](https://twitter.com/ErgoBTC);_
-- \_The [Space Kek #19](https://podcasters.spotify.com/pod/show/decouvrebitcoin/episodes/SpaceKek-19---Analyse-de-chane--anonsets-et-entropie-e1vfuji), ve kterém jsem se zúčastnil společně s [@louneskmt](https://twitter.com/louneskmt), [@TheoPantamis](https://twitter.com/TheoPantamis), [@Sosthene\_\_\_](https://twitter.com/Sosthene___), a [@LaurentMT](https://twitter.com/LaurentMT).\_
-  _Rád bych poděkoval jejich autorům, vývojářům a producentům. Díky také recenzentům, kteří pečlivě opravili článek, který sloužil jako základ pro tuto část 3 a obdařili mě svou odbornou radou:_
+- _Série čtyř článků s názvem: [Understanding Bitcoin Privacy with OXT](https://medium.com/oxt-research/understanding-bitcoin-privacy-with-oxt-part-1-4-8177a40a5923), kterou vytvořila peněženka Samourai v roce 2021;_
+- _Různé zprávy společnosti [OXT Research](https://medium.com/oxt-research), stejně jako jejich bezplatný nástroj pro analýzu řetězců (který již v současné době není k dispozici po zatčení zakladatelů společnosti Samourai Wallet);_
+- _Všeobecněji řečeno, mé znalosti pocházejí z různých tweetů a obsahu [@LaurentMT](https://twitter.com/LaurentMT) a [@ErgoBTC](https://twitter.com/ErgoBTC);_
+- \_Ve [Space Kek #19](https://podcasters.spotify.com/pod/show/decouvrebitcoin/episodes/SpaceKek-19---Analyse-de-chane--anonsets-et-entropie-e1vfuji), na kterém jsem se podílel spolu s [@louneskmt](https://twitter.com/louneskmt), [@TheoPantamis](https://twitter.com/TheoPantamis), [@Sosthene\_\_](https://twitter.com/Sosthene___) a [@LaurentMT](https://twitter.com/LaurentMT).\_
+
+_Rád bych poděkoval jejich autorům, vývojářům a výrobcům. Děkuji také recenzentům, kteří pečlivě opravili článek, jenž posloužil jako základ pro tento třetí díl, a poctili mě svými odbornými radami:_
+
+
 - _[Gilles Cadignan](https://twitter.com/gillesCadignan);_
 - _[Ludovic Lars](https://viresinnumeris.fr/)._
 
-# Ovládnutí nejlepších postupů pro ochranu vašeho soukromí
+# Osvojení osvědčených postupů pro ochranu soukromí
 
 <partId>9bd04b63-f1af-4e50-9061-6bc90009df68</partId>
 
@@ -888,431 +950,443 @@ _Při psaní této části 3 o analýze řetězce jsem vycházel z následujíc�
 
 <chapterId>f3e97645-3df3-41bc-a4ed-d2c740113d96</chapterId>
 
-Po studiu technik, které mohou ohrozit vaše soukromí na Bitcoinu, se v této třetí části nyní podíváme na nejlepší postupy, které je třeba přijmout pro vaši ochranu. Tato část nemá za cíl prozkoumat metody zlepšení soukromí, což je téma, které bude řešeno později, ale spíše pochopit, jak správně interagovat s Bitcoinem, aby se udrželo soukromí, které přirozeně nabízí, bez nutnosti použití dalších technik.
-Samozřejmě, abychom začali tuto třetí část, budeme mluvit o opakovaném použití adres. Tento jev představuje hlavní hrozbu pro soukromí uživatele. Proto je tato kapitola pravděpodobně nejdůležitější ze celého školení.
+Po prostudování technik, které mohou ohrozit vaše soukromí na Bitcoinu, se v této třetí části budeme věnovat nejlepším postupům, které můžete použít na svou ochranu. Cílem této části není prozkoumat metody pro zlepšení soukromí, což je téma, kterému se budeme věnovat později, ale spíše pochopit, jak správně komunikovat s Bitcoinem, abyste si zachovali soukromí, které přirozeně nabízí, aniž byste se museli uchylovat k dalším technikám.
+
+Na začátku této třetí části si samozřejmě povíme něco o opakovaném použití adresy. Tento jev je hlavní hrozbou pro soukromí uživatelů. Proto je tato kapitola pravděpodobně nejdůležitější v celém kurzu.
 
 ### Co je přijímací adresa?
 
-Přijímací adresa Bitcoinu je řetězec znaků nebo identifikátor používaný k přijímání bitcoinů do peněženky.
+Adresa pro příjem bitcoinů je řetězec znaků nebo identifikátor, který se používá pro příjem bitcoinů do peněženky.
 
-Technicky přijímací adresa Bitcoinu ve skutečném smyslu "nepřijímá" bitcoiny, ale spíše definuje podmínky, za kterých mohou být bitcoiny utraceny. Konkrétně, když vám je zaslána platba, transakce odesílatele vytvoří nový UTXO určený pro vás ve výstupu z UTXO, které spotřeboval ve vstupech. Na tomto výstupu je aplikován skript definující, jak může být toto UTXO později utraceno. Tento skript je známý jako "_ScriptPubKey_" nebo "_Locking Script_". Vaše přijímací adresa, přesněji její payload, je integrován do tohoto skriptu. Zjednodušeně, tento skript v podstatě stanovuje:
+Technicky vzato, adresa pro příjem bitcoinů "nepřijímá" bitcoiny v pravém slova smyslu, ale spíše definuje podmínky, za kterých lze bitcoiny utratit. Konkrétně, když je vám zaslána platba, transakce odesílatele vytvoří na výstupu z UTXO, které spotřebovala na vstupech, nové UTXO určené pro vás. Na tento výstup se použije skript, který definuje, jak lze toto UTXO později utratit. Tento skript se nazývá "_ScriptPubKey_" nebo "_Locking Script_" Vaše přijímací adresa, přesněji její payload, je vložena do tohoto skriptu. Zjednodušeně řečeno, tento skript v podstatě říká:
 
-> "_Pro utrácení tohoto nového UTXO musí být poskytnut digitální podpis pomocí soukromého klíče spojeného s touto přijímací adresou._"
+> "_Pro vydání tohoto nového UTXO je třeba zajistit digitální podpis pomocí soukromého klíče spojeného s touto přijímací adresou._"
+![BTC204](assets/fr/067.webp)
 
-![BTC204](assets/notext/41/01.webp)
+Adresy bitcoinů jsou různých typů v závislosti na použitém modelu skriptu. První modely, známé jako "_Legacy_", zahrnují adresy `P2PKH` (_Pay-to-PubKey-Hash_) a `P2SH` (_Pay-to-Script-Hash_). Adresy P2PKH začínají vždy na `1` a adresy P2SH na `3`. Ačkoli jsou tyto formáty stále bezpečné, jsou nyní zastaralé, protože jsou s nimi spojeny vyšší transakční poplatky a nabízejí méně soukromí než nové standardy.
 
-Bitcoinové adresy existují v různých typech v závislosti na použitém modelu skriptu. První modely, známé jako "_Legacy_," zahrnují adresy `P2PKH` (_Pay-to-PubKey-Hash_) a `P2SH` (_Pay-to-Script-Hash_). Adresy P2PKH vždy začínají `1` a P2SH s `3`. Ačkoli jsou stále bezpečné, tyto formáty jsou nyní zastaralé, protože vedou k vyšším transakčním poplatkům a nabízejí menší soukromí ve srovnání s novými standardy.
-Adresy SegWit V0 (`P2WPKH` a `P2WSH`) a Taproot / SegWit V1 (`P2TR`) představují moderní formáty. Adresy SegWit začínají `bc1q` a adresy Taproot, které byly představeny v roce 2021, začínají `bc1p`.
-Například zde je přijímací adresa Taproot:
+Adresy SegWit V0 (`P2WPKH` a `P2WSH`) a Taproot / SegWit V1 (`P2TR`) představují moderní formáty. Adresy SegWit začínají písmenem `bc1q` a adresy Taproot, zavedené v roce 2021, začínají písmenem `bc1p`.
+
+Například zde je adresa pro příjem služby Taproot:
 
 ```text
 bc1ps5gd2ys8kllz9alpmcwxqegn7kl3elrpnnlegwkm3xpq2h8da07spxwtf5
 ```
 
-Způsob konstrukce ScriptPubKey závisí na použitém standardu:
-| Script Model | ScriptPubKey || ---------------- | ----------------------------------------------------------- |
+Způsob konstrukce klíče ScriptPubKey závisí na používaném standardu:
+
+| Šablona skriptu | ScriptPubKey | | ---------------- | ----------------------------------------------------------- | ----------------------------------------------------------- |
+
 | P2PKH | OP_DUP OP_HASH160 `<pubKeyHash>` OP_EQUALVERIFY OP_CHECKSIG |
+
 | P2SH | OP_HASH160 `<scriptHash>` OP_EQUAL |
+
 | P2WPKH | 0 `<pubKeyHash>` |
+
 | P2WSH | 0 `<witnessScriptHash>` |
+
 | P2SH - P2WPKH | OP_HASH160 `<redeemScriptHash>` OP_EQUAL |
+
 | P2SH - P2WSH | OP_HASH160 `<redeemScriptHash>` OP_EQUAL |
+
 | P2TR | 1 `<pubKey>` |
 
-Pokud jde o konstrukci přijímacích adres, také závisí na zvoleném modelu skriptu:
+Pokud jde o konstrukci přijímacích adres, závisí také na zvolené šabloně skriptu:
 
-- Pro adresy `P2PKH` a `P2WPKH` představuje payload, tedy jádro adresy, hash veřejného klíče;
-- Pro adresy `P2SH` a `P2WSH` payload představuje hash skriptu;
-- Co se týče adres `P2TR`, payload je upravený veřejný klíč. Výstupy `P2TR` kombinují aspekty _Pay-to-PubKey_ a _Pay-to-Script_. Upravený veřejný klíč je výsledkem přidání klasického veřejného klíče pro utrácení s "úpravou", která je odvozena z Merkleova kořene sady skriptů, které lze také použít k utrácení bitcoinů.
 
-![BTC204](assets/cs/67/01.webp)
+- U adres `P2PKH` a `P2WPKH` představuje užitečné zatížení neboli jádro adresy hash veřejného klíče;
+- U adres `P2SH` a `P2WSH` představuje užitečné zatížení hash skriptu;
+- U adres `P2TR` je užitečným nákladem upravený veřejný klíč. Výstupy `P2TR` kombinují aspekty _Pay-to-PubKey_ a _Pay-to-Script_. Modifikovaný veřejný klíč je výsledkem přidání klasického výdajového veřejného klíče s "modifikací", odvozenou z Merkleho kořene sady skriptů, které lze rovněž použít k utrácení bitcoinů.
 
-Adresy zobrazené ve vašem softwaru peněženky také zahrnují HRP (_Human-Readable Part_), typicky `bc` pro adresy po SegWit, oddělovač `1` a číslo verze `q` pro SegWit V0 a `p` pro Taproot/SegWit V1. Je také přidán kontrolní součet, aby se zajistila integrita a platnost adresy během jejího přenosu.
+![BTC204](assets/it/67/01.webp)
+
+Adresy zobrazené v softwaru peněženky obsahují také HRP (_Human-Readable Part_), obvykle `bc` pro adresy po SegWitu, oddělovač `1` a číslo verze `q` pro SegWit V0 a `p` pro Taproot/SegWit V1. Přidává se také kontrolní součet, který zajišťuje integritu a platnost adresy během jejího přenosu.
 
 Nakonec jsou adresy převedeny do standardního formátu:
 
-- Base58check pro staré Legacy adresy;
+
+- Base58check pro staré adresy Legacy;
 - Bech32 pro adresy SegWit;
 - Bech32m pro adresy Taproot.
 
-Zde je matice sčítání pro formáty bech32 a bech32m (SegWit a Taproot) z báze 10:
+Zde je sčítací matice pro formáty bech32 a bech32m (SegWit a Taproot) od základu 10:
 
-| +   | 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   |
+| + | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0   | q   | p   | z   | r   | y   | 9   | x   | 8   |
-| 8   | g   | f   | 2   | t   | v   | d   | w   | 0   |
-| 16  | s   | 3   | j   | n   | 5   | 4   | k   | h   |     | 24  | c   | e   | 6   | m   | u   | a   | 7   | l   |
+
+| 0 | q | p | z | r | y | 9 | x | 8 | 8
+
+| 8 | g | f | 2 | t | v | d | w | 0 |
+
+| 16 | s | 3 | j | n | 5 | 4 | k | h | | 24 | c | e | 6 | m | u | a | 7 | l | l
 
 ### Co je opakované použití adresy?
 
-Opakované použití adresy odkazuje na praxi používání téže přijímací adresy pro blokování více různých UTXO.
+Opakované použití adresy označuje praxi, kdy se stejná přijímací adresa používá k blokování několika různých UTXO.
 
-Jak jsme viděli v předchozí sekci, každé UTXO má svůj vlastní ScriptPubKey, který ho uzamkne a musí být splněn, aby bylo UTXO možné spotřebovat jako vstup v nové transakci. Právě v tomto ScriptPubKey jsou integrovány přijímací adresy (payload).
+Jak jsme viděli v předchozí části, každý UTXO má svůj vlastní ScriptPubKey, který jej uzamyká a musí být splněn, aby mohl být UTXO použit jako vstup v nové transakci. Právě v tomto klíči ScriptPubKey jsou vloženy adresy pro příjem (payloads).
 
-Když různé ScriptPubKeys obsahují stejnou přijímací adresu, mluvíme o opakovaném použití adresy. V praxi to znamená, že uživatel poskytl stejnou adresu vícekrát odesílatelům, aby přes ni přijímal bitcoiny prostřednictvím více plateb. A skutečně, tato praxe je katastrofální pro vaše soukromí.
+Pokud několik ScriptPubKeys obsahuje stejnou přijímací adresu, jedná se o tzv. opakované použití adresy. V praxi to znamená, že uživatel poskytl odesílatelům stejnou adresu vícekrát, aby mohl přijímat bitcoiny prostřednictvím více plateb. A tato praxe je skutečně katastrofální pro vaše soukromí.
 
 ### Proč je opakované použití adresy problém?
 
-Vzhledem k tomu, že blockchain je veřejný, je snadné vidět, které adresy uzamknou které UTXO a kolik bitcoinů. Pokud se stejná adresa použije pro více transakcí, stává se možným odvodit, že všechny bitcoiny spojené s touto adresou patří téže osobě. Tato praxe ohrožuje soukromí uživatele tím, že umožňuje vytvářet deterministické vazby mezi různými transakcemi a sledovat bitcoiny na blockchainu. Sám Satoshi Nakamoto tuto problematiku zdůraznil v Bitcoinovém bílém papíru:
+Protože je blockchain veřejný, lze snadno zjistit, které adresy blokují které UTXO a kolik bitcoinů. Pokud je stejná adresa použita pro více transakcí, je možné odvodit, že všechny bitcoiny spojené s touto adresou patří stejné osobě. Tento postup ohrožuje soukromí uživatelů tím, že umožňuje vytvářet deterministické vazby mezi různými transakcemi a sledovat bitcoiny v blockchainu. Na tento problém upozornil sám Satoshi Nakamoto v Bílé knize o Bitcoinu:
 
-> _Jako dodatečný firewall by pro každou transakci mohl být použit nový pár klíčů, aby nebyly spojeny s jedním společným majitelem._
+> _Jako další brána firewall by mohl být pro každou transakci použit nový pár klíčů, aby se zabránilo jejich propojení se společným vlastníkem._
+![BTC204](assets/fr/055.webp)
 
-![BTC204](assets/notext/34/02.webp)
+Zdroj: Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System", https://bitcoin.org/bitcoin.pdf, 2009.
 
-Zdroj: S. Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System", https://bitcoin.org/bitcoin.pdf, 2009.
+Cílem, o který Satoshi tímto prohlášením usiloval, bylo vytvořit další firewall v případě spojení mezi identitou uživatele a párem klíčů v Bitcoinu, aby se zabránilo tomu, že veškerá jeho aktivita bude veřejně spojena s jeho identitou. Dnes, s rozmachem společností zabývajících se analýzou blockchainu a regulací KYC, již používání unikátních adres není "dodatečným firewallem", ale nezbytnou praxí pro každého, kdo si chce minimálně zachovat své soukromí.
 
-Cílem, který Satoshi tímto prohlášením sledoval, bylo vytvořit dodatečný firewall v případě spojení identity uživatele s párem klíčů na Bitcoinu, aby se zabránilo veřejnému propojení všech jeho aktivit s jeho identitou. Dnes, s rozmachem společností provádějících analýzu řetězců a regulacemi KYC, je používání unikátních adres již nejen "dodatečným firewallem", ale nezbytnou praxí pro každého, kdo si přeje zachovat alespoň minimální soukromí.
+Při opakovaném použití adresy vytváříte téměř nezpochybnitelné spojení mezi všemi transakcemi spojenými s touto adresou. To sice přímo neohrožuje vaše finanční prostředky, protože šifrování na eliptických křivkách zajišťuje bezpečnost vašich soukromých klíčů, ale usnadňuje to sledování vašich aktivit. Ve skutečnosti může kdokoli s uzlem sledovat vaše transakce a zůstatky na adresách, což zcela ohrožuje vaši anonymitu.
 
-Když opakovaně používáte adresu, vytváříte téměř nespornou vazbu mezi všemi transakcemi spojenými s touto adresou. Ačkoli to přímo neohrožuje vaše finanční prostředky, jelikož kryptografie na eliptických křivkách zajišťuje bezpečnost vašich soukromých klíčů, usnadňuje sledování vašich aktivit. Skutečně, kdokoli s uzlem může pozorovat transakce a zůstatky adres, čímž zcela kompromituje vaše anonymitu.
+![BTC204](assets/it/34/01.webp)
 
-![BTC204](assets/cs/34/01.webp)
-Abychom tento bod ilustrovali, vezměme si příklad Boba, uživatele, který pravidelně kupuje bitcoiny v malých částkách prostřednictvím DCA (Dollar Cost Averaging) a vždy je posílá na stejnou adresu. Po dvou letech tato adresa obsahuje značné množství bitcoinů. Pokud Bob použije tuto adresu k provedení platby místnímu obchodníkovi, ten by mohl vidět všechny spojené prostředky a odvodit Bobovo bohatství. To by mohlo vést k osobním bezpečnostním rizikům, včetně pokusů o krádež nebo vydírání. Pokud by Bob použil novou adresu pro příjem každého periodického nákupu, odhalil by svému obchodníkovi nekonečně méně informací.
+Pro ilustraci uveďme příklad Boba, uživatele, který pravidelně nakupuje bitcoiny po malých částkách prostřednictvím metody DCA (Dollar Cost Averaging) a posílá je vždy na stejnou adresu. Po dvou letech tato adresa obsahuje značné množství bitcoinů. Pokud Bob použije tuto adresu k platbě u místního obchodníka, obchodník by mohl vidět všechny související prostředky a odečíst Bobovo bohatství. To by mohlo vést k osobním bezpečnostním rizikům, včetně pokusů o krádež nebo vydírání. Pokud by Bob používal pro příjem každého pravidelného nákupu novou adresu, odhalil by obchodníkovi neskonale méně informací.
 
-V analýze řetězců rozlišujeme mezi 2 typy opakovaného použití adresy:
+Při analýze řetězce rozlišujeme 2 typy opakovaného použití adresy:
 
-- Externí opakované použití;
+
+- Externí opětovné použití;
 - Interní opakované použití v rámci transakce.
 
-První je pozorováno, když je adresa opakovaně použita v několika různých Bitcoinových transakcích. To je to, o čem jsme dříve hovořili: tato heuristika nám umožňuje odvodit, že všechna UTXO, která prošla touto adresou, patří jedné entitě.
-Používání stejné interní adresy není pozorováno, když dochází k opětovnému použití mezi více transakcemi, ale když se to stane v rámci téže transakce. Skutečně, pokud je stejná adresa, která byla použita k uzamčení vstupu, použita jako výstup v transakci, pak můžeme usoudit, že tento výstup stále patří stejnému uživateli (změna) a že druhý výstup představuje skutečnou platbu. Tato další heuristika umožňuje sledování fondů napříč více transakcemi.
-![BTC204](assets/cs/33/02.webp)
+První se projevuje, když je adresa opakovaně použita v několika různých transakcích Bitcoinu. To je to, o čem jsme hovořili dříve: tato heuristika nám umožňuje odvodit, že všechny UTXO, které procházejí touto adresou, patří jednomu subjektu.
 
-Opětovné použití adresy je skutečným problémem pro Bitcoin. Podle webové stránky OXT.me (v současné době nedostupné) byla celková míra opětovného použití adres na Bitcoinu v roce 2022 asi 52%:
+Opakované použití vnitřních adres se nepozoruje, pokud k němu dochází v rámci více transakcí, ale pokud k němu dochází v rámci jedné transakce. Pokud je totiž stejná adresa, která byla použita k uzamčení vstupu, použita jako výstup v transakci, pak můžeme usuzovat, že tento výstup stále patří stejnému uživateli (zbytku) a že druhý výstup představuje skutečnou platbu. Tato další heuristika umožňuje sledovat prostředky v rámci více transakcí.
 
-![BTC204](assets/notext/41/02.webp)
+![BTC204](assets/it/33/02.webp)
 
-Tato míra je obrovská, ale převážně pochází z burzovních platforem, nikoli od individuálních uživatelů.
+Opakované použití adres je pro Bitcoin skutečnou pohromou. Podle webových stránek OXT.me (v současné době nepřístupných) činila v roce 2022 celková míra opakovaného použití adres v Bitcoinu přibližně 52 %:
 
-### Jak se vyhnout opětovnému použití adresy?
+![BTC204](assets/fr/069.webp)
 
-Vyhnout se opětovnému použití adresy je poměrně jednoduché: **použijte pro každou novou příchozí platbu do vaší peněženky novou, čerstvou adresu**.
+Tato míra je obrovská, ale pochází v drtivé většině od výměnných platforem, nikoli od jednotlivých uživatelů.
 
-Díky BIP32 jsou moderní peněženky nyní deterministické a hierarchické. To znamená, že uživatel může generovat velké množství adres z jediného počátečního údaje: seedu. Uložením tohoto jediného údaje je možné obnovit všechny soukromé klíče peněženky, a tím získat přístup k fondům zabezpečeným příslušnými adresami.
+### Jak zabránit opakovanému použití adresy?
 
-![BTC204](assets/notext/41/03.webp)
-To je důvod, proč, když stisknete tlačítko "_přijmout_" ve vašem softwaru peněženky, je vám pokaždé nabídnuta nepoužitá přijímací adresa. Po přijetí bitcoinů na tuto adresu software automaticky navrhne novou.
+Zamezit opakovanému použití adresy je poměrně jednoduché: **pro každou novou příchozí platbu v peněžence použijte novou adresu**.
 
-> _PS: Nedávno některý software peněženek oznámil svůj záměr přestat generovat prázdné adresy, obávajíce se, že by to mohlo být vnímáno jako forma praní peněz úřady. Pokud váš software patří mezi tyto, důrazně vám doporučuji jej okamžitě vyměnit, protože to pro uživatele není přijatelné._
+Díky BIP32 jsou nyní moderní portfolia deterministická a hierarchická. To znamená, že uživatel může vygenerovat velké množství adres z jediné počáteční informace: semínka. Uložením této jediné informace lze obnovit všechny soukromé klíče v peněžence, a získat tak přístup k finančním prostředkům zajištěným příslušnými adresami.
 
-Pokud potřebujete statický identifikátor pro přijímání plateb, například pro přijímání darů, doporučuje se kvůli riziku opětovného použití nevyužívat klasickou Bitcoinovou adresu. Preferujte použití Lightning adresy, nebo pro statický onchain platební identifikátor, můžete zvolit BIP47 nebo Silent Payments. Provoz těchto protokolů je podrobně popsán v části 6 tohoto školení.
+![BTC204](assets/fr/070.webp)
+
+Proto se vám při stisknutí tlačítka "_přijmout_" v softwaru peněženky pokaždé nabídne nepoužitá přijímací adresa. Po přijetí bitcoinů na této adrese software automaticky navrhne novou adresu.
+
+> _PS: Nedávno některé peněženky oznámily svůj záměr přestat generovat prázdné adresy, protože se obávají, že by to úřady mohly vnímat jako formu praní špinavých peněz. Pokud je mezi nimi i váš software, důrazně vám doporučuji, abyste jej okamžitě vyměnili, protože to je pro uživatele nepřijatelné._
+Pokud potřebujete statický identifikátor pro příjem plateb, například pro příjem darů, nedoporučuje se používat klasickou adresu Bitcoin kvůli riziku opakovaného použití. Raději použijte adresu Lightning nebo pro statický identifikátor platby v řetězci můžete zvolit BIP47 nebo Silent Payments. Jak tyto protokoly fungují, je podrobně popsáno v 6. části tohoto školení.
 
 ## Označování a kontrola mincí
 
 <chapterId>fbdb07cd-c025-48f2-97b0-bd1bc21c68a8</chapterId>
 
-Jak jsme zjistili v části o analýze řetězce, existuje mnoho heuristik a vzorů, které lze použít k odvození informací o transakci. Jako uživatel je důležité být si těchto technik vědom, aby se člověk mohl lépe chránit.
+Jak jsme zjistili v části věnované analýze řetězců, existuje množství heuristik a vzorů, které lze použít k odvození informací o transakci. Jako uživatel je důležité tyto techniky znát, abyste se mohli lépe chránit.
 
-To zahrnuje zejména pečlivé řízení vaší peněženky s vlastní správou, což zahrnuje znalost původu vašich UTXO, stejně jako promyšlený výběr UTXO k spotřebě během plateb. Tato efektivní správa peněženky se opírá o dvě důležité funkce dobrých Bitcoinových peněženek: označování a kontrolu mincí.
+To do značné míry zahrnuje přísnou správu peněženky v osobní úschově, která zahrnuje znalost původu UTXO a také promyšlený výběr UTXO, které mají být spotřebovány při platbách. Tato efektivní správa peněženky se opírá o dvě důležité vlastnosti dobrých bitcoinových peněženek: označování a kontrolu mincí.
 
-V této kapitole prozkoumáme tyto funkce a uvidíme, jak je můžete inteligentně používat, aniž byste přidali příliš mnoho práce, a tím výrazně optimalizovali vaše soukromí na Bitcoinu.
+V této kapitole se budeme zabývat těmito funkcemi a zjistíme, jak je lze inteligentně využívat, aniž by se zvýšila pracovní zátěž, a jak tak výrazně optimalizovat své soukromí v systému Bitcoin.
 
-### Co je označování?
+### Co je to označování?
 
-Označování je praxe, která zahrnuje přiřazení poznámky nebo štítku k určitému UTXO v Bitcoinové peněžence. Tyto poznámky jsou ukládány lokálně softwarem peněženky a nikdy nejsou přenášeny přes Bitcoinovou síť. Označování je tedy nástrojem pro osobní správu.
+Označování je postup, který zahrnuje přiřazení anotace nebo štítku konkrétnímu UTXO v peněžence Bitcoin. Tyto anotace jsou ukládány lokálně softwarem peněženky a nikdy nejsou přenášeny přes síť Bitcoin. Tagování je tedy nástroj pro osobní správu.
 
-Například, pokud vlastním UTXO z nákupu P2P na Bisq s Charlesem, mohl bych mu přiřadit štítek "`Non-KYC Bisq Charles`".
-Označování je dobrá praxe, která pomáhá si pamatovat původ nebo zamýšlené určení UTXO, čímž usnadňuje správu fondů a optimalizuje soukromí. Vaše Bitcoinová peněženka pravděpodobně zabezpečuje několik UTXO. Pokud jsou zdroje těchto UTXO různé, možná byste je v budoucnu nechtěli slučovat, jinak byste mohli odhalit jejich společné vlastnictví. Správným označením všech vašich mincí zajistíte, že si jejich původ budete pamatovat, když je budete potřebovat použít, i kdyby to bylo až za několik let.
+Pokud například vlastním UTXO z nákupu P2P na Bisq s Charlesem, mohu mu přiřadit označení "`Non-KYC Bisq Charles`".
+
+Označování je osvědčený postup, který pomáhá zapamatovat si původ nebo zamýšlené místo určení UTXO, a tím usnadňuje správu finančních prostředků a optimalizuje ochranu osobních údajů. Ve skutečnosti vaše peněženka s bitcoiny pravděpodobně obsahuje několik UTXO. Pokud se zdroje těchto UTXO liší, možná nebudete chtít tyto UTXO v budoucnu slučovat, jinak byste mohli odhalit jejich společné vlastnictví. Řádným označením všech svých mincí zajistíte, že si vzpomenete na jejich původ, až je budete potřebovat, i kdyby to mělo být až za několik let.
 
 ### Co je kontrola mincí?
 
-Aktivní používání označování se stává ještě zajímavějším, když je spojeno s možností kontroly mincí ve vašem softwaru peněženky.
+Aktivní používání tagů je ještě atraktivnější v kombinaci s možností ovládání mincí v softwaru peněženky.
 
-Kontrola mincí je funkce přítomná v dobrém softwaru Bitcoinové peněženky, která vám dává možnost ručně vybrat konkrétní UTXO k použití jako vstupy pro provedení transakce. Skutečně, aby bylo možné uspokojit platbu na výstupu, je nutné spotřebovat UTXO na vstupu na oplátku. Z několika důvodů, které později uvidíme, možná budete chtít přesně vybrat, které mince spotřebovat na vstupech, aby byla uspokojena daná platba. To je přesně to, co kontrola mincí umožňuje. Abych vám dal analogii, tato funkce je podobná akci výběru konkrétní mince ve vaší peněžence, když platíte za vaši bagetu.
+Kontrola mincí je funkce, kterou najdete v dobrém softwaru bitcoinové peněženky a která vám dává možnost ručně vybrat konkrétní UTXO, které chcete použít jako vstup pro provedení transakce. Ve skutečnosti, abyste uspokojili odchozí platbu, musíte na oplátku spotřebovat příchozí UTXO. Z několika důvodů, které uvidíme později, si můžete chtít přesně vybrat, které mince spotřebujete jako vstup pro uspokojení dané platby. Přesně to kontrola mincí umožňuje. Abychom vám poskytli analogii, tato funkce je podobná akci, kdy si při placení za bagetu vyberete konkrétní minci ve své peněžence.
 
-![BTC204](assets/notext/42/01.webp)
+Použití softwaru peněženky řízené mincemi v kombinaci s označením UTXO umožňuje uživatelům přesně rozlišovat a vybírat UTXO pro své transakce.
 
-Použití softwaru peněženky s kontrolou mincí, spolu s označováním UTXO, umožňuje uživatelům jak rozlišovat, tak přesně vybírat UTXO pro jejich transakce.
+### Jak správně označit UTXO?
 
-### Jak správně označit vaše UTXO?
+Neexistuje univerzální metoda označování UTXO, která by vyhovovala všem. Je na vás, abyste si definovali systém označování, který vám usnadní orientaci ve vašem portfoliu. V každém případě mějte na paměti, že dobré značení je to, čemu budete schopni porozumět, až to budete potřebovat. Pokud vaše peněženka s bitcoiny slouží především ke spoření, může se stát, že vám označení bude užitečné až za několik desítek let. Proto dbejte na to, aby byly jasné, přesné a srozumitelné.
 
-Neexistuje univerzální metoda pro označování UTXO, která by vyhovovala všem. Je na vás, abyste definovali systém označování, tak abyste se ve vaší peněžence snadno orientovali. Každopádně mějte na paměti, že dobré označování je takové, které budete schopni pochopit, když to budete potřebovat. Pokud je vaše Bitcoinová peněženka primárně určena pro úspory, může být, že označení budou pro vás užitečná až za několik desetiletí. Proto se ujistěte, že jsou jasná, přesná a srozumitelná.
+Je důležité, aby vaši blízcí mohli snadno identifikovat zdroj finančních prostředků, pokud by jednoho dne potřebovali přístup k vašemu portfoliu. To by jim mohlo pomoci z důvodu ochrany soukromí i pro právní potřeby, pokud by potřebovali původ prostředků zdůvodnit před nějakým úřadem.
 
-Je důležité, aby vaši blízcí mohli snadno identifikovat původ fondů, pokud by jednoho dne potřebovali přistupovat k vaší peněžence. To by jim mohlo pomoci z důvodů soukromí, stejně jako z právních nutností, v případě, že by museli ospravedlnit původ fondů před autoritou.
-Nejdůležitějším aspektem označování je poznamenat zdroj UTXO. Měli byste jednoduše uvést, jak tato mince dorazila do vaší peněženky. Je to z nákupu na burzovní platformě? Platba od klienta? Peer-to-peer výměna? Nebo je to změna z nákupu? Tak byste mohli specifikovat:
+Nejdůležitějším aspektem označování je uvedení zdroje UTXO. Měli byste jednoduše uvést, jak se tato mince dostala do vaší peněženky. Pochází z nákupu na výměnné platformě? Z platby od zákazníka? Z peer-to-peer burzy? Nebo se jedná o zbytek nákupu? Mohli byste tedy uvést:
 
-- `Výběr Exchange.com`;
-- `Platba klient David`;
-- `P2P nákup Charles`;
-- `Změna z nákupu pohovky`
 
-![BTC204](assets/cs/42/02.webp)
+- `Pickup Exchange.com`;
+- `Platební klient David`;
+- `Koupit P2P Charles`;
+- `Zachování z nákupu pohovky`
 
-Pro zpřesnění vaší správy UTXO a dodržení vašich strategií segregace fondů v rámci vaší peněženky, byste mohli obohatit vaše označení o další ukazatel, který odráží tyto separace. Pokud vaše peněženka obsahuje dvě kategorie UTXO, které nechcete míchat, mohli byste do vašich označení integrovat značku pro jasné rozlišení těchto skupin. Tyto značky separace budou záviset na vašich vlastních kritériích, jako je rozlišení mezi UTXO z procesu akvizice, který zahrnuje KYC, nebo mezi profesionálními a osobními fondy. Převzaté příklady označení by se mohly přeložit na:
+Chcete-li zpřesnit správu UTXO a dodržovat své strategie oddělování fondů v rámci portfolia, můžete své štítky obohatit o další značku, která bude odrážet toto oddělení. Pokud vaše portfolio obsahuje dvě kategorie UTXO, které si nepřejete míchat, mohli byste do svých štítků začlenit značku, která tyto skupiny jasně odliší. Tyto oddělovací značky budou záviset na vašich kritériích, jako je například rozlišení mezi UTXO z akvizičního procesu zahrnujícího KYC nebo mezi profesionálními a osobními fondy. Vezmeme-li v úvahu dříve uvedené příklady štítků, mohlo by se to projevit takto:
 
-- `KYC - Výběr Exchange.com`;
-- `KYC - Platba klient David`;
-- `BEZ KYC - P2P nákup Charles`;
-- `BEZ KYC - Změna z nákupu pohovky`
 
-![BTC204](assets/cs/42/03.webp)
-Je také doporučeno zachovávat označení mince během transakcí. Například při konsolidaci UTXO bez KYC se ujistěte, že výsledné UTXO označíte nejen jako `konsolidace`, ale konkrétně jako `konsolidace bez KYC`, aby byl jasně udržen sled původu mince.
-Nakonec není nutné na štítek umisťovat datum. Většina softwaru pro peněženky již zobrazuje datum transakce a vždy je možné tuto informaci získat na prohlížeči bloků pomocí jeho TXID.
+- `KYC - Exchange.com Withdrawal`;
+- `KYC - Customer Payment David`;
+- `NO KYC - Nákup P2P Charles`;
+- `NO KYC - Zbytek z nákupu pohovky`
 
-### Jak správně vybrat vaše mince?
+Při transakcích je rovněž vhodné zachovat označení mince. Například při konsolidaci UTXO bez KYC nezapomeňte výsledné UTXO označit nejen jako `konsolidaci`, ale konkrétně jako `konsolidaci bez KYC`, aby byla zachována jasná stopa původu mince.
 
-Když provádíte transakci, kontrola mincí vám umožňuje specificky vybrat, které UTXO použít jako vstupy pro uspokojení výstupu platby. Při tomto výběru by měly být zváženy dva aspekty:
+A konečně, uvedení data na etiketě není povinné. Většina softwaru peněženek již datum transakce zobrazuje a vždy je možné tuto informaci získat v průzkumníku bloků pomocí jeho TXID.
 
-- Možnost, že příjemce platby může spojit část vaší identity s UTXO použitými jako vstupy;
-- Schopnost vnějšího pozorovatele navázat spojení mezi všemi UTXO spotřebovanými jako vstupy.
-  Abychom ilustrovali první bod, vezměme si konkrétní příklad. Předpokládejme, že si kupujete bagetu za bitcoiny od vašeho místního pekaře. Použijete jedno nebo více UTXO, které vlastníte jako vstupy, aby alespoň pokryly cenu bagety ve výstupech, stejně jako transakční poplatky. Váš pekař by pak potenciálně mohl spojit vaši tvář, nebo jakoukoli jinou část vaší identity, kterou zná, s mincemi použitými jako vstupy. Vědomí existence tohoto spojení by vás mohlo vést k tomu, že při platbě dáte přednost konkrétnímu UTXO před jiným.
+### Jak správně vybrat mince?
 
-Například, pokud jedno z vašich UTXO pochází z obchodní platformy a preferujete, aby pekař nevěděl o vašem účtu na této platformě, vyhnuli byste se použití tohoto UTXO pro platbu. Pokud vlastníte UTXO s vysokou hodnotou, které odhaluje značné množství bitcoinů, můžete se také rozhodnout jej nepoužít, aby pekař nevěděl o vašem bohatství v BTC.
+Při provádění transakce vám ovládání mincí umožňuje konkrétně vybrat, které UTXO se mají spotřebovat jako vstup pro uspokojení výstupu platby. Při této volbě je třeba vzít v úvahu dva aspekty:
 
-Výběr UTXO k použití pro tento první bod je tedy založen na osobním rozhodnutí, ovlivněném tím, co jste ochotni odhalit nebo ne. Štítky, které jste přiřadili svým UTXO při jejich přijetí, vám pomohou vybrat ty, které po utracení odhalí pouze informace, s jejichž odhalením jste pohodlní vůči příjemci.
 
-Kromě informací potenciálně odhalených příjemci také výběr vstupů ovlivňuje, co odhalíte všem pozorovatelům blockchainu. Skutečně, použitím více UTXO jako vstupů pro vaši transakci odhalíte, že jsou vlastněny stejnou entitou, podle heuristiky společného vlastnictví vstupu (CIOH).
+- Možnost příjemce platby propojit část vaší identity s UTXO použitými jako vstup;
+- Schopnost vnějšího pozorovatele vytvářet spojení mezi všemi UTXO spotřebovanými jako vstup.
 
-Při výběru vašich mincí musíte být tedy vědomi toho, že transakce, kterou chystáte vysílat, vytvoří spojení mezi všemi použitými UTXO. Toto spojení může být problematické pro vaše osobní soukromí, zejména pokud UTXO pocházejí z různých zdrojů.
+Pro ilustraci prvního bodu si uveďme konkrétní příklad. Předpokládejme, že si u místního pekaře koupíte bagetu za bitcoiny. Jako vstup použijete jeden nebo více vlastních UTXO, abyste pokryli alespoň cenu bagety na výstupu plus transakční poplatky. Váš pekař by pak mohl potenciálně spojit váš obličej nebo jakoukoli jinou část vaší identity, kterou zná, s mincemi použitými jako vstup. S vědomím existence tohoto propojení byste mohli při platbě upřednostnit jednu konkrétní UTXO před jinou.
 
-Vraťme se k příkladu mého UTXO bez KYC z Bisq; chci se vyhnout jeho kombinaci s UTXO z řekněme regulované obchodní platformy, která zná mou identitu. Pokud bych kdy použil tyto 2 UTXO jako vstupy ve stejné transakci, regulovaná platforma by byla schopna spojit mou identitu s UTXO, které jsem koupil na Bisq, zatímco předtím nebylo spojeno s mou identitou.
-Nakonec, abyste správně vybrali, které UTXO použít jako vstupy pro transakci, nejdůležitější je vyhnout se použití více UTXO. Kdykoli je to možné, vyberte jednu minci, která je dostatečně velká, aby pokryla vaši platbu. Tímto způsobem se zcela vyhnete rizikům spojeným s COINJOIN. Pokud však žádné jednotlivé UTXO není dostatečné pro platbu a musíte použít několik, ujistěte se, že pocházejí z podobných zdrojů, aby se minimalizovala rizika nechtěných spojení. Také mějte na paměti, že příjemce může spojit informace, které o vás má, s historií mincí použitých jako vstupy.
+Pokud například jeden z vašich UTXO pochází z burzovní platformy a vy byste si přáli, aby pekař nevěděl o vašem účtu na této platformě, vyhnuli byste se použití tohoto UTXO pro platbu. Pokud máte UTXO s vysokou hodnotou, které odhaluje značné množství bitcoinů, mohli byste se také rozhodnout jej nepoužít, aby pekař nevěděl o vašem jmění v BTC.
+
+Výběr UTXO, které použijete pro tento první bod, je tedy založen na osobním rozhodnutí, ovlivněném tím, co jste ochotni zveřejnit, nebo ne. Štítky, které jste přiřadili svým UTXO při příjmu, vám pomohou vybrat ty, které po utracení zobrazí pouze ty informace, které jste ochotni příjemci prozradit.
+
+Kromě informací, které mohou být odhaleny příjemci, ovlivňuje vaše volba vstupů také to, co prozradíte všem pozorovatelům blockchainu. Pokud totiž jako vstupy do transakce použijete více UTXO, prozradíte, že jsou vlastněny stejným subjektem, podle heuristiky společného vlastnictví vstupů (CIOH).
+
+Při výběru mincí byste si proto měli uvědomit, že transakce, kterou se chystáte přenést, vytvoří spojení mezi všemi použitými UTXO. Toto propojení může být problematické pro vaše soukromí, zejména pokud UTXO pocházejí z různých zdrojů.
+
+Vraťme se k příkladu mého UTXO bez KYC od Bisq; chci se vyhnout kombinaci s UTXO například z regulované burzovní platformy, která zná mou identitu. Pokud bych totiž někdy použil tyto 2 UTXO jako vstupy v jedné transakci, regulovaná platforma by byla schopna spojit mou identitu s UTXO, které jsem zakoupil na Bisq, zatímco dříve s mou identitou spojeno nebylo.
+
+A konečně, pro správný výběr UTXO, které se mají použít jako vstup pro transakci, je nejdůležitější vyhnout se použití více UTXO. Kdykoli je to možné, vyberte jednu minci, která je dostatečně velká na to, aby pokryla vaši platbu. Tím se zcela vyhnete rizikům spojeným s COINJOIN. Pokud však žádné jednotlivé UTXO na vaši platbu nestačí a potřebujete jich spotřebovat několik, ujistěte se, že pocházejí z podobných zdrojů, abyste minimalizovali rizika nežádoucího propojení. Mějte také na paměti, že příjemce si může informace, které o vás má, spojit s historií mincí použitých jako vstup.
 
 ### Porozumění automatickému výběru mincí
 
-V předchozích částech jsme diskutovali o ručním výběru UTXO pro transakci. Co se ale stane, když software peněženky tento výběr provede automaticky? Existuje několik metod pro určení, které mince spotřebovat, a výběr UTXO je skutečným oborem výzkumu v Bitcoinu. Hlavním cílem tohoto automatického procesu je často minimalizovat transakční poplatky pro uživatele.
+V předchozích částech jsme se zabývali ručním výběrem UTXO pro transakci. Co se však stane, když tento výběr provede software peněženky automaticky? Existuje několik metod, jak určit, které mince se mají spotřebovat, a výběr UTXO je v Bitcoinu skutečnou oblastí výzkumu. Hlavním cílem tohoto automatického procesu je často minimalizovat transakční poplatky pro uživatele.
 
-Metody výběru UTXO, jako jsou FIFO (_First In First Out_) a LIFO (_Last In First Out_), patří mezi nejjednodušší, ale také nejméně efektivní. S FIFO se nejprve použijí nejstarší mince v peněžence. Tento přístup je obecně neefektivní jak pro minimalizaci transakčních poplatků, tak pro zachování soukromí, kromě případů, kdy se používají relativní časové zámky, které je třeba pravidelně obnovovat. Naopak, LIFO dává přednost použití nejnovějších UTXO. Ačkoliv jednoduché, tyto dvě metody se často ukazují jako neefektivní.
+Metody výběru UTXO, jako je FIFO (_First In First Out_) a LIFO (_Last In First Out_), patří mezi nejjednodušší, ale také nejméně efektivní. Při FIFO se nejprve použijí nejstarší mince v portfoliu. Tento přístup je obecně neefektivní jak z hlediska minimalizace transakčních poplatků, tak z hlediska zachování soukromí, s výjimkou případů, kdy se používají relativní časové zámky, které se musí pravidelně obnovovat. Naproti tomu LIFO upřednostňuje použití nejnovějších UTXO. Ačkoli jsou tyto dvě metody jednoduché, často se ukazují jako neefektivní.
 
-Pokročilejší metodou je _Knapsack Solver_. Tato metoda byla používána v peněžence Bitcoin Core až do verze 0.17. Zahrnuje iterativní a náhodný výběr UTXO z peněženky, jejich sčítání do podmnožin a uchování řešení, které co nejvíce snižuje váhu transakce, aby se snížily poplatky pro uživatele.
-_Branch-and-Bound_ (BNB), často přezdívaný "Murchův algoritmus" s odkazem na jeho vynálezce, nahradil _Knapsack Solver_ v Bitcoin Core od verze 0.17. Tato pokročilejší metoda si klade za cíl najít sadu UTXO, která přesně odpovídá částce potřebné k uspokojení výstupů transakce. Cílem BNB je minimalizovat množství změn i poplatků tím, že snižuje takzvané kritérium plýtvání, které zohledňuje jak okamžité náklady, tak očekávané budoucí náklady na změnu. Tato metoda vychází z původního konceptu _Branch-and-Bound_, navrženého v roce 1960 Ailsou Land a Alison Harcourt, a nabízí přesnější optimalizaci poplatků ve srovnání s _Knapsack Solver_.
-Všechny tyto metody automatického výběru UTXO mohou být účinné při snižování transakčních poplatků, ale často jsou neefektivní při zachování soukromí uživatele. Tyto algoritmy skutečně mohou sloučit několik UTXO do vstupů, čímž odhalují společné vlastnictví těchto UTXO kvůli COH. Zřejmě tyto metody nemohou zohlednit štítky připojené k UTXO, které jsou klíčové pro vědomé rozhodování o tom, které mince odhalit příjemci transakce. V současné době je jediným řešením pro optimalizaci soukromí při výběru mincí provádět to ručně.
+Pokročilejší metodou je _Knapsack Solver_. Tato metoda se používala v peněžence Bitcoin Core až do verze 0.17. Spočívá v iterativním a náhodném výběru UTXO z peněženky, jejich sečtení do podskupin a ponechání řešení, které co nejvíce snižuje váhu transakce, aby se snížily uživatelské poplatky.
 
-### Tutoriál k označování UTXO
+Algoritmus _Branch-and-Bound_ (BNB), kterému se často přezdívá "Murchův algoritmus" s odkazem na jeho vynálezce, nahradil v jádře bitcoinu od verze 0.17 algoritmus _Knapsack Solver_. Cílem této pokročilejší metody je najít sadu UTXO, která přesně odpovídá částce potřebné k uspokojení výstupů transakce. Cílem BNB je minimalizovat výši zbytku i poplatků snížením tzv. kritéria odpadu, které zohledňuje jak okamžité náklady, tak očekávané budoucí náklady na zbytek. Tato metoda je odvozena z původní koncepce _Branch-and-Bound_, kterou v roce 1960 navrhly Ailsa Landová a Alison Harcourtová, a nabízí přesnější optimalizaci provizí než _Knapsack Solver_.
 
-Pokud se chcete dozvědět, jak označit své UTXO, připravili jsme kompletní návod pro hlavní dostupné Bitcoin peněženky:
+Všechny tyto metody automatického výběru UTXO mohou být účinné při snižování transakčních poplatků, ale často jsou neúčinné při ochraně soukromí uživatelů. Tyto algoritmy totiž mohou sloučit několik UTXO na vstupu, a tím odhalit společné vlastnictví těchto UTXO kvůli COH. Je zřejmé, že tyto metody nemohou brát v úvahu štítky připojené k UTXO, které jsou klíčové pro vědomý výběr mincí, které mají být příjemci transakce odhaleny. V současné době je jediným řešením optimalizace soukromí při výběru mincí ruční výběr.
+
+### Výukový program označování UTXO
+
+Pokud se chcete dozvědět, jak označit UTXO, připravili jsme pro vás komplexní návod pro hlavní existující software bitcoinových peněženek:
 
 https://planb.network/tutorials/privacy/on-chain/utxo-labelling-d997f80f-8a96-45b5-8a4e-a3e1b7788c52
-
 ## KYC a identifikace klíčů
 
 <chapterId>cec6b9d9-0eed-4f85-bc4e-1e9aa59ca605</chapterId>
 
-KYC znamená "Know Your Customer" (Poznej svého zákazníka), což je regulační postup zavedený některými společnostmi působícími v sektoru Bitcoinu. Tento postup má za cíl ověřit a zaznamenat identitu jejich klientů s deklarovaným cílem boje proti praní peněz a financování terorismu.
-Konkrétně KYC zahrnuje sběr různých osobních údajů od klienta, které se mohou lišit podle jurisdikcí, ale obvykle zahrnují doklad totožnosti, fotografii a důkaz bydliště. Tyto informace jsou poté ověřeny a uchovány pro budoucí použití.
+Zkratka KYC znamená "Poznej svého zákazníka", což je regulační postup, který uplatňují některé společnosti působící v odvětví bitcoinů. Cílem tohoto postupu je ověřit a zaznamenat totožnost jejich zákazníků s deklarovaným cílem bojovat proti praní špinavých peněz a financování terorismu.
 
-Tento postup se stal povinným pro všechny regulované směnárenské platformy ve většině západních zemí. To znamená, že každý, kdo si přeje vyměnit fiat měny za bitcoin prostřednictvím těchto platforem, musí splnit požadavky KYC.
-Tento postup však není bez rizik pro důvěrnost a bezpečnost uživatelů. V této kapitole podrobně prozkoumáme tato rizika a analyzujeme konkrétní dopady KYC a procesů identifikace na soukromí uživatelů Bitcoinu.
+Konkrétně KYC zahrnuje shromažďování různých osobních údajů klienta, které se mohou lišit podle jurisdikce, ale obecně zahrnují průkaz totožnosti, fotografii a doklad o bydlišti. Tyto informace jsou následně ověřeny a uloženy pro budoucí použití.
 
-### Umožnění sledování na řetězci
+Tento postup je ve většině západních zemí povinný pro všechny regulované burzovní platformy. To znamená, že každý, kdo chce prostřednictvím těchto platforem směnit fiat měny za bitcoiny, musí splnit požadavky KYC.
 
-Prvním rizikem spojeným s KYC je, že poskytuje privilegovaný vstupní bod pro analýzu řetězce. Jak jsme viděli v předchozí části, analytici mohou skupinovat a sledovat aktivity na blockchainu pomocí vzorců transakcí a heuristik. Jakmile se jim podaří shluknout činnost uživatele na řetězci, stačí najít jediný vstupní bod mezi všemi jejich transakcemi a klíči, aby úplně ohrozili jejich soukromí.
+Tento postup není bez rizika pro soukromí a bezpečnost uživatelů. V této kapitole se budeme těmito riziky podrobně zabývat a analyzovat konkrétní dopady procesů KYC a identifikace na soukromí uživatelů bitcoinu.
 
-![BTC204](assets/notext/43/1.webp)
+### Usnadnění sledování v řetězci
 
-Když podstoupíte KYC, poskytnete velmi kvalitní vstupní bod pro analýzu řetězce, protože spojíte své přijímací adresy použité při výběru vašich bitcoinů z platformy směnárny s vaší úplnou a ověřenou identitou. Teoreticky jsou tyto informace známy pouze společnosti, které jste je poskytli, ale, jak uvidíme později, riziko úniku dat je reálné. Navíc samotný fakt, že společnost tyto informace drží, může být problematický, i když je nesdílí.
+První riziko spojené s KYC spočívá v tom, že poskytuje preferovaný vstupní bod pro analýzu blockchainu. Jak jsme viděli v předchozí části, analytici mohou seskupovat a sledovat aktivity v blockchainu pomocí transakčních vzorů a heuristiky. Jakmile se jim podaří seskupit aktivitu uživatele v onchainu, stačí najít pouze jeden vstupní bod mezi všemi jeho transakcemi a klíči, aby zcela ohrozili jeho soukromí.
 
-Takže pokud nepodniknete další opatření k omezení seskupování vašich aktivit na blockchainu, kdokoli, kdo je vědom tohoto vstupního bodu, kterým je KYC, může potenciálně spojit veškerou vaši aktivitu na Bitcoinu s vaší identitou. Z pohledu této společnosti tedy vaše používání Bitcoinu ztrácí veškerou důvěrnost.
+![BTC204](assets/fr/078.webp)
 
-![BTC204](assets/notext/43/2.webp)
+Když se podrobíte KYC, poskytujete velmi kvalitní vstupní bod pro analýzu řetězce, protože spojujete přijímací adresy používané při výběru bitcoinů z výměnné platformy s vaší úplnou, ověřenou identitou. Teoreticky jsou tyto informace známy pouze společnosti, které jste je poskytli, ale jak uvidíme později, riziko ztráty dat je reálné. Navíc už samotný fakt, že společnost tyto informace má, může být problematický, i když je nesdílí.
 
-Pro ilustraci tohoto srovnáním, je to, jako by váš bankéř z _Banky X_ měl přístup nejen ke všem vašim transakcím provedeným s _Bankou X_, ale mohl by také sledovat vaše transakce s _Bankou Y_ a všechny vaše hotovostní transakce.
+Pokud tedy nebudou přijata jiná opatření k omezení sdružování aktivit v blockchainu, může kdokoli, kdo si je vědom vstupního bodu, kterým je KYC, potenciálně spojit veškerou svou aktivitu v Bitcoinu se svou identitou. Z pohledu této společnosti tedy používání Bitcoinu ztrácí veškerou důvěrnost.
 
-Pamatujte z první části tohoto školení: model soukromí Bitcoinu, jak jej navrhl Satoshi Nakamoto, spoléhá na oddělení identity uživatele od jejich páru klíčů. Ačkoli tato vrstva soukromí dnes již není dostatečná, je stále rozumné omezit její degradaci co nejvíce.
+![BTC204](assets/fr/079.webp)
 
-### Expozice státnímu dohledu
+Pro ilustraci uveďme srovnání, jako kdyby bankéř v _Bance X_ měl přístup nejen ke všem transakcím provedeným s _Bankou X_, ale mohl sledovat i transakce s _Bankou Y_ a všechny vlastní hotovostní transakce.
 
-Druhým hlavním problémem s KYC je, že státu odhaluje, že jste v nějakém okamžiku vlastnili bitcoin. Když si koupíte bitcoiny prostřednictvím regulovaného subjektu, stát může o této držbě vědět. V současné době se to může zdát triviální, ale je důležité si pamatovat, že politická a ekonomická budoucnost vaší země není ve vašich rukou.
-Především stát může rychle přijmout autoritářský postoj. Historie je plná příkladů, kdy se politiky náhle změnily. Dnes v Evropě mohou nadšenci pro Bitcoin psát články o Bitcoinu, účastnit se konferencí a spravovat své peněženky v self-custody. Ale kdo může říci, co přinese zítřek? Pokud by se Bitcoin náhle stal veřejným nepřítelem číslo jedna, být s ním spojen ve státních záznamech by mohlo být problémové.
-Dále, v případě vážných ekonomických krizí, by stát mohl zvážit zabavení bitcoinů držených občany. Možná zítra budou Bitcoinisté vnímáni jako profiteři krize a budou nadměrně zdaněni kvůli svým kapitálovým ziskům v důsledku devalvace fiat měny.
-Můžete si myslet, že to není problém, protože vaše bitcoiny jsou smíchány a tedy nevystopovatelné. Avšak sledování zde není problém. Skutečný problém je, že stát ví, že jste vlastnili bitcoin. Tento jednoduchý kus informace by mohl být dostatečný k vašemu obvinění nebo požadavku na účet. Můžete se pokusit tvrdit, že jste své bitcoiny utratili, ale to by mělo být odráženo ve vašem daňovém přiznání, a byli byste odhaleni. Můžete také říci, že jste své klíče ztratili při nehodě na lodi, ale mimo vtip na Twitteru, opravdu si myslíte, že by to bylo dostatečné k vašemu osvobození?
+Připomeňme si první část tohoto školení: model soukromí Bitcoinu, jak jej navrhl Satoshi Nakamoto, je založen na oddělení identity uživatele a jeho klíčových párů. Ačkoli tato vrstva soukromí dnes již není dostatečná, stále je rozumné co nejvíce omezit její degradaci.
 
-Proto je důležité zvážit riziko spojené s pouhým faktem, že stát může vědět, že jste vlastnili BTC, i když se toto riziko dnes může zdát vzdálené.
+### Vystavení státnímu dohledu
 
-Dalším problémem, který KYC představuje z hlediska státního dohledu, je povinné hlášení regulovanými platformami. Ačkoli nejsem obeznámen s regulacemi v jiných jurisdikcích, ve Francii jsou _Poskytovatelé Služeb Digitálních Aktiv_ (PSAN) povinni hlásit finančním dozorovým orgánům jakékoli pohyby finančních prostředků, které považují za podezřelé.
+Druhým velkým problémem KYC je, že odhaluje státu, že někdo někdy vlastnil bitcoiny. Když bitcoiny nakoupíte prostřednictvím regulovaného subjektu, je možné, aby se stát o tomto vlastnictví dozvěděl. V současné době se to může zdát jako banalita, ale je důležité si uvědomit, že politickou a ekonomickou budoucnost své země nemá člověk ve svých rukou.
 
-Takže ve Francii v roce 2023 bylo PSANy nahlášeno 1 449 podezřelých činů. Zatím většina těchto činů souvisí s kriminalitou. Avšak úřady také požadují, aby regulované platformy hlásily jakoukoli podezřelou transakci s Bitcoinem pouze na základě její struktury. Pokud provedete spolupracující transakci, nebo dokonce jen transakci prezentující poněkud atypický vzor, a tato transakce se odehraje blízko výběru vašich bitcoinů z těchto platforem, můžete se ocitnout nahlášeni úřadům. I v nepřítomnosti jakéhokoli provinění a při legitimním výkonu vašich práv by toto hlášení mohlo vést k zvýšeným kontrolám a dohledu, nepříjemnostem, kterým byste se bez KYC vyhnuli.
+Především může stát rychle zaujmout autoritářský postoj. Historie je plná příkladů, kdy se politika náhle změnila. V Evropě dnes mohou nadšenci do bitcoinu psát články o bitcoinu, účastnit se konferencí a spravovat vlastní peněženky pro vlastní potřebu. Ale kdo může říci, co bude zítra? Pokud se Bitcoin náhle stane veřejným nepřítelem číslo jedna, může být spojování s ním ve státních registrech problematické.
 
-### Riziko úniku osobních údajů
+Později, v případě vážné hospodářské krize, by stát mohl uvažovat o zabavení bitcoinů v držení občanů. Možná, že zítra budou bitcoináři považováni za ty, kteří využívají krize a budou kvůli svým kapitálovým ziskům tváří v tvář znehodnocení fiat měny nadměrně zdaněni.
 
-Dalším problémem spojeným s KYC je skutečnost, že vyžaduje uchovávání všech vašich osobních údajů na serverech soukromé společnosti. Nedávné události nám připomněly, že nikdo není imunní vůči selháním, ať už jsou finanční nebo IT. V roce 2022 zákazníci společnosti Celsius pocítili důsledky. Po bankrotu společnosti byla jména věřitelů a výše jejich aktiv zveřejněna americkým soudním systémem během správního řízení.
+Možná si myslíte, že to není problém, protože vaše bitcoiny jsou zamíchány, a proto je nelze dohledat. Dohledatelnost zde však není problémem. Skutečným problémem je, že stát ví, že jste bitcoiny vlastnili. Tato jednoduchá informace může stačit k tomu, aby vás obvinil nebo si vyžádal účet. Mohli byste se pokusit tvrdit, že jste bitcoiny utratili, ale to by se muselo projevit ve vašem daňovém přiznání a byli byste odhaleni. Mohli byste také říct, že jste ztratili klíče při nehodě na lodi, ale kromě vtipu na Twitteru si opravdu myslíte, že by to stačilo k vašemu očištění?
 
-Přibližně před dvěma lety zažila přední kybernetická bezpečnostní entita v oblasti kryptoměn krádež osobních údajů svých klientů. Ačkoli tento incident nebyl přímo spojen s nákupem bitcoinů, takové riziko zůstává i pro směnárenské platformy. Proto existuje jasné riziko spojené s těmito osobními údaji.
+Proto je důležité zvážit riziko spojené s prostým faktem, že by se stát mohl dozvědět, že vlastníte BTC, i když se toto riziko dnes může zdát vzdálené.
 
-Je pravda, že již svěřujeme mnoho našich osobních údajů soukromým společnostem. Avšak riziko zde je dvojí, protože tyto údaje vám nejen umožňují být identifikováni, ale jsou také spojeny s aktivitou na Bitcoinu. Skutečně, když hacker získá přístup k údajům klientů směnárenské platformy, mohou s jistotou předpokládat, že tito klienti vlastní bitcoiny. Toto riziko je tedy zvýšeno skutečností, že bitcoin, jako jakýkoli jiný cenný majetek, přitahuje zájem zlodějů.
+Dalším problémem, který KYC představuje z hlediska státního dohledu, je povinné podávání zpráv regulovanými platformami. Ačkoli nejsem obeznámen s předpisy v jiných jurisdikcích, ve Francii jsou _Poskytovatelé služeb digitálních aktiv_ (PSAN) povinni hlásit orgánům finančního dohledu jakýkoli pohyb finančních prostředků, který považují za podezřelý.
 
-V případě úniku dat, ve scénáři nejlepším, byste mohli být cílem cílených phishingových pokusů. V nejhorším případě byste se mohli ocitnout v centru fyzických hrozeb vašemu domovu.
-Kromě specifických rizik spojených s Bitcoinem je také nutné zvážit nebezpečí spojená s přenosem dokladů totožnosti. Skutečně, v případě úniku dat, je možné stát se obětí krádeže identity. Takže sázky nejsou omezeny pouze na ochranu důvěrnosti transakcí, ale také se týkají osobní bezpečnosti každého jednotlivce.
+Ve Francii tak bylo v roce 2023 nahlášeno 1 449 podezřelých činů ze strany PSAN. Většina těchto činů prozatím souvisí s trestnou činností. Orgány však také žádají regulované platformy, aby hlásily veškeré podezřelé transakce s bitcoiny pouze na základě jejich struktury. Pokud provedete společnou transakci nebo dokonce jen transakci, která má poněkud netypický vzorec, a tato transakce se vyskytne v blízkosti výběru vašich bitcoinů z těchto platforem, můžete se ocitnout v situaci, kdy budete nahlášeni úřadům. I v případě, že se nedopustíte žádného protiprávního jednání a jedná se o legitimní výkon vašich práv, může toto nahlášení vést ke zvýšené kontrole a dohledu, což jsou nepříjemnosti, kterým byste se bez KYC vyhnuli.
 
-### Běžné omyly o KYC
+### Riziko ztráty osobních údajů
 
-Je důležité vyvrátit některé běžné omyly o KYC, které se často objevují na Twitteru nebo v našich diskuzích mezi bitcoinisty.
-Především je nesprávné myslet si, že ochrana soukromí pro bitcoiny získané prostřednictvím KYC (Know Your Customer) je marná. Nástroje a metody pro soukromí na Bitcoinu jsou různorodé a slouží různým účelům. Použití coinjoin transakcí na bitcoinech z KYC, například, není špatný nápad. Samozřejmě je nutné být opatrný s regulovanými obchodními platformami, aby nedošlo k zamrznutí nebo zákazu vašeho účtu, ale z čistě technického hlediska tyto praktiky nejsou nekompatibilní. Coinjoin má za následek přerušení historie mince, což vám pomáhá čelit některým rizikům analýzy řetězce spojeným s KYC. Ačkoli neeliminuje všechna rizika, již představuje významný přínos.
+Další problém s KYC spočívá v tom, že vyžaduje uložení všech vašich osobních údajů na serverech soukromé společnosti. Nedávné události nám připomněly, že nikdo není imunní vůči selhání, ať už finančnímu nebo IT. V roce 2022 na to doplatili zákazníci společnosti Celsius. V důsledku úpadku společnosti zveřejnila americká justice během správního řízení jména věřitelů a výši jejich majetku.
 
-Soukromí na Bitcoinu by nemělo být vnímáno binárně, jako rozdíl mezi "anonymními" bitcoiny a ostatními, které nejsou. Vlastnictví bitcoinů získaných prostřednictvím KYC neznamená, že je vše ztraceno; naopak, použití nástrojů pro soukromí se může ukázat jako ještě výhodnější.
+Před více než dvěma lety došlo ke krádeži osobních údajů zákazníků jednoho z předních subjektů zabývajících se kybernetickou bezpečností v oblasti kryptoměn. Ačkoli tento incident přímo nesouvisel s nákupem bitcoinů, toto riziko zůstává i pro směnárenské platformy. S těmito osobními údaji je tedy spojeno určité riziko.
 
-Naopak, získání bitcoinu prostřednictvím metody bez KYC nezaručuje dokonalé soukromí a nezbavuje vás potřeby podniknout další ochranná opatření. Pokud držíte bitcoin bez KYC, ale opakovaně používáte stejné přijímací adresy, vaše transakce mohou být vystopovány a seskupeny. Nejmenší spojení se světem mimo Bitcoin by mohlo ohrozit jedinou vrstvu soukromí, kterou jste měli. Proto je důležité považovat všechny nástroje a metody, které zlepšují soukromí na Bitcoinu, za doplňkové. Každá technika řeší konkrétní riziko a může přidat další vrstvu ochrany. Tedy vlastnictví bitcoinu bez KYC rozhodně nezbavuje potřeby podniknout další opatření.
+Je pravda, že velkou část svých osobních údajů již svěřujeme soukromým společnostem. Riziko je zde však dvojí, protože tyto údaje nejen umožňují vaši identifikaci, ale jsou také spojeny s aktivitou na bitcoinu. Pokud totiž hacker získá přístup k údajům zákazníků směnárenské platformy, může důvodně předpokládat, že tito zákazníci vlastní bitcoiny. Toto riziko je tedy ještě umocněno skutečností, že bitcoin, stejně jako jakékoli jiné cenné aktivum, přitahuje zájem zlodějů.
 
-### Lze KYC vrátit zpět?
+V případě úniku dat se můžete stát v nejlepším případě terčem cílených pokusů o phishing. V horším případě se můžete ocitnout v centru fyzického ohrožení svého domova.
 
-Někdy se mě ptají, zda je možné "vrátit se zpět" po dokončení KYC, a jak si můžete představit z předchozích odstavců, odpověď je nuancovaná. Aby se předešlo rizikům spojeným s KYC, nejjednodušší metodou je nepoužívat jej při získávání bitcoinů. Toto téma prozkoumáme podrobněji v další kapitole. Pokud však bylo KYC již provedeno a bitcoiny byly zakoupeny, existují způsoby, jak zmírnit vzniklá rizika?
+Kromě specifických rizik spojených s bitcoinem je třeba vzít v úvahu také nebezpečí spojená s předáváním dokladů totožnosti. V případě úniku dat je totiž možné stát se obětí krádeže identity. Problémy, které jsou v sázce, se tedy neomezují pouze na ochranu důvěrnosti transakcí, ale dotýkají se také osobní bezpečnosti každého jednotlivce.
 
-Pokud jde o riziko vystopovatelnosti vašich transakcí, použití coinjoin je řešením. Tuto metodu podrobně probereme později v školení, ale mějte na paměti, že coinjoin může přerušit historii mince a zabránit jejímu sledování z minulosti do přítomnosti a z přítomnosti do minulosti. I pro BTC získané prostřednictvím regulované platformy může tato technika zabránit jejich vystopovatelnosti.
-Coinjoin sice eliminuje druhé riziko spojené s KYC, tedy fakt, že stát je informován o vašich držbách bitcoinů, ale neodstraňuje ho úplně. I když vaše coiny nejsou již sledovatelné, stát může mít v závislosti na jurisdikci přístup k vašim prohlášením o disponování s kryptoaktivy. Jelikož toto riziko není technické, ale administrativní, neexistují žádná specifická řešení pro Bitcoin, jak jej eliminovat, kromě vyhnout se původně KYC. Jediný legální způsob, jak toto riziko zmírnit, je prodat vaše bitcoiny získané prostřednictvím regulovaných platforem na regulovaných platformách a poté je znovu zakoupit prostřednictvím způsobů bez KYC. Prodejem a deklarováním disponování by administrativa měla zaznamenat, že je již nevlastníte.
+### Nejčastější nedorozumění týkající se KYC
 
-Pokud jde o riziko úniku vašich osobních údajů a dokladů totožnosti, jedná se o nebezpečí vnější vůči Bitcoinu, a neexistuje technické řešení, jak se mu vyhnout. Jakmile jsou vaše údaje odhaleny, je těžké tuto operaci vrátit zpět. Můžete se pokusit zavřít svůj účet na platformě, ale to nezaručuje smazání vašich údajů KYC, zejména když je ověřování totožnosti outsourcováno. Ověření úplného smazání vašich informací je nemožné. Proto neexistuje řešení, jak toto riziko zcela předejít a zajistit, že již nebude existovat.
+Je důležité vyvrátit některé běžné mylné představy o KYC, které se často objevují na Twitteru nebo v našich diskusích mezi bitcoináři.
+
+Především je chybné si myslet, že ochrana soukromí bitcoinů získaných prostřednictvím KYC (Know Your Customer) je zbytečná. Nástroje a metody ochrany soukromí u bitcoinů jsou různé a slouží k různým účelům. Například používání transakcí coinjoin na bitcoinech z KYC není špatný nápad. Samozřejmě je třeba být obezřetný u regulovaných směnárenských platforem, abyste se vyhnuli zmrazení nebo zákazu účtu, ale z čistě technického hlediska se tyto postupy nevylučují. Coinjoin má za následek narušení historie mince, což pomáhá čelit některým rizikům analýzy řetězce spojeným s KYC. Ačkoli to neodstraňuje všechna rizika, je to již významná výhoda.
+
+Na soukromí bitcoinů by se nemělo nahlížet binárně, jako na rozdíl mezi "anonymními" bitcoiny a jinými, které anonymní nejsou. Vlastnictví bitcoinů získaných prostřednictvím KYC neznamená, že je vše ztraceno; naopak, používání nástrojů pro ochranu soukromí se může ukázat jako ještě přínosnější.
+
+Naopak získání bitcoinu metodou, která není spojena s KYC, nezaručuje dokonalé soukromí a nezbavuje vás nutnosti přijmout další ochranná opatření. Pokud držíte bitcoiny způsobem non-KYC, ale opakovaně používáte přijímací adresy, mohou být vaše transakce sledovány a seskupovány. Sebemenší spojení se světem mimo bitcoin může ohrozit jedinou vrstvu soukromí, kterou jste měli. Proto je důležité považovat všechny nástroje a metody, které zlepšují soukromí v bitcoinech, za doplňkové. Každá technika řeší konkrétní riziko a může přidat další vrstvu ochrany. Vlastnictví bitcoinů, které nejsou předmětem KYC, vás tedy absolutně nezbavuje povinnosti přijmout další bezpečnostní opatření.
+
+### Lze KYC zrušit?
+
+Někdy se mě ptají, zda je možné se po dokončení KYC "vrátit", a jak si můžete představit z předchozích odstavců, odpověď je různorodá. Chcete-li se vyhnout rizikům spojeným s KYC, nejjednodušší metodou je nepoužívat ji při pořizování bitcoinů. Tomuto tématu se budeme podrobněji věnovat v následující kapitole. Pokud však KYC již byla provedena a bitcoiny byly nakoupeny, existují způsoby, jak vzniklá rizika zmírnit?
+
+Pokud jde o riziko sledování vašich transakcí, jedním z řešení je použití služby coinjoin. Tuto metodu podrobně probereme později v rámci školení, ale vězte, že coinjoin může narušit historii mince a zabránit jejímu dohledání z minulosti do současnosti a z přítomnosti do minulosti. Dokonce i v případě BTC získaných prostřednictvím regulované platformy může tato technika zabránit jejich dohledatelnosti.
+
+Služba coinjoin však neeliminuje druhé riziko spojené s KYC: skutečnost, že stát je informován o vašem držení bitcoinů. Ve skutečnosti, i když vaše mince již nejsou dohledatelné, může mít stát v závislosti na jurisdikci přístup k vašim výpisům o zcizení kryptoaktivních aktiv. Jelikož toto riziko není technické, ale administrativní, neexistují žádná specifická řešení pro bitcoin, která by ho eliminovala, kromě toho, že se zpočátku vyhnete expozici KYC. Jediným legálním přístupem ke zmírnění tohoto rizika je prodat své bitcoiny získané prostřednictvím regulovaných platforem na regulovaných platformách a poté je koupit zpět prostředky bez KYC. Prodejem a nahlášením zcizení by měla správa zaznamenat, že je již nevlastníte.
+
+Pokud jde o riziko prozrazení vašich osobních údajů a dokladů totožnosti, jedná se o nebezpečí, které je s bitcoinem spojeno, a neexistuje žádné technické řešení, jak se mu vyhnout. Jakmile jsou vaše údaje jednou zveřejněny, je obtížné to zvrátit. Můžete se pokusit zrušit svůj účet na platformě, ale to nezaručuje odstranění vašich údajů KYC, zejména pokud je ověřování totožnosti zadáváno externím subjektům. Ověřit úplné odstranění vašich údajů je nemožné. Proto neexistuje řešení, které by tomuto riziku zcela zabránilo a zajistilo, že již nebude existovat.
 
 ### Rozdíl mezi KYC a identifikací klíčů
 
-Někdy někteří bitcoinisté rozšiřují termín "KYC" na jakoukoli výměnu BTC, která zahrnuje převod nebo platbu kreditní kartou, jelikož tyto prostředky mohou také odhalit původ platby, stejně jako by KYC. Je však důležité nesplést KYC s identifikací klíčů. Osobně musím přiznat, že mé vnímání tohoto předmětu se časem vyvíjelo.
+Někdy mají někteří bitcoináři tendenci rozšířit pojem "KYC" na jakoukoli výměnu BTC zahrnující převod nebo platbu kreditní kartou, protože tyto prostředky mohou rovněž odhalit původ platby, stejně jako KYC. Je však důležité nezaměňovat KYC s identifikací klíče. Osobně musím přiznat, že mé vnímání tohoto tématu se v průběhu času vyvíjelo.
 
-KYC konkrétně odkazuje na regulační postup implementovaný některými společnostmi k ověření a zaznamenání identity jejich klientů. Je to binární věc: buď při získávání vašich bitcoinů podstoupíte KYC, nebo ne. Identifikace klíčů, která se týká spojení aspektu identity uživatele s onchain aktivitou, však není tak binární, ale spíše představuje kontinuum. Skutečně, v kontextu získávání nebo disponování bitcoiny, je tato identifikace vždy možná do různých stupňů.
-Například, pokud si koupíte bitcoiny na regulované platformě ve Švýcarsku, KYC (Know Your Customer) není nutné. Nicméně, může dojít k identifikaci vašich klíčů, protože nákup byl proveden prostřednictvím vašeho bankovního účtu. Zde se mohou projevit první dvě rizika spojená s KYC - usnadnění sledování onchain a vystavení státnímu dohledu - také v ne-KYC výměně. Pokud švýcarská entita nahlásí podezřelé transakce úřadům ve vaší zemi, mohou jednoduše zkontrolovat bankovní účet použitý pro nákup, aby odhalili vaši identitu. Tím pádem je nákup bez KYC na regulovaných platformách poměrně vysoko na stupnici rizika pro identifikaci klíčů.
+KYC se konkrétně týká regulačního postupu, který některé společnosti uplatňují za účelem ověření a zaznamenání totožnosti svých zákazníků. Jedná se o binární záležitost: když získáte bitcoiny, buď se KYC podrobíte, nebo ne. Identifikace klíče, která spočívá v propojení určitého aspektu identity uživatele s činností v řetězci, však není tak binární, ale představuje spíše kontinuum. V kontextu nákupu nebo prodeje bitcoinů je totiž tato identifikace v různé míře možná vždy.
 
-![BTC204](assets/notext/43/4.webp)
+Pokud si například koupíte bitcoin na regulované platformě ve Švýcarsku, není vyžadováno KYC (Know Your Customer). Může však dojít k identifikaci vašich klíčů, protože nákup byl proveden prostřednictvím vašeho bankovního účtu. Zde vznikají první dvě rizika spojená s KYC - usnadnění sledování na řetězci a vystavení vládnímu dohledu - která se mohou projevit i při výměně bez KYC. Pokud švýcarský subjekt nahlásí podezřelé transakce úřadům ve vaší zemi, mohou jednoduše zkontrolovat bankovní účet použitý k nákupu a zjistit vaši totožnost. Nákup bez KYC na regulovaných platformách je tedy na stupnici rizik pro identifikaci klíče poměrně vysoko.
 
-Vyhnout se regulovaným platformám a volba metod P2P (Peer-to-Peer) nákupu však neeliminuje riziko identifikace klíčů úplně, ale pouze jej snižuje. Vezměme si příklad nákupu na Bisq nebo jiné P2P platformě. Pro vyrovnání se svým protějškem pravděpodobně použijete svůj bankovní účet. Pokud úřady vyslechnou osobu, se kterou jste obchodovali, a požádají o vaše jméno, setkáváme se s riziky 1 a 2 zmíněnými dříve. Tato rizika jsou jistě mnohem nižší než při ne-KYC nákupu na platformě, a ještě více snížená než při nákupu s KYC, ale stále jsou přítomna v menší míře.
+Vyhýbání se regulovaným platformám a volba metod P2P (Peer-to-Peer) však riziko identifikace klíče zcela neodstraňuje, ale pouze snižuje. Vezměme si příklad nákupu na platformě Bisq nebo jiné platformě P2P. K vypořádání s protistranou pravděpodobně použijete svůj bankovní účet. Pokud úřady vyslechnou osobu, se kterou jste obchodovali, a požádají o vaše jméno, narazíme na výše uvedená rizika 1 a 2. Tato rizika jsou jistě mnohem nižší než nákup bez KYC na platformě, a dokonce nižší než nákup s KYC, ale stále jsou přítomna v menší míře.
 
-![BTC204](assets/notext/43/5.webp)
-Nakonec, i když si své bitcoiny pořídíte prostřednictvím fyzické výměny za hotovost, nejste zcela anonymní. Osoba, se kterou jste obchodovali, viděla vaši tvář, což je součást vaší identity. I když je toto riziko v tomto příkladu minimální, stále existuje možnost klíčové identifikace.
-![BTC204](assets/notext/43/6.webp)
+A konečně, i když si bitcoiny koupíte prostřednictvím fyzické směnárny, nejste zcela anonymní. Osoba, se kterou jste obchodovali, viděla váš obličej, který je součástí vaší identity. I když je v tomto příkladu minimální, možnost identifikačního klíče stále existuje.
 
-Závěrem, při výměně bitcoinů za jiná aktiva, ať už jde o nákup v měně fiat nebo prodej za skutečné zboží, vždy dochází k určité formě klíčové identifikace. V závislosti na zvolené metodě výměny se tato identifikace může lišit intenzitou. Je důležité nesplést tuto identifikaci s KYC, což je dobře definovaný regulační proces. Nicméně existuje spojení mezi KYC a spektrem identifikace, protože KYC je na horním konci tohoto spektra, jelikož systematicky usnadňuje identifikaci klíčů uživatele orgány.
+Závěrem lze říci, že při výměně bitcoinů za jiná aktiva, ať už se jedná o nákup fiat měny nebo prodej za reálné aktivum, vždy existuje určitá forma identifikace klíče. V závislosti na zvoleném způsobu směny může mít tato identifikace různou intenzitu. Je důležité nezaměňovat tuto identifikaci s KYC, což je přesně definovaný regulační proces. Mezi KYC a spektrem identifikace však existuje souvislost, neboť KYC se nachází na horním konci tohoto spektra, protože systematicky usnadňuje identifikaci uživatelských klíčů ze strany orgánů.
 
-## Metody prodeje a nákupu
+## Metody prodeje a akvizice
 
 <chapterId>756598af-95aa-4c77-ac48-243c7ad89530</chapterId>
 
-Po přečtení předchozí kapitoly se možná ptáte na způsoby, jak koupit nebo prodat bitcoin bez nutnosti podstoupit proces ověření identity, aby se předešlo rizikům spojeným s KYC. Existuje několik metod, jak provést výměny.
+Po přečtení předchozí kapitoly vás možná zajímá, jak nakupovat nebo prodávat bitcoiny, aniž byste museli procházet procesem ověřování totožnosti, abyste se vyhnuli rizikům spojeným s KYC. Existuje několik způsobů provádění směn.
 
-### Hotovostní P2P výměny
+### Výměny P2P v hotovosti
 
-Jak jsme viděli, nejlepší metodou z hlediska soukromí zůstává P2P (peer-to-peer) výměna s vyrovnáním v hotovosti. Tato metoda vám umožňuje minimalizovat zanechané stopy a výrazně snížit možnost klíčové identifikace, ať už jste kupující nebo prodávající.
+Jak jsme viděli, nejlepší metodou z hlediska ochrany soukromí zůstává výměna P2P (peer-to-peer) s vypořádáním v hotovosti. Tato metoda umožňuje minimalizovat zanechané stopy a výrazně snižuje možnost identifikace klíče, ať už jste kupující, nebo prodávající.
 
-![BTC204](assets/notext/44/01.webp)
+Tento postup však s sebou nese osobní bezpečnostní rizika. Hlavní nebezpečí spočívá v tom, že protistrana se během výměny dozví, že držíte značnou částku buď v hotovosti, nebo v bitcoinech. Tato informace může přilákat pozornost zlomyslných osob. Ve skutečnosti se obecně doporučuje zůstat ohledně držení bitcoinů diskrétní. Tuto radu lze uplatnit i na hotovost. Při osobní výměně je však nevyhnutelné prozradit, že vlastníte bitcoin, což může vzbudit chamtivost.
 
-Tato praxe však nese rizika pro osobní bezpečnost. Hlavní nebezpečí spočívá v tom, že během výměny protistrana ví, že držíte významnou částku, ať už v hotovosti nebo v bitcoinech. Tyto informace mohou přitáhnout pozornost zákeřných jedinců. Obecně se doporučuje být diskrétní ohledně vašeho držení bitcoinů. Tato rada by se dala aplikovat i na hotovost. Nicméně během osobní výměny je nevyhnutelné odhalit, že vlastníte bitcoiny, což může vyvolat chtivost.
+Abyste toto riziko omezili, doporučuji upřednostňovat hotovostní transakce s důvěryhodnými osobami, jako jsou členové rodiny nebo blízcí přátelé. Případně můžete také zvážit provádění výměn na [místních bitcoinových setkáních](https://btcmap.org/communities/map), poté, co se jich několikrát zúčastníte. To vám umožní lépe poznat ostatní účastníky a nebýt během fyzické výměny sami. Je však důležité si uvědomit, že P2P výměna hotovosti s sebou neodmyslitelně nese rizika pro vaši osobní bezpečnost, která neexistují při nákupu prostřednictvím regulované platformy a vašeho bankovního účtu.
 
-![BTC204](assets/notext/44/02.webp)
+V závislosti na místě, kde žijete, může také přeprava a skladování velkých částek peněz představovat riziko, ať už jde o bitcoiny nebo hotovost.
 
-Aby se toto riziko omezilo, doporučuji dávat přednost hotovostním transakcím s důvěryhodnými osobami, jako jsou členové rodiny nebo blízcí přátelé. Alternativně byste mohli zvážit účast na [místních setkáních Bitcoinu](https://btcmap.org/communities/map), po několika návštěvách. To vám umožní lépe poznat ostatní účastníky a nebýt během fyzické výměny sami. Je však důležité si uvědomit, že hotovostní P2P výměna v sobě nese rizika pro vaši osobní bezpečnost, která při nákupu prostřednictvím regulované platformy a vašeho bankovního účtu neexistují.
+Výměna hotovosti může také představovat právní riziko při policejní nebo jiné kontrole. Ačkoli ve většině zemí není výše hotovosti, kterou můžete mít u sebe, nijak omezena, příliš vysoké částky mohou vzbudit podezření. Buďte proto obezřetní, zejména pokud musíte cestovat na delší vzdálenosti, a vyhněte se příliš velkým transakcím najednou, abyste nemuseli zdůvodňovat držení značných částek.
 
-Navíc, v závislosti na tom, kde žijete, může nošení a skladování velkých částek peněz představovat rizika, ať už jde o bitcoiny nebo hotovost.
+Další nevýhodou nákupů přes P2P je, že cena je často vyšší než na regulovaných platformách. Prodejci si často účtují přirážku v rozmezí od 1 % do někdy více než 10 %. Tento cenový rozdíl lze vysvětlit několika důvody. Zaprvé jde o běžnou praxi prodejců P2P, která se ustálila v průběhu času. Kromě toho mají prodejci transakční poplatky spojené s odesláním finančních prostředků kupujícímu. Při prodeji P2P je také vyšší riziko krádeže než při transakcích na platformě, což ospravedlňuje poplatek za podstoupené riziko. V neposlední řadě může být poplatek relativní vzhledem k poptávce a kvalitě burzy z hlediska ochrany soukromí. Jako kupující je zisk z ochrany soukromí zahrnut do příplatku účtovaného prodávajícím. Někteří bitcoináři se také domnívají, že zvýšená cena BTC nakoupených v P2P odráží jejich skutečnou hodnotu, a tvrdí, že nižší ceny na regulovaných platformách jsou výsledkem kompromisu v oblasti soukromí vašich osobních údajů.
 
-Hotovostní výměna může také představovat právní rizika během policejních kontrol nebo jiných. Ačkoli ve většině zemí neexistuje omezení množství hotovosti, kterou můžete nosit s sebou, příliš velké částky mohou vzbudit podezření. Buďte tedy opatrní, zejména pokud musíte cestovat na dlouhé vzdálenosti, a vyhněte se příliš velkým transakcím najednou, abyste nemuseli odůvodňovat držení významných částek.
-Nakonec, další nevýhodou nákupů P2P je, že cena je často vyšší než ta, která je pozorována na regulovaných platformách. Prodejci často ukládají přirážku v rozmezí od 1% až po někdy více než 10%. Několik důvodů vysvětluje tento cenový rozdíl. Zaprvé, je to běžná praxe mezi prodejci P2P, která byla zavedena v průběhu času. Dále mají prodejci transakční poplatky spojené s odesíláním finančních prostředků kupujícímu. Také je zde zvýšené riziko krádeže u prodejů P2P ve srovnání s transakcemi na platformách, což odůvodňuje kompenzaci za podstoupené riziko. Nakonec může být přirážka spojena s poptávkou a kvalitou výměny z hlediska soukromí. Jako kupující má zisk na soukromí cenu, která se odráží v přirážce aplikované prodejcem. Někteří bitcoinisté také věří, že zvýšená cena BTC zakoupeného v P2P odráží jeho skutečnou hodnotu a tvrdí, že nižší ceny na regulovaných platformách jsou výsledkem kompromisu ohledně soukromí vašich osobních údajů.
+### Výměny P2P prostřednictvím srovnávací platformy
 
-### P2P Výměny prostřednictvím shromažďovací platformy
+Méně rizikovou alternativou z hlediska osobní bezpečnosti je provádět výměny P2P výhradně online prostřednictvím elektronických platebních metod, jako je PayPal, bankovní převody nebo Revolut.
 
-Méně rizikovou alternativou z hlediska osobní bezpečnosti je provádět P2P výměny výhradně online, prostřednictvím elektronických platebních metod, jako jsou PayPal, bankovní převody nebo Revolut.
+Tento přístup pomáhá vyhnout se mnoha rizikům spojeným s hotovostními transakcemi. Riziko, že protistrana nedodrží své závazky při online výměně, je však vyšší. Pokud totiž během fyzické výměny předáte peníze prodávajícímu, který vám na oplátku nepošle bitcoiny, můžete ho na to okamžitě upozornit, protože stojí před vámi. Naproti tomu online je často nemožné najít osobu, která vás okradla.
 
-Tento přístup pomáhá vyhnout se mnoha rizikům spojeným s hotovostními transakcemi. Nicméně riziko, že protistrana nesplní své závazky během online výměny, je větší. Skutečně, během fyzické výměny, pokud předáte peníze prodejci, který vám na oplátku nepošle bitcoiny, můžete ho okamžitě zodpovědně držet, protože je před vámi. Online, na druhou stranu, je často nemožné najít osobu, která vás okradla.
+Ke zmírnění tohoto rizika lze pro výměny P2P využít specializované platformy pro párování. Tyto platformy používají mechanismy řešení konfliktů, které chrání poškozené uživatele. Obecně nabízejí systém úschovy, kde jsou bitcoiny drženy do doby, než prodávající potvrdí platbu ve fiat měně.
 
-K zmírnění tohoto rizika je možné využít platformy specializované na shromažďování pro P2P výměny. Tyto platformy používají mechanismy řešení konfliktů k ochraně poškozených uživatelů. Obecně nabízejí systém escrow, kde jsou bitcoiny drženy, dokud prodejce nepotvrdí platbu fiat měnou.
+Z hlediska osobní bezpečnosti je tento způsob nákupu výrazně bezpečnější než fyzická výměna hotovosti. Jak však bylo zmíněno dříve, online P2P výměny zanechávají více stop než fyzická výměna, což může být na úkor soukromí u Bitcoinu. Použitím online fiat platebního prostředku, jako je banka, vystavujete více informací, které by mohly usnadnit identifikaci klíče.
 
-Z hlediska osobní bezpečnosti je tato metoda nákupu výrazně bezpečnější než fyzické hotovostní výměny. Nicméně, jak bylo zmíněno dříve, online P2P výměny zanechávají více stop než fyzická výměna, což může být na škodu soukromí na Bitcoinu. Použitím online fiat platební metody, jako je banka, vystavujete více informací, které by mohly usnadnit identifikaci klíčů.
+Opět nedoporučuji na těchto platformách provádět velké obchody v rámci jedné transakce. Rozdělením transakcí rozložíte rizika spojená s případnou krádeží protistranou.
 
-Jednou znovu doporučuji neuskutečňovat velké výměny v jedné transakci na těchto platformách. Rozdělením vašich transakcí rozptylujete rizika spojená s potenciální krádeží ze strany protistrany.
-Opět se ukazuje, že další nevýhodou nákupů P2P je, že cena je často vyšší než ta, kterou vidíme na regulovaných platformách. Prodejci často přidávají marži v rozmezí od 1 % až po někdy více než 10 %. Existuje několik důvodů, které tento cenový rozdíl vysvětlují. Zaprvé, je to běžná praxe mezi prodejci P2P, která byla zavedena v průběhu času. Dále mají prodejci transakční poplatky spojené s odesíláním finančních prostředků kupujícímu. Také je zde zvýšené riziko krádeže u prodejů P2P ve srovnání s transakcemi na platformách, což odůvodňuje kompenzaci za podstoupené riziko. Nakonec může být přirážka spojena s poptávkou a kvalitou výměny z hlediska soukromí. Jako kupující má zisk na soukromí cenu, která se odráží v marži, kterou prodejce uplatňuje. Někteří bitcoinisté také věří, že zvýšená cena BTC zakoupeného P2P odráží jeho skutečnou hodnotu a tvrdí, že nižší ceny na regulovaných platformách jsou výsledkem kompromisu ohledně soukromí vašich osobních údajů.
-![BTC204](assets/notext/44/03.webp)
+Další nevýhodou nákupů přes P2P je, že cena je často vyšší než na regulovaných platformách. Prodejci si často účtují přirážku v rozmezí od 1 % do někdy více než 10 %. Tento cenový rozdíl lze vysvětlit několika důvody. Zaprvé jde o běžnou praxi prodejců P2P, která se ustálila v průběhu času. Kromě toho mají prodejci transakční poplatky spojené s odesláním finančních prostředků kupujícímu. Při prodeji P2P je také vyšší riziko krádeže než při transakcích na platformě, což ospravedlňuje poplatek za podstoupené riziko. V neposlední řadě může být poplatek relativní vzhledem k poptávce a kvalitě burzy z hlediska ochrany soukromí. Jako kupující je zisk z ochrany soukromí zahrnut do příplatku účtovaného prodávajícím. Někteří bitcoináři se také domnívají, že vyšší cena BTC nakoupených prostřednictvím P2P odráží jejich skutečnou hodnotu, a tvrdí, že nižší ceny na regulovaných platformách jsou výsledkem kompromisu v oblasti soukromí vašich osobních údajů.
 
-Pokud jde o řešení, osobně jsem vždy používal [Bisq](https://bisq.network/) a jsem s ním velmi spokojen. Jejich systém je dobře zavedený a zdá se být spolehlivý. Bisq je však dostupný pouze na PC a jeho rozhraní může být pro začátečníky příliš složité. Další nevýhodou je, že Bisq funguje pouze s onchain transakcemi, což může být nákladné během období vysokých transakčních poplatků na Bitcoinu.
+Co se týče řešení, osobně jsem vždy používal [Bisq](https://bisq.network/) a jsem s nimi velmi spokojen. Jejich systém je dobře zavedený a zdá se být spolehlivý. Bisq je však k dispozici pouze na PC a jeho rozhraní může být pro začátečníky příliš složité. Další nevýhodou je, že Bisq pracuje výhradně s onchain transakcemi, což se může v období vysokých transakčních poplatků u Bitcoinu prodražit.
 
--> Objevte náš tutoriál na Bisq.
+-> Seznamte se s naším výukovým programem pro společnost Bisq.
 
 https://planb.network/tutorials/exchange/peer-to-peer/bisq-fe244bfa-dcc4-4522-8ec7-92223373ed04
+Jednodušší variantou je mobilní aplikace [Peach](https://peachbitcoin.com/), která usnadňuje spojení mezi kupujícími a prodávajícími pomocí integrovaného systému řešení sporů. Proces je intuitivnější než u společnosti Bisq.
 
-Pro jednodušší možnost můžete vyzkoušet [Peach](https://peachbitcoin.com/), mobilní aplikaci, která usnadňuje spojení mezi kupujícími a prodejci s integrovaným systémem řešení sporů. Proces je intuitivnější než u Bisq.
+-> Přečtěte si náš výukový program o broskvi.
 
--> Objevte náš tutoriál na Peach.
-Další online možností je [HodlHodl](https://hodlhodl.com/), dobře zavedená platforma, která nabízí dobrou likviditu, ačkoli jsem ji osobně netestoval.
--> Objevte náš tutoriál na HodlHodl.
+Další online možností je [HodlHodl](https://hodlhodl.com/), zavedená platforma, která nabízí dobrou likviditu, ačkoli jsem ji osobně netestoval.
+
+-> Přečtěte si náš výukový program HodlHodl.
 
 https://planb.network/tutorials/exchange/peer-to-peer/peach-wallet-db64fe42-17ca-4b24-abb8-e7d4c03b2028
-
 https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f5-8e78-2574a93a3879
+Pro řešení založená na síti Lightning Network můžete vyzkoušet [RoboSats](https://learn.robosats.com/) a [LNP2PBot](https://lnp2pbot.com/). RoboSats je přístupný prostřednictvím webové stránky a jeho použití je poměrně jednoduché. LNP2PBot je atypičtější v tom, že funguje prostřednictvím výměnného systému v aplikaci pro zasílání zpráv Telegram.
 
-Pro řešení založená na Lightning Network můžete vyzkoušet [RoboSats](https://learn.robosats.com/) a [LNP2PBot](https://lnp2pbot.com/). RoboSats je přístupný přes webové stránky a je relativně jednoduchý na použití. LNP2PBot je atypičtější, protože funguje prostřednictvím systému výměny na aplikaci pro zasílání zpráv Telegram.
+-> Podívejte se na náš návod na RoboSaty.
 
--> Objevte náš tutoriál na RoboSats.
--> Objevte náš tutoriál na LNP2PBot.
+-> Podívejte se na náš návod na LNP2PBot.
 
 https://planb.network/tutorials/exchange/peer-to-peer/robosats-b60e4f7c-533a-4295-9f6d-5368152e8c06
-
 https://planb.network/tutorials/exchange/peer-to-peer/lnp2pbot-v2-e6bcb210-610b-487d-970c-7cce85273e3c
-
-![BTC204](assets/notext/44/08.webp)
-
 ### Regulované platformy bez KYC
 
-V závislosti na zemi, ve které žijete, můžete mít přístup k regulovaným platformám, které nevyžadují proceduru KYC pro nákup nebo prodej bitcoinů. Ve Švýcarsku můžete například používat platformy jako [Relai](https://relai.app/) a [MtPelerin](https://www.mtpelerin.com/).
+V závislosti na zemi, ve které žijete, můžete mít přístup k regulovaným platformám, které pro nákup nebo prodej bitcoinů nevyžadují postup KYC. Ve Švýcarsku můžete například využít platformy, jako jsou [Relai](https://relai.app/) a [MtPelerin](https://www.mtpelerin.com/).
 
--> Objevte náš tutoriál na Relai.
-Jak jsme viděli v předchozí kapitole, tento typ platformy vás ušetří rizik spojených s postupy KYC, ale představují vyšší úroveň rizika pro klíčovou identifikaci. Pokud jde o soukromí na Bitcoinu, tyto platformy tedy nabízejí lepší ochranu než metody nákupu s KYC, ale nejsou tak zajímavé jako P2P burzy.
-Nicméně, pokud jde o osobní bezpečnost, používání těchto platforem je výrazně méně rizikové než P2P burzy. Jsou také často jednodušší na používání než platformy, které usnadňují P2P výměny.
+-> Seznamte se s naším výukovým programem Relai.
+
+Jak jsme viděli v předchozí kapitole, tento typ platformy vám ušetří rizika spojená s postupy KYC, ale představuje vyšší úroveň rizika pro identifikaci klíčů. Z hlediska ochrany soukromí v bitcoinech proto tyto platformy nabízejí lepší ochranu než metody nákupu KYC, ale jsou méně atraktivní než P2P burzy.
+
+Z hlediska osobní bezpečnosti je však používání těchto platforem podstatně méně rizikové než burzy P2P. Jejich používání je také často jednodušší než u platforem, které zprostředkovávají výměny P2P.
 
 https://planb.network/tutorials/exchange/centralized/relai-v2-30a9671d-e407-459d-9203-4c3eae15b30e
+### BANKOMAT
 
-### Bankomaty
+Další možností, jak koupit nebo prodat bitcoin bez KYC, jsou kryptoměnové bankomaty (ATM). Osobně jsem nikdy neměl možnost toto řešení vyzkoušet, protože v mé zemi žádné nejsou. Tento způsob však může být velmi zajímavý v závislosti na tom, kde žijete.
 
-Další možností pro nákup nebo prodej bitcoinů bez KYC jsou kryptoměnové bankomaty (ATM). Osobně jsem nikdy neměl příležitost tuto možnost vyzkoušet, protože v mé zemi nejsou žádné. Ale tato metoda může být velmi zajímavá v závislosti na tom, kde žijete.
+Problém s bankomaty spočívá v tom, že v některých zemích jsou zakázány nebo v jiných jsou přísně regulovány. Pokud bankomat vyžaduje proces ověření totožnosti, pak čelí stejným rizikům, která jsou vlastní regulovaným platformám KYC. Pokud však bankomat umožňuje transakce bez ověření totožnosti pro malé částky, pak jeho použití může nabídnout úroveň soukromí srovnatelnou s výměnou P2P založenou na hotovosti, čímž se vyhne většině rizik spojených s tímto typem výměny.
 
-![BTC204](assets/notext/44/09.webp)
-Problém s bankomaty je, že v některých zemích jsou zakázány nebo v jiných silně regulovány. Pokud bankomat vyžaduje proces ověření identity, pak čelí stejným rizikům jako ty, která jsou vlastní regulovaným platformám KYC. Nicméně, pokud bankomat umožňuje transakce bez ověření identity pro malé částky, pak jeho použití může nabídnout úroveň soukromí srovnatelnou s hotovostní P2P výměnou, při současném vyhnutí se většině rizik spojených s tímto typem výměny.
-Hlavní nevýhodou bankomatů jsou často vysoké poplatky za výměnu, které se pohybují od několika procent až po někdy 15% z vyměněné částky.
+Hlavní nevýhodou bankomatů jsou často vysoké poplatky za směnu cizích měn, které se pohybují od několika procent někdy až do 15 procent směňované částky.
 
 ### Dárkové karty
 
-Nakonec jsem chtěl představit řešení, které dobře funguje pro ty, kteří chtějí používat své bitcoiny na denní bázi pro nákupy místo jejich prodeje za fiat měny.
+Nakonec jsem chtěl také představit řešení, které dobře funguje pro ty, kteří chtějí své bitcoiny denně používat k nákupům, místo aby je prodávali za fiat měny.
 
-Nejlepší způsob, jak utratit BTC, je samozřejmě použít Bitcoin přímo nebo Lightning Network pro nákup zboží nebo služeb. Nicméně, v mnoha zemích je počet obchodníků přijímajících bitcoin omezený. Praktickou alternativou je pak použití dárkových karet.
+Nejlepším způsobem, jak utratit BTC, je samozřejmě použít k nákupu zboží nebo služeb přímo bitcoin nebo Lightning Network. V mnoha zemích je však počet obchodníků přijímajících bitcoiny stále omezený. Praktickou alternativou je proto používání dárkových karet.
 
-Několik platforem, které nevyžadují postup KYC, nabízí možnost výměny bitcoinů za dárkové karty, které lze použít ve velkých obchodech. Mezi tyto platformy patří [CoinsBee](https://www.coinsbee.com/), [The Bitcoin Company](https://thebitcoincompany.com/), a [Bitrefill](https://www.bitrefill.com/). Tyto platformy velmi usnadňují každodenní používání vašich bitcoinů tím, že vám umožňují přístup k široké škále produktů a služeb bez nutnosti konverze do fiat měny.
+Několik platforem, které nevyžadují postup KYC, nabízí možnost směnit bitcoiny za dárkové karty, které lze použít ve velkých obchodech. Mezi tyto platformy patří [CoinsBee](https://www.coinsbee.com/), [The Bitcoin Company](https://thebitcoincompany.com/) a [Bitrefill](https://www.bitrefill.com/). Tyto platformy výrazně usnadňují každodenní používání vašich bitcoinů tím, že vám umožňují přístup k široké škále produktů a služeb, aniž byste museli procházet konverzí fiat měny.
 
 https://planb.network/tutorials/exchange/centralized/bitrefill-8c588412-1bfc-465b-9bca-e647a647fbc1
+### Další způsoby akvizice
 
-![BTC204](assets/notext/44/10.webp)
+Mezi další způsoby, jak získat bitcoin a zároveň chránit své soukromí, patří samozřejmě těžba. Chcete-li začít těžit saty, nemusíte odhalovat svou totožnost; stačí najít platný doklad o zaměstnání a předložit jej síti. Pokud se rozhodnete pro společnou těžbu, některé pooly vyžadují určitou formu identifikace, například KYC, zatímco jiné ne.
 
-### Další metody získání
+Další metodou je práce výměnou za bitcoiny. Tento způsob získání může být atraktivní, ale míra požadované identifikace se značně liší v závislosti na okolnostech.
 
-Mezi další metody získání bitcoinů při ochraně vašeho soukromí patří samozřejmě těžba. Pro zahájení těžby sats není nutné odhalovat vaši identitu; stačí najít platný důkaz práce a odeslat jej do sítě. Pokud se rozhodnete pro těžbu v poolu, některé pooly vyžadují formu identifikace, jako je KYC, zatímco jiné ne.
+\Pro napsání této kapitoly jsem použil kurz BTC205, který vytvořil [@pivi\_\_](https://x.com/pivi___) na síti Plan ₿ (zatím je k dispozici pouze ve francouzštině).\_
 
-Další metoda spočívá v práci výměnou za bitcoiny. Tato metoda získání může být zajímavá, ale stupeň vyžadované identifikace se velmi liší v závislosti na okolnostech.
-
-\_K napsání této kapitoly jsem využil kurz BTC205 vytvořený [@pivi\_\_\_](https://x.com/pivi___) na Plan ₿ Network (zatím dostupný pouze ve francouzštině).\_
-
-
-
-## Konsolidace, Správa UTXO a CIOH
+## Konsolidace, řízení UTXO a CIOH
 
 <chapterId>d0486c8f-332d-402b-ae2e-949416752b9c</chapterId>
 
-Jedním z nejsložitějších aspektů, které musíte řídit, když máte vlastní peněženku se samoobslužnou správou, je nepochybně konsolidace. Měli byste konsolidovat? Jaký je účel? Jakou velikost UTXO byste měli cílit? Jaké jsou kompromisy z hlediska soukromí? To je to, co se pokusíme prozkoumat v této sekci.
+Jedním z nejsložitějších aspektů, které je třeba zvládnout, když máte vlastní portfolio samoobslužných skladů, je bezpochyby konsolidace. Měli byste konsolidovat? Jaký je její účel? Jaké velikosti UTXO byste se měli snažit dosáhnout? Jaké jsou kompromisy v oblasti ochrany osobních údajů? To se pokusíme prozkoumat v této části.
 
-### Co je konsolidace?
+### Co je to konsolidace?
 
-Provoz Bitcoinu je podobný aukčnímu trhu, kde transakce nabízející nejlepší poplatky jsou těžaři upřednostňovány. Každý blok však má maximální váhu, což omezuje počet transakcí, které lze zahrnout. Jelikož je blok vytvořen průměrně každých 10 minut, dostupný prostor v každém bloku je vzácným zdrojem.
+Fungování Bitcoinu se podobá aukčnímu trhu, kde těžaři upřednostňují transakce s nejlepšími poplatky. Každý blok má však maximální váhu, která omezuje počet transakcí, jež do něj mohou být zařazeny. Vzhledem k tomu, že blok vzniká v průměru každých 10 minut, je prostor, který je v každém bloku k dispozici, vzácným zdrojem.
 
-Těžaři, jejichž činnost přináší významné náklady na elektřinu, kapitál a údržbu, se přirozeně snaží maximalizovat svou ziskovost. Mají tendenci upřednostňovat transakce, které jim nabízejí nejvíce poplatků v poměru k jejich váze.
+Těžaři, jejichž podnikání je spojeno se značnými náklady na elektřinu, kapitál a údržbu, se přirozeně snaží maximalizovat svou ziskovost. Mají tendenci upřednostňovat transakce, které jim nabízejí nejvyšší poplatky v poměru k jejich váze.
 
-Skutečně, ne všechny Bitcoinové transakce váží stejně. Ty s více vstupy a výstupy budou vážit více. Například zvažte 2 transakce:
+Ve skutečnosti nemají všechny transakce s bitcoiny stejnou váhu. Ty s větším počtem vstupů a výstupů budou vážit více. Vezměme si například 2 transakce:
 
-- Transakce A zahrnuje 1 vstup a 1 výstup. Přiděluje 1 994 satoshi poplatků a její váha je 141 vB;
-- Transakce B, složitější, se 2 vstupy a 2 výstupy, přiděluje 2 640 satoshi poplatků za váhu 220 vB.
 
-![BTC204](assets/notext/45/01.webp)
+- Transakce A obsahuje 1 vstup a 1 výstup. Přiřazuje 1 994 sátů poplatků a její váha je 141 vB;
+- Složitější transakce B se 2 vstupy a 2 výstupy přiděluje 2 640 sátů provizí pro váhu 220 vB.
 
-V tomto příkladu, ačkoliv transakce B navrhuje celkově vyšší poplatky, těžaři upřednostní transakci A, protože nabízí lepší poměr mezi poplatky a váhou. Zde je výpočet pro každou transakci, vyjádřený v satoshi na virtuální byte (sat/vB):
+Přestože v příkladu transakce B nabízí vyšší celkovou provizi, těžaři upřednostní transakci A, protože nabízí lepší poměr provize a váhy. Zde je výpočet pro každou transakci vyjádřený v satech na virtuální bajt (sat/vB):
 
 ```text
 TXA: 1994 / 141 = 14 sat/vB
-
 TXB: 2640 / 220 = 12 sat / vB
 ```
 
-To znamená, že pro každou jednotku váhy nabízí transakce A více poplatků než transakce B, i když ta druhá nabízí více poplatků v absolutní hodnotě.
+To znamená, že za každou jednotku váhy nabízí transakce A vyšší poplatky než transakce B, i když transakce B nabízí vyšší poplatky v absolutní hodnotě.
 
-![BTC204](assets/notext/45/02.webp)
+Proto je pro uživatele stále atraktivnější, aby při svých transakcích spotřebovávali co nejmenší množství vstupů. Pro uspokojení výstupní platby je však nutné spotřebovat dostatečné množství. Při správě svého portfolia je proto nutné mít dostatečně velké UTXO.
 
-Proto je pro uživatele vždy zajímavější spotřebovat co nejméně vstupů ve svých transakcích. Je však nutné spotřebovat dostatečné množství, aby bylo možné uspokojit platbu na výstupu. Při správě své peněženky musí mít tedy dostatečně velké UTXO.
+Principem konsolidace je právě využití období, kdy jsou poplatky za bitcoiny nízké, ke sloučení svých malých UTXO do jednoho většího UTXO. Když tedy poplatky na Bitcoinu rostou, lze provádět transakce s minimálním vstupem, a tedy utratit méně v absolutních poplatcích. Cílem je naplánovat povinné transakce, které se budou provádět v obdobích vysokých poplatků.
 
-Princip konsolidace spočívá přesně v tom, využít období, kdy jsou poplatky za Bitcoin nízké, k sloučení malých UTXO do jednoho většího. Tím, když poplatky za Bitcoin vzrostou, lze provádět transakce s minimem vstupů a tedy utratit méně v absolutních poplatcích. Cílem je plánovat povinné transakce během období vysokých poplatků.
-
-![BTC204](assets/cs/45/03.webp)
-Kromě úspor na transakčních poplatcích pomáhá konsolidace UTXO také zabránit vzniku "prachu". Prach odkazuje na UTXO, jejichž hodnota v satoshi je tak nízká, že nestačí na pokrytí nezbytných transakčních poplatků k jejich utracení. To činí tyto UTXO ekonomicky neracionální k použití, dokud zůstanou transakční poplatky vysoké. Proaktivním seskupováním vašich UTXO zabráníte jejich proměně v prach, čímž zajistíte, že všechny vaše prostředky zůstanou použitelné.
+Kromě úspory transakčních poplatků pomáhá konsolidace UTXO zabránit vzniku "prachu" Prach označuje UTXO, jejichž hodnota v satech je tak nízká, že nestačí pokrýt transakční poplatky nutné k jejich utracení. Proto je ekonomicky neracionální tyto UTXO používat, dokud jsou transakční poplatky vysoké. Aktivním seskupováním UTXO zabráníte jejich přeměně v prach, čímž zajistíte, že všechny vaše prostředky zůstanou použitelné.
 
 ### Jaká je minimální velikost vašich UTXO?
 
-Někdy se mě ptají, jaká je doporučená minimální hodnota pro UTXO. Bohužel, neexistuje univerzální odpověď, protože to závisí na vašich preferencích a tržních podmínkách pro poplatky. Zde je však vzorec, který vám může pomoci určit práh vhodný pro vaše potřeby:
+Někdy se mě ptají, jaká je minimální doporučená hodnota pro UTXO. Bohužel neexistuje univerzální odpověď, protože záleží na vašich preferencích a podmínkách na trhu s provizemi. Zde je však vzorec, který vám může pomoci určit hranici, která vyhovuje vašim potřebám:
 
 $$
 \frac {P \times F}T = M
@@ -1320,708 +1394,768 @@ $$
 
 Kde:
 
-- $P$ je váha transakce;
-- $F$ reprezentuje maximální sazbu poplatku ve satoshi za vbyte (sats/vB), proti které se pojistíte;
-- $T$ je procento transakčního poplatku, které jste ochotni zaplatit ve vztahu k celkové hodnotě UTXO;
-- $M$ je minimální částka ve satoshi pro každé UTXO.
 
-Předpokládejme, že plánujete pokrýt poplatky za standardní SegWit transakci s 1 vstupem a 2 výstupy, vážící 141 vB. Pokud pokryjete až 800 sats/vB, a jste ochotni utratit až 12% hodnoty UTXO na poplatcích jako maximum, pak výpočet bude:
+- $P$ je váha transakce;
+- $F$ představuje maximální sazbu v satoshi za vbyte (sats/vB), kterou jste ochotni pokrýt;
+- $T$ je procento transakčního poplatku, které jste ochotni zaplatit vzhledem k celkové hodnotě UTXO;
+- $M$ je minimální částka v satoshi pro každé UTXO.
+
+Za předpokladu, že chcete pokrýt provize za standardní SegWit transakce s 1 vstup a 2 výstupy, vážení 141 vB. Pokud pokryjete až 800 sátů/vB a jste ochotni utratit maximálně 12 % hodnoty UTXO na provizích, pak by výpočet vypadal takto:
 
 $$
 \frac{141 \times 800}{0.12} = 940\ 000
 $$
 
-V tomto příkladu by bylo moudré udržovat minimální hodnotu 940 000 sats pro UTXO ve vaší peněžence.
+V tomto příkladu by bylo rozumné udržovat minimální hodnotu 940 000 sat pro UTXO ve vašem portfoliu.
 
 ### Konsolidace a COIH
 
-Jedna z nejčastěji používaných heuristik v analýze blockchainu je COIH (_Common Input Ownership Heuristic_), která umožňuje předpokládat, že všechny vstupy bitcoinové transakce patří téže entitě. Přesněji, princip konsolidace spočívá ve spotřebování několika UTXO jako vstupů a vytvoření jediného UTXO jako výstupu. Konsolidace tedy umožňuje aplikaci COIH.
+Jednou z nejpoužívanějších heuristik v analýze blockchainu je COIH (_Common Input Ownership Heuristic_), která umožňuje předpokládat, že všechny vstupy do bitcoinové transakce patří stejnému subjektu. Přesněji řečeno, princip konsolidace spočívá v tom, že se jako vstup spotřebuje několik UTXO a jako výstup se vytvoří jeden UTXO. Proto konsolidace umožňuje použití COIH.
 
-![BTC204](assets/notext/45/04.webp)
+![BTC204](assets/fr/097.webp)
 
-V praxi to znamená, že vnější pozorovatel může usoudit, že všechna konsolidovaná UTXO pravděpodobně patří téže osobě a že jediný vygenerovaný výstup jim také patří. Tato situace může ohrozit vaše soukromí spojením různých historií transakcí. Představme si, že konsoliduji 3 UTXO získané P2P s UTXO získaným prostřednictvím platformy vyžadující KYC:
-![BTC204](assets/notext/45/05.webp)
+V praxi to znamená, že vnější pozorovatel může usoudit, že všechny konsolidované UTXO pravděpodobně patří stejné osobě a že jí patří i jediný vygenerovaný výstup. Tato situace může ohrozit soukromí propojením různých transakčních historií. Řekněme například, že konsoliduji 3 UTXO získané v P2P s jedním UTXO získaným prostřednictvím platformy, která vyžaduje KYC:
 
-Tímto způsobem může jakákoli entita s přístupem k datům burzy, včetně potenciálně vládních agentur, identifikovat, že vlastním další částky v BTC. Dříve tyto UTXO nebyly přímo spojeny s mou identitou; nyní jsou. Navíc to všem zdrojům odhaluje, že mám v držení určité množství bitcoinů.
+![BTC204](assets/fr/098.webp)
 
-Při správě UTXO se ekonomické úvahy, které tlačí na konsolidaci za účelem snížení poplatků, střetávají s dobrými praktikami soukromí, které by doporučovaly vaše UTXO nikdy nesloučit. Volba mezi ekonomií a soukromím tedy závisí na prioritách každého uživatele.
+Tímto způsobem může jakýkoli subjekt s přístupem k údajům burzovní platformy, potenciálně včetně vládních agentur, zjistit, že držím další částky v BTC. Dříve tyto UTXO nebyly přímo spojeny s mou identitou, nyní již ano. Navíc se tím všem zdrojům prozradí, že vlastním určité množství bitcoinů.
 
-Pokud se můžete vyhnout konsolidaci a přitom udržet významné velikosti UTXO, je to ideální. K tomu optimalizujte metody získávání. Pokud kupujete své bitcoiny metodou DCA, snažte se co nejvíce rozložit jednorázové nákupy, abyste hodnotu seskupili do menšího počtu UTXO. Bude snazší spravovat jednorázový nákup za 1 000 € každé 2 měsíce, než nákup za 120 € každý týden. To minimalizuje počet generovaných UTXO a zjednodušuje správu vaší peněženky při zachování vašeho soukromí.
-Pokud se ocitnete v situaci, kdy potřebujete konsolidovat své bitcoiny, dávejte přednost konsolidaci UTXO ze stejného zdroje. Například sloučení 10 UTXO z jedné platformy ovlivní vaše soukromí méně než smíchání 5 UTXO z platformy A s 5 UTXO z platformy B. Pokud je konsolidace z různých zdrojů nevyhnutelná, snažte se je oddělit podle jejich charakteristik. Například skupinu UTXO získaných prostřednictvím KYC seskupte do jedné transakce a ty získané v P2P do jiné.
-V každém případě si pamatujte, že jakákoli konsolidace nevyhnutelně vede ke ztrátě soukromí. Proto pečlivě zvažte nutnost této operace a potenciální dopady na vaše soukromí, přičemž vezměte v úvahu riziko.
+Při správě UTXO se tak ekonomické důvody, které tlačí na konsolidaci za účelem snížení poplatků, dostávají do rozporu se správnými postupy ochrany osobních údajů, které doporučují nikdy neslučovat UTXO. Volba mezi ekonomikou a ochranou soukromí tedy závisí na prioritách každého uživatele.
 
-## Další dobré postupy
+Pokud se můžete vyhnout konsolidaci při zachování značných velikostí UTXO, je to ideální. Za tímto účelem optimalizujte metody akvizice. Pokud nakupujete bitcoiny v DCA, snažte se své jednorázové nákupy co nejvíce rozprostřít, abyste seskupili hodnotu do menšího počtu UTXO. Bude snazší zvládnout jednorázový nákup ve výši 1 000 EUR každé dva měsíce než nákup ve výši 120 EUR každý týden. Tím minimalizujete počet generovaných UTXO a zjednodušíte správu svého portfolia při zachování svého soukromí.
+
+Pokud potřebujete konsolidovat své bitcoiny, upřednostněte konsolidaci UTXO ze stejného zdroje. Například sloučení 10 UTXO z jedné platformy bude mít menší dopad na vaše soukromí než smíchání 5 UTXO z platformy A s 5 UTXO z platformy B. Pokud je konsolidace z různých zdrojů nevyhnutelná, snažte se je rozdělit podle jejich vlastností. Například seskupte UTXO získané prostřednictvím KYC do jedné transakce a UTXO získané v P2P do jiné.
+
+V každém případě nezapomeňte, že jakákoli konsolidace nevyhnutelně vede ke ztrátě soukromí. Proto pečlivě zhodnoťte její potřebu a potenciální dopady na vaše soukromí s ohledem na rizika.
+
+## Další osvědčené postupy
 
 <chapterId>b5216965-7d13-4ea1-9b7c-e292966a487b</chapterId>
 
-Pojďme společně prozkoumat některé další dobré postupy, které vám mohou pomoci optimalizovat vaše soukromí na Bitcoinu.
+Pojďme společně prozkoumat některé další osvědčené postupy, které vám mohou pomoci optimalizovat vaše soukromí v Bitcoinu.
 
-### Plný Uzel
+### Kompletní uzel
 
-Vlastnit své bitcoiny ve vlastní správě je dobré, ale používat vlastní plný uzel je lepší! Zde je důvod, proč je mít vlastní uzel klíčový pro plně suverénní používání Bitcoinu:
+Mít své bitcoiny v osobní úschově je dobré, ale používat vlastní plný uzel je lepší! Proto je pro zcela suverénní používání bitcoinu zásadní mít vlastní uzel:
 
-- **Odolnost proti cenzuře**: Vaše transakce nemůže blokovat nikdo;
-- **Nezávislost na třetích stranách**: Už nezávisíte na žádné externí službě pro ověřování dat blockchainu;
-- **Aktivní účast**: Máte možnost nastavit vlastní validační pravidla a přímo se podílet na konsensu;
-- **Příspěvek k síti**: Provozováním uzlu pomáháte posilovat a distribuovat síť Bitcoinu;
-- **Technické vzdělání**: Správa plného uzlu je vynikajícím způsobem, jak prohloubit vaše technické znalosti o Bitcoinu.
 
-Kromě těchto výhod také používání plného uzlu zlepšuje vaše soukromí při vysílání vašich transakcí. Když vytvoříte transakci, je nejprve vytvořena a podepsána prostřednictvím vaší peněženky. Aby bylo možné ji vysílat do sítě Bitcoin, musí být známa alespoň jedním uzlem. Používáním vlastního uzlu přímo kontrolujete toto vysílání, čímž zvyšujete své soukromí a omezujete rizika úniku dat.
+- Odpor proti cenzuře**: Vaše transakce nemůže nikdo zablokovat;
+- Nezávislost na třetích stranách**: Při ověřování dat v blockchainu již nejste závislí na žádné externí službě;
+- Aktivní účast**: Máte možnost nastavit si vlastní pravidla validace a přímo se podílet na konsensu;
+- Příspěvek do sítě**: Provozováním uzlu pomáháte posilovat a šířit síť Bitcoin;
+- Technické vzdělávání**: Spuštění celého uzlu je skvělý způsob, jak prohloubit své technické znalosti o Bitcoinu.
 
-![BTC204](assets/notext/46/01.webp)
+Kromě těchto výhod zlepšuje používání plného uzlu také vaše soukromí při přenosu transakcí. Když vydáváte transakci, je nejprve vytvořena a podepsána prostřednictvím vaší peněženky. Aby ji bylo možné přenést v síti Bitcoin, musí ji znát alespoň jeden uzel. Používáním vlastního uzlu tento přenos přímo řídíte, čímž zlepšujete své soukromí a omezujete riziko ztráty dat.
 
-Pokud nemáte vlastní Bitcoin uzel, budete nuceni použít uzel třetí strany, například ten, který nabízí poskytovatel vašeho softwaru pro peněženku. Kromě vysílání transakcí vaše peněženka vyžaduje přístup k různým informacím, jako jsou čekající transakce, zůstatky spojené s vašimi adresami nebo počet potvrzení pro vaše transakce. Pro přístup ke všem těmto datům potřebujete dotazovat uzel.
+![BTC204](assets/fr/099.webp)
 
-![BTC204](assets/notext/46/02.webp)
+Pokud nemáte vlastní uzel bitcoinu, budete nuceni použít uzel třetí strany, například uzel nabízený poskytovatelem softwaru peněženky. Kromě přenosu transakcí vyžaduje peněženka přístup k různým informacím, jako jsou nevyřízené transakce, zůstatky spojené s vašimi adresami nebo počet potvrzení vašich transakcí. Pro přístup ke všem těmto údajům je třeba se dotázat uzlu.
 
-Hlavním rizikem, pokud nepoužíváte vlastní Bitcoin uzel, je, že operátor uzlu třetí strany může sledovat vaše aktivity na blockchainu nebo dokonce sdílet tyto informace s jinými subjekty. Aby se toto riziko omezilo, meziřešením je použití softwaru pro peněženku, který umožňuje maskovat vaše spojení přes Tor. To může snížit expozici vašich dat. Nicméně optimálním řešením zůstává mít vlastní Bitcoin uzel a používat ho pro vysílání vašich transakcí. Samozřejmě budete také muset zajistit, aby z vašeho uzlu neunikaly žádné informace, ale to je další téma, které prozkoumáme v následujících sekcích.
-Kromě zřejmé výhody pro vaše soukromí, vlastnictví vlastního full node také zajišťuje pravdivost dat na blockchainu, chrání proti cenzuře a umožňuje vám aktivně se podílet na správě Bitcoinu. Používáním vlastního uzlu přispíváte svou ekonomickou váhou do řetězce vaší volby, což je důležité během konfliktů v komunitě, jako byl například Blocksize War od roku 2015 do 2017. V případě forku by použití uzlu třetí strany mohlo vést k podpoře řetězce, který si nepřejete favorizovat, jelikož operátor uzlu za vás dělá volbu. Jak můžete pochopit, v zájmu soukromí a širší individuální suverenity je nezbytné provozovat a používat vlastní full node!
+![BTC204](assets/fr/100.webp)
 
-### Obcházení heuristik analýzy
+Hlavním rizikem, když nepoužíváte svůj uzel Bitcoin, je, že provozovatel uzlu třetí strany může sledovat vaše aktivity v blockchainu, nebo dokonce tyto informace sdílet s jinými subjekty. Chcete-li toto riziko omezit, je přechodným řešením použití softwaru peněženky, který umožňuje maskovat připojení prostřednictvím sítě Tor. To může snížit odhalení vašich údajů. Optimálním řešením však zůstává mít vlastní uzel Bitcoinu a používat jej k přenosu svých transakcí. Samozřejmě budete muset také zajistit, aby z vašeho uzlu neunikaly žádné informace, ale to je další téma, kterému se budeme věnovat v následujících částech.
 
-Širší pochopení heuristik, o kterých jsme mluvili v předchozí části, je důležité, aby bylo možné je lépe obcházet nebo oklamat. Přijetí série dobrých praktik může být prospěšné, i když nejsou nezbytné. Nabízejí další vrstvu ochrany, která může být důležitá pro udržení dobrého soukromí při používání Bitcoinu.
+Kromě zřejmého přínosu pro vaše soukromí vám vlastní plnohodnotný uzel také zajistí pravdivost dat v blockchainu, ochrání vás před cenzurou a umožní vám aktivně se podílet na správě Bitcoinu. Používáním vlastního uzlu přispíváte svou ekonomickou vahou do vámi zvoleného blockchainu, což je důležité během konfliktů v komunitě, jako například během války o velikost bloku v letech 2015 až 2017. V případě forku by vás používání uzlu třetí strany mohlo vést k podpoře řetězce, který nechcete upřednostňovat, protože provozovatel uzlu rozhoduje za vás. Jak jistě chápete, z hlediska ochrany soukromí a obecnější suverenity jednotlivce je nezbytné provozovat a používat svůj vlastní plnohodnotný uzel!
 
-První radou, kterou bych mohl dát, je začlenit se do nejhustšího davu. Na Bitcoinu to znamená používat nejvíce přijímané skriptovací vzory. Například skripty P2WSH, často používané pro konfigurace SegWit V0 multisig, jsou velmi vzácné. Nedovolují vám skrýt se v velké anonymní skupině. Totéž platí pro staré modely jako P2PKH nebo P2SH. Ačkoli jsou široce přítomné v UTXO setu, pro nové transakce se používají čím dál méně.
+### Klamavé analytické heuristiky
 
-Obecně je bezpečnější obrátit se k nejnovějšímu skriptovacímu standardu, pokud je dostatečně přijatý. Takže, pokud bych v roce 2022 nedoporučil používání P2TR (Taproot) kvůli jeho nízkému přijetí, do roku 2024 bych doporučil volit tento typ skriptu, nebo v případě potřeby skript SegWit V0, jelikož počet transakcí používajících P2TR začíná představovat velmi významnou část.
+Obecněji řečeno, je důležité porozumět heuristikám, o kterých jsme hovořili v předchozí části, abychom se jim mohli lépe vyhnout nebo je oklamat. Přijetí řady osvědčených postupů se může ukázat jako přínosné, i když nejsou nezbytné. Nabízejí další vrstvu ochrany, která může být důležitá pro zachování dobrého soukromí při používání Bitcoinu.
 
-![BTC204](assets/notext/46/03.webp)
+První rada, kterou vám mohu dát, je, abyste se vmísili do nejhustšího davu. U Bitcoinu to znamená používat nejrozšířenější šablony skriptů. Například skripty P2WSH, které se často používají pro multisig konfigurace SegWit V0, jsou velmi vzácné. Neumožňují skrýt se ve velkém souboru anonymity. Totéž platí pro starší šablony, jako jsou P2PKH nebo P2SH. Přestože jsou v sadě UTXO hojně zastoupeny, pro nové transakce se používají stále méně.
+
+Obecně je bezpečnější přejít na nejnovější standard písma, pokud je dostatečně přijat. Zatímco tedy v roce 2022 bych nedoporučoval používat P2TR (Taproot) kvůli jeho nízkému přijetí, v roce 2024 bych doporučoval zvolit tento typ skriptu, nebo v opačném případě skript SegWit V0, protože počet transakcí využívajících P2TR začíná představovat velmi významnou část.
 
 Zdroj: [txstats.com](https://txstats.com/d/000000054/utxo-set-repartition-by-output-type)
-Dalším tipem pro zachování vašeho soukromí je pokusit se obejít interní heuristiky transakcí. Například při provádění platby byste se měli pokusit vyhnout vytvoření výstupu s kulatou částkou, protože to by mohlo signalizovat, že druhý výstup představuje změnu. Pokud potřebujete poslat 100k sats příteli, zvažte převod mírně vyšší částky, abyste se vyhnuli této heuristice. Podobně se snažte nevytvářet výstupy změny, které jsou nepřiměřeně vysoké ve srovnání s provedenou platbou, protože to by také mohlo odhalit, který z výstupů představuje změnu.
-![BTC204](assets/notext/46/04.webp)
 
-Nakonec, pokud pravidelně provádíte transakce Bitcoinem, ujistěte se, že je nevysíláte vždy ve stejných časech. Rozložením vysílání vašich transakcí během dne a týdne se vyhnete poskytnutí možnosti vnějším pozorovatelům detekovat časový vzor založený na časových pásmech, který by mohl zlepšit jejich analýzu.
+Dalším tipem pro ochranu soukromí je pokusit se obejít interní heuristiku transakcí. Například při platbě se můžete pokusit nevytvářet výstup se zaokrouhlenou částkou, protože by to mohlo signalizovat, že jiný výstup představuje změnu. Pokud máte kamarádovi poslat 100 tisíc satoshi, zvažte převod o něco vyšší částky, abyste této heuristice unikli. Stejně tak se snažte nevytvářet výstupy se zbytkem, které jsou v porovnání s provedenou platbou neúměrně vysoké, protože by to také mohlo prozradit, který z výstupů představuje zbytek.
 
-Kromě všech těchto dobrých praktik, které je třeba denně dodržovat, existují ještě účinnější metody, jak úplně přerušit sledovatelnost vašich bitcoinů. Mezi nimi jsou samozřejmě transakce coinjoin, které podrobně prozkoumáme v následující části.
+A konečně, pokud provádíte transakce s bitcoiny pravidelně, ujistěte se, že je nepřevádíte vždy ve stejnou dobu. Rozložením přenosu vašich transakcí v průběhu dne a týdne zabráníte tomu, aby vnější pozorovatelé měli možnost zjistit časový vzorec na základě časových pásem, který by mohl zlepšit jejich analýzu.
+
+Kromě všech těchto osvědčených postupů, které si můžete osvojit na denní bázi, existují ještě účinnější metody, jak zcela přerušit sledovatelnost vašich bitcoinů. Mezi ně patří samozřejmě transakce coinjoin, které si podrobně prozkoumáme v následující části.
 
 # Porozumění transakcím Coinjoin
 
 <partId>6d0bbf16-3714-4db1-9897-2d45019f6bdc</partId>
 
-## Co je transakce Coinjoin?
+## Co je to transakce Coinjoin?
 
 <chapterId>0862bc6b-1c48-4aa4-b76d-4f547b469008</chapterId>
 
-Po studiu základů ochrany soukromí se nyní budeme zabývat sofistikovanějšími technikami zaměřenými na aktivní obranu vašeho soukromí, zejména prostřednictvím disociace historie vašich bitcoinů. V následující části prozkoumáme mnoho malých technik, ale nejprve bych vám chtěl mluvit o coinjoin.
+Po prostudování základů ochrany soukromí si nyní probereme sofistikovanější techniky zaměřené na aktivní ochranu vašeho soukromí, zejména disasociaci vaší bitcoinové historie. V příští části se budeme zabývat mnoha drobnými technikami, ale nejprve vám chci povědět o coinjoinu.
 
-Coinjoin je často považován za nejúčinnější metodu ochrany soukromí uživatelů Bitcoinu. Ale co přesně je transakce coinjoin? Pojďme to zjistit společně.
+Coinjoin je často považován za nejúčinnější způsob ochrany soukromí uživatelů bitcoinu. Ale co přesně je transakce coinjoin? Pojďme to společně zjistit.
 
-### Základní principy Coinjoin
+### Základní principy funkce Coinjoin
 
-Coinjoin je technika, která narušuje sledovatelnost bitcoinů na blockchainu. Spoléhá na kolaborativní transakci se specifickou strukturou stejného názvu: transakce coinjoin.
-Jak jsme viděli v prvních částech tohoto školení, transakce na Bitcoinu jsou známé všem uživatelům prostřednictvím jejich uzlu. Je tedy snadné ověřit řetězec elektronických podpisů každé mince a pozorovat její historii. To znamená, že všichni uživatelé mohou pokusit analyzovat transakce ostatních uživatelů. V důsledku toho je anonymita na úrovni transakce nemožná. Anonymita je však zachována na úrovni individuální identifikace. Na rozdíl od tradičního bankovního systému, kde je každý účet spojen s osobní identitou, na Bitcoinu jsou finanční prostředky spojeny s páry kryptografických klíčů (nebo skripty), čímž uživatelům nabízí formu pseudonymity za kryptografickými identifikátory.
-![BTC204](assets/cs/51/01.webp)
+Coinjoin je technika, která narušuje sledování bitcoinů v blockchainu. Je založena na kolaborativní transakci se specifickou strukturou stejného jména: coinjoin transakce.
 
-Důvěrnost na Bitcoinu je ohrožena, když vnější pozorovatelé dokážou spojit konkrétní UTXO s identifikovanými uživateli. Jakmile je tato asociace stanovena, stává se možné sledovat jejich transakce a analyzovat historii jejich bitcoinů. Coinjoin je přesně technika vyvinutá k narušení sledovatelnosti UTXO, aby nabídla určitou úroveň důvěrnosti uživatelům Bitcoinu na úrovni transakce.
+Jak jsme viděli v prvních částech tohoto školení, transakce na Bitcoinu jsou všem uživatelům známy prostřednictvím jejich uzlu. Je proto snadné ověřit řetězec elektronického podpisu každé mince a sledovat její historii. To znamená, že všichni uživatelé se mohou pokusit analyzovat transakce ostatních uživatelů. V důsledku toho je anonymita na úrovni transakcí nemožná. Na úrovni individuální identifikace je však anonymita zachována. Na rozdíl od tradičního bankovnictví, kde je každý účet spojen s osobní identitou, jsou v Bitcoinu finanční prostředky spojeny s dvojicemi kryptografických klíčů (nebo skriptů), což uživatelům nabízí určitou formu pseudonymity za kryptografickými identifikátory.
 
-Coinjoin zvyšuje důvěrnost uživatelů Bitcoinu tím, že komplikuje analýzu řetězce pro vnější pozorovatele. Jejich struktura umožňuje sloučení několika mincí od různých uživatelů do jedné transakce, čímž se zaměňují stopy a ztěžuje se určení vztahů mezi vstupními a výstupními adresami.
+![BTC204](assets/it/51/01.webp)
 
-Je důležité pochopit, že cílem transakce coinjoin je narušit historii mince. Tato technika neposkytuje trvalou anonymitu ani definitivně neblokuje sledování bitcoinů, na rozdíl od toho, co by si někdo mohl myslet. Coinjoin má za cíl pouze narušit historii v bodě, kde je transakce coinjoin provedena. Nicméně, před a po této operaci, zůstává mince vystavena stejným rizikům soukromí.
+Důvěrnost bitcoinů je tedy ohrožena, pokud jsou vnější pozorovatelé schopni spojit konkrétní UTXO s identifikovanými uživateli. Jakmile je toto spojení vytvořeno, je možné sledovat jejich transakce a analyzovat jejich bitcoinovou historii. Coinjoin je právě technika vyvinutá k narušení sledování UTXO s cílem zajistit určitou úroveň důvěrnosti uživatelů bitcoinu na úrovni transakcí.
 
-![BTC204](assets/notext/51/02.webp)
+Coinjoiny zvyšují důvěrnost uživatelů bitcoinu tím, že komplikují analýzu řetězce pro vnější pozorovatele. Jejich struktura umožňuje sloučit několik mincí od různých uživatelů do jediné transakce, čímž zamlžuje stopy a ztěžuje určení vazeb mezi vstupními a výstupními adresami.
 
-### Jak fungují coinjoiny?
+Je důležité si uvědomit, že cílem transakce coinjoin je narušit historii mince. Na rozdíl od toho, co by si někdo mohl myslet, tato technika neposkytuje trvalou anonymitu ani trvale nezastavuje sledovatelnost bitcoinů. Cílem transakce coinjoin je pouze přerušit historii v okamžiku, kdy je transakce coinjoin provedena. Před touto transakcí i po ní však mince zůstává vystavena stejným rizikům ohrožujícím soukromí.
 
-Princip coinjoinu spočívá v kolaborativním přístupu: několik uživatelů, kteří si přejí smíchat své bitcoiny, vloží identické částky do vstupů stejné transakce. Tyto částky jsou pak redistribuovány ve výstupech stejných hodnot každému uživateli.
+![BTC204](assets/fr/104.webp)
 
-![BTC204](assets/notext/51/03.webp)
+### Jak fungují koincidenční spoje?
 
-Na konci transakce se stává nemožným spojit konkrétní výstup s známým uživatelem na vstupu. Mezi vstupy a výstupy neexistuje přímá spojitost, což narušuje asociaci mezi uživateli a jejich UTXO, stejně jako historii každé mince.
+Princip coinjoinu je založen na kolaborativním přístupu: několik uživatelů, kteří chtějí smíchat své bitcoiny, vloží stejné částky na vstupy stejné transakce. Tyto částky jsou pak přerozděleny na výstupech ve stejných hodnotách každému uživateli.
 
-![BTC204](assets/notext/51/04.webp)
-Pojďme si vzít příklad Alice. Chce poslat své sestře Eve k narozeninám přibližně 100 000 satoshi (sats). Alice však nechce, aby Eve mohla sledovat historii jejích transakcí, protože nechce odhalit, kolik bitcoinů vlastní nebo jak je získala. Aby toho dosáhla, rozhodne se Alice přerušit historii svého UTXO pomocí transakce coinjoin. Organizuje spolupráci s Bobem, Charlesem, Davidem a Frankem, aby provedli společnou transakci: - Alice, Bob, Charles, David a Frank každý vloží UTXO o velikosti 105 000 sats (s 5 000 sats na těžební poplatky) jako vstupy pro transakci:
+![BTC204](assets/fr/105.webp)
 
-![BTC204](assets/notext/51/05.webp)
+Na konci transakce je nemožné přiřadit konkrétní výstup ke známému uživatelskému vstupu. Mezi vstupy a výstupy neexistuje žádná přímá vazba, čímž se přeruší spojení mezi uživateli a jejich UTXO a také historie jednotlivých mincí.
 
-- Jako protihodnotu za použití těchto vstupů každý generuje novou adresu pro vytvoření pěti identických výstupů po 100 000 sats každý. Každý získá jeden výstup:
+![BTC204](assets/fr/106.webp)
 
-![BTC204](assets/notext/51/06.webp)
+Vezměme si příklad Alice. Ta chce poslat své sestře Evě k narozeninám asi 100 000 satoši (sats). Alice však nechce, aby Eva mohla sledovat historii jejích transakcí, protože nechce prozradit, kolik bitcoinů vlastní a jak je získala. Za tímto účelem se Alice rozhodne narušit svou historii UTXO transakcí coinjoin. Domluví se s Bobem, Charlesem, Davidem a Frankem, že provedou společnou transakci: Alice, Bob, Charles, David a Frank se každý zavazuje, že jako vstup pro transakci poskytne UTXO ve výši 105 000 sátů (s 5 000 sáty na poplatky za těžbu):
 
-- Alice skončí s UTXO o velikosti 100 000 sats, jejíž historie je smíšená. Toto UTXO použije v nové transakci, aby poslala částku Eve k narozeninám:
+![BTC204](assets/fr/107.webp)
 
-![BTC204](assets/notext/51/07.webp)
 
-- Pokud se Eve pokusí analyzovat tuto transakci, aby získala informace, setká se s coinjoin transakcí zahrnující Alice, Boba, Charlese, Davida a Franka. Kvůli uniformitě částek nebude schopna rozlišit, který vstup patří komu, a tudíž nemůže sledovat historii Aliceina UTXO ani určit, kolik bitcoinů její sestra vlastní nebo jak je získala:
+- Na oplátku za použití těchto vstupů každý z nich vygeneruje novou adresu a vytvoří pět identických výstupů po 100 000 satech. Každý účastník získá jeden výstup:
 
-![BTC204](assets/notext/51/08.webp)
+![BTC204](assets/fr/108.webp)
 
-V tomto scénáři Alice použila techniku coinjoin, aby zvýšila své soukromí proti retrospektivní analýze. Skutečně, Alice se chrání proti možné analýze od Eve, která by začala od konkrétní transakce a sledovala historii UTXO zpětně. Tato ochrana proti analýze od současnosti do minulosti je to, co nazýváme retrospektivní anonset. Tento koncept prozkoumáme podrobněji v posledních kapitolách této části.
 
-Coinjoin však také nabízí možnost zvýšit soukromí proti analýze z minulosti do současnosti, což se označuje jako perspektivní anonset. Vraťme se k našemu příkladu, kde Alice poslala Eve 98 000 sats k narozeninám, ale s obrácenými rolemi. Představme si nyní, že o své soukromí se obává Eve. Skutečně, Alice by mohla být pokušena sledovat minci, kterou poslala Eve, aby získala informace. Eve by mohla tento právě obdržený UTXO konsolidovat se všemi svými ostatními UTXO, což by Alice mohlo odhalit, kolik bitcoinů drží ve své peněžence. Aby se tomu vyhnula, může také Eve přerušit historii mince, kterou právě obdržela.
+- Alice skončí s UTXO o 100 000 satech, jejichž historie je smíšená. Toto UTXO použije v nové transakci k odeslání částky Evě k narozeninám:
 
-- Eve, Grace, Mallory, Oscar a Victor každý vloží UTXO o velikosti 98 000 sats jako vstupy do Bitcoinové transakce:
-  ![BTC204](assets/notext/51/09.webp)
+![BTC204](assets/fr/109.webp)
 
-- Jako protihodnotu za použití těchto vstupů každý poskytne novou adresu pro vytvoření 5 výstupů po 97 500 sats každý, dokonale rovné. Každý uživatel získá výstup:
 
-![BTC204](assets/notext/51/10.webp)
+- Pokud se Eva pokusí tuto transakci analyzovat a získat z ní informace, narazí na transakci coinjoin, které se účastní Alice, Bob, Charles, David a Frank. Protože Eva nemůže kvůli jednotnosti částek rozlišit, komu jednotlivé vstupy patří, nemůže vysledovat historii Alicina UTXO ani určit, kolik bitcoinů její sestra vlastní a jak je získala:
 
-- Eve nyní drží UTXO o velikosti 97 500 sats s přerušenou historií. Může jej bez obav použít pro budoucí transakce. Skutečně, pokud se Alice pokusí sledovat bitcoiny, které poslala Eve, narazí na coinjoin transakci. Nebude schopna určit, které výstupní UTXO patří Eve. Analýza se pak stává nemožnou:
+![BTC204](assets/fr/110.webp)
 
-![BTC204](assets/notext/51/11.webp)
-V prvním příkladu jsme viděli, jak coinjoin může chránit soukromí mince ve vztahu k její minulosti a ve druhém příkladu, jak může také zabezpečit historii mince ve vztahu k její budoucnosti. Proto jsem zmínil, že coinjoin by měl být vnímán jako jednorázová událost, která segmentuje historii mince v obou směrech:
-![BTC204](assets/notext/51/02.webp)
+V tomto scénáři Alice použila techniku coinjoin, aby zvýšila své soukromí proti zpětné analýze. Alice se tak vlastně chrání proti možné analýze ze strany Evy, která by začala od konkrétní transakce a sledovala historii UTXO zpětně. Tuto ochranu proti analýze ze současnosti do minulosti nazýváme retrospektivní anonset. Podrobněji se tímto konceptem budeme zabývat v posledních kapitolách této části.
 
-### Míchání, coinjoins, mixéry... Jaký je rozdíl?
+Coinjoin však nabízí také možnost zlepšení ochrany soukromí proti analýze z minulosti do současnosti, tzv. prospektivní anonset. Vraťme se k našemu příkladu, kdy Alice poslala 98 000 sátů Evě v den jejích narozenin, ale vyměňme role. Představme si nyní, že je to Eva, kdo má obavy o své soukromí. Ve skutečnosti by Alice mohla být v pokušení sledovat minci, kterou poslala Evě, aby získala informace. Eva by mohla konsolidovat toto nově obdržené UTXO se všemi svými ostatními UTXO, což by mohlo Alici prozradit množství bitcoinů, které má ve své peněžence. Aby se tomu zabránilo, může Eve také narušit historii nově přijaté mince.
 
-Pojem "míchání" je někdy používán k popisu coinjoins, termín, který někteří bitcoinisté odmítají, protože se obávají záměny s custodial mixéry. Nicméně si myslím, že tato obava je neopodstatněná, protože v matematickém kontextu coinjoin přesně ztělesňuje koncept míchání.
 
-V obecném poli matematiky se míchání vztahuje na vlastnost dynamického systému, kde po určité době mohou být všechny části počátečního prostoru teoreticky smíchány s jakoukoliv jinou částí. Míchání naznačuje, že pozice částice nebo stav systému se vyvíjí takovým způsobem, že jeho budoucí distribuce je nezávislá na jeho počáteční distribuci, čímž dosahuje stavu, kde jsou charakteristiky počátečního stavu rovnoměrně rozloženy po celém prostoru systému. To je přesně to, co se děje v coinjoinu s bitcoiny. Tedy podle mého názoru je coinjoin skutečně metodou míchání mincí.
+- Eve, Grace, Mallory, Oscar a Victor vložili do transakce s bitcoiny UTXO o hodnotě 98 000 sátů:
 
-![BTC204](assets/notext/51/12.webp)
+![BTC204](assets/fr/111.webp)
 
-Je však důležité rozlišovat coinjoin od mixérů. Mixér je služba, kam uživatelé posílají své bitcoiny k míchání. Tyto služby byly populární během 2010s, ale jejich používání kleslo kvůli dvěma hlavním nevýhodám ve srovnání s coinjoin:
 
-- Vyžadují, aby uživatel vzdal se během míchacího procesu opatrovnictví nad svými finančními prostředky, což je vystavuje riziku krádeže;
-- Neexistuje záruka, že mixér nezaznamenává podrobnosti transakcí, nebo dokonce neprodává tyto informace společnostem provádějícím analýzu řetězce.
-  ![BTC204](assets/notext/51/13.webp)
+- Výměnou za použití těchto vstupů poskytne každý z nich novou adresu pro vytvoření 5 výstupů po 97 500 satech, které jsou si naprosto rovny. Každý uživatel získá jeden výstup:
 
-V současnosti proto uživatelé dávají přednost coinjoinu, protože jim to umožňuje udržet plnou kontrolu nad svými finančními prostředky během celého procesu. Účastníci coinjoinu nemají riziko, že by jejich bitcoiny byly ukradeny jinými zúčastněnými stranami. Pojďme společně prozkoumat, jak je to všechno možné v další kapitole.
+![BTC204](assets/fr/112.webp)
+
+
+- Eva má nyní UTXO 97 500 satelitů s přerušenou historií. Může ho bez obav používat pro budoucí transakce. Pokud se totiž Alice pokusí sledovat bitcoiny, které poslala Evě, narazí na transakci coinjoin. Nebude schopna určit, ke kterému výstupu UTXO Eve patří. Analýza se pak stává nemožnou:
+
+![BTC204](assets/fr/113.webp)
+
+V prvním příkladu jsme viděli, jak může coinjoin chránit soukromí mince ve vztahu k její minulosti, a ve druhém příkladu, jak může také zabezpečit historii mince ve vztahu k její budoucnosti. Proto jsem zmínil, že coinjoin je třeba vnímat jako jednorázovou událost, která rozděluje historii mince oběma směry:
+
+![BTC204](assets/fr/104.webp)
+
+### Míchání, koincidenční spoje, mixéry... Jaký je v tom rozdíl?
+
+Pro označení coinjoins se někdy používá termín "mixování", který někteří bitcoináři odmítají, protože se obávají záměny s custodial mixers. Domnívám se však, že tato obava je neopodstatněná, protože v matematickém kontextu coinjoin přesně ztělesňuje pojem mixování.
+
+V obecné matematice se mícháním rozumí vlastnost dynamického systému, kdy po určité době mohou být teoreticky všechny části počátečního prostoru smíchány s jakoukoli jinou částí. Míchání znamená, že poloha částice nebo stav systému se vyvíjí tak, že jeho budoucí rozložení je nezávislé na jeho počátečním rozložení, a dosahuje tak stavu, kdy jsou vlastnosti počátečního stavu rovnoměrně rozloženy v prostoru systému. Přesně to se děje při spojení mincí s bitcoiny. Podle mého názoru je tedy coinjoin skutečně metodou míchání mincí.
+
+![BTC204](assets/fr/114.webp)
+
+Je však důležité rozlišovat mezi koincidenčními spoji a směšovači. Mixér je služba, kam uživatelé posílají své bitcoiny, aby byly smíchány. Tyto služby byly populární v průběhu roku 2010, ale jejich používání pokleslo kvůli dvěma hlavním nevýhodám ve srovnání s coinjoinem:
+
+
+- Vyžadují, aby se uživatelé během procesu míchání vzdali úschovy svých finančních prostředků, čímž se vystavují riziku krádeže;
+- Neexistuje žádná záruka, že mixér nebude zaznamenávat podrobnosti o transakcích, nebo dokonce tyto informace prodávat společnostem zabývajícím se analýzou blockchainu.
+
+![BTC204](assets/fr/115.webp)
+
+Uživatelé proto dnes dávají přednost coinjoinu, protože jim umožňuje zachovat si plnou kontrolu nad svými prostředky v průběhu celého procesu. Účastníci coinjoinu neriskují, že jim bitcoiny ukradnou ostatní zúčastněné strany. V následující kapitole společně prozkoumáme, jak je to možné.
 
 ## Zerolink a Chaumian Coinjoins
 
 <chapterId>326c9654-b359-4906-b23d-d6518dd5dc3e</chapterId>
 
-Soukromí poskytované coinjoinem je získáno na velikosti skupiny, ve které je náš kus skryt. Proto je nutné najít co nejvíce účastníků. Je zcela možné provést coinjoin ručně, s uživateli, které si člověk najde sám, ale tato metoda je složitá a nedovoluje dosáhnout velkých anonsetů.
+Soukromí, které poskytuje coinjoin, je založeno na velikosti skupiny, ve které je náš kus skrytý. Proto je nutné najít co nejvíce účastníků. Je zcela možné spustit coinjoin ručně, s nezávisle nalezenými účastníky, ale tato metoda je složitá a neumožňuje velké anonsety.
 
-To je důvod, proč se na Bitcoinu vyvinuli koordinátoři coinjoinu. Jejich úlohou je spojit různé uživatele a předat informace potřebné pro úspěšné dokončení společné transakce.
+To je důvod, proč se na Bitcoinu vyvinuli koordinátoři coinjoin. Jejich úkolem je propojovat různé uživatele a předávat informace nezbytné pro úspěšné dokončení společné transakce.
 
-![BTC204](assets/notext/52/01.webp)
+![BTC204](assets/fr/116.webp)
 
-Ale jak můžeme zajistit, že koordinátor nikdy nemá kontrolu nad bitcoiny uživatelů, a přestože jsou to oni, kdo sestavuje transakci coinjoin, jak můžeme zajistit, že nemohou spojit vstupy a výstupy uživatelů, což by mohlo představovat únik soukromí?
+Jak ale zajistit, aby koordinátor nikdy neměl kontrolu nad bitcoiny uživatelů, a přestože je osobou, která transakci coinjoin vytváří, jak zajistit, aby nemohl propojit vstupy a výstupy uživatelů, což by mohlo znamenat ztrátu soukromí?
 
 ### Chaumovy slepé podpisy
 
-Moderní implementace coinjoinu využívají Davidovy Chaumovy slepé podpisy k zabránění úniku informací. Pojďme se společně rychle podívat, jak tyto slepé podpisy fungují.
-Slepé podpisy Chauma jsou forma digitálního podpisu, kde vydavatel podpisu nezná obsah zprávy, kterou podepisuje. Tento podpis lze později ověřit s původní zprávou. Tuto techniku vyvinul kryptograf David Chaum v roce 1983.
+Moderní implementace coinjoinu používají slepé podpisy Davida Chauma, které zabraňují úniku informací. Pojďme společně rychle prostudovat, jak tyto slepé podpisy fungují.
 
-Vezměme si příklad společnosti, která chce ověřit pravost důvěrného dokumentu, jako je smlouva, aniž by odhalila jeho obsah. Společnost použije maskovací proces, který kryptograficky transformuje původní dokument reverzibilním způsobem. Tento modifikovaný dokument je poslán certifikační autoritě, která aplikuje slepý podpis, aniž by znala podkladový obsah. Po obdržení podepsaného dokumentu společnost odmaskuje podpis. Výsledkem je původní dokument ověřený podpisem autority, aniž by autorita kdy viděla původní obsah.
+Chaumovy slepé podpisy jsou formou digitálního podpisu, při níž vydavatel podpisu nezná obsah zprávy, kterou podepisuje. Podpis však lze později ověřit pomocí původní zprávy. Tuto techniku vyvinul v roce 1983 kryptograf David Chaum.
 
-Slepé podpisy Chauma tedy umožňují certifikaci pravosti dokumentu bez znalosti jeho obsahu, což zaručuje jak důvěrnost uživatelských dat, tak integritu podepsaného dokumentu.
+Vezměme si příklad společnosti, která chce ověřit důvěrný dokument, například smlouvu, aniž by prozradila jeho obsah. Společnost použije proces maskování, který kryptograficky transformuje původní dokument reverzibilním způsobem. Takto upravený dokument je zaslán certifikační autoritě, která použije slepý podpis, aniž by znala základní obsah. Po obdržení podepsaného dokumentu společnost odstraní maskování z podpisu. Výsledkem je původní dokument ověřený podpisem autority, aniž by autorita kdy viděla původní obsah.
+
+Chaumovy slepé podpisy tak umožňují ověřit pravost dokumentu bez znalosti jeho obsahu, čímž je zajištěna jak důvěrnost dat uživatele, tak integrita podepsaného dokumentu.
 
 ### Chaumian Coinjoins
 
-V "Chaumian CoinJoins" je kombinováno použití Tor a slepých podpisů Davida Chauma, aby se zajistilo, že koordinátor nemůže vědět, který výstup patří kterému uživateli. Proces konstrukce transakce coinjoin se točí kolem 3 hlavních kroků: registrace vstupů, registrace výstupů a podepisování transakce. Podívejme se na tento proces na příkladu Alice, jedné z účastnic coinjoinu. Všichni ostatní účastníci postupují stejnými kroky jako Alice, každý na vlastní pěst.
+V "Chaumian CoinJoins" se kombinuje použití sítě Tor a slepých podpisů Davida Chauma, aby se zajistilo, že koordinátor nemůže vědět, kterému uživateli patří který výstup. Proces konstrukce transakcí coinjoin se skládá ze tří hlavních kroků: registrace vstupu, registrace výstupu a podepsání transakce. Prozkoumejme tento proces na příkladu Alice, jednoho z účastníků coinjoinu. Všichni ostatní účastníci postupují stejně jako Alice, každý sám za sebe.
 
 **Krok 1: Registrace vstupů.**
 
-- Alice pošle koordinátorovi UTXO, které chce použít jako vstup pro transakci, stejně jako maskovanou přijímací adresu, kterou chce použít jako výstup pro přijetí svých bitcoinů. Koordinátor tedy nemůže znát Aliceinu adresu. Vidí pouze její maskovanou verzi:
 
-- Koordinátor ověří platnost vstupů, poté podepíše Aliceinu maskovanou adresu svým soukromým klíčem. Vrátí Alice slepý podpis:
+- Alice pošle koordinátorovi adresu UTXO, kterou chce použít jako vstup pro transakci, a také maskovanou přijímací adresu, kterou chce použít jako výstup pro příjem svých bitcoinů. Koordinátor tedy nemůže znát Alicinu adresu. Vidí pouze její maskovanou verzi.
+- Koordinátor ověří platnost vstupů a poté podepíše Alicinu maskovanou adresu jejím soukromým klíčem. Poté zašle Alici slepý podpis.
 
-**Krok 2: Registrace výstupů.**
+**Krok 2: Nahrávání výstupů.**
 
-- Alice nyní může odmaskovat svou adresu podepsanou soukromým klíčem koordinátora. Naváže nové spojení pod jinou Tor identitou. Koordinátor nemůže identifikovat, že se jedná o Alici, která se připojuje pod touto novou identitou:
 
-- Alice pošle odmaskovanou adresu a podpis koordinátorovi (který stále neví, že jde o Alici):
+- Alice nyní může odstranit maškarádu ze své adresy podepsané soukromým klíčem koordinátora. Naváže nové spojení pod jinou identitou Tor. Koordinátor nemůže identifikovat, že se pod touto novou identitou připojuje Alice.
+- Alice pošle nezakrytou adresu a podpis koordinátorovi (který stále neví, že se jedná o Alici).
 
-**Krok 3: Podepisování transakce.**
+**Krok 3: Podepsání transakce.**
 
-- Koordinátor podobně získá odmaskované výstupy od všech účastníků. Díky přidruženým podpisům může ověřit, že každý anonymně předložený výstup byl skutečně dříve podepsán jeho soukromým klíčem, čímž zajišťuje jejich legitimitu. Poté je připraven sestavit transakci coinjoin a pošle ji účastníkům, aby ji podepsali:
 
-- Alice, stejně jako ostatní účastníci, ověří, že její vstup a výstup jsou správně zahrnuty v transakci sestavené koordinátorem. Pokud je vše v pořádku, pošle koordinátorovi podpis, který odemkne skript jejího vstupu:
+- Koordinátor podobně získává nemaskované výstupy od všech účastníků. Pomocí přidružených podpisů může ověřit, že každý anonymně odeslaný výstup byl skutečně dříve podepsán jeho soukromým klíčem, čímž je zajištěna jeho legitimita. Poté je připraven zkonstruovat transakci coinjoin a zašle ji účastníkům k podpisu.
+- Alice, stejně jako ostatní účastníci, ověřuje, zda jsou její vstup a výstup správně zahrnuty do transakce sestavené koordinátorem. Pokud je vše vyhovující, odešle koordinátorovi podpis, který odemkne skript jejího vstupu.
+- Po shromáždění podpisů od všech účastníků coinjoinu může koordinátor transakci přenést přes síť Bitcoin, aby mohla být přidána do bloku.
 
-- Po shromáždění podpisů od všech účastníků coinjoinu může koordinátor transakci vysílat na Bitcoinovou síť, aby byla přidána do bloku.
-  V tomto systému koordinátor není schopen spojit vstup s konkrétním výstupem. Navíc nemůže převzít vlastnictví účastníkůvých prostředků, protože nikdy nemá přístup k soukromým klíčům potřebným k odemčení jejich UTXO. Během celého procesu, až do konce kroku 3, také nemá přístup k podpisům. Když Alice a ostatní účastníci podepíší globální transakci, po ověření, že je vše správně, koordinátor již nemůže tuto transakci, včetně výstupů, upravit bez jejího zneplatnění. To tedy brání krádeži bitcoinů koordinátorem.
-  Konečně, když účastník coinjoin zaznamenává svůj výstup v transakci, chce mít záruky podobné těm, které má občan hlasující ve volbách. Existuje dualita mezi veřejnými a soukromými aspekty těchto akcí. Na jedné straně je to, co si člověk přeje udržet v soukromí: pro voliče, nechtějí, aby jejich hlas byl spojen s jejich identitou; pro uživatele coinjoin, nechtějí, aby jejich výstup byl spojen s jejich vstupem. Skutečně, pokud koordinátor, nebo jakákoli jiná strana, dokáže navázat spojení mezi vstupem a výstupem, coinjoin ztrácí veškerý svůj účel. Jak bylo vysvětleno dříve, coinjoin musí fungovat jako přerušení v historii mince. Toto zastavení nastává právě kvůli nemožnosti spojit konkrétní vstup s konkrétním výstupem v transakci coinjoin (prospektivní anonset) a naopak (retrospektivní anonset).
+V tomto systému není koordinátor schopen propojit vstup s konkrétním výstupem. Kromě toho se nemůže zmocnit prostředků účastníků, protože nikdy nemá přístup k soukromým klíčům potřebným k odemčení jejich UTXO. V průběhu celého procesu až do konce kroku 3 nemá ani přístup k podpisům. Když Alice a ostatní účastníci podepíší globální transakci, po ověření, že je vše v pořádku, koordinátor již nemůže tuto transakci včetně výstupů měnit, aniž by ji zneplatnil. Tím je zabráněno krádeži bitcoinů koordinátorem.
 
-Na druhé straně je veřejný aspekt: volič chce zajistit, že jeho hlas je zahrnut v hlasovací urně; podobně, uživatel coinjoin chce zajistit, že jeho výstup je zahrnut v transakci coinjoin. Skutečně, je naprosto nezbytné, aby účastníci coinjoin mohli ověřit přítomnost svého výstupu před podepsáním transakce, jinak by koordinátor mohl ukrást prostředky.
+Když uživatel coinjoinu nakonec zaregistruje svůj výstup v transakci, chce mít podobné záruky jako občan hlasující ve volbách. Mezi veřejným a soukromým aspektem těchto akcí existuje dualita. Na jedné straně je to, co chcete udržet soukromé: volič nechce, aby jeho hlasovací lístek byl spojen s jeho identitou; uživatel coinjoinu nechce, aby jeho výstup byl spojen s jeho vstupem. Pokud se totiž koordinátorovi nebo jiné straně podaří vytvořit spojení mezi vstupem a výstupem, coinjoin ztrácí celý svůj smysl. Jak bylo vysvětleno dříve, coinjoin musí fungovat jako přerušení historie mince. Tato pauza nastává právě z důvodu nemožnosti spojit konkrétní vstup s konkrétním výstupem v transakci coinjoin (prospektivní anonset) a naopak (retrospektivní anonset).
 
-Jsou to právě tyto 2 veřejné a soukromé aspekty, umožněné použitím Davidovy Chaumovy slepé podpisy, které zaručují účastníkům Chaumian coinjoin, že jejich bitcoiny nebudou ukradeny a že jejich prostředky nemohou být vystopovány.
+Na druhé straně je tu veřejný aspekt: volič se chce ujistit, že jeho hlasovací lístek je zahrnut do volební urny; podobně uživatel coinjoinu se chce ujistit, že jeho výstup je zahrnut do transakce coinjoinu. Ve skutečnosti je naprosto nezbytné, aby účastníci coinjoinu mohli před podpisem transakce ověřit přítomnost svého výstupu, jinak by koordinátor mohl prostředky ukrást.
 
-### Kdo vymyslel koncept coinjoin?
+Právě tyto dva veřejné a soukromé aspekty, umožněné použitím slepých podpisů Davida Chauma, zajišťují účastníkům Chaumova coinjoinu, že jejich bitcoiny nebudou ukradeny a že jejich prostředky nebude možné vystopovat.
 
-Je obtížné určit s jistotou, kdo jako první představil myšlenku coinjoin na Bitcoinu a kdo měl nápad použít Davidovy Chaumovy slepé podpisy v tomto kontextu. Často se soudí, že to byl Gregory Maxwell, kdo o tom poprvé mluvil v [zprávě na BitcoinTalk v roce 2013](https://bitcointalk.org/index.php?topic=279249.0):
-Použití Chaumových slepých podpisů: Uživatelé se přihlásí a poskytnou vstupy (a adresy pro změnu) spolu s kryptograficky zaslepenou verzí adresy, na kterou chtějí poslat své soukromé mince; server podepíše tokeny a vrátí je uživatelům. Uživatelé se znovu připojí anonymně, odhalí své výstupní adresy a pošlou je zpět serveru. Server vidí, že všechny výstupy byly jím podepsány a že tudíž všechny výstupy pocházejí od platných účastníků. Později se lidé znovu připojí a podepíší.
-Maxwell, G. (2013, 22. srpna). _CoinJoin: Soukromí Bitcoinu pro skutečný svět_. Fórum BitcoinTalk. https://bitcointalk.org/index.php?topic=279249.0
+### Kdo vymyslel pojem coinjoin?
 
-![BTC204](assets/notext/52/09.webp)
-Avšak existují i dřívější zmínky, jak o Chaumových podpisech v kontextu mixování, tak i o coinjoinech. [V červnu 2011 Duncan Townsend představil na BitcoinTalk](https://bitcointalk.org/index.php?topic=12751.0) mixer, který využívá Chaumovy podpisy způsobem velmi podobným moderním Chaumian coinjoinům.
-Ve stejném vlákně je [zpráva od uživatele hashcoin jako reakce na Duncana Townsenda](https://bitcointalk.org/index.php?topic=12751.msg315793#msg315793) s návrhem na vylepšení jeho mixéru. Proces popsaný v této zprávě přesně odpovídá tomu, co se nejvíce podobá coinjoinům. Zmínka o podobném systému je také v [zprávě od Alexe Mizrahiho v roce 2012](https://gist.github.com/killerstorm/6f843e1d3ffc38191aebca67d483bd88#file-laundry), kdy radil tvůrcům Tenebrixu, jednoho z prvních altcoinů, který posloužil jako základ pro pozdější vytvoření Litecoinu. Dokonce ani termín "coinjoin" nevynalezl Greg Maxwell, ale pochází z nápadu Petera Todda.
+Je těžké s jistotou určit, kdo jako první představil myšlenku coinjoinu u Bitcoinu a kdo přišel s nápadem použít v této souvislosti slepé podpisy Davida Chauma. Často se má za to, že to byl Gregory Maxwell, kdo se o ní poprvé zmínil v [příspěvku na BitcoinTalk v roce 2013](https://bitcointalk.org/index.php?topic=279249.0):
 
-![BTC204](assets/notext/52/10.webp)
+Použití Chaumových slepých podpisů: Uživatelé se připojí a poskytnou vstupní údaje (a adresy pro ostatní) a kryptograficky zastřenou verzi adresy, na kterou chtějí poslat své soukromé mince; server tokeny podepíše a vrátí je uživatelům. Uživatelé se znovu anonymně připojí, odhalí své výstupní adresy a pošlou je zpět serveru. Server vidí, že všechny výstupy byly jím podepsány a že v důsledku toho jsou všechny výstupy od platných účastníků. Později se lidé znovu připojí a podepíší.
+
+Maxwell, G. (2013, 22. srpna). _CoinJoin: Bitcoin: soukromí pro reálný svět_. Fórum BitcoinTalk. https://bitcointalk.org/index.php?topic=279249.0
+
+Nicméně již dříve byly zmíněny obě Chaumovy signatury v kontextu míchání a koincidencí. [V červnu 2011 představil Duncan Townsend na BitcoinTalk](https://bitcointalk.org/index.php?topic=12751.0) mixér, který používá Chaumovy signatury způsobem dosti podobným moderním chaumovským coinjoins.
+
+Ve stejném vlákně je [zpráva o hashcoinech v reakci na Duncana Townsenda](https://bitcointalk.org/index.php?topic=12751.msg315793#msg315793), která má zlepšit jeho mixér. Postup popsaný v této zprávě představuje právě to, co je coinjoins nejbližší. Podobný systém je zmíněn také ve [zprávě od Alexe Mizrahiho z roku 2012](https://gist.github.com/killerstorm/6f843e1d3ffc38191aebca67d483bd88#file-laundry), protože radil tvůrcům Tenebrixu, jednoho z prvních altcoinů, který později posloužil jako základ pro vznik Litecoinu. Ani samotný termín "coinjoin" nevymyslel Greg Maxwell, ale pochází z nápadu Petera Todda.
+
+![BTC204](assets/fr/125.webp)
 
 ### Zerolink
 
-Zerolink je komplexní protokol mixování, který integruje Chaumian coinjoins a různé strategie k ochraně anonymity uživatelů proti několika formám analýzy blockchainu, zejména minimalizuje chyby související se správou peněženek. Tento protokol [byl představen nopara73 a TDevD v roce 2017](https://github.com/nopara73/ZeroLink/blob/master/README.md).
+Zerolink je komplexní směšovací protokol, který integruje Chaumiani coinjoins a různé strategie na ochranu anonymity uživatelů proti různým formám analýzy řetězců, čímž výrazně snižuje chyby spojené se správou peněženek. Tento protokol [představili nopara73 a TDevD v roce 2017](https://github.com/nopara73/ZeroLink/blob/master/README.md).
 
-![BTC204](assets/notext/52/11.webp)
+![BTC204](assets/fr/126.webp)
 
-Jak název napovídá, principem Zerolinku je provádění coinjoin transakcí, které zajišťují nemožnost vystopování spojení mezi vstupy a výstupy. Tato charakteristika je dosažena tím, že všechny výstupy mají dokonale identické částky.
+Jak už název napovídá, principem Zerolink je provádění transakcí coinjoin, které zajišťují, že vazby mezi vstupy a výstupy nelze vysledovat. Této funkce je dosaženo tím, že je zajištěno, že všechny výstupy mají naprosto identické částky.
 
-![BTC204](assets/notext/52/12.webp)
-Důležitým preventivním opatřením Zerolinku je úplné oddělení nemixovaných UTXO od mixovaných UTXO pomocí odlišných sad kryptografických klíčů, nebo dokonce oddělených peněženek. Tímto způsobem je "před-mix" peněženka, určená pro mince před mixováním, odlišena od "po-mix" peněženky, vyhrazené pro mince, které byly mixovány.
-![BTC204](assets/notext/52/13.webp)
+![BTC204](assets/fr/127.webp)
 
-Toto striktní oddělení UTXO primárně slouží k prevenci náhodných spojení mezi mixovaným UTXO a nemixovaným UTXO. Pokud k takovým spojením dojde, účinnost coinjoinu na mixovaném UTXO je zrušena, aniž by si uživatel byl vědom, čímž je ohrožena důvěrnost UTXO, jehož historii si myslel, že byla přerušena. Tyto spojení mohou vzniknout buď opětovným použitím adresy při zajištění mixovaného UTXO s nemixovaným, nebo aplikací heuristiky společného vlastnictví vstupů (CIOH), pokud uživatel používá mixované a nemixované UTXO jako vstupy téže transakce. Oddělením peněženek pro před-mixování a po-mixování se těmto náhodným spojením vyhýbá a uživatel je chráněn proti nechtěným chybám.
+Důležité preventivní opatření společnosti Zerolink spočívá v úplném oddělení nesmíšených UTXO od smíšených UTXO pomocí samostatných sad kryptografických klíčů nebo dokonce samostatných peněženek. Tímto způsobem se odlišuje peněženka "pre-mix", určená pro mince před smícháním, od peněženky "post-mix", vyhrazené pro mince, které byly smíchány.
 
-![BTC204](assets/notext/52/14.webp)
-Toto oddělení také nabízí možnost aplikovat odlišná pravidla mezi peněženkami před mícháním a po míchání na úrovni softwaru peněženky. Například v peněžence po míchání může software zakázat slučování UTXO do vstupů, aby se zabránilo aplikaci CIOH, která by ohrozila anonset uživatele. Je také možné standardizovat používání skriptů a možností transakcí (jako je například signalizace RBF) k prevenci identifikace podle otisků peněženky.
+![BTC204](assets/fr/128.webp)
 
-V současné době je Whirlpool jedinou implementací coinjoin, která přísně aplikuje protokol Zerolink. V následující kapitole prozkoumáme různé existující implementace coinjoin a výhody a nevýhody každé z nich.
+Toto přísné oddělení UTXO slouží především k tomu, aby se zabránilo náhodnému spojení smíšeného a nesmíšeného UTXO. Pokud totiž k takovým spojením dojde, účinnost coinjoinu na smíšeném UTXO je bez vědomí uživatele zrušena, čímž je ohrožena důvěrnost UTXO, jehož historie byla považována za porušenou. Tyto vazby mohou vzniknout buď opětovným použitím adresy pro zabezpečení smíšeného UTXO s nesmíšeným, nebo použitím heuristiky společného vlastnictví vstupu (CIOH), pokud uživatel spotřebuje smíšené a nesmíšené UTXO jako vstupy téže transakce. Oddělením portfolií před smícháním a po smíšení se těmto náhodným asociacím zabrání a uživatel je chráněn před neúmyslnými chybami.
 
-## Implementace Coinjoin
+![BTC204](assets/fr/129.webp)
+
+Toto oddělení také nabízí možnost uplatnit odlišná pravidla pro portfolia před smícháním a po smíšení na úrovni portfoliového softwaru. Například v postmixovém portfoliu může software zakázat slučování vstupních UTXO, aby se zabránilo použití CIOH, které by ohrozilo anonset uživatele. Je také možné standardizovat používání skriptů a transakčních možností (jako je například signalizace RBF), aby se zabránilo identifikaci pomocí otisků peněženky.
+
+V současné době je Whirlpool jedinou implementací coinjoinu, která striktně dodržuje protokol Zerolink. V následující kapitole se budeme zabývat různými existujícími implementacemi coinjoin a výhodami a nevýhodami každé z nich.
+
+## Implementace funkce Coinjoin
 
 <chapterId>e37ed073-9498-4e4f-820b-30951e829596</chapterId>
 
-_V roce 2024 jsme svědky významných změn v nástrojích dostupných pro uživatele, kteří chtějí provádět coinjoins na Bitcoinu. Nacházíme se v zásadním období a trh s coinjoin prochází velkou restrukturalizací. Proto bude tato kapitola pravděpodobně časem aktualizována._
+_V roce 2024 dojde k významným změnám v nástrojích, které budou mít uživatelé, kteří chtějí na Bitcoinu provozovat coinjoiny, k dispozici. V současné době se nacházíme v klíčovém období a trh s coinjoiny prochází zásadní restrukturalizací. Proto bude tato kapitola v průběhu času pravděpodobně aktualizována._
 
-V současné době existují hlavně 3 různé implementace coinjoin na Bitcoinu:
+Prozatím existují hlavně 3 různé implementace coinjoinu v Bitcoinu:
+
 
 - Whirlpool;
 - Wabisabi;
 - JoinMarket.
-  Každá z těchto implementací si klade za cíl přerušit historii UTXO prostřednictvím transakcí coinjoin. Nicméně, jejich mechanismy se výrazně liší. Proto je zásadní pochopit, jak každá funguje, abyste si mohli vybrat nejvhodnější možnost pro vaše potřeby.
+
+Cílem každé z těchto implementací je prolomit historii UTXO prostřednictvím transakcí coinjoin. Jejich mechanismy se však výrazně liší. Proto je nezbytné pochopit, jak každá z nich funguje, abyste si mohli vybrat možnost, která nejlépe vyhovuje vašim potřebám.
 
 ### JoinMarket
 
-JoinMarket, vytvořený v roce 2015 Adamem Gibsonem a Chrisem Belcherem, se od ostatních implementací coinjoin odlišuje díky svému unikátnímu modelu párování uživatelů. Tento systém je založen na P2P burze, kde někteří uživatelé, "tvůrci", dávají své bitcoiny k dispozici pro míchání, zatímco ostatní, "příjemci", tyto fondy používají k provádění coinjoinů výměnou za poplatek.
+Služba JoinMarket, kterou v roce 2015 vytvořili Adam Gibson a Chris Belcher, se od ostatních implementací coinjoinu liší svým jedinečným modelem párování uživatelů. Tento systém je založen na výměnném trhu P2P, kde někteří uživatelé, "tvůrci", dávají k dispozici své bitcoiny k míchání, zatímco jiní, "příjemci", používají tyto prostředky k provádění coinjoinů výměnou za poplatek.
 
-![BTC204](assets/notext/53/01.webp)
+![BTC204](assets/fr/130.webp)
 
-V tomto modelu "tvůrci" nechávají své bitcoiny k dispozici "příjemcům" a výměnou za svou službu dostávají poplatky. "Příjemci" na druhé straně platí za použití bitcoinů "tvůrců" k provedení vlastních transakcí coinjoin. Poplatky se liší v závislosti na roli: "tvůrci" akumulují poplatky za nabízení likvidity, zatímco "příjemci" platí poplatky. Tento trh funguje volně bez podmínek použití.
+V tomto modelu "tvůrci" nechávají své bitcoiny k dispozici "příjemcům" a výměnou za své služby dostávají poplatky. "Takers" na druhé straně platí za použití bitcoinů "makers" k provádění vlastních transakcí coinjoin. Poplatky za služby se liší podle role: "tvůrci" kumulují poplatky za svou nabídku likvidity, zatímco "takers" platí provize. Toto tržiště funguje volně bez podmínek použití.
 
-Jedním z hlavních nedostatků JoinMarketu je jeho složitost použití, která vyžaduje určitou znalost terminálů pro efektivní využití. Ačkoliv tato složitost není bariérou pro zkušeného uživatele, může omezit přístup pro širokou veřejnost. Nicméně, nedávné zavedení webového rozhraní s názvem JAM toto použití do jisté míry usnadnilo.
+Hlavní nevýhodou JoinMarketu je jeho složité používání, které vyžaduje určitou znalost terminálů, aby bylo možné jej efektivně využívat. Ačkoli tato složitost není pro zkušeného uživatele překážkou, může omezit přístup široké veřejnosti. Nedávné zavedení webového rozhraní nazvaného JAM však jeho používání poněkud usnadnilo.
 
-![BTC204](assets/notext/53/02.webp)
+![BTC204](assets/fr/131.webp)
 
 Zdroj: [JAM](https://github.com/joinmarket-webui/jam/blob/devel/docs/assets/screenshot-dark.webp)
 
-Nicméně, technická bariéra zůstává hlavní překážkou. V ekosystému coinjoin, kde je důvěrnost zvýšena počtem účastníků, jakékoli omezení snižující přístupnost přímo ovlivňuje dostupnou likviditu, což je klíčový faktor pro efektivitu míchání. Bitcoin, již nikový ve finančních transakcích, vidí své využití coinjoinů jako sub-niku a JoinMarket představuje ještě specializovanější frakci, čímž omezuje jeho potenciál zvýšit anonsety svých uživatelů.
-Přestože má JoinMarket díky svému inovativnímu P2P modelu pro coinjoins některé významné nevýhody, zejména pokud jde o strukturu transakcí. Na rozdíl od jiných implementací, jako je Whirlpool, JoinMarket negarantuje dokonalou rovnost mezi výstupy a je možné sledovat deterministické vazby mezi vstupy a výstupy. Navíc mu chybí nástroje, které by zabránily opětovnému míchání mincí, které již byly smíchány, což by mohlo ohrozit důvěrnost, kterou uživatelé hledají. Nakonec, ačkoliv je koncept JoinMarketu zajímavý, zejména pro ty, kteří mají zájem o dynamický trh s likviditou, jeho strukturální slabiny a technická složitost jej v mé opinii činí méně atraktivním, jak pro nováčky, tak pro odborníky hledající implementaci coinjoin.
+Hlavní překážkou však zůstává technická bariéra. V ekosystému coinjoin, kde je důvěrnost posílena počtem účastníků, má jakékoli omezení, které snižuje dostupnost, přímý vliv na dostupnou likviditu, která je rozhodujícím faktorem účinnosti míchání. Bitcoin, který již představuje niku v oblasti finančních transakcí, považuje využívání coinjoinů za dílčí nišu a JoinMarket představuje ještě specializovanější frakci, čímž omezuje svůj potenciál zvyšovat anonce svých uživatelů.
+
+I přes svůj inovativní model P2P párování pro coinjoiny má JoinMarket některé významné nevýhody, zejména pokud jde o transakční strukturu. Na rozdíl od jiných implementací, jako je Whirlpool, JoinMarket nezaručuje dokonalou rovnost mezi výstupy a mezi vstupy a výstupy mohou být vytvořeny deterministické vazby. Chybí mu také nástroje, které by zabránily opětovnému smíchání již smíchaných mincí, což by mohlo ohrozit důvěrnost, o kterou uživatelé usilují. A konečně, ačkoli je koncept JoinMarketu atraktivní, zejména pro zájemce o dynamický trh s likviditou, jeho strukturální nedostatky a technická složitost jej podle mého názoru činí méně atraktivním, a to jak pro nováčky, tak pro odborníky, kteří hledají implementaci coinjoinu.
 
 ### Wabisabi
 
-Wabisabi je další implementace coinjoin, s přístupem, který centralizuje koordinaci transakcí. Tento model byl navržen Ádámem Ficsórem (nopara73), Yuval Kogmanem, Lucasem Ontiverem a Istvánem András Seresem v roce 2021 a byl integrován do softwaru Wasabi 2.0 následující rok. Wabisabi je přesně evolucí modelu coinjoin softwaru Wasabi spuštěného v roce 2018.
+Wabisabi je další implementací coinjoinu s přístupem, který centralizuje koordinaci transakcí. Tento model navrhli Ádám Ficsór (nopara73), Yuval Kogman, Lucas Ontivero a István András Seres v roce 2021 a v následujícím roce byl integrován do softwaru Wasabi 2.0. Wabisabi přesně představuje evoluci modelu coinjoin softwaru Wasabi, který byl spuštěn v roce 2018.
 
-![BTC204](assets/notext/53/03.webp)
+Koncem roku 2010 přijala společnost Wasabi transakční strukturu pro svá coinjoins, která se zásadně lišila od struktury společnosti Whirlpool. Aby zvýšila počet anonsetů svých účastníků, používala společnost Wasabi velmi rozsáhlé transakce coinjoin, které sdružovaly desítky účastníků. Naproti tomu Whirlpool se rozhodl pro více malých transakcí, což umožnilo exponenciální nárůst anonsetů s každým cyklem.
 
-Ke konci 10. let 21. století přijal Wasabi pro své coinjoins strukturu transakcí, která byla radikálně odlišná od té u Whirlpoolu. Aby zvýšil anonsety svých účastníků, používal Wasabi velmi velké coinjoin transakce, které seskupovaly desítky účastníků. Naproti tomu Whirlpool zvolil více malých transakcí, což umožnilo exponenciální zvýšení anonsetů s každým cyklem.
+Obě implementace se liší také metodami zpracování zbytku. U Whirlpoolu byl zbytek vyloučen a izolován od UTXO před cykly coinjoin pomocí TX0, což je koncept, který dále vysvětlím v další kapitole. U Wasabi naopak zbytek tvořil jeden z výstupů transakce coinjoin, čímž se zachovaly deterministické vazby mezi některými vstupy a výstupy.
 
-Metody správy změn také odlišovaly obě implementace. U Whirlpoolu byla změna vyloučena a izolována od UTXO před cykly coinjoin díky TX0, konceptu, který vysvětlím podrobněji v další kapitole. U Wasabi naopak tvořila změna jeden z výstupů coinjoin transakce, což udržovalo deterministické vazby mezi určitými vstupy a výstupy.
+Wasabi ve verzi 2.0 upravil svůj přístup ke koincidencím tak, aby se přiblížil přístupu Whirlpoolu. Přestože transakce coinjoin zůstávají velmi rozsáhlé, je nyní možné řetězit několik po sobě jdoucích kol, a tak následovat model Whirlpool. Zvláštní úsilí bylo věnováno také správě drobných: na rozdíl od verze Wasabi 1.0, kde byly drobné přímo vázány na vstup uživatele, se Wabisabi snaží rozdělit drobné na několik malých částek, které jsou rozděleny ve stejných hodnotách pro všechny účastníky.
 
-![BTC204](assets/notext/53/04.webp)
+To si ukážeme na zjednodušeném příkladu, který zahrnuje pouze 2 uživatele: Alice chce smíchat 115 000 satelitů a Bob 210 000 satelitů. Pomineme-li provize, s Wasabi 1.0 by transakce coinjoin vygenerovala 3 výstupy po 100 000 satech plus 1 zbytek po 15 000 satech pro Alici a 1 zbytek po 10 000 satech pro Boba. Zbytkové výstupy by byly vždy spojeny se vstupy:
 
-S Wabisabi, verzí 2.0 Wasabi, si přizpůsobil svůj přístup k coinjoins, aby se přiblížil tomu u Whirlpoolu. Ačkoliv coinjoin transakce zůstávají velmi velké, je nyní možné provést několik po sobě jdoucích cyklů, čímž následuje model Whirlpoolu. Zvláštní úsilí bylo také věnováno správě změn: na rozdíl od Wasabi 1.0, kde byla změna přímo spojena s vstupy uživatelů, Wabisabi se snaží rozdělit změnu na několik malých částek, distribuovaných v rovných denominacích pro všechny účastníky.
+Podle Wabisabi by stejná transakce vytvořila 3 výstupy po 100 000 satech a 5 výstupů po 5 000 satech, čímž by se zbytek rozptýlil tak, že by nebyl přímo sledovatelný s konkrétním vstupem:
 
-Ilustrujme to na zjednodušeném příkladu zahrnujícím pouze 2 uživatele: Alice chce smíchat 115 000 sats a Bob 210 000 sats. Ignorujeme-li poplatky, s Wasabi 1.0 by transakce coinjoin vygenerovala 3 výstupy po 100 000 sats, plus 1 změnu 15 000 sats pro Alice a 1 změnu 10 000 sats pro Boba. Výstupy změny by vždy byly spojeny s vstupy:
+Osobně se domnívám, že řízení změn ve Wabisabi představuje několik rizik, která by mohla ohrozit jeho účinnost z hlediska ochrany osobních údajů:
 
-![BTC204](assets/notext/53/05.webp)
-Pod Wabisabi by stejná transakce vyprodukovala 3 výstupy po 100 000 sats a 5 výstupů po 5 000 sats, čímž by se změna rozptýlila tak, že není přímo vysledovatelná k konkrétnímu vstupu:
-![BTC204](assets/notext/53/06.webp)
-Osobně se domnívám, že řízení změn ve Wabisabi představuje několik rizik, která by mohla ohrozit jeho účinnost z hlediska soukromí:
 
-- Když uživatel přispěje UTXO výrazně větším než ostatní účastníci, nevyhnutelně skončí s množstvím změny, které bude spojeno s jejich vstupem. To je v rozporu s počátečním cílem protokolu, jehož cílem je eliminovat jakoukoli identifikovatelnou změnu;
-- Násobení denominací za účelem fragmentace změny může paradoxně poškodit efektivitu míchání. Tento proces může vést k poklesu anonsetů pro určité výstupy, jelikož se stávají snadněji identifikovatelnými;
-- Tato metoda také generuje UTXO nízké hodnoty, které představují problém s řízením pro uživatele. Tyto malé UTXO, pokud se stane příliš nákladné je utratit ve vztahu k jejich hodnotě, se mohou stát "prachem". Tento jev nutí uživatele sloučit několik UTXO do vstupů v jejich budoucích transakcích nebo je konsolidovat. V obou případech, kvůli COH, to může buď snížit získané anonsety nebo zcela zrušit soukromí získané původním coinjoinem.
+- Pokud uživatel přispěje UTXO výrazně větším množstvím než ostatní účastníci, nevyhnutelně skončí s množstvím změn, které bude spojeno s jeho vstupem. To je v rozporu s původním cílem protokolu, jehož cílem je eliminovat jakoukoli identifikovatelnou změnu;
+- Znásobení označení za účelem fragmentace zbytku může paradoxně poškodit účinnost míchání. Tento proces může vést ke snížení počtu anonsetů pro určité výstupy, protože se stávají snadněji identifikovatelnými;
+- Tato metoda také generuje UTXO s nízkou hodnotou, které pro uživatele představují problém při správě. Tyto malé UTXO, pokud se stanou příliš drahými na to, aby byly vynaloženy v poměru ke své hodnotě, se mohou stát "prachem" Tento jev přiměje uživatele, aby v budoucích transakcích sloučil několik vstupních UTXO nebo je konsolidoval. V obou případech to může vzhledem k COH snížit získané anonce nebo zcela zrušit výhody pro soukromí získané z počátečního spojení mincí.
 
-Na rozdíl od Whirlpool, který implementuje protokol ZeroLink zajišťující přísné oddělení mezi pre-mix a post-mix UTXO, Wabisabi toto striktní oddělení neudržuje. Také byly zaznamenány problémy s opětovným použitím adres některými klienty Wasabi, což je samozřejmě velmi škodlivé pro uživatele.
+Na rozdíl od společnosti Whirlpool, která uplatňuje protokol ZeroLink tím, že zajišťuje přísnou segregaci mezi UTXO před smícháním a po smíšení, společnost Wabisabi tuto přísnou segregaci nedodržuje. Objevily se také problémy s opakovaným používáním adres některými zákazníky společnosti Wasabi, což je samozřejmě pro uživatele velmi škodlivé.
 
-Ve verzi 2.0 Wasabi byla implementována nová politika poplatků za coinjoin. Nyní jsou poplatky koordinátorů stanoveny na 0,3 % pro UTXO větší než 0,01 bitcoinu, zatímco pro menší UTXO jsou tyto poplatky zcela prominuty. Navíc remixy pro tyto malé UTXO jsou zdarma, ačkoli těžební poplatky zůstávají na odpovědnosti uživatele pro všechny transakce, včetně remixů.
+Ve verzi 2.0 systému Wasabi byla zavedena nová cenová politika coinjoin. Nyní jsou poplatky koordinátora stanoveny na 0,3 % pro UTXO větší než 0,01 bitcoinu, zatímco pro menší UTXO jsou tyto poplatky zcela nulové. Kromě toho jsou remixy pro tyto menší UTXO zdarma, ačkoli poplatky za těžbu zůstávají pro všechny transakce, včetně remixů.
 
-Tato politika kontrastuje s tou ve Whirlpool, kde poplatky zůstávají pevné, bez ohledu na velikost získaných anonsetů. S Wasabi 2.0, ačkoli jsou poplatky koordinátorů pro malé UTXO prominuty, uživatel musí stále platit těžební poplatky za všechny transakce, včetně remixů.
-V době psaní tohoto textu se používání Wabisabi stalo výrazně složitějším po nedávných událostech. Skutečně, po zatčení zakladatelů Samourai Wallet, zkSNACKs, společnost, která financuje a řídí vývoj Wasabi, oznámila ukončení své služby koordinace coinjoin dne 1. června 2024. Tento koordinátor, který byl nastaven jako výchozí na Wasabi, měl velkou většinu likvidity.
+Tato politika je v kontrastu s politikou společnosti Whirlpool, kde provize zůstávají pevné bez ohledu na velikost získaných anonsetů. V případě Wasabi 2.0 jsou sice provize koordinátora u malých UTXO resetovány na nulu, ale uživatel musí stále platit těžební provize ze všech transakcí, včetně remixů.
 
-S ukončením tohoto hlavního koordinátora musí uživatelé nyní připojit k novým nezávislým koordinátorům. Tato změna vyvolává obavy: na jedné straně noví koordinátoři nemusí mít dostatečnou likviditu, čímž se snižuje účinnost coinjoinů z hlediska soukromí. Na druhé straně je zde riziko setkání s škodlivým koordinátorem. Tato situace přidává nová významná rizika pro ty, kteří chtějí používat Wabisabi.
+V době psaní tohoto článku se používání Wabisabi v důsledku nedávných událostí značně zkomplikovalo. Po zatčení zakladatelů peněženky Samourai totiž společnost zkSNACKs, která financuje a řídí vývoj Wasabi, oznámila ukončení služby koordinace coinjoin k 1. červnu 2024. Tento koordinátor, který byl nastaven jako výchozí pro Wasabi, měl drtivou většinu likvidity.
 
-Kromě technických problémů rozhodnutí společnosti zkSNACKs, stojící za Wasabi, využít služby společnosti pro analýzu řetězců k filtrování účastníků v coinjoinech, vyvolává vážné etické a strategické otázky. Původní myšlenka byla zabránit používání coinjoinů na Wasabi zločinci, což se může zdát legitimní. Nicméně to vyvolává paradox: platit poplatky koordinátorovi, jehož hlavní misí je zvýšit soukromí uživatelů, jen aby poté financoval společnost, jejímž cílem je toto soukromí ohrozit.
-Ještě více znepokojující je princip filtrování, který je v ostrém kontrastu s filozofií Bitcoinu, jehož cílem je nabídnout otevřený a necenzurovatelný finanční systém. I když se může zdát oprávněné chtít vyloučit kriminální aktivity, toto filtrování by mohlo také ovlivnit jednotlivce, jejichž činy, ačkoli jsou v některých kontextech klasifikovány jako nelegální, by mohly být morálně ospravedlnitelné nebo společensky prospěšné. Příklad Edwarda Snowdena dokonale ilustruje tuto dichotomii: považovaný některými vládami za zločince za jeho odhalení, je jinými viděn jako whistleblower, který jednal v zájmu veřejnosti. Tato složitost zdůrazňuje potenciální nebezpečí filtrování, které, ačkoli vychází z dobrého úmyslu, může nakonec porušovat práva a bezpečnost legitimních uživatelů. Mohl bych také zmínit aktivisty a novináře, kteří jsou pronásledováni v určitých autoritářských režimech. Jak jste pochopili, moje preference nepochybně směřuje k modelu Whirlpool pro provádění coinjoinů na Bitcoinu. Tento systém se vyznačuje svou přísností a nabízí lepší záruky v oblasti soukromí. Je také jediný, který navrhuje míchání považované za dokonalé v matematickém kontextu. Podle mého názoru tento model představuje budoucnost coinjoinů na Bitcoinu. Proto vás zvu, abyste tento model prozkoumali hlouběji v následující kapitole.
+Po zrušení tohoto hlavního koordinátora se nyní uživatelé musí připojit k novým nezávislým koordinátorům. Tato změna vyvolává obavy: na jedné straně noví koordinátoři nemusí mít dostatečnou likviditu, čímž se snižuje účinnost coinjoins z hlediska ochrany soukromí. Na druhé straně existuje riziko, že se setkáme se zlomyslným koordinátorem. Tato situace přináší významná nová rizika pro ty, kteří chtějí Wabisabi používat.
 
-## Funkčnost Whirlpoolu
+Kromě technických problémů vyvolává rozhodnutí společnosti zkSNACKs, která stojí za Wasabi, využít služeb blockchainové analytické společnosti k filtrování účastníků coinjoins vážné etické a strategické otázky. Původní myšlenkou bylo zabránit využívání coinjoins na Wasabi zločinci, což se může zdát jako legitimní krok. Vyvolává však paradox: platit poplatky koordinátorovi, jehož hlavním posláním je zvýšit soukromí uživatelů, jen proto, aby se následně financovala společnost, jejímž cílem je ohrozit totéž soukromí.
+
+Ještě znepokojivější je princip filtrování, který je v příkrém rozporu s filozofií Bitcoinu, podle níž má být finanční systém otevřený a bez cenzury. Ačkoli se může zdát oprávněné chtít vyloučit trestnou činnost, toto filtrování by se mohlo zaměřit i na osoby, jejichž jednání, ačkoli je v některých souvislostech klasifikováno jako nezákonné, může být morálně ospravedlnitelné nebo společensky prospěšné. Tuto dichotomii dokonale ilustruje příklad Edwarda Snowdena: některé vlády ho za jeho odhalení považují za zločince, jiné ho vnímají jako whistleblowera, který jednal ve veřejném zájmu. Tato složitost podtrhuje potenciální nebezpečí filtrování, které sice začíná s dobrým úmyslem, ale v konečném důsledku může poškodit práva a bezpečnost legitimních uživatelů. Mohl jsem také zmínit pronásledované aktivisty a novináře v některých autoritářských režimech. Jak jste možná uhodli, nepochybně dávám přednost modelu Whirlpool pro provádění coinjoins na Bitcoinu. Tento systém vyniká svou přísností a nabízí vynikající záruky z hlediska ochrany soukromí. Je také jediným, který navrhuje směšování, jež je v matematickém kontextu považováno za dokonalé. Podle mého názoru tento model představuje budoucnost coinjoins na Bitcoinu. Vyzývám vás proto, abyste se tímto modelem podrobněji zabývali v následující kapitole.
+
+## Provoz společnosti Whirlpool
 
 <chapterId>bdbd7109-e36d-4b4f-a3c6-928df4e9bfda</chapterId>
 
-Whirlpool se od ostatních metod coinjoin odlišuje použitím transakcí "_ZeroLink_", které zajišťují, že mezi všemi vstupy a výstupy není technicky možné vytvořit žádnou přímou spojitost. Toto dokonalé míchání je dosaženo strukturou, kde každý účastník přispívá identickou částkou na vstupu (kromě těžebních poplatků), čímž generuje výstupy dokonale stejných částek.
+Whirlpool se od ostatních metod coinjoin liší tím, že používá transakce "_ZeroLink_", které zajišťují, že mezi všemi vstupy a výstupy není technicky možné žádné spojení. Tohoto dokonalého promíchání je dosaženo díky struktuře, v níž každý účastník přispívá stejnou částkou na vstupu (s výjimkou poplatků za těžbu), čímž vznikají výstupy v naprosto stejné výši.
 
-Tento restriktivní přístup k vstupům dává transakcím coinjoin Whirlpool unikátní charakteristiku: úplnou absenci deterministických spojení mezi vstupy a výstupy. Jinými slovy, každý výstup má stejnou pravděpodobnost, že bude přiřazen jakémukoli účastníku, ve vztahu ke všem ostatním výstupům transakce.
+Tento omezující přístup ke vstupům dává transakcím coinjoin společnosti Whirlpool jedinečnou vlastnost: naprostou absenci deterministických vazeb mezi vstupy a výstupy. Jinými slovy, každý výstup má stejnou pravděpodobnost, že bude přiřazen kterémukoli účastníkovi, ve vztahu ke všem ostatním výstupům v transakci.
 
-![BTC204](assets/notext/54/01.webp)
+![BTC204](assets/fr/136.webp)
 
-### Obecná funkčnost Whirlpoolu
+### Obecné fungování společnosti Whirlpool
 
-Původně byl počet účastníků v každém coinjoinu Whirlpool omezen na 5, s 2 novými vstupy a 3 remixéry (tyto koncepty vysvětlíme dále). Nicméně, zvýšení poplatků za on-chain transakce pozorované v roce 2023 přimělo týmy Samourai k přehodnocení jejich modelu za účelem zlepšení soukromí při snižování nákladů. Tedy, s ohledem na tržní situaci poplatků a počet účastníků, může koordinátor nyní organizovat coinjoiny zahrnující 6, 7 nebo 8 účastníků. Tyto rozšířené sezení jsou označovány pod názvem "_Surge Cycles_". Je důležité poznamenat, že bez ohledu na konfiguraci jsou v coinjoinech Whirlpool vždy pouze 2 noví účastníci.
+Zpočátku byl počet účastníků v každém coinjoinu Whirlpool omezen na 5, přičemž 2 účastníci byli noví a 3 remixéři (tyto pojmy vysvětlíme později). Zvýšení poplatků za transakce v řetězci pozorované v roce 2023 však přimělo Samouraiovy týmy k přehodnocení modelu s cílem zlepšit soukromí a zároveň snížit náklady. S ohledem na situaci na trhu s provizemi a počet účastníků tak nyní koordinátor může organizovat coinjoiny, které zahrnují 6, 7 nebo 8 účastníků. Tato vylepšená sezení jsou označena názvem "_Surge Cycles_" Je důležité poznamenat, že bez ohledu na konfiguraci jsou v coinjoinech Whirlpool vždy pouze 2 noví účastníci.
 
-Takto jsou transakce Whirlpool charakterizovány identickým počtem vstupů a výstupů, které mohou být:
+Transakce Whirlpool se tedy vyznačují stejným počtem vstupů a výstupů, které mohou být:
+
 
 - 5 vstupů a 5 výstupů;
 
-![BTC204](assets/notext/54/02.webp)
+![BTC204](assets/fr/137.webp)
+
 
 - 6 vstupů a 6 výstupů;
 
-![BTC204](assets/notext/54/03.webp)
+![BTC204](assets/fr/138.webp)
+
 
 - 7 vstupů a 7 výstupů;
 
-![BTC204](assets/notext/54/04.webp)
+![BTC204](assets/fr/139.webp)
+
 
 - 8 vstupů a 8 výstupů.
 
-![BTC204](assets/notext/54/05.webp)
-Model navržený společností Whirlpool je založen na malých transakcích coinjoin. Na rozdíl od Wabisabi a JoinMarket, kde robustnost anonsetů závisí na objemu účastníků v jednom cyklu (nebo několika cyklech), Whirlpool sází na propojení několika malých cyklů. V tomto modelu uživatel platí poplatky pouze při svém prvním vstupu do poolu, což mu umožňuje účastnit se mnoha remixů bez dalších poplatků. Jsou to noví účastníci, kteří pokrývají těžební poplatky pro remixéry.
-S každým dalším coinjoinem, ve kterém se mince účastní společně se svými dřívějšími partnery, anonsety exponenciálně rostou. Cílem je tedy využít těchto bezplatných remixů, které při každém výskytu přispívají ke zvýšení hustoty anonsetů spojených s každou smíchanou mincí.
+![BTC204](assets/fr/140.webp)
 
-![BTC204](assets/notext/54/06.webp)
+Model navrhovaný společností Whirlpool je tedy založen na malých transakcích coinjoin. Na rozdíl od Wabisabi a JoinMarket, kde je robustnost anonsetů založena na objemu účastníků v jednom cyklu (nebo několika málo cyklech), Whirlpool spoléhá na konkatenaci více malých cyklů. V tomto modelu vznikají uživatelům náklady pouze při jejich prvním vstupu do poolu, což jim umožňuje účastnit se mnoha remixů bez dalších nákladů. Právě noví účastníci hradí náklady na těžbu remixérům.
 
-Whirlpool byl navržen s dvěma důležitými požadavky na paměti:
+S každým dalším coinjoinem, kterého se mince účastní spolu se svými vrstevníky, s nimiž se setkala v minulosti, bude počet anonsetů exponenciálně růst. Cílem je tedy využít těchto volných remixů, které s každým výskytem pomáhají posilovat hustotu anonsetů spojených s jednotlivými mixy mincí.
 
-- Dostupnost implementace na mobilních zařízeních, vzhledem k tomu, že Samourai Wallet je primárně aplikace pro smartphony;
-- Rychlost cyklů remixování, aby se podpořilo výrazné zvýšení anonsetů.
+Společnost Whirlpool byla navržena s ohledem na dva důležité požadavky:
 
-Tyto imperativy vedly vývojáře Samourai Wallet při návrhu Whirlpool k omezení počtu účastníků na cyklus. Příliš málo účastníků by ohrozilo účinnost coinjoinu, drasticky snížilo by se množství generovaných anonsetů v každém cyklu, zatímco příliš mnoho účastníků by způsobilo problémy s řízením na mobilních aplikacích a brzdilo by tok cyklů.
 
-Nakonec není potřeba mít vysoký počet účastníků na coinjoin v Whirlpool, protože anonsety se vytvářejí akumulací několika cyklů coinjoin. Nejdůležitějším principem zde je homogenita UTXO všech účastníků, protože to umožňuje dokonalé smíchání a tím plně využít cykly míchání a remixování.
+- Dostupnost implementace na mobilních zařízeních, protože Samourai Wallet je primárně aplikace pro chytré telefony;
+- Rychlost remixování cyklů podporuje výrazné zvýšení počtu anonsetů.
 
-### Pooly a poplatky za coinjoin
+Těmito požadavky se řídili vývojáři peněženky Samourai při navrhování programu Whirlpool, což je vedlo k omezení počtu účastníků v jednom cyklu. Příliš malý počet účastníků by ohrozil efektivitu coinjoinu a drasticky snížil počet anonsetů vygenerovaných v každém cyklu, zatímco příliš velký počet účastníků by způsobil problémy se správou mobilních aplikací a ztížil by průběh cyklů.
 
-Pro efektivní zvýšení anonsetů smíchaných mincí prostřednictvím těchto několika cyklů musí být stanoven určitý rámec, který omezuje množství použitých UTXO. Whirlpool tedy definuje různé pooly.
+Nakonec není nutné mít vysoký počet účastníků pro coinjoin na Whirlpoolu, protože anonsety se realizují na základě kumulace několika coinjoin cyklů. Nejdůležitějším principem je zde homogenita UTXO všech účastníků, protože to umožňuje dokonalý mix, a tedy plně využít cyklů míchání a remixování.
 
-Pool představuje skupinu uživatelů, kteří si přejí smíchat dohromady, a dohodnou se na množství UTXO, které se použije k optimalizaci procesu coinjoin, přičemž zachovávají dokonalou homogenitu mincí. Každý pool specifikuje pevnou částku pro UTXO, kterou musí uživatel dodržet, aby se mohl zúčastnit. Takže pro provádění coinjoinů s Whirlpool musíte vybrat pool. V současné době jsou dostupné následující pooly:
+### Spojení bazénů a sazeb
 
-- 0,5 bitcoinu;
-- 0,05 bitcoinu;
-- 0,01 bitcoinu;
-- 0,001 bitcoinu (= 100 000 sats).
-  Připojením do poolu s vašimi bitcoiny budou rozděleny tak, aby generovaly UTXO, které jsou dokonale homogenní s těmi od ostatních účastníků v poolu. Každý pool má maximální limit; takže pro částky přesahující tento limit budete nuceni buď provést dvě samostatné vstupy v rámci stejného poolu nebo se obrátit na jiný pool s vyšší částkou:
-  | Pool (bitcoin) | Maximální částka na vstup (bitcoin) |
-  |----------------|------------------------------------|
-  | 0,5 | 35 |
-  | 0,05 | 3,5 |
-  | 0,01 | 0,7 |
-  | 0,001 | 0,025 |
-  UTXO je považováno za součást poolu, když je připraveno být integrováno do coinjoinu. To však neznamená, že uživatel o něj přichází. Jak jsme viděli v prvních kapitolách této části, prostřednictvím různých cyklů míchání si uchováváte plnou kontrolu nad svými klíči a tím pádem i nad svými bitcoiny. To je to, co odlišuje techniku coinjoin od jiných centralizovaných technik míchání.
-  Pro vstup do coinjoin poolu musíte zaplatit servisní poplatky stejně jako těžební poplatky. Servisní poplatky jsou pro každý pool pevně stanoveny a mají za úkol kompenzovat týmy odpovědné za vývoj a údržbu Whirlpoolu.
+Aby tyto vícenásobné cykly účinně zvýšily anonce smíšených mincí, je třeba stanovit určitý rámec pro omezení množství použitého UTXO. Whirlpool proto definuje několik poolů.
 
-Servisní poplatky za použití Whirlpoolu se platí jednorázově při vstupu do poolu. Jakmile je tento krok dokončen, máte možnost účastnit se neomezeného počtu remixů bez dalších poplatků. Zde jsou aktuální pevné poplatky pro každý pool:
+Pool představuje skupinu uživatelů, kteří se chtějí smíchat a kteří se dohodnou na množství UTXO, které bude použito k optimalizaci procesu spojování mincí při zachování dokonalé homogenity mincí. Každý pool určuje pevnou částku za UTXO, kterou musí uživatel splnit, aby se mohl zúčastnit. Chcete-li tedy provádět coinjoiny s Whirlpoolem, je třeba vybrat pool. V současné době jsou k dispozici následující pooly:
 
-| Pool (bitcoin) | Vstupní poplatek (bitcoin) |
-| -------------- | -------------------------- |
-| 0.5            | 0.0175                     |
-| 0.05           | 0.00175                    |
-| 0.01           | 0.0005 (50,000 sats)       |
-| 0.001          | 0.00005 (5,000 sats)       |
 
-Tyto poplatky v podstatě fungují jako vstupenka do vybraného poolu, bez ohledu na částku, kterou do coinjoinu vložíte. Takže, ať už se připojíte k poolu 0.01 s přesně 0.01 BTC nebo do něj vstoupíte s 0.5 BTC, poplatky zůstanou stejné v absolutní hodnotě.
+- 0.5 bitcoinů;
+- 0.05 bitcoin;
+- 0.01 bitcoin;
+- 0.001 bitcoin (= 100 000 sats).
 
-Před pokračováním s coinjoiny Whirlpool má uživatel tedy na výběr mezi 2 strategiemi:
+Když se se svými bitcoiny připojíte k poolu, budou rozděleny tak, aby generovaly UTXO dokonale homogenní s UTXO ostatních účastníků poolu. Každý pool má svůj maximální limit; proto u částek, které tento limit přesahují, budete nuceni buď provést dva samostatné vstupy do téhož poolu, nebo se obrátit na jiný pool s větší částkou:
 
-- Zvolit menší pool, aby minimalizoval servisní poplatky, s vědomím, že obdrží několik menších UTXO;
-- Nebo dát přednost většímu poolu, souhlasit s vyššími poplatky, aby skončil s menším počtem UTXO vyšší hodnoty.
-  Obecně se nedoporučuje slučovat několik smíchaných UTXO po cyklech coinjoinu, protože to může ohrozit získané soukromí, zejména kvůli heuristice společného vlastnictví vstupů (CIOH: _Common-Input-Ownership-Heuristic_). Proto by mohlo být rozumné zvolit větší pool, i když to znamená platit více, aby se předešlo mít příliš mnoho UTXO malé hodnoty jako výstupy. Uživatel musí zvážit tyto kompromisy, aby si vybral pool, který preferuje.
-  Kromě servisních poplatků je třeba zvážit také těžební poplatky vlastní každé transakci Bitcoinu. Jako uživatel Whirlpoolu budete muset zaplatit těžební poplatky za přípravnou transakci (`Tx0`) stejně jako za první coinjoin. Všechny následující remixy budou zdarma, díky modelu Whirlpoolu, který se opírá o platby nových účastníků.
+| Pool (bitcoin) | Maximální částka za položku (bitcoin) |
 
-Ve skutečnosti, v každém coinjoinu Whirlpoolu jsou 2 uživatelé mezi vstupy noví účastníci. Ostatní vstupy pocházejí od remixérů. V důsledku toho jsou těžební poplatky pro všechny účastníky transakce pokryty těmito 2 novými účastníky, kteří pak také těží z bezplatných remixů:
+|----------------|----------------------------------------|
 
-![BTC204](assets/cs/54/07.webp)
+| 0,5 | 35 |
 
-Díky tomuto systému poplatků se Whirlpool skutečně odlišuje od jiných implementací coinjoinu, protože anonsety UTXO nejsou proporcionální k ceně zaplacené uživatelem. Takto je možné dosáhnout výrazně vysokých úrovní anonymity pouze zaplacením vstupního poplatku do poolu a těžebních poplatků za 2 transakce (the `Tx0` a počáteční mix).
-Je důležité poznamenat, že uživatel bude muset také pokrýt těžební poplatky, aby mohl vybrat své UTXO z fondu po provedení několika coinjoinů, pokud si nevybral možnost `mix to`, která umožňuje poskytnout externí adresu, která přímo obdrží prostředky jako výstup coinjoinu, bez jakékoli další transakce.
+| 0,05 | 3,5 |
 
-### Účty HD peněženky
+| 0,01 | 0,7 |
 
-Pro provedení coinjoinu prostřednictvím Whirlpoolu musí peněženka generovat několik odlišných účtů. To je princip protokolu ZeroLink. Účet, v kontextu HD (_Hierarchical Deterministic_) peněženky, představuje sekci zcela izolovanou od ostatních, tato separace nastává na třetí úrovni hloubky hierarchie peněženky, tedy na úrovni `xpub`.
+| 0,001 | 0,025 |
 
-![BTC204](assets/cs/54/08.webp)
+UTXO je považováno za součást fondu, když je připraveno k začlenění do coinjoinu. To však neznamená, že uživatel ztrácí jeho vlastnictví. Jak jsme viděli v prvních kapitolách tohoto dílu, prostřednictvím různých cyklů míchání si zachováváte plnou kontrolu nad svými klíči a následně i nad svými bitcoiny. Tím se technika coinjoin liší od ostatních centralizovaných technik míchání.
 
-HD peněženka může teoreticky odvodit až `2^(32/2)` různých účtů. Počáteční účet, používaný ve výchozím nastavení ve všech Bitcoin peněženkách, odpovídá indexu `0'`.
+Chcete-li se připojit k poolu coinjoin, je třeba zaplatit poplatky za služby i za těžbu. Servisní poplatky jsou pro každý pool pevně stanoveny a jejich účelem je kompenzovat týmy odpovědné za vývoj a údržbu Whirlpoolu.
 
-Pro peněženky přizpůsobené Whirlpoolu se používají 4 účty, aby vyhověly potřebám procesu ZeroLink:
+Poplatky za služby při použití bazénu Whirlpool se platí jednorázově při vstupu do bazénu. Po dokončení tohoto kroku máte možnost účastnit se neomezeného počtu remixů bez dalších poplatků. Zde jsou uvedeny aktuální fixní poplatky pro jednotlivé bazény:
 
-- **Vkladový účet**, identifikovaný indexem `0'`;
-- Účet **bad bank** (nebo "doxxic change"), identifikovaný indexem `2 147 483 644'`;
-- **Premix** účet, identifikovaný indexem `2 147 483 645'`;
-- **Postmix** účet, identifikovaný indexem `2 147 483 646'`.
+| Pool (Bitcoin) | Vstupní poplatek (Bitcoin) |
 
-Každý z těchto účtů plní specifickou funkci v procesu coinjoinu, kterou prozkoumáme v následujících sekcích.
+| -------------- | --------------------------------- |
 
-Všechny tyto účty jsou spojeny s jedním seedem, což uživateli umožňuje obnovit přístup ke všem svým bitcoinům pomocí své obnovovací fráze a v případě potřeby svého hesla. Je však nutné během této obnovovací operace softwaru specifikovat různé indexy účtů, které byly použity.
+| 0.5 | 0.0175 |
 
-Podívejme se nyní na různé fáze coinjoinu Whirlpool v těchto účtech.
+| 0.05 | 0.00175 |
+
+| 0,01 | 0,0005 (50 000 satelitů) |
+
+| 0,001 | 0,00005 (5 000 satelitů) |
+
+Tyto poplatky v podstatě fungují jako vstupenka do vybraného bazénu bez ohledu na částku, kterou do coinjoinu vložíte. Ať už tedy vstoupíte do poolu s 0,01 BTC přesně s 0,01 BTC, nebo vstoupíte s 0,5 BTC, poplatky zůstanou v absolutní hodnotě stejné.
+
+Před zahájením spojování Whirlpool má uživatel na výběr ze dvou strategií:
+
+
+- Zvolí si menší fond, aby minimalizovali poplatky za služby, protože vědí, že za to dostanou několik menších UTXO;
+- Nebo dáte přednost většímu fondu a souhlasíte s tím, že zaplatíte vyšší poplatky, abyste nakonec získali malý počet UTXO s vyšší hodnotou.
+
+Obecně se nedoporučuje slučovat několik smíšených UTXO po cyklech coinjoin, protože by to mohlo ohrozit získané soukromí, zejména kvůli heuristice společného vlastnictví vstupu (CIOH: _Common-Input-Ownership-Heuristic_). Proto by mohlo být rozumné zvolit větší pool, i kdyby to znamenalo zaplatit více, aby se zabránilo tomu, že na výstupu bude příliš mnoho UTXO s malou hodnotou. Uživatel musí tyto kompromisy vyhodnotit a vybrat si fond, který preferuje.
+
+Kromě poplatků za služby je třeba vzít v úvahu také poplatky za těžbu, které jsou neodmyslitelnou součástí každé transakce s bitcoiny. Jako uživatel Whirlpool budete muset zaplatit poplatky za těžbu za přípravnou transakci (`Tx0`) i za první připojení mince. Všechna další remixování budou díky modelu Whirlpool, kdy se novým účastníkům platí, zdarma.
+
+Ve skutečnosti jsou v každém spojení Whirlpool 2 uživatelé mezi vstupy novými účastníky. Ostatní vstupy pocházejí od remixérů. V důsledku toho jsou poplatky za těžbu pro všechny účastníky transakce hrazeny těmito 2 novými účastníky, kteří pak také budou mít prospěch z bezplatných remixů:
+
+![BTC204](assets/it/54/07.webp)
+
+Díky tomuto systému poplatků se Whirlpool skutečně liší od ostatních implementací coinjoinu, protože anonce UTXO nejsou úměrné ceně zaplacené uživatelem. Značně vysoké úrovně anonymity tak lze dosáhnout zaplacením pouze vstupního poplatku do poolu a poplatků za těžbu 2 transakcí (`Tx0` a počáteční mix).
+
+Je důležité si uvědomit, že uživatel bude muset uhradit také poplatky za těžbu UTXO, které si z poolu vybere po provedení více coinjoinů, pokud si ovšem nezvolí možnost `mix to`, která mu umožní zadat externí adresu, na kterou budou prostředky přímo převedeny jako výstup z coinjoinu, bez dalších transakcí.
+
+### Účty HD Wallet
+
+Aby bylo možné provést spojení mincí prostřednictvím služby Whirlpool, musí peněženka vygenerovat několik samostatných účtů. To je princip protokolu ZeroLink. Účet v kontextu HD (_Hierarchical Deterministic_) peněženky představuje část zcela izolovanou od ostatních, k tomuto oddělení dochází na třetí úrovni hloubky hierarchie peněženky, tj. na úrovni `xpub`.
+
+![BTC204](assets/it/54/08.webp)
+
+Z peněženky HD lze teoreticky odvodit až `2^(32/2)` různých účtů. Počáteční účet, který se ve výchozím nastavení používá ve všech bitcoinových peněženkách, odpovídá indexu `0`.
+
+U portfolií upravených pro Whirlpool se používají 4 účty, které splňují požadavky procesu ZeroLink:
+
+
+- **Vkladový účet**, označený indexem `0`;
+- **Špatný bankovní účet** (neboli "toxická burza"), označený indexem `2 147 483 644`;
+- Účet **premix** označený indexem `2 147 483 645`;
+- Účet **postmix** označený indexem `2 147 483 646`.
+
+Každý z těchto účtů plní v procesu spojování určitou funkci, kterou se budeme zabývat v následujících částech.
+
+Všechny tyto účty jsou propojeny s jediným seedem, což uživateli umožňuje obnovit přístup ke všem svým bitcoinům pomocí obnovovací fráze a v případě potřeby i hesla. Při této operaci obnovy je však nutné softwaru zadat různé indexy účtů, které byly použity.
+
+Prozkoumejme nyní jednotlivé fáze spojení Whirlpool v rámci těchto účtů.
 
 ### TX0
 
-Výchozím bodem jakéhokoli coinjoinu Whirlpool je **vkladový účet**. Tento účet automaticky používáte, když vytvoříte novou Bitcoin peněženku. Na tento účet musí být připsány bitcoiny, které chcete mixovat.
+Výchozím bodem každého připojení k mincím Whirlpool je **vkladový účet**. Tento účet automaticky použijete při vytvoření nové bitcoinové peněženky. Na tento účet musí být připsány bitcoiny, které chcete smíchat.
 
-`Tx0` představuje první krok v procesu míchání Whirlpool. Jeho cílem je připravit a vyrovnat UTXO pro coinjoin, rozdělit je do jednotek odpovídajících částce vybraného fondu, aby se zajistila homogenita míchání. Vyrovnané UTXO jsou poté odeslány na **premix** účet. Co se týče rozdílu, který nemůže vstoupit do fondu, je oddělen do specifického účtu: **bad bank** (nebo "doxxic change").
+Hodnota `Tx0` představuje první krok v procesu míchání Whirlpool. Jeho cílem je připravit a vyrovnat UTXO pro coinjoin, rozdělit je na jednotky odpovídající množství vybraného poolu, aby byla zajištěna homogenita míchání. Vyrovnané UTXO jsou poté odeslány na účet **premix**. Co se týče rozdílu, který nemůže vstoupit do poolu, je oddělen na zvláštní účet: **bad bank** (neboli "toxická směna").
 
-Tato počáteční transakce `Tx0` slouží také k úhradě servisních poplatků koordinátoru coinjoinu. Na rozdíl od následujících kroků tato transakce není kolaborativní; uživatel musí tedy nést veškeré těžební poplatky:
+Tato počáteční transakce `Tx0` slouží také k úhradě servisních poplatků koordinátorovi spojení mincí. Na rozdíl od následujících kroků tato transakce není kooperativní, proto musí uživatel nést plné náklady na poplatky za těžbu:
 
-![BTC204](assets/cs/54/09.webp)
+![BTC204](assets/it/54/09.webp)
 
-V tomto příkladu transakce `Tx0` je vstup `372 000 sats` z našeho **vkladového** účtu rozdělen na několik výstupních UTXO, které jsou distribuovány následovně:
+V tomto příkladu transakce `Tx0` je vstupní částka `372 000 satelitů` z našeho **vkladového účtu** rozdělena na několik výstupních UTXO, které jsou rozděleny takto:
 
-- Částka `5 000 sats` určená koordinátorovi za servisní poplatky, odpovídající vstupu do fondu `100 000 sats`;
-- 3 UTXO připravené pro míchání, přesměrované na náš **premix** účet a zaregistrované u koordinátora. Tyto UTXO jsou vyrovnány na `108 000 sats` každý, aby pokryly těžební poplatky za jejich budoucí počáteční mix;
-- Přebytek, který nemůže vstoupit do poolu, protože je příliš malý, je považován za toxickou změnu. Je odeslán na jeho specifický účet. Zde tato změna činí `40 000 sats`;
-- Nakonec existuje `3 000 sats`, které neconstitují výstup, ale jsou to těžební poplatky potřebné k potvrzení `Tx0`.
-  Například zde je skutečný Tx0 Whirlpool (ne ode mě): [edef60744f539483d868caff49d4848e5cc6e805d6cdc8d0f9bdbbaedcb5fc46](https://mempool.space/fr/tx/edef60744f539483d868caff49d4848e5cc6e805d6cdc8d0f9bdbbaedcb5fc46)
 
-![BTC204](assets/notext/54/10.webp)
+- Částka 5 000 satelitů přidělená koordinátorovi na poplatky za služby, která odpovídá vstupu do fondu 100 000 satelitů;
+- 3 UTXO připravené k míchání, přesměrované na náš **premix účet** a zaregistrované u koordinátora. Tyto UTXO jsou vyrovnány na `108 000 sátů` každý, aby se pokryly poplatky za těžbu pro jejich budoucí počáteční mix;
+- Přebytek, který se nemůže dostat do bazénu, protože je příliš malý, se považuje za toxickou výměnu. Je odeslán na jeho specifický účet. V tomto případě činí tato výměna 40 000 satů;
+- Nakonec je zde `3 000 satelitů`, které nepředstavují výstup, ale jsou to poplatky za těžbu potřebné k potvrzení `Tx0`.
+
+Například zde je skutečný Whirlpool Tx0 (ne můj):[edef60744f539483d868caff49d4848e5cc6e805d6cdc8d0f9bdbbaedcb5fc46](https://mempool.space/fr/tx/edef60744f539483d868caff49d4848e5cc6e805d6cdc8d0f9bdbbaedcb5fc46)
+
+![BTC204](assets/fr/145.webp)
 
 ### Toxická změna
 
-Přebytek, který nemohl být integrován do poolu, zde ekvivalentní `40 000 sats`, je přesměrován na účet **špatné banky**, také označovaný jako "toxická změna", aby se zajistilo striktní oddělení od ostatních UTXO v peněžence.
+Přebytek, který se nepodařilo začlenit do fondu, zde odpovídající 40 000 sátů, je přesměrován na účet **špatné banky**, označovaný také jako "toxická výměna", aby bylo zajištěno přísné oddělení od ostatních UTXO v portfoliu.
 
-Toto UTXO je nebezpečné pro soukromí uživatele, protože nejenže je stále připojeno ke své minulosti, a tedy možná k identitě jeho majitele, ale je také označeno jako patřící uživateli, který se zúčastnil coinjoin.
+Tento UTXO je nebezpečný pro soukromí uživatele, protože nejenže je stále spojen s minulostí uživatele, a tedy možná i s identitou jeho vlastníka, ale je také označen jako patřící uživateli, který se účastnil coinjoinu.
 
-![BTC204](assets/notext/54/11.webp)
+![BTC204](assets/fr/146.webp)
 
-Pokud je toto UTXO sloučeno s míchanými výstupy, ztratí veškeré soukromí získané během cyklů coinjoin, zejména kvůli CIOH (_Common-Input-Ownership-Heuristic_). Pokud je sloučeno s dalšími toxickými změnami, uživatel riskuje ztrátu soukromí, protože to propojí různé záznamy z cyklů coinjoin. Proto je nutné s ním zacházet opatrně. O správě těchto toxických UTXO budeme hovořit podrobněji v poslední části této kapitoly.
+Pokud je tento UTXO sloučen se zamíchanými výstupy, ztratí veškeré soukromí získané během cyklů coinjoin, a to výrazně díky CIOH (_Common-Input-Ownership-Heuristic_). Pokud je sloučeno s jinými toxickými změnami, hrozí uživateli ztráta soukromí, protože se tím propojí různé vstupy z coinjoin cyklů. Proto by se s ní mělo zacházet opatrně. Podrobněji se správou těchto toxických UTXO budeme zabývat v poslední části této kapitoly.
 
-### Počáteční míchání
+### Počáteční směs
 
-Po dokončení `Tx0` jsou vyrovnána UTXO odeslána na **premix** účet naší peněženky, připravena být zavedena do jejich prvního cyklu coinjoin, také nazývaného "počáteční míchání". Pokud, jak je tomu v našem příkladu, `Tx0` generuje několik UTXO určených pro míchání, každé z nich bude integrováno do samostatného počátečního míchání.
+Po dokončení `Tx0` jsou vyrovnané UTXO odeslány na účet **premix** v našem portfoliu a jsou připraveny k zavedení do prvního cyklu spojování mincí, kterému se také říká "počáteční mix" Pokud, jako v našem příkladu, `Tx0` vygeneruje několik UTXO určených ke smíchání, každý z nich bude začleněn do samostatného počátečního mixu.
 
-Na konci těchto prvních míchání bude **premix** účet prázdný, zatímco naše mince, které zaplatily těžební poplatky za toto první coinjoin, budou přesně upraveny na částku definovanou vybraným poolem. V našem příkladu budou naše počáteční UTXO `108 000 sats` snížena přesně na `100 000 sats`.
+Na konci těchto prvních mixů bude účet **premix** prázdný, zatímco naše mince, které zaplatily poplatky za těžbu za toto první spojení mincí, budou vypořádány přesně ve výši definované zvoleným poolem. V našem příkladu se naše počáteční UTXO ve výši `108 000 sátů` sníží přesně na `100 000 sátů`.
 
-![BTC204](assets/notext/54/12.webp)
+![BTC204](assets/fr/147.webp)
 
 ### Remixy
 
-Po počátečním míchání jsou UTXO převedeny na **postmix** účet. Tento účet shromažďuje jak již míchaná UTXO, tak ta, která čekají na remixování. Když je klient Whirlpool aktivní, UTXO na **postmix** účtu jsou automaticky k dispozici pro remixování a budou náhodně vybrána k účasti na těchto nových cyklech.
-Připomínáme, že remixy jsou poté 100% zdarma: nejsou vyžadovány žádné další servisní poplatky ani těžební poplatky. Udržení UTXO na **postmix** účtu tak udržuje jejich nezměněnou hodnotu a zároveň zlepšuje jejich anonsety. Proto je důležité umožnit těmto mincím účastnit se více cyklů coinjoin. Nestojí vás to vůbec nic a zvyšuje jejich úroveň anonymity.
-Když se rozhodnete utratit smíšené UTXO, můžete tak učinit přímo z tohoto **postmix** účtu. Je doporučeno držet smíšené UTXO na tomto účtu, aby jste mohli využívat bezplatných remixů a zabránit jejich odchodu z oběhu Whirlpool, což by mohlo snížit jejich soukromí.
+Po počátečním smíchání jsou prostředky UTXO převedeny na účet **postmix**. Tento účet shromažďuje jak UTXO, které již byly smíchány, tak ty, které čekají na remix. Když je klient Whirlpool aktivní, UTXO na účtu **postmix** jsou automaticky k dispozici pro remix a budou náhodně vybrány pro účast v těchto nových kolech.
 
-### Jak správně spravovat váš postmix účet?
+Připomínáme, že remixy jsou pak zcela zdarma: nejsou vyžadovány žádné další poplatky za služby ani za těžbu. Ponechání UTXO na účtu **postmix** tak zachovává jejich hodnotu a zároveň zlepšuje jejich anonce. Proto je důležité umožnit těmto mincím účastnit se více cyklů coinjoin. Nestojí vás to vůbec nic a zvyšuje to jejich anonsetovou úroveň.
 
-Po provedení cyklů coinjoin je nejlepší strategií nechat vaše UTXO na **postmix** účtu, čekající na jejich budoucí využití. Je dokonce doporučeno nechat je remixovat neomezeně, dokud je nebudete potřebovat utratit.
+Pokud se rozhodnete utratit smíšené jednotky UTXO, můžete tak učinit přímo z tohoto účtu **postmix**. Doporučuje se ponechat smíšené UTXO na tomto účtu, abyste mohli využívat bezplatných remixů a abyste zabránili jejich opuštění okruhu Whirlpool, což může snížit jejich soukromí.
 
-Někteří uživatelé by mohli zvážit převod svých smíšených bitcoinů do peněženky zabezpečené hardware peněženkou. To je možné, ale je důležité pečlivě dodržovat doporučení Samourai Wallet, aby nedošlo ke kompromitaci získané důvěrnosti.
+### Jak správně spravovat účet postmix?
 
-Slučování UTXO je nejčastější chybou. Je nutné vyhnout se kombinování smíšených UTXO s nesmíšenými UTXO ve stejné transakci, aby se zabránilo heuristice společného vlastnictví vstupů (CIOH). To vyžaduje pečlivé řízení vašich UTXO v rámci vaší peněženky, zejména z hlediska označování.
+Po spuštění cyklů coinjoin je nejlepší strategií ponechat si UTXO na účtu **postmix** a čekat na jejich budoucí použití. Dokonce je vhodné nechat je remixovat po neomezenou dobu, dokud je nebudete potřebovat utratit.
 
-![BTC204](assets/notext/54/13.webp)
+Někteří uživatelé mohou zvážit převod svých smíšených bitcoinů do chráněné hardwarové peněženky. To je možné, ale je důležité pečlivě dodržovat doporučení Samourai Wallet, aby nedošlo k ohrožení získané důvěrnosti.
 
-Je také důležité být opatrný při konsolidaci smíšených UTXO mezi sebou. Mírné konsolidace jsou představitelné, pokud vaše smíšené UTXO mají významné anonsety, ale to nevyhnutelně sníží důvěrnost vašich mincí. Ujistěte se, že konsolidace nejsou příliš významné ani prováděné po nedostatečném počtu remixů, aby nedošlo k vytvoření odvoditelných vazeb mezi vašimi UTXO před a po cyklech coinjoin. V případě pochybností o těchto manipulacích je nejlepší praxí nekonsolidovat postmix UTXO a převádět je jeden po druhém do vaší hardware peněženky, přičemž pokaždé generujete novou prázdnou adresu. Opět nezapomeňte správně označit každé přijaté UTXO.
-Je také nedoporučeno převádět vaše postmix UTXO do peněženky používající neobvyklé skripty. Například, pokud vstoupíte do Whirlpool z multisig peněženky používající skripty `P2WSH`, je malá šance, že budete smícháni s ostatními uživateli, kteří původně měli stejný typ peněženky. Pokud své postmix vyberete do této stejné multisig peněženky, úroveň soukromí vašich smíšených bitcoinů bude výrazně snížena. Kromě skriptů existuje mnoho dalších otisků peněženek, které vás mohou zmást.
-Stejně jako u jakékoli transakce s Bitcoinem, je také důležité neopakovat používání přijímacích adres. Každá nová transakce by měla být přijata na novou, prázdnou adresu.
+Nejčastější chybou je kombinace UTXO. Je třeba se vyvarovat kombinování smíšených UTXO s nesmíšenými UTXO ve stejné transakci, abyste se vyhnuli heuristice společného vlastnictví vstupů (CIOH). To vyžaduje pečlivou správu UTXO v rámci vašeho portfolia, zejména pokud jde o označování.
 
-Nejjednodušším a nejbezpečnějším řešením je nechat vaše smíšené UTXO odpočívat na jejich **postmix** účtu, nechat je remixovat a dotýkat se jich pouze, když je potřebujete utratit. Peněženky Samourai a Sparrow mají další ochrany proti všem těmto rizikům souvisejícím s analýzou řetězce. Tyto ochrany vám pomáhají vyhnout se chybám.
+![BTC204](assets/fr/148.webp)
 
-### Jak správně spravovat vaši toxickou změnu?
+Je také důležité být opatrný při konsolidaci smíšených UTXO dohromady. Mírné konsolidace jsou myslitelné, pokud vaše smíšené UTXO mají významné anonce, ale to nevyhnutelně sníží důvěrnost vašich mincí. Dbejte na to, aby konsolidace nebyly příliš výrazné nebo aby byly prováděny po nedostatečném počtu remixů, a to s rizikem vytvoření odvozených vazeb mezi vašimi UTXO před a po cyklech spojování mincí. V případě pochybností o těchto manipulacích je nejlepším postupem nekonsolidovat UTXO po smíchání a převádět je po jednom do hardwarové peněženky a pokaždé vygenerovat novou prázdnou adresu. Přesto nezapomeňte každé přijaté UTXO řádně označit.
 
-Dále musíte být opatrní při správě vaší toxické změny, změny, která nemohla vstoupit do bazénu coinjoin. Tyto toxické UTXO, vzniklé použitím Whirlpool, představují riziko pro vaše soukromí, protože vytvářejí spojení mezi vámi a použitím coinjoin. Proto je nezbytné zacházet s nimi opatrně a nekombinovat je s jinými UTXO, zejména smíšenými UTXO.
+Rovněž se nedoporučuje přenášet postmixy UTXO do peněženky, která používá neobvyklé skripty. Pokud například vstoupíte do Whirlpoolu z multisig peněženky, která používá skripty `P2WSH`, existuje malá šance, že budete smícháni s ostatními uživateli, kteří mají původně stejný typ peněženky. Pokud si v této stejné multisig peněžence vyberete své postmixy, úroveň soukromí vašich smíšených bitcoinů se značně sníží. Kromě skriptů existuje mnoho dalších otisků peněženek, které vás mohou oklamat.
 
-Zde jsou různé strategie, které je třeba zvážit pro jejich využití:
+Stejně jako u každé transakce s bitcoiny je také důležité, abyste znovu nepoužívali přijímací adresy. Každá nová transakce by měla být přijata na nové, prázdné adrese.
 
-- **Smíchejte je v menších bazénech:** Pokud je vaše toxické UTXO dostatečně velké, aby samo vstoupilo do menšího bazénu, zvažte jeho smíchání. To je často nejlepší možnost. Nicméně, slučování několika toxických UTXO pro přístup k bazénu se nedoporučuje, protože by to mohlo spojit vaše různé vstupy;
-- **Označte je jako "nepoužitelné":** Dalším přístupem je již je nevyužívat, označit je v jejich dedikovaném účtu jako "nepoužitelné" a prostě je držet (hodl). To zajistí, že je omylem neutratíte. Pokud hodnota bitcoinu vzroste, mohou se objevit nové fondy lépe vhodné pro vaše toxické UTXO;
-- **Dary:** Zvažte možnost darování, i skromných, vývojářům pracujícím na Bitcoinu a jeho přidruženém softwaru. Můžete také darovat organizacím, které přijímají BTC. Pokud se vám zdá správa vašich toxických UTXO příliš složitá, můžete se jich jednoduše zbavit darováním.
-- **Nákup dárkových karet:** Platformy jako [Bitrefill](https://www.bitrefill.com/) vám umožňují vyměnit bitcoiny za dárkové karty, které lze použít u různých obchodníků. To může být způsob, jak se zbavit vašich toxických UTXO bez ztráty přidružené hodnoty.
-- **Konsolidace na Monero:** Samourai Wallet nabízí službu atomického swapu mezi BTC a XMR. To je ideální pro správu toxických UTXO konsolidací na Monero, bez ohrožení vašeho soukromí prostřednictvím KYC, před jejich zasláním zpět na Bitcoin. Tato možnost však může být nákladná z hlediska těžebních poplatků a přirážek kvůli omezením likvidity.
-- **Poslat je do Lightning Network:** Převod těchto UTXO do Lightning Network za účelem využití snížených transakčních poplatků je zajímavou možností. Tato metoda však může odhalit určité informace v závislosti na vašem využití Lightning a proto by měla být praktikována s opatrností.
+Nejjednodušším a nejbezpečnějším řešením je nechat smíšené UTXO odpočívat na jejich **postmixovém** účtu a umožnit jim remixovat a dotýkat se jich pouze za účelem jejich utracení. Portfolia Samourai a Sparrow mají další ochranu proti všem těmto rizikům analýzy řetězce. Tyto ochrany vám pomohou vyhnout se chybám.
+
+### Jak správně zvládnout toxickou změnu?
+
+Dále musíte být opatrní při nakládání s toxickými drobnými, tedy s drobnými, které se nemohly dostat do fondu coinjoin. Tyto toxické UTXO, které jsou výsledkem používání Whirlpoolu, představují riziko pro vaše soukromí, protože vytvářejí spojení mezi vámi a používáním coinjoinu. Proto je nutné s nimi zacházet opatrně a nekombinovat je s jinými UTXO, zejména se smíšenými UTXO.
+
+Zde je několik strategií, jak je využít:
+
+
+- Smíchejte je v menších bazénech:** Pokud je váš toxický UTXO dostatečně velký na to, aby se sám vešel do menšího bazénu, zvažte jeho smíchání. To je často nejlepší volba. Smíchání několika toxických UTXO dohromady pro přístup do bazénu se však nedoporučuje, protože by to mohlo propojit vaše různé vchody.
+- Označte je jako "neutratitelné":** Dalším přístupem je přestat je používat, označit je na vyhrazeném účtu jako "neutratitelné" a jednoduše je hodit. Tím zajistíte, že je omylem neutratíte. Pokud se hodnota bitcoinu zvýší, mohou se objevit nové pooly vhodnější pro vaše toxické UTXO;
+- Poskytování darů:** Zvažte poskytnutí darů, i skromných, vývojářům pracujícím na Bitcoinu a souvisejícím softwaru. Můžete také přispět organizacím, které přijímají BTC. Pokud se vám zdá správa toxických UTXO příliš složitá, můžete se jich jednoduše zbavit poskytnutím daru.
+- Nákup dárkových karet:** Platformy jako [Bitrefill](https://www.bitrefill.com/) umožňují směnit bitcoiny za dárkové karty, které lze použít u různých obchodníků. To může být způsob, jak se zbavit toxických UTXO, aniž byste přišli o související hodnotu.
+- Konsolidace na Monero:** Peněženka Samourai nabízí službu atomické výměny mezi BTC a XMR. To je ideální pro správu toxických UTXO jejich konsolidací na Monero, aniž byste ohrozili své soukromí prostřednictvím KYC, před jejich odesláním zpět na Bitcoin. Tato možnost však může být drahá z hlediska poplatků za těžbu a prémií kvůli omezení likvidity.
+- Poslat je do Lightning Network:** Přesun těchto UTXO do Lightning Network a využití snížených transakčních poplatků je atraktivní možností. Tato metoda však může odhalit některé informace v závislosti na používání Lightning, a proto by se měla praktikovat s opatrností.
 
 ### Jak používat Whirlpool?
 
-Po zatčení zakladatelů Samourai Wallet a zabavení jejich serverů 24. dubna 2024 nástroj Whirlpool již nefunguje, ani pro ty, kteří mají vlastní Dojo. Dříve byl dostupný na Samourai Wallet a Sparrow Wallet.
+Po zatčení zakladatelů peněženky Samourai a zabavení jejich serverů 24. dubna 2024 nástroj Whirlpool přestal fungovat, a to i pro ty, kteří mají vlastní Dojo. Dříve byl k dispozici v peněženkách Samourai Wallet a Sparrow Wallet.
 
-![BTC204](assets/notext/54/14.webp)
+![BTC204](assets/fr/149.webp)
 
-Stále však existuje možnost, že by tento nástroj mohl být v následujících týdnech znovu uveden do provozu v závislosti na výsledku soudních sporů, nebo spuštěn jiným způsobem. Každopádně věřím, že trh pro coinjoin na Bitcoinu nebude dlouho bez nabídky, jelikož je zde jasná poptávka. Navíc model Whirlpool, který je nejpokročilejší z hlediska soukromí, bude jistě v budoucnu využit pro další implementace.
+Je však možné, že tento přístroj bude v následujících týdnech znovu uveden do provozu v závislosti na výsledcích zkoušek nebo bude znovu spuštěn jiným způsobem. V každém případě se domnívám, že trh s coinjoin na Bitcoinu nezůstane dlouho bez nabídky, protože je po něm jasná poptávka. Navíc model Whirlpool, který je z hlediska ochrany soukromí nejpokročilejší, bude jistě v budoucnu využit i pro další implementace.
 
-Pozorně sledujeme vývoj této kauzy i vývoj přidružených nástrojů. Ujistěte se, že budeme aktualizovat toto školení, jakmile budou k dispozici nové informace.
+Pozorně sledujeme vývoj tohoto případu i vývoj souvisejících nástrojů. Ujišťujeme vás, že toto školení budeme aktualizovat, jakmile budou k dispozici nové informace.
 
-V další kapitole se dozvíme, co jsou "anonsety", jak se tyto ukazatele vypočítávají a jak nám mohou pomoci odhadnout účinnost cyklů coinjoin.
+V příští kapitole se dozvíme, co jsou to "anonsety", jak se tyto ukazatele počítají a jak nám mohou pomoci odhadnout účinnost cyklů coinjoin.
 
 https://planb.network/tutorials/privacy/on-chain/coinjoin-sparrow-wallet-84def86d-faf5-4589-807a-83be60720c8b
-
 https://planb.network/tutorials/privacy/on-chain/coinjoin-samourai-wallet-e566803d-ab3f-4d98-9136-5462009262ef
-
 https://planb.network/tutorials/privacy/on-chain/coinjoin-dojo-c4b20263-5b30-4c74-ae59-dc8d0f8715c2
-
-## Sady anonymity
+## Sada anonymity
 
 <chapterId>be1093dc-1a74-40e5-9545-2b97a7d7d431</chapterId>
 
-Po studiu fungování coinjoinů a výzev spojených s efektivním mícháním se nyní naučíme, jak měřit tuto efektivitu. Jak určit, zda byl proces coinjoin účinný a jaký stupeň anonymity získal coin? To prozkoumáme v této kapitole s anonymními sadami neboli "anonsety" v angličtině.
+Poté, co jsme se seznámili s tím, jak coinjoiny fungují, a s problémy spojenými s efektivním prolínáním, se nyní naučíme, jak tuto efektivitu měřit. Jak zjistit, zda byl proces coinjoinu účinný a jaký stupeň anonymity mince získala? To budeme v této kapitole zkoumat pomocí souborů anonymity neboli anglicky "anonsets".
 
-### Připomenutí užitečnosti Coinjoin
+### Připomenutí užitečnosti služby Coinjoin
 
-Užitečnost CoinJoin spočívá v jeho schopnosti vytvořit věrohodné popření tím, že vaši minci ponoří do skupiny nerozlišitelných mincí. Cílem této akce je přerušit sledovatelné vazby, jak z minulosti do současnosti, tak ze současnosti do minulosti.
-Jinými slovy, analytik, který zná vaši počáteční transakci (`Tx0`) na vstupu do cyklů CoinJoin, by neměl být schopen s jistotou identifikovat vaše UTXO na výstupu z remixovacích cyklů (analýza od vstupu do cyklu po výstup z cyklu).
+Užitečnost funkce CoinJoin spočívá v tom, že dokáže vytvořit věrohodnou popíratelnost tím, že vaši minci ponoří do skupiny nerozlišitelných mincí. Cílem této akce je přerušit vazby sledovatelnosti, a to jak z minulosti do současnosti, tak ze současnosti do minulosti.
 
-![BTC204](assets/cs/55/01.webp)
+Jinými slovy, analytik, který zná vaši počáteční transakci (`Tx0`) na vstupu do cyklů CoinJoin, by neměl být schopen s jistotou identifikovat vaše UTXO na výstupu z remixových cyklů (analýza od vstupu do cyklu po výstup z cyklu).
 
-Naopak, analytik, který zná vaše UTXO na výstupu z cyklů CoinJoin, by neměl být schopen určit původní transakci na vstupu do cyklů (analýza od výstupu z cyklu po vstup do cyklu).
+![BTC204](assets/it/55/01.webp)
 
-![BTC204](assets/cs/55/02.webp)
+Naproti tomu analytik, který zná vaše UTXO na výstupu cyklů CoinJoin, by neměl být schopen určit původní transakci na vstupu cyklů (analýza z výstupu cyklu na vstup cyklu).
 
-Pro posouzení obtížnosti analytika spojit minulost s přítomností a naopak je nutné kvantifikovat velikost skupin homogenních mincí, ve kterých je vaše mince skryta. Toto měření nám říká počet analýz s identickou pravděpodobností. Takže, pokud je správná analýza utopena mezi 3 dalšími analýzami stejné pravděpodobnosti, vaše úroveň skrytí je velmi nízká. Pokud je však správná analýza v souboru 20 000 analýz, všechny stejně pravděpodobné, vaše mince je velmi dobře skryta. A právě velikost těchto skupin představuje ukazatele nazývané "anonsety".
+![BTC204](assets/it/55/02.webp)
 
-### Porozumění Anonsetům
+Aby bylo možné posoudit, jak obtížné je pro analytika propojit minulost se současností a naopak, je třeba kvantifikovat velikost homogenních skupin mincí, v nichž se vaše mince skrývá. Tato míra nám říká, jaký je počet analýz, které mají shodnou pravděpodobnost. Pokud je tedy správná analýza utopena mezi 3 jinými analýzami se stejnou pravděpodobností, je úroveň vašeho utajení velmi nízká. Pokud se však správná analýza nachází v souboru 20 000 analýz se stejnou pravděpodobností, je vaše mince velmi dobře ukrytá. A právě velikost těchto množin představují ukazatele zvané anonce.
 
-Anonsety slouží jako ukazatele pro posouzení stupně soukromí konkrétního UTXO. Konkrétněji měří počet nerozeznatelných UTXO v souboru, který zahrnuje studovanou minci. Požadavek na homogenní soubor UTXO znamená, že anonsety jsou obvykle vypočítávány přes cykly CoinJoin. Použití těchto ukazatelů je zvláště relevantní pro Whirlpool CoinJoins díky jejich uniformitě.
+### Porozumění anonsetům
 
-Anonsety umožňují, je-li to vhodné, posoudit kvalitu CoinJoinů. Velká velikost anonsetu znamená vysokou úroveň anonymity, protože se stává obtížným rozlišit konkrétní UTXO v homogenním souboru.
+Anonymy slouží jako indikátory pro posouzení stupně soukromí konkrétního UTXO. Přesněji řečeno, měří počet nerozlišitelných UTXO v souboru, který zahrnuje zkoumanou minci. Požadavek na homogenní soubor UTXO znamená, že anonsety se obvykle počítají na cyklech CoinJoin. Použití těchto ukazatelů je zvláště důležité pro Whirlpool CoinJoiny kvůli jejich homogenitě.
+
+Anonsety umožňují v případě potřeby posoudit kvalitu CoinJoins. Velká velikost anonsetu znamená vysokou úroveň anonymity, protože v homogenním souboru je obtížné rozlišit konkrétní UTXO.
 
 Existují 2 typy anonsetů:
 
-- **Prospective anonset;**
-- **Retrospective anonset.**
 
-### Prospective Anonset
+- Výhledový anonset;**
+- Retrospektivní anonset.**
 
-Prospective anonset udává velikost skupiny, mezi kterou je studované UTXO skryto na výstupu z cyklu, známe-li UTXO na vstupu, tedy počet nerozeznatelných mincí přítomných v této skupině. V angličtině se název tohoto ukazatele nazývá "forward anonset" nebo "forward-looking metrics".
-Tento ukazatel umožňuje měřit odolnost soukromí mince proti analýze z minulosti do přítomnosti (vstup do výstupu).
-![BTC204](assets/cs/55/03.webp)
+### Perspektivní anonset
 
-Tato metrika odhaduje, do jaké míry je vaše UTXO chráněno proti pokusům o rekonstrukci jeho historie od vstupního bodu po výstupní bod v procesu coinjoin.
+Výhledový anonset udává velikost skupiny, mezi níž je zkoumaný UTXO skryt na výstupu z cyklu, při znalosti UTXO na vstupu, tj. počet nerozlišitelných mincí přítomných v této skupině. V angličtině je název tohoto ukazatele "forward anonset" nebo "forward-looking metrics"
 
-Například, pokud vaše transakce účastnila svého prvního cyklu coinjoin a byly dokončeny další dva následné cykly, prospective anonset vaší mince by byl `13`:
+Tento ukazatel poskytuje měřítko odolnosti měnového soukromí vůči analýze minulého období (od vstupu k výstupu).
 
-![BTC204](assets/notext/55/04.webp)
+![BTC204](assets/it/55/03.webp)
 
-Představme si, že naše mince na vstupu do cyklu coinjoin má prospective anonset `86,871`. V praxi to znamená, že je skryta mezi `86,871` nerozeznatelnými mincemi. Pro vnějšího pozorovatele, který je si vědom této mince na začátku cyklů coinjoin a pokouší se vystopovat její výstup, by se setkal s `86,871` možnými UTXO, každé s identickou pravděpodobností, že je hledanou mincí.
+Tato metrika odhaduje míru ochrany UTXO proti pokusům o rekonstrukci jeho historie od vstupního bodu po výstupní bod v procesu spojování mincí.
 
-![BTC204](assets/cs/55/05.webp)
+Například pokud se vaše transakce zúčastnila prvního cyklu spojení mincí a byly dokončeny dva další sestupné cykly, budoucí anonset vaší mince bude `13`:
 
-### Retrospective Anonset
+![BTC204](assets/fr/153.webp)
 
-Retrospektivní anonset udává počet možných zdrojů pro danou minci, známe-li UTXO na výstupu cyklu. Tento ukazatel měří odolnost soukromí mince vůči analýze z přítomnosti do minulosti (výstup na vstup), to znamená, jak obtížné je pro analytika vystopovat původ vaší mince před cykly coinjoin. V angličtině se název tohoto ukazatele označuje jako "backward anonset" nebo "backward-looking metrics".
-![BTC204](assets/cs/55/06.webp)
+Představme si například, že naše mince na vstupu do cyklu spojování mincí těží z perspektivního anonsetu `86,871`. Prakticky to znamená, že je ukryta mezi `86 871` nerozlišitelnými mincemi. Pro vnějšího pozorovatele, který si je vědom této mince na začátku cyklu coinjoin a snaží se sledovat její výstup, by se setkal s `86 871` možnými UTXO, z nichž každá má stejnou pravděpodobnost, že je hledanou mincí.
 
-Znáte-li vaše UTXO na výstupu z cyklů, retrospektivní anonset určuje počet potenciálních transakcí Tx0, které by mohly tvořit váš vstup do cyklů coinjoin. Na níže uvedeném diagramu to odpovídá součtu všech oranžových bublin.
+![BTC204](assets/it/55/05.webp)
 
-![BTC204](assets/notext/55/07.webp)
+### Retrospektivní anonset
 
-Představme si například, že naše mince na výstupu z cyklu coinjoin má retrospektivní anonset `42,185`. V praxi to znamená, že existuje `42,185` potenciálních zdrojů pro toto UTXO. Pokud externí pozorovatel identifikuje tuto minci na konci cyklů a snaží se vystopovat její původ, bude čelit `42,185` možným zdrojům, všechny s rovnou pravděpodobností, že jsou hledaným původem.
+Retrospektivní anonset udává počet možných zdrojů pro danou minci při znalosti UTXO na výstupu z cyklu. Tento ukazatel měří odolnost mince vůči soukromí při analýze z přítomnosti do minulosti (od výstupu ke vstupu), tj. jak obtížné je pro analytika vystopovat původ vaší mince, před cykly coinjoin. V angličtině se tento ukazatel jmenuje "backward anonset" neboli "retrospektivní metrika"
 
-![BTC204](assets/cs/55/08.webp)
+Při znalosti vašeho UTXO na výstupu z cyklů určí retrospektivní anonset počet potenciálních transakcí Tx0, které mohly představovat váš vstup do cyklů spojení mincí. V níže uvedeném diagramu to odpovídá součtu všech oranžových bublin.
+
+Představme si například, že naše mince na výstupu z cyklu spojování mincí využívá retrospektivní anonset ve výši `42 185`. Prakticky to znamená, že pro toto UTXO existuje `42 185` možných zdrojů. Pokud vnější pozorovatel identifikuje tuto minci na konci cyklů a pokusí se vystopovat její původ, bude čelit `42 185` možným zdrojům, přičemž všechny mají stejnou pravděpodobnost, že jsou hledaným původem.
 
 ### Jak konkrétně vypočítat anonsety?
 
-Je možné ručně vypočítat své anonsety pomocí prohlížeče bloků pro malé sady. Nicméně pro větší anonsety se stává nezbytné použití specializovaného nástroje. Podle mého vědomí je jediný software schopný provádět tento úkol _Whirlpool Stats Tool_, Python nástroj vyvinutý týmy Samourai a OXT. Bohužel tento nástroj je v současné době mimo provoz po zatčení zakladatelů Samourai a ukončení činnosti OXT, které bylo používáno k extrakci dat z blockchainu.
-![BTC204](assets/notext/55/09.webp)
+Pro malé sady můžete anonsety vypočítat ručně pomocí průzkumníka bloků. Pro větší anonsety je však nutné použít specializovaný nástroj. Pokud je mi známo, jediným softwarem, který je schopen tento úkol provést, je _Whirlpool Stats Tool_, nástroj v jazyce Python vyvinutý týmy Samourai a OXT. Tento nástroj je bohužel v současné době mimo provoz v důsledku zatčení zakladatelů Samourai a ukončení činnosti OXT, který byl používán k získávání dat z blockchainu.
 
-Jak jsme viděli v této kapitole, anonsety lze vypočítat pouze v případě, že existuje určitá homogenita ve struktuře coinjoinů. A přesně v další kapitole se dozvíme, jak kvantifikovat tuto homogenitu v Bitcoinové transakci, ať už jde o coinjoin nebo tradičnější transakci.
+Jak jsme viděli v této kapitole, anonsety lze vypočítat pouze v případě, že existuje určitá homogenita ve struktuře coinjoin. A právě v příští kapitole zjistíme, jak tuto homogenitu v bitcoinové transakci kvantifikovat, ať už se jedná o coinjoin, nebo tradičnější transakci.
 
 https://planb.network/tutorials/privacy/analysis/wst-anonsets-0354b793-c301-48af-af75-f87569756375
-
 ## Entropie
 
 <chapterId>e4fe289d-618b-49a2-84c9-68c562e708b4</chapterId>
 
-Jak jsme viděli v této části o coinjoinech, homogenita UTXO na vstupech a výstupech hraje důležitou roli při zlepšování důvěrnosti Bitcoinové transakce. Tento parametr umožňuje věrohodné popření proti analýze řetězce. Existuje několik metod, které mohou měřit tuto homogenitu, ale jednou z nejúčinnějších, podle mého názoru, je použití ukazatelů poskytovaných nástrojem _Boltzmann_, vyvinutým týmy OXT a Samourai Wallet, zejména entropie transakce. To je to, co budeme podrobně studovat v této kapitole.
+Jak jsme viděli v této části o spojování mincí, homogenita UTXO na vstupech a výstupech hraje důležitou roli při zvyšování důvěrnosti bitcoinové transakce. Tento parametr umožňuje věrohodné popření proti analýze řetězce. Tuto homogenitu lze měřit několika metodami, ale jednou z nejefektivnějších je podle mého názoru použití ukazatelů poskytovaných nástrojem _Boltzmann_, který vyvinuly týmy OXT a Samourai Wallet, konkrétně entropie transakcí. Právě tu budeme v této kapitole podrobně studovat.
 
-Na rozdíl od anonsetů, které jsou vypočítány nad sadou transakcí, ukazatele, které zde představíme, se zaměřují výhradně na jednu transakci, ať už jde o coinjoin nebo tradičnější transakci.
+Na rozdíl od anonsetů, které se počítají na základě souboru transakcí, se ukazatele, které zde představíme, zaměřují výhradně na jednu transakci, ať už se jedná o coinjoin nebo tradičnější transakci.
 
 ### Počet interpretací
 
-Prvním indikátorem, který lze pozorovat u transakce Bitcoinu, je celkový počet možných interpretací z pohledu vnějšího pozorovatele analyzujícího transakci. S ohledem na hodnoty UTXO zapojených do transakce tento indikátor udává počet způsobů, jakými lze vstupy spojit s výstupy. Jinými slovy, určuje počet možných interpretací, které transakce může generovat v toku bitcoinů z perspektivy vnějšího pozorovatele, který ji analyzuje.
-Například jednoduchá platební transakce s 1 vstupem a 2 výstupy bude mít pouze jednu interpretaci, a to že vstup #0 financoval výstup #0 a výstup #1. Neexistují žádné další možné interpretace:
+Prvním ukazatelem, který lze u transakce bitcoinu pozorovat, je celkový počet možných interpretací v očích vnějšího pozorovatele, který transakci analyzuje. S přihlédnutím k hodnotám UTXO zapojených do transakce tento ukazatel udává počet způsobů, jakými lze vstupy přiřadit k výstupům. Jinými slovy, určuje počet možných interpretací, které může transakce v bitcoinovém toku z pohledu vnějšího pozorovatele, který ji analyzuje, vyvolat.
 
-![BTC204](assets/notext/56/01.webp)
+Například jednoduchá platební transakce s 1 vstupem a 2 výstupy bude mít pouze jednu interpretaci, a to že vstup #0 financoval výstup #0 a výstup #1. Žádné jiné interpretace nejsou možné:
 
-Naopak, coinjoin strukturovaný podle modelu Whirlpool 5x5 představuje $1,496$ možných kombinací:
-![BTC204](assets/notext/56/02.webp)
-Coinjoin Whirlpool Surge Cycle 8x8 se prezentuje s $9,934,563$ možnými interpretacemi:
+![BTC204](assets/fr/159.webp)
 
-![BTC204](assets/notext/56/03.webp)
+Naproti tomu spojení mincí strukturované podle modelu Whirlpool 5x5 má 1496 možných kombinací:
+
+![BTC204](assets/fr/160.webp)
+
+Spojení Whirlpool Surge Cycle 8x8 přinese 9 934 563 dolarů možných interpretací:
+
+![BTC204](assets/fr/161.webp)
 
 ### Entropie
 
-Z počtu interpretací transakce Bitcoinu můžeme vypočítat její entropii.
+Z počtu interpretací transakce bitcoinu můžeme vypočítat její entropii.
 
-V obecném kontextu kryptografie a informací je entropie kvantitativní míra nejistoty nebo nepředvídatelnosti spojené se zdrojem dat nebo náhodným procesem. Jinými slovy, entropie je způsob, jak měřit, jak obtížné je informace předpovědět nebo uhodnout.
+V obecném kontextu kryptografie a informací je entropie kvantitativní mírou nejistoty nebo nepředvídatelnosti spojené se zdrojem dat nebo náhodným procesem. Jinými slovy, entropie je způsob, jak měřit, jak obtížné je předvídat nebo odhadnout informaci.
 
-Ve specifickém kontextu analýzy řetězců je entropie také název indikátoru, odvozeného od Shannonovy entropie a [vynalezeného LaurentMT](https://gist.github.com/LaurentMT/e758767ca4038ac40aaf), který lze vypočítat na transakci Bitcoinu.
+V konkrétním kontextu analýzy řetězce je entropie také název ukazatele, odvozeného od Shannonovy entropie a [vynalezeného LaurentemMT](https://gist.github.com/LaurentMT/e758767ca4038ac40aaf), který lze vypočítat na transakci Bitcoin.
 
-Když transakce prezentuje vysoký počet možných interpretací, je často relevantnější odkazovat na její entropii. Tento indikátor umožňuje měřit nedostatek znalostí analytiků o přesné konfiguraci transakce. Jinými slovy, čím vyšší entropie, tím obtížnější úkol identifikovat toky bitcoinů mezi vstupy a výstupy pro analytiky.
+Pokud má transakce vysoký počet možných interpretací, je často relevantnější odkazovat na její entropii. Tento ukazatel poskytuje míru nedostatečné znalosti analytiků o přesné konfiguraci transakce. Jinými slovy, čím vyšší je entropie, tím obtížnější je pro analytiky identifikovat toky bitcoinů mezi vstupy a výstupy.
 
-V praxi entropie odhaluje, zda z pohledu vnějšího pozorovatele transakce prezentuje více možných interpretací, založených pouze na částkách vstupů a výstupů, aniž by se zohledňovaly jiné vnější nebo vnitřní vzory a heuristiky. Vysoká entropie je pak synonymem lepší důvěrnosti pro transakci.
+V praxi entropie odhaluje, zda má transakce z pohledu vnějšího pozorovatele více možných interpretací, a to pouze na základě vstupních a výstupních veličin, aniž by byly zohledněny další vnější nebo vnitřní zákonitosti a heuristiky. Vysoká entropie je tedy synonymem vyšší důvěrnosti transakce.
 
-Entropie je definována jako binární logaritmus počtu možných kombinací. Zde je použitý vzorec s $E$ jako entropií transakce a $C$ počtem možných interpretací:
+Entropie je definována jako binární logaritmus počtu možných kombinací. Zde je použit vzorec, kde $E$ představuje entropii transakce a $C$ počet možných interpretací:
 
 $$
 E = \log_2(C)
 $$
 
-V matematice odpovídá binární logaritmus (logaritmus o základu 2) inverzní operaci umocňování čísla 2. Jinými slovy, binární logaritmus $x$ je exponent, na který musí být číslo $2$ umocněno, aby se získalo $x$. Tento indikátor je tedy vyjádřen v bitech.
+V matematice odpovídá binární logaritmus (logaritmus do základu 2) inverzní operaci zvýšení 2 na určitou mocninu. Jinými slovy, binární logaritmus $x$ je exponent, na který je třeba zvýšit $2$, abychom získali $x$. Tento ukazatel je tedy vyjádřen v bitech.
 
-Vezměme si příklad výpočtu entropie pro coinjoin transakci strukturovanou podle modelu Whirlpool 5x5, která, jak bylo zmíněno v předchozí sekci, prezentuje počet možných interpretací $1,496$:
-
-$$
-\begin{align*}
-C &= 1,496 \\
-E &= \log_2(1,496) \\
-E &= 10.5469 \text{ bitů}
-\end{align*}
-$$
-
-Takže tato coinjoin transakce vykazuje entropii $10.5469$ bitů, což je považováno za velmi uspokojivé. Čím vyšší tato hodnota, tím více různých interpretací transakce připouští, čímž zvyšuje její úroveň soukromí.
-Pro transakci 8x8 coinjoin s $9,934,563$ možnými interpretacemi by entropie byla:
+Vezměme si příklad výpočtu entropie pro transakci coinjoin strukturovanou podle modelu 5x5 Whirlpool, která, jak bylo uvedeno v předchozí části, má počet možných interpretací 1 496 USD:
 
 $$
 \begin{align*}
-C &= 9,934,563 \\
-E &= \log_2(9,934,563) \\
-E &= 23.244 \text{ bitů}
+C &= 1.496 \\
+E &= \log_2(1.496) \\
+E &= 10.5469 \text{ bit}
 \end{align*}
 $$
 
-Pojďme se podívat na další příklad se standardní platební transakcí, která má 1 vstup a 2 výstupy: [1b1b0c3f0883a99f1161c64da19471841ed12a1f78e77fab128c69a5f578ccce](https://mempool.space/tx/1b1b0c3f0883a99f1161c64da19471841ed12a1f78e77fab128c69a5f578ccce)
+Tato transakce coinjoin tedy vykazuje entropii 10,5469$ bitů, což je považováno za velmi uspokojivé. Čím vyšší je tato hodnota, tím více různých interpretací transakce připouští, čímž se zvyšuje její úroveň soukromí.
 
-![BTC204](assets/notext/56/04.webp)
+Pro transakci 8x8 coinjoin, která má 9 934 563 USD interpretací, by entropie byla:
 
-V případě této transakce je jediná možná interpretace: `(In.0) > (Out.0 ; Out.1)`. V důsledku toho je její entropie stanovena na $0$:
+$$
+\begin{align*}
+C &= 9.934.563 \\
+E &= \log_2(9.934.563) \\
+E &= 23,244 \text{ bit}
+\end{align*}
+$$
+
+Uveďme další příklad standardní platební transakce s 1 vstupem a 2 výstupy: [1b1b0c3f0883a99f1161c64da19471841ed12a1f78e77fab128c69a5f578ccce](https://mempool.space/tx/1b1b0c3f0883a99f1161c64da19471841ed12a1f78e77fab128c69a5f578ccce)
+
+![BTC204](assets/fr/162.webp)
+
+V případě této transakce je jediná možná interpretace: `(In.0) > (Out.0 ; Out.1)`. Proto je její entropie nastavena na $0$:
 
 $$
 \begin{align*}
 C &= 1 \\
 E &= \log_2(1) \\
-E &= 0 \text{ bitů}
+E &= 0 \text{ bit}
 \end{align*}
 $$
 
 ### Efektivita
 
-Z entropie transakce můžeme také vypočítat její efektivitu z hlediska soukromí. Tento ukazatel hodnotí efektivitu transakce porovnáním s optimální transakcí, která by byla možná v identické konfiguraci.
+Z entropie transakce můžeme také vypočítat její účinnost ochrany soukromí. Tento ukazatel hodnotí účinnost transakce porovnáním s optimální transakcí myslitelnou v identické konfiguraci.
 
-To nás přivádí k diskusi o konceptu maximální entropie, která odpovídá nejvyšší entropii, kterou by konkrétní struktura transakce teoreticky mohla dosáhnout. Efektivita transakce je poté vypočítána konfrontací této maximální entropie s aktuální entropií analyzované transakce.
+To nás vede k diskusi o pojmu maximální entropie, který odpovídá nejvyšší entropii, jíž by určitá struktura transakcí mohla teoreticky dosáhnout. Účinnost transakce se pak vypočítá porovnáním této maximální entropie se skutečnou entropií analyzované transakce.
 
-Použitý vzorec je následující s:
+Používá se následující vzorec s:
 
-- $E_R$: aktuální entropie transakce vyjádřená v bitech;
-- $E_M$: maximální možná entropie pro strukturu transakce také vyjádřená v bitech;
+
+- $E_R$: skutečná entropie transakce vyjádřená v bitech;
+- $E_M$: maximální možná entropie pro strukturu transakce vyjádřená rovněž v bitech;
 - $Ef$: efektivita transakce v bitech:
 
 $$
 Ef = E_R - E_M
 $$
 
-Například pro strukturu coinjoin typu Whirlpool 5x5 je maximální entropie $10.5469$:
+Například pro strukturu coinjoin typu Whirlpool 5x5 je maximální entropie $10,5469$:
 
 $$
 \begin{align*}
-E_R &= 10.5469 \\
-E_M &= 10.5469 \\
+E_R &= 10,5469 \\
+E_M &= 10,5469 \\
 Ef &= E_R - E_M \\
-Ef &= 10.5469 - 10.5469 \\
-Ef &= 0 \text{ bitů}
+Ef &= 10,5469 - 10,5469 \\
+Ef &= 0 \text{ bit}
 \end{align*}
 $$
 
-Tento ukazatel je také vyjádřen jako procento. Použitý vzorec je následující s:
+Tento ukazatel je rovněž vyjádřen v procentech. Používá se následující vzorec:
 
-- $C_R$: počet možných skutečných interpretací;
+
+- $C_R$: počet možných reálných interpretací;
 - $C_M$: maximální počet možných interpretací se stejnou strukturou;
-- $Ef$: efektivita vyjádřená v procentech:
+- $Ef$: účinnost vyjádřená v procentech:
 
 $$
 \begin{align*}
 E_f &= \frac{C_R}{C_M} \\
-E_f &= \frac{1\,496}{1\,496} \\
+E_f &= \frac{1.496}{1.496} \\
 E_f &= 100\%
 \end{align*}
 $$
 
-Efektivita $100\%$ tedy naznačuje, že transakce maximalizuje svůj potenciál pro soukromí na základě své struktury.
+Efektivita 100 %$ tedy znamená, že transakce na základě své struktury maximalizuje svůj potenciál soukromí.
 
-### Hustota Entropie
+### Hustota entropie
 
-Entropie je dobrým ukazatelem pro měření soukromí transakce, ale částečně závisí na počtu vstupů a výstupů v transakci. Pro porovnání entropie 2 různých transakcí, které nemají stejný počet vstupů a výstupů, lze vypočítat hustotu entropie. Tento ukazatel nabízí perspektivu entropie vzhledem ke každému vstupu nebo výstupu transakce. Hustota se ukazuje užitečná pro hodnocení a porovnávání efektivity transakcí různých velikostí.
-Pro výpočet toho stačí rozdělit celkovou entropii transakce počtem vstupů a výstupů zapojených do transakce:
+Entropie je dobrým ukazatelem pro měření soukromí transakce, ale částečně závisí na počtu vstupů a výstupů v transakci. Pro porovnání entropie dvou různých transakcí, které nemají stejný počet vstupů a výstupů, lze vypočítat hustotu entropie. Tento ukazatel poskytuje pohled na entropii vzhledem ke každému vstupu nebo výstupu v transakci. Hustota se ukazuje jako užitečná při hodnocení a porovnávání efektivity transakcí různých velikostí.
+
+Pro její výpočet stačí vydělit celkovou entropii transakce celkovým počtem vstupů a výstupů zapojených do transakce:
+
 
 - $E_D$: hustota entropie vyjádřená v bitech;
 - $E$: entropie transakce vyjádřená v bitech;
@@ -2031,7 +2165,7 @@ $$
 E_D = \frac{E}{T}
 $$
 
-Vezměme si příklad Whirlpool 5x5 coinjoin:
+Vezměme si příklad spojení 5x5 Whirlpool:
 
 $$
 \begin{align*}
@@ -2039,11 +2173,11 @@ T &= 5 + 5 = 10 \\
 E &= 10.5469 \\
 E_D &= \frac{E}{T} \\
 E_D &= \frac{10.5469}{10} \\
-E_D &= 1.054 \text{ bitů}
+E_D &= 1.054 \text{ bit}
 \end{align*}
 $$
 
-Pojďme také vypočítat hustotu entropie Whirlpool 8x8 coinjoin:
+Vypočítáme také hustotu entropie pro spojení 8x8 Whirlpool:
 
 $$
 \begin{align*}
@@ -2051,83 +2185,91 @@ T &= 8 + 8 = 16 \\
 E &= 23.244 \\
 E_D &= \frac{E}{T} \\
 E_D &= \frac{23.244}{16} \\
-E_D &= 1.453 \text{ bitů}
+E_D &= 1.453 \text{ bit}
 \end{align*}
 $$
 
-Analýzou hustoty entropie těchto dvou typů coinjoinů je zřejmé, že i při normalizaci entropie podle počtu prvků, "Surge Cycle 8x8" coinjoin generuje více nejistoty pro analýzu.
+Při analýze hustoty entropie těchto dvou typů koincidencí je zřejmé, že i při normalizaci entropie na počet prvků generuje koincidenční spojení "Surge Cycle 8x8" větší nejistotu pro analýzu.
 
-### Skóre Boltzmann
+### Boltzmannovo skóre
 
-Dalším analyzovaným prvkem v transakci je Boltzmannovo skóre každého prvku ve vztahu k jinému. Jedná se o tabulku pravděpodobností shody mezi vstupy a výstupy. Tato tabulka ukazuje prostřednictvím Boltzmannova skóre podmíněnou pravděpodobnost, že konkrétní vstup je spojen s daným výstupem. Je to tedy kvantitativní míra podmíněné pravděpodobnosti, že dojde k asociaci mezi vstupem a výstupem v transakci, založená na poměru počtu příznivých výskytů této události ve srovnání s celkovým počtem možných výskytů, v sadě interpretací.
-Při příkladu Whirlpool coinjoin by tabulka podmíněných pravděpodobností zdůraznila šance na spojení mezi každým vstupem a výstupem, poskytující kvantitativní míru nejednoznačnosti asociací v transakci:
+Další informací analyzovanou v transakci je Boltzmannovo skóre každého prvku vůči jinému. Jedná se o tabulku pravděpodobnosti shody mezi vstupy a výstupy. Tato tabulka udává prostřednictvím Boltzmannova skóre podmíněnou pravděpodobnost, že určitý vstup souvisí s daným výstupem. Jedná se tedy o kvantitativní míru podmíněné pravděpodobnosti, že dojde k asociaci mezi vstupem a výstupem v transakci, určenou na základě poměru počtu příznivých výskytů této události k celkovému počtu možných výskytů, v souboru interpretací.
 
-| %       | Výstup 0 | Výstup 1 | Výstup 2 | Výstup 3 | Výstup 4 |
+Vezmeme-li si příklad spojení Whirlpool, tabulka podmíněných pravděpodobností by zvýraznila možnosti spojení mezi každým vstupem a výstupem a poskytla by kvantitativní míru nejednoznačnosti spojení v transakci:
+
+| % | Výstup 0 | Výstup 1 | Výstup 2 | Výstup 3 | Výstup 4 |
+
 | ------- | -------- | -------- | -------- | -------- | -------- |
-| Vstup 0 | 34%      | 34%      | 34%      | 34%      | 34%      |
-| Vstup 1 | 34%      | 34%      | 34%      | 34%      | 34%      |
-| Vstup 2 | 34%      | 34%      | 34%      | 34%      | 34%      |
-| Vstup 3 | 34%      | 34%      | 34%      | 34%      | 34%      |
-| Vstup 4 | 34%      | 34%      | 34%      | 34%      | 34%      |
 
-Zde je jasné, že každý vstup má stejnou šanci být spojen s jakýmkoli výstupem, což zvyšuje důvěrnost transakce.
+Zde je zřejmé, že každý vstup má stejnou pravděpodobnost přiřazení k jakémukoli výstupu, což zvyšuje důvěrnost transakce.
 
-Výpočet Boltzmannova skóre zahrnuje dělení počtu interpretací, ve kterých se určitá událost projevuje, celkovým počtem dostupných interpretací. Takže pro určení skóre spojujícího vstup #0 s výstupem #3 (událost přítomná v $512$ interpretacích) je postup následující:
+Výpočet Boltzmannova skóre spočívá ve vydělení počtu interpretací, v nichž se určitá událost vyskytne, celkovým počtem dostupných interpretací. Chceme-li tedy určit skóre přiřazením vstupu #0 k výstupu #3 (událost vyskytující se v 512$ interpretacích), postupujeme následovně:
 
 $$
 \begin{align*}
-\text{Interpretace (IN.0 > OUT.3)} &= 512 \\
-\text{Celkovy pocet interpretaci} &= 1496 \\
-\text{Skore} &= \frac{512}{1496} \\
-\text{Skore} &= 34 \%
+\text{Interpretazioni (IN.0 > OUT.3)} &= 512 \\
+\text{Interpretazioni Totali} &= 1496 \\
+\text{Punteggio} &= \frac{512}{1496} \\
+\text{Punteggio} &= 34\%
 \end{align*}
 $$
 
-Pokud se vrátíme k příkladu Whirlpool coinjoin 8x8 Surge Cycle, Boltzmannova tabulka by vypadala takto:
+Pokud bychom znovu uvažovali o příkladu cyklu Surge 8x8 Whirlpool coinjoin, vypadala by Boltzmannova tabulka takto:
 
-|      | OUT.0 | OUT.1 | OUT.2 | OUT.3 | OUT.4 | OUT.5 | OUT.6 | OUT.7 |
+| OUT.0 | OUT.1 | OUT.2 | OUT.3 | OUT.4 | OUT.5 | OUT.6 | OUT.7 | OUT.7 | OUT.7 |
+
 | ---- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| IN.0 | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  |
-| IN.1 | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  |
-| IN.2 | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  |
-| IN.3 | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  |
-| IN.4 | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  |
-| IN.5 | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  |
-| IN.6 | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  |
-| IN.7 | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  | 23 %  |
 
-Nicméně, v případě jednoduché transakce s jedním vstupem a dvěma výstupy, situace je jiná:
+| IN.0 | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% |
 
-| %       | Výstup 0 | Výstup 1 |
+| IN.1 | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% |
+
+| IN.2 | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% |
+
+| IN.3 | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% |
+
+| IN.4 | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% |
+
+| IN.5 | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% |
+
+| IN.6 | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% |
+
+| IN.7 | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% | 23% |
+
+V případě jednoduché transakce zahrnující jeden vstup a dva výstupy je však situace jiná:
+
+| % | Výstup 0 | Výstup 1 |
+
 | ------- | -------- | -------- |
-| Vstup 0 | 100 %    | 100 %    |
 
-Zde pozorujeme, že pravděpodobnost, že každý výstup pochází z vstupu č. 0, je 100 %. Nižší pravděpodobnost tedy překládá do většího soukromí tím, že rozptyluje přímé spojení mezi vstupy a výstupy.
+| Vstup 0 | 100% | 100% |
 
-### Deterministické spojení
+Zde vidíme, že pravděpodobnost každého výstupu ze vstupu č. 0 je 100 %. Nižší pravděpodobnost tedy vede k většímu soukromí tím, že rozmělňuje přímé vazby mezi vstupy a výstupy.
 
-Je také možné vypočítat počet deterministických spojení v transakci. Tento ukazatel odhaluje, kolik spojení mezi vstupy a výstupy v analyzované transakci je nesporných, s pravděpodobností 100 %. Tento ukazatel lze pak doplnit výpočtem poměru deterministických spojení. Poměr poskytuje perspektivu váhy těchto deterministických spojení ve všech spojeních transakce.
-Například transakce typu Whirlpool coinjoin neukazuje žádnou deterministickou spojitost mezi vstupy a výstupy, čímž zobrazuje indikátor 0 spojení a poměr 0%. Naopak, v naší druhé zkoumané jednoduché platební transakci (s jedním vstupem a 2 výstupy) nám indikátor říká, že existují 2 deterministická spojení a poměr dosahuje 100%. Proto nulový indikátor signalizuje vynikající soukromí díky absenci přímých a nesporných spojení mezi vstupy a výstupy.
+### Deterministické odkazy
 
-### Jak tyto indikátory vypočítat?
+Je také možné vypočítat počet deterministických spojení v transakci. Tento ukazatel ukazuje, kolik vazeb mezi vstupy a výstupy v analyzované transakci je nezpochybnitelných, se 100% pravděpodobností. Tento ukazatel pak lze doplnit výpočtem poměru deterministických vazeb. Poměr poskytuje pohled na váhu těchto deterministických vazeb v rámci všech vazeb v transakci.
 
-Ruční výpočet těchto indikátorů pomocí poskytnutých rovnic je relativně jednoduchý. Hlavní obtížnost spočívá v určení počtu možných interpretací transakce. Pro standardní transakci lze tento výpočet provést ručně. Avšak pro coinjoin je úkol výrazně složitější.
+Například transakce Whirlpool coinjoin nevykazuje žádnou deterministickou vazbu mezi vstupy a výstupy, a proto vykazuje ukazatel 0 vazeb a poměr 0 %. Naproti tomu v naší druhé zkoumané jednoduché platební transakci (s jedním vstupem a 2 výstupy) nám ukazatel říká, že existují 2 deterministické vazby a poměr dosahuje 100 %. Nulový ukazatel tedy signalizuje vynikající soukromí, protože neexistují přímé a nesporné vazby mezi vstupy a výstupy.
 
-Dříve byl vyvinut Python nástroj s názvem _Boltzmann Calculator_, vyvinutý týmy OXT a Samourai, který umožňoval automatický výpočet všech těchto indikátorů pro Bitcoinovou transakci:
+### Jak tyto ukazatele vypočítat?
 
-![BTC204](assets/notext/56/05.webp)
+Ruční výpočet těchto ukazatelů pomocí rovnic, které jsem uvedl, je poměrně jednoduchý. Hlavní potíž spočívá ve stanovení počtu možných interpretací transakce. U standardní transakce lze tento výpočet provést ručně. Pro coinjoin je však tento úkol podstatně složitější.
 
-Bylo také možné použít webovou stránku KYCP.org pro tyto analýzy:
+Dříve existoval nástroj v jazyce Python s názvem _Boltzmann Calculator_, vyvinutý týmy OXT a Samourai, který umožňoval automatický výpočet všech těchto ukazatelů pro bitcoinovou transakci:
 
-![BTC204](assets/notext/56/06.webp)
+![BTC204](assets/fr/163.webp)
 
-Bohužel, po zatčení zakladatelů Samourai, tyto nástroje momentálně nejsou funkční.
+Pro tyto analýzy bylo možné využít také webové stránky KYCP.org:
 
-Nyní, když jsme podrobně diskutovali o coinjoinech, prozkoumáme v poslední části našeho školení další dostupné techniky soukromí na Bitcoinu. Budeme zkoumat payjoiny, specifické typy transakcí pseudo-coinjoin, protokoly s pevnou adresou, stejně jako opatření zaměřená na zvýšení soukromí ne na úrovni transakce, ale na úrovni sítě uzlů.
+![BTC204](assets/fr/164.webp)
+
+Bohužel po zatčení zakladatelů společnosti Samourai nejsou tyto nástroje v současné době funkční.
+
+Nyní, když jsme podrobně probrali coinjoiny, se v poslední části našeho školení budeme věnovat dalším technikám ochrany soukromí, které jsou v Bitcoinu k dispozici. Prozkoumáme payjoin transakce, specifické typy pseudo-coinjoin transakcí, protokoly statických adres a také opatření ke zlepšení soukromí nikoli na úrovni transakcí, ale na úrovni sítě uzlů.
 
 https://planb.network/tutorials/privacy/analysis/boltzmann-entropy-738e45af-18a6-4ce6-af1a-1bf58e15f1fe
-
-# Porozumění významu dalších pokročilých technik soukromí
+# Pochopení významu dalších pokročilých technik ochrany soukromí
 
 <partId>19989ae6-d608-4acf-b698-2cf1e7e5e6ae</partId>
 
@@ -2135,1603 +2277,1206 @@ https://planb.network/tutorials/privacy/analysis/boltzmann-entropy-738e45af-18a6
 
 <chapterId>c1e90b95-f709-4574-837b-2ec26b11286f</chapterId>
 
-Coinjoin v současnosti představuje nejúčinnější metodu pro zavedení nejistoty do sledování mincí během analýzy řetězce. Jak jsme viděli v předchozích kapitolách, pro dosažení účinného míchání je nutné, aby vstupy a výstupy byly co nejhomogennější. Navíc je klíčové, aby byly mince integrovány do co největší skupiny, aby se maximalizovaly anonsety. Aby byly coinjoin transakce účinné, musí zahrnovat velké množství uniformních mincí. Toto množství požadavků znamená, že coinjoin transakce mají velmi rigidní strukturu: částky jsou předem určené a všichni účastníci se musí držet těchto pravidel, aby zajistili uniformitu procesu. Kromě toho coinjoin vyžaduje synchronizaci mezi všemi účastníky a koordinátorem během konstrukce transakce.
-Tyto požadavky činí coinjoin nevhodným pro přímé platby. Například, pokud vlastníte 1M sats kus v coinjoin poolu, jeho přímé použití jako platba by bylo složité. Vyžadovalo by to synchronizaci s ostatními účastníky a koordinátorem pro přesnou konstrukci spolupracující transakce právě ve chvíli, kdy potřebujete provést platbu, a částka nákupu by musela přesně odpovídat hodnotě vašeho kusu, což je prakticky nedosažitelné. Proto je coinjoin transakce svou podstatou spolupracující transakce zametání, což znamená, že obvykle jsou to stejní majitelé vstupů, kteří se nacházejí ve výstupech.
-Nicméně, bylo by zajímavé mít struktury transakcí, které umožňují praktické platby a zároveň zavádějí pochybnosti do analýzy řetězce. To je přesně to, co budeme v této kapitole a v dalších prozkoumávat.
+V současné době je coinjoin nejefektivnější metodou pro zavedení nejistoty do sledování mincí při analýze řetězce. Jak jsme viděli v předchozích kapitolách, k dosažení účinného míchání je třeba, aby vstupy a výstupy byly co nejhomogennější. Kromě toho je zásadní, aby coinjoiny byly integrovány do co největší skupiny, aby se maximalizovaly anonsety. Aby tedy bylo coinjoins efektivní, musí zahrnovat velký počet stejnorodých mincí. Toto množství požadavků znamená, že transakce coinjoin mají velmi pevnou strukturu: částky jsou předem stanoveny a všichni účastníci je musí dodržovat, aby byla zajištěna jednotnost procesu. Kromě toho coinjoiny vyžadují synchronizaci mezi všemi účastníky a koordinátorem během konstrukce transakce.
 
-### Co je transakce payjoin?
+Kvůli těmto požadavkům je coinjoin pro přímé platby nevhodný. Pokud například vlastníte 1M sats v poolu coinjoin, bylo by jeho přímé použití jako platby složité. Vyžadovalo by to synchronizaci s ostatními účastníky a koordinátor by musel přesně v době, kdy potřebujete provést platbu, sestavit kolaborativní transakci a částka nákupu by musela přesně odpovídat hodnotě vašeho kusu, což je prakticky neproveditelné. Proto je coinjoin transakce ze své podstaty kolaborativní úklidovou transakcí, což znamená, že obecně platí, že ve výstupech jsou stejní vlastníci vstupů.
 
-Payjoin je specifická struktura Bitcoinové transakce, která zvyšuje soukromí uživatele během utrácení tím, že spolupracuje s příjemcem platby.
-Bylo to v roce 2015, kdy LaurentMT poprvé zmínil tuto metodu pod názvem "_steganografické transakce_", podle dokumentu přístupného [zde](https://gist.githubusercontent.com/LaurentMT/e758767ca4038ac40aaf/raw/c8125f6a3c3d0e90246dc96d3b603690ab6f1dcc/gistfile1.txt). Tuto techniku později přijala peněženka Samourai Wallet, která v roce 2018 byla prvním klientem, jež ji implementoval s nástrojem Stowaway. Koncept payjoin je také nalezen v [BIP79](https://github.com/bitcoin/bips/blob/master/bip-0079.mediawiki) a [BIP78](https://github.com/bitcoin/bips/blob/master/bip-0078.mediawiki). Několik termínů je tedy používáno pro označení payjoin:
+Bylo by však zajímavé mít transakční struktury, které umožňují praktické platby tím, že do analýzy řetězce vnesou pochybnosti. Právě to budeme zkoumat v této a následující kapitole.
+
+### Co je to transakce payjoin?
+
+Payjoin je specifická struktura transakce Bitcoin, která zvyšuje soukromí uživatele během útraty tím, že spolupracuje s příjemcem platby.
+
+V roce 2015 se o této metodě poprvé zmínil LaurentMT pod názvem "steganografické transakce", podle dostupného článku [zde](https://gist.githubusercontent.com/LaurentMT/e758767ca4038ac40aaf/raw/c8125f6a3c3d0e90246dc96d3b603690ab6f1dcc/gistfile1.txt). Tuto techniku později převzala peněženka Samourai, která ji v roce 2018 jako první klient implementovala pomocí nástroje Stowaway. Koncept payjoin lze nalézt také v publikacích [BIP79](https://github.com/bitcoin/bips/blob/master/bip-0079.mediawiki) a [BIP78](https://github.com/bitcoin/bips/blob/master/bip-0078.mediawiki). Pro označení payjoinu se tedy používá několik termínů:
+
 
 - Payjoin;
-- Stowaway;
+- Černý pasažér;
 - P2EP (_Pay-to-End-Point_);
 - Steganografická transakce.
 
-Zvláštností payjoinu je jeho schopnost generovat transakci, která na první pohled vypadá obyčejně, ale ve skutečnosti je to mini Coinjoin mezi dvěma lidmi. Pro toto struktura transakce zahrnuje příjemce platby mezi vstupy společně s vlastním odesílatelem. Příjemce tak zahrne platbu sami sobě uprostřed transakce, což jim umožňuje být zaplaceno.
+Jedinečnost payjoinu spočívá v tom, že dokáže vygenerovat transakci, která se na první pohled zdá být obyčejná, ale ve skutečnosti se jedná o mini coinjoin mezi dvěma lidmi. Za tímto účelem je do struktury transakce zapojen příjemce platby na vstupech spolu se skutečným odesílatelem. Příjemce pak doprostřed transakce zahrne platbu sobě samému, která mu umožní, aby mu bylo zaplaceno.
 
-Pojďme si vzít příklad, abychom tento proces lépe pochopili. Alice kupuje bagetu za 4 000 sats pomocí UTXO 10 000 sats a volí payjoin. Její pekař, Bob, přidá UTXO 15 000 sats patřící jemu do vstupu, který si v plné výši vezme zpět ve výstupu, kromě Alice 4 000 sats.
+Pro lepší pochopení tohoto procesu si uveďme příklad. Alice si koupí bagetu za 4 000 sátů s využitím UTXO 10 000 sátů a rozhodne se pro payjoin. Její pekař Bob přidá na vstupu vlastní UTXO ve výši 15 000 sats, které se mu zcela vrátí na výstupu, navíc k Aliciným 4 000 sats.
 
-![BTC204](assets/notext/61/01.webp)
-V tomto příkladu Bob, pekař, vloží 15 000 sats a vyjde s 19 000 sats, rozdíl je přesně 4 000 sats, což je cena bagety. Na straně Alice vstoupí s 10 000 sats a skončí s 6 000 sats ve výstupu, což představuje bilanci -4 000 sats, tedy cenu bagety. Pro zjednodušení příkladu jsem záměrně vynechal těžební poplatky v této transakci.
+V příkladu Bob pekař vloží 15 000 sáčků a vyjde mu 19 000 sáčků, rozdíl je přesně 4 000 sáčků, což je cena bagety. Alice zase zadá 10 000 satů a na výstupu skončí s 6 000 satů, což představuje zůstatek -4 000 satů, což je cena bagety. Pro zjednodušení příkladu jsem v této transakci záměrně vynechal poplatky za těžbu.
 
-### Jaký je účel payjoinu?
+### K čemu slouží payjoin?
 
-Transakce payjoin plní dva cíle, které umožňují uživatelům zlepšit soukromí jejich platby.
+Transakce payjoin splňuje dva cíle, které uživatelům umožňují zlepšit soukromí jejich plateb.
 
-Za prvé, payjoin má za cíl zmást vnějšího pozorovatele tím, že vytvoří klam v analýze řetězce. To je umožněno díky heuristice CIOH (_Common Input Ownership Heuristic_). Jak jsme viděli v části 3, obvykle, když transakce na blockchainu má více vstupů, předpokládá se, že všechny tyto vstupy patří stejné entitě nebo uživateli.
+Za prvé, cílem payjoinu je oklamat vnějšího pozorovatele tím, že vytvoří odklon v analýze řetězce. To je umožněno pomocí heuristické metody _Common Input Ownership Heuristic_ (CIOH). Jak jsme viděli v části 3, obvykle když má transakce v blockchainu více vstupů, předpokládá se, že všechny tyto vstupy patří stejnému subjektu nebo uživateli.
 
-Takže, když analytik zkoumá transakci payjoin, je veden k přesvědčení, že všechny vstupy pocházejí od stejné osoby. Toto vnímání je však nesprávné, protože příjemce platby také přispívá do vstupů společně s vlastním platitelem. Analýza řetězce je tedy odvedena k interpretaci, která se ukáže být nepravdivá.
+Když tedy analytik zkoumá transakci payjoin, je přesvědčen, že všechny vstupy pocházejí od stejné osoby. Tento dojem je však nesprávný, protože spolu se skutečným plátcem přispívá svými vstupy i příjemce. Řetězová analýza je tak vychýlena směrem k interpretaci, která se ukáže jako nesprávná.
 
-Pojďme se vrátit k našemu příkladu transakce payjoin pro platbu bagety:
+Vraťme se k našemu příkladu transakce payjoin pro zaplacení bagety:
 
-![BTC204](assets/notext/61/02.webp)
+Při pohledu na tuto transakci v blockchainu by ji vnější pozorovatel, který by se řídil obvyklou heuristikou analýzy řetězce, interpretoval takto: "Alice připojila 2 UTXO na vstupu transakce, aby zaplatila 19 000 sátů Bobovi."
 
-Vidění této transakce na blockchainu by vnější pozorovatel následující obvyklé heuristiky analýzy řetězce interpretoval takto: "_Alice sloučila 2 UTXO ve vstupech transakce, aby zaplatila 19 000 sats Bobovi_".
-![BTC204](assets/cs/61/03.webp)
-Tato interpretace je zjevně nesprávná, jak již víte, dvě UTXO na vstupu nepatří téže osobě. Jedno pochází od Alice, kupující bagety, a druhé od Boba, pekaře.
+Tato interpretace je zjevně chybná; jak již víte, oba UTXO na vstupu nepatří stejné osobě. Jeden je od Alice, kupující bagety, a druhý od Boba, pekaře.
 
-![BTC204](assets/notext/61/04.webp)
-
-Analýza externího pozorovatele je tedy směřována k nesprávnému závěru, což zajišťuje zachování důvěrnosti zúčastněných stran.
+Analýza externího pozorovatele tak směřuje k chybnému závěru, což zajišťuje zachování důvěrnosti zúčastněných stran.
 
 ### Steganografická transakce
 
-Druhým cílem payjoinu je oklamat externího pozorovatele ohledně skutečné výše platby, která byla provedena. Při zkoumání struktury transakce by analytik mohl věřit, že platba je ekvivalentní k částce jednoho z výstupů.
-Pokud se vrátíme k našemu příkladu s nákupem bagety, analytik bude myslet, že částka platby odpovídá buď UTXO 6 000 sats nebo UTXO 19 000 sats. V tomto případě je analytik pravděpodobněji přesvědčen, že částka platby je 19 000 sats, protože existují 2 UTXO na výstupu, z nichž alespoň jedno je větší než 6 000 sats (neexistuje logický důvod použít 2 UTXO k zaplacení 6 000 sats, když jedno UTXO by pro tuto platbu stačilo).
-![BTC204](assets/cs/61/05.webp)
+Druhým cílem payjoinu je oklamat vnějšího pozorovatele ohledně skutečné výše provedené platby. Při zkoumání struktury transakce by se analytik mohl domnívat, že platba odpovídá částce jednoho z výstupů.
 
-Ale ve skutečnosti je tato analýza nesprávná. Částka platby neodpovídá žádnému z výstupů. Ve skutečnosti je to rozdíl mezi UTXO příjemce na výstupu a UTXO příjemce na vstupu.
+Vezmeme-li si náš příklad nákupu bagety, bude si analytik myslet, že částka platby odpovídá buď UTXO 6 000 sátů, nebo UTXO 19 000 sátů. V tomto případě je pravděpodobnější, že si analytik bude myslet, že částka platby je 19 000 sats, protože ve výstupu jsou 2 UTXO, z nichž alespoň jedno je větší než 6 000 sats (není žádný logický důvod používat 2 UTXO k platbě 6 000 sats, když by k této platbě stačilo jediné UTXO).
 
-![BTC204](assets/cs/61/06.webp)
+Ve skutečnosti je však tato analýza nesprávná. Výše platby neodpovídá žádnému z výstupů. Ve skutečnosti se jedná o rozdíl mezi UTXO příjemce výstupu a UTXO příjemce vstupu.
 
-V tomto spočívá payjoin transakce ve sféře steganografie. Umožňuje skrýt skutečnou částku transakce v rámci falešné transakce, která slouží jako návnada.
+Transakce payjoin tak spadá do oblasti steganografie. Umožňuje skrýt skutečnou částku transakce v rámci falešné transakce, která slouží k odvedení pozornosti.
 
-Steganografie je technika pro skrývání informací v rámci jiných dat nebo objektů takovým způsobem, že přítomnost skrytých informací není zjistitelná. Například tajná zpráva může být skryta uvnitř tečky v textu, který není související, čímž je nedetekovatelná pouhým okem (jedná se o techniku [micropoint](https://fr.wikipedia.org/wiki/Micropoint)).
+Steganografie je technika skrývání informací v jiných datech nebo objektech tak, aby přítomnost skrytých informací nebyla patrná. Tajnou zprávu lze například skrýt v bodě v nesouvisejícím textu, takže ji pouhým okem nelze odhalit (jedná se o techniku [micropoint](https://fr.wikipedia.org/wiki/Micropoint)).
 
-Na rozdíl od šifrování, které informace činí nečitelnými bez dešifrovacího klíče, steganografie informace nemění. Zůstávají na očích. Jejím cílem je spíše skrýt samotnou existenci tajné zprávy, zatímco šifrování jasně odhaluje přítomnost skrytých informací, ačkoliv jsou nedostupné bez klíče. To je důvod, proč byl původní název pro payjoin "_steganografické transakce_".
+Na rozdíl od šifrování, které bez dešifrovacího klíče činí informace nesrozumitelnými, steganografie informace nemění. Zůstávají viditelné. Jejím cílem je spíše skrýt samotnou existenci tajné zprávy, zatímco kryptografie jasně odhaluje přítomnost skryté informace, i když je bez klíče nedostupná. Proto byl původní název pro payjoin "steganografické transakce"
 
-Analogii lze nalézt mezi kryptografií a coinjoinem, stejně jako mezi steganografií a payjoinem. Skutečně, coinjoin má atributy podobné těm u šifrování: metoda je rozpoznatelná, ale informace jsou nečitelné. Naopak, payjoin je podobný steganografii: informace jsou teoreticky přístupné, ale protože jejich metoda skrývání není rozpoznatelná, stávají se nedostupnými.
+Analogicky by se dalo hovořit o kryptografii a coinjoinu, stejně jako o steganografii a payjoinu. Ve skutečnosti má coinjoin podobné atributy jako kryptografie: metoda je rozpoznatelná, ale informace jsou nerozluštitelné. Naproti tomu payjoin se podobá steganografii: informace je teoreticky přístupná, ale protože metoda jejího ukrytí není rozpoznatelná, stává se nepřístupnou.
 
 ### Jak používat payjoin?
 
-Mezi známý software, který podporuje payjoin, patří Sparrow Wallet, Wasabi Wallet, Mutiny, BitMask, BlueWallet a JoinMarket, stejně jako platební procesor BTCPay.
+Mezi známé softwary, které podporují payjoin, patří Sparrow Wallet, Wasabi Wallet, Mutiny, BitMask, BlueWallet a JoinMarket, stejně jako platební procesor BTCPay.
 
-![BTC204](assets/notext/61/07.webp)
-Nejpokročilejší implementací payjoin byl pouze Stowaway na Samourai Wallet. Nicméně, od zatčení zakladatelů softwaru, toto nástroj nyní funguje jen částečně. Výhodou Stowaway je, že se jedná o kompletní a velmi jednoduše použitelný protokol, který podporuje jak přijímání, tak odesílání payjoinů. Částečně podepsané transakce lze ručně vyměňovat skenováním několika QR kódů nebo automaticky přes Tor prostřednictvím Soroban. Právě tato poslední komunikační možnost je v současné době mimo provoz.
+Nejpokročilejší implementací payjoin byl pouze Stowaway na Samourai Wallet. Od ukončení činnosti zakladatelů softwaru však tento nástroj nyní funguje jen částečně. Výhodou Stowaway je, že se jedná o kompletní a velmi snadno použitelný protokol, který podporuje příjem i odesílání payjoinů. Částečně podepsané transakce lze vyměňovat ručně naskenováním několika QR kódů nebo automaticky prostřednictvím Toru přes Soroban. Právě druhá možnost komunikace není v současné době v provozu.
 
-Obtížnost používání payjoin spočívá v jeho závislosti na účasti obchodníka. Jako zákazník nemůžete použít payjoin, pokud ho obchodník nepodporuje. To přidává další obtíž při nákupu: nejenže je složité najít obchodníky, kteří přijímají bitcoin, ale pokud hledáte také ty, kteří podporují payjoins, stává se to ještě složitějším.
+Potíž při používání služby payjoin spočívá v její závislosti na účasti obchodníků. Jako zákazník nemůžete payjoin používat, pokud jej obchodník nepodporuje. To přidává další obtíže při nákupu: nejenže je složité najít obchodníky, kteří přijímají bitcoiny, ale pokud hledáte i ty, kteří payjoin podporují, je to ještě složitější.
 
-Řešením by mohlo být použití transakčních struktur, které zavádějí nejednoznačnost v analýze řetězce bez nutnosti spolupráce příjemce. To by nám umožnilo zlepšit soukromí našich plateb bez závislosti na aktivní účasti obchodníků. To je přesně to, co budeme studovat v další kapitole.
+Jedním z řešení by mohlo být použití transakčních struktur, které do analýzy řetězce vnášejí nejednoznačnost, aniž by vyžadovaly spolupráci příjemce. To by nám umožnilo zlepšit soukromí našich plateb bez závislosti na aktivní účasti obchodníků. Právě to budeme studovat v následující kapitole.
 
 https://planb.network/tutorials/privacy/on-chain/payjoin-sparrow-wallet-087a0e49-61cd-41f5-8440-ac7b157bdd62
-
 https://planb.network/tutorials/privacy/on-chain/payjoin-samourai-wallet-48a5c711-ee3d-44db-b812-c55913080eab
-
-## Mini-coinjoiny pro platby
+## Platba za připojení mincí
 
 <chapterId>300777ee-30ae-43d7-ab00-479dac3522c1</chapterId>
 
-Pokud hledáte způsob, jak provést platební transakci při zachování určitého stupně soukromí, payjoin je dobrá volba. Ale jak jsme viděli, payjoin vyžaduje zapojení příjemce. Co dělat, pokud tento odmítne účastnit se payjoinu, nebo pokud jednoduše preferujete nezapojovat ho? Alternativou je použití transakce Stonewall nebo Stonewall x2. Podívejme se blíže na tyto dva typy transakcí.
+Pokud chcete provést platební transakci a zároveň si zachovat určitou míru soukromí, je payjoin dobrou volbou. Jak jsme však viděli, payjoin vyžaduje zapojení příjemce. Co tedy dělat, když se ten odmítne payjoinu zúčastnit, nebo když ho prostě raději nezapojíte? Jednou z alternativ je použití transakce Stonewall nebo Stonewall x2. Podívejme se na tyto dva typy transakcí blíže.
 
 ### Transakce Stonewall
 
-Stonewall je specifická forma Bitcoinové transakce zaměřená na zvýšení soukromí uživatele při výdaji tím, že napodobuje pseudo-coinjoin mezi dvěma lidmi, aniž by to skutečně byl. Tato transakce totiž není kolaborativní. Uživatel ji může sestavit sám, pouze s využitím UTXO, které vlastní jako vstupy. Stonewall transakci tedy můžete vytvořit pro jakoukoli příležitost, bez nutnosti synchronizace s jiným uživatelem nebo příjemcem.
+Stonewall je specifická forma transakce s bitcoiny, jejímž cílem je zvýšit soukromí uživatelů během nakupování tím, že napodobuje pseudo-coinový spoj mezi dvěma lidmi, ale ve skutečnosti jím není. Ve skutečnosti tato transakce není společná. Uživatel si ji může sestavit sám, přičemž jako vstupní údaje použije pouze UTXO, které vlastní. Můžete tak vytvořit Stonewall transakci pro jakoukoli příležitost, aniž byste se museli synchronizovat s jiným uživatelem nebo příjemcem.
 
-Fungování transakce Stonewall je následující: ve vstupu transakce odesílatel použije 2 UTXO, které mu patří. Ve výstupu transakce vytvoří 4 UTXO, z nichž 2 budou mít přesně stejnou částku. Ostatní 2 UTXO budou tvořit změnu. Mezi 2 výstupy se stejnou částkou půjde skutečně jen jeden příjemci platby.
-Ve Stonewall transakci jsou pouze 2 role:
+Fungování transakce Stonewall je následující: na vstupu transakce odesílatel použije 2 UTXO, které mu patří. Na výstupu transakce vzniknou 4 UTXO, z nichž 2 budou přesně ve stejné výši. Zbývající 2 UTXO budou tvořit zbytek. Ze 2 výstupů o stejné částce půjde příjemci platby skutečně pouze jeden.
+
+V transakci Stonewall jsou pouze 2 role:
+
 
 - Odesílatel, který provádí platbu;
-- Příjemce, který může být o specifické povaze transakce nevědomý a jednoduše čeká na platbu od odesílatele.
+- Příjemce, který si nemusí být vědom konkrétní povahy transakce a jednoduše čeká na platbu od odesílatele.
 
-Pojďme si vzít příklad, abychom pochopili strukturu této transakce. Alice je u pekaře Boba, aby si koupila bagetu, která stojí 4 000 sats. Chce platit bitcoiny při zachování určité úrovně soukromí ohledně své platby. Proto se rozhodne sestavit pro platbu Stonewall transakci.
-Při analýze této transakce vidíme, že Bob pekař skutečně obdržel 4 000 satoshi jako platbu za bagetu. Alice použila jako vstupy 2 UTXO: jedno o hodnotě 10 000 satoshi a druhé o hodnotě 15 000 satoshi. Jako výstupy obdržela 3 UTXO: jedno o hodnotě 4 000 satoshi, jedno o hodnotě 6 000 satoshi a jedno o hodnotě 11 000 satoshi. Alice tak má na této transakci čistý zůstatek -4 000 satoshi, což přesně odpovídá ceně bagety.
-V tomto příkladu jsem záměrně opomněl poplatky za těžbu, aby bylo pochopení jednodušší. Ve skutečnosti jsou transakční poplatky zcela na straně odesílatele.
+Podívejme se na příklad, abychom tuto strukturu transakce pochopili. Alice je u pekaře Boba, aby si koupila bagetu, která stojí 4 000 satů. Chce zaplatit v bitcoinech a zároveň si zachovat určitou úroveň soukromí o své platbě. Proto se rozhodne pro platbu zkonstruovat transakci Stonewall.
+
+Analýzou této transakce zjistíme, že pekař Bob ve skutečnosti obdržel za bagetu 4 000 satů. Alice použila jako vstupy 2 UTXO: jeden o hodnotě 10 000 sátů a druhý o hodnotě 15 000 sátů. Na výstupech obdržela 3 UTXO: jeden o hodnotě 4 000 sats, jeden o hodnotě 6 000 sats a jeden o hodnotě 11 000 sats. Alice má tedy z této transakce čistý zůstatek -4 000 sátů, což je přesně stejná částka jako cena bagety.
+
+V tomto příkladu jsem záměrně vynechal poplatky za těžbu pro snadnější pochopení. Ve skutečnosti poplatky za transakce hradí výhradně odesílatel.
 
 ### Jaké jsou cíle transakce Stonewall?
 
-Struktura Stonewall přidává do transakce hodně entropie a zaměňuje stopy pro analýzu blockchainu. Z vnějšku může být taková transakce interpretována jako mini-coinjoin mezi dvěma lidmi. Ve skutečnosti se ale jedná o platbu. Tato metoda tedy generuje nejistoty v analýze blockchainu, nebo dokonce vede k falešným stopám.
+Struktura Stonewall přidává do transakce mnoho entropie a mate stopy řetězové analýzy. Z vnějšího pohledu lze takovou transakci interpretovat jako minipřipojení mincí mezi dvěma osobami. Ve skutečnosti se však jedná o platbu. Tato metoda tedy vytváří nejistoty v analýze řetězce, nebo dokonce vede k falešným stopám.
 
-Vraťme se k příkladu Alice u Boba pekaře. Transakce na blockchainu by vypadala takto:
+Vraťme se k příkladu Alice u pekaře Boba. Transakce v blockchainu by vypadala takto:
 
-![BTC204](assets/notext/62/02.webp)
+![BTC204](assets/fr/174.webp)
 
-Externí pozorovatel, který se spoléhá na běžné heuristiky analýzy blockchainu, by mohl nesprávně usoudit, že "_dva lidé provedli malý coinjoin, s jedním UTXO každý ve vstupu a dvěma UTXO každý ve výstupu_". Analýza této transakce z vnějšku nevede k aplikaci heuristiky společného vlastnictví vstupu (CIOH), protože přítomnost dvou výstupů stejné částky naznačuje vzor coinjoin. Z externího pohledu tedy v tomto konkrétním případě CIOH není aplikovatelná.
+Vnější pozorovatel, který se spoléhá na běžnou heuristiku řetězové analýzy, by mohl mylně dojít k závěru, že "_dva lidé vytvořili malý coinjoin, každý s jedním UTXO na vstupu a dvěma UTXO na výstupu_" Analýza této transakce zvenčí nevede k uplatnění společné heuristiky vlastnictví vstupu (CIOH), protože přítomnost dvou výstupů ve stejné výši naznačuje vzor coinjoin. Z vnějšího pohledu se tedy CIOH v tomto konkrétním případě neuplatní.
 
-![BTC204](assets/notext/62/03.webp)
+![BTC204](assets/fr/175.webp)
 
-Tato interpretace je nepřesná, protože, jak víte, jedno UTXO bylo posláno Bobovi pekaři, 2 UTXO ve vstupu pochází od Alice a ona si vzala zpět 3 výstupy změny.
+Tato interpretace je nepřesná, protože, jak víte, jedno UTXO bylo posláno Bobovi pekaři, 2 UTXO na vstupu pocházely od Alice a ta získala 3 zbylé výstupy.
 
-![BTC204](assets/notext/62/04.webp)
-A co je zvláště zajímavé na struktuře transakce Stonewall, je to, že z pohledu externího pozorovatele vypadá přesně jako struktura transakce Stonewall x2.
+![BTC204](assets/fr/176.webp)
+
+Na struktuře transakce Stonewall je zajímavé zejména to, že z pohledu vnějšího pozorovatele vypadá přesně jako transakce Stonewall x2.
 
 ### Transakce Stonewall x2
 
-Stonewall x2 je další specifická forma Bitcoinové transakce, která také směřuje k zvýšení soukromí uživatele při výdaji, ale tentokrát spoluprací s třetí stranou, která není zapojena do výdaje. Tato metoda funguje jako pseudo-coinjoin mezi dvěma účastníky, zatímco zároveň se provádí platba třetí osobě.
+Stonewall x2 je další specifická forma transakce s bitcoiny, která má rovněž za cíl zvýšit soukromí uživatele během útraty, tentokrát však ve spolupráci s třetí stranou, která se na útratě nepodílí. Tato metoda funguje jako pseudo-coinjoin mezi dvěma účastníky při provádění platby třetí straně.
 
-Provoz transakce Stonewall x2 je relativně jednoduchý: použije se UTXO, které máme k dispozici pro platbu, a žádá se o pomoc třetí stranu, která také přispěje UTXO, které vlastní. Transakce končí čtyřmi výstupy: dvěma ve stejných částkách, jedním určeným pro adresu příjemce platby, druhým pro adresu spolupracovníka. Třetí UTXO je posláno zpět na jinou adresu spolupracovníka, což jim umožňuje získat zpět původní částku (neutrální akce pro ně, mínus poplatky za těžbu), a poslední UTXO se vrací na adresu nám, což představuje změnu platby.
+Fungování transakce Stonewall x2 je poměrně jednoduché: člověk použije UTXO, které má v držení, k provedení platby a požádá o pomoc třetí stranu, která rovněž přispěje svým UTXO. Transakce končí čtyřmi výstupy: dva ze stejných částek, z nichž jeden jde na adresu příjemce platby, druhý na adresu patřící přispěvateli. Třetí UTXO je odesláno na jinou adresu přispěvatele, což mu umožní získat zpět počáteční částku (pro něj neutrální akce po odečtení poplatků za těžbu), a poslední UTXO se vrací na adresu patřící nám, což představuje zbytek platby.
 
-Tak jsou definovány tři různé role v transakcích Stonewall x2:
+V transakcích Stonewall x2 jsou tedy definovány tři různé role:
+
 
 - Odesílatel, který provádí skutečnou platbu;
-- Příjemce, který nemusí být specifické povahy transakce vědom a jednoduše očekává platbu od odesílatele;
-- Spolupracovník, který poskytuje bitcoiny, aby vytvořil nejistotu v analýze transakce, přičemž na konci plně získá zpět své prostředky (pro něj neutrální akce, mínus poplatky za těžbu).
-  Pojďme se vrátit k našemu příkladu s Alicí, která je u Boba pekaře, aby si koupila bagetu, která stojí 4 000 sats. Chce platit bitcoiny, přičemž si chce zachovat určitou úroveň soukromí své platby. Proto vyzve svého přítele Charlese, který jí v tomto procesu pomůže.
+- Příjemce, který si nemusí být vědom konkrétní povahy transakce a jednoduše čeká na platbu od odesílatele;
+- Spolupracovník, který poskytuje bitcoiny, aby zpochybnil analýzu transakcí, na konci plně získá zpět své prostředky (neutrální akce pro něj, po odečtení poplatků za těžbu).
 
-![BTC204](assets/notext/62/05.webp)
+Vraťme se k našemu příkladu s Alicí, která si u pekaře Boba koupila bagetu za 4000 satů. Chce platit v bitcoinech a zároveň si zachovat určitou úroveň soukromí o své platbě. Zavolá tedy svému příteli Charlesovi, který jí v tomto procesu pomůže.
 
-Analýza této transakce ukazuje, že Bob pekař skutečně obdržel 4 000 sats za bagetu. Alice použila 10 000 sats na vstupu a získala 6 000 sats na výstupu, což vede k čisté bilanci -4 000 sats, což odpovídá ceně bagety. Co se týče Charlese, poskytl 15 000 sats na vstupu a obdržel dva výstupy: jeden 4 000 sats a druhý 11 000 sats, což dělá bilanci 0.
+![BTC204](assets/fr/177.webp)
 
-V tomto příkladu jsem záměrně zanedbal poplatky, aby bylo pochopení jednodušší. Ve skutečnosti jsou poplatky za těžbu obvykle rozděleny rovným dílem mezi vydavatele platby a spolupracovníka.
+Analýzou této transakce zjistíme, že pekař Bob ve skutečnosti obdržel za bagetu 4 000 satů. Alice použila 10 000 satů na vstupu a získala zpět 6 000 satů na výstupu, takže čistá bilance činí -4 000 satů, což odpovídá ceně bagety. Co se týče Charlese, ten poskytl 15 000 satů na vstupu a získal dva výstupy: jeden ve výši 4 000 satů a druhý ve výši 11 000 satů, což vedlo k zůstatku 0.
+
+V tomto příkladu jsem záměrně vynechal provize, abych usnadnil porozumění. Ve skutečnosti se poplatky za těžbu obecně dělí rovným dílem mezi vydavatele platby a přispěvatele.
 
 ### Jaké jsou cíle transakce Stonewall x2?
 
-Podobně jako struktura Stonewall přidává struktura Stonewall x2 do transakce významné množství entropie a zastírá stopy analýzy řetězce. Z vnějšího pohledu by taková transakce mohla být interpretována jako malý coinjoin mezi dvěma lidmi. Ve skutečnosti se ale jedná o platbu. Tato metoda tedy generuje nejistoty v analýze řetězce, dokonce vedoucí k falešným stopám.
+Stejně jako struktura Stonewall přidává struktura Stonewall x2 do transakce značné množství entropie a zastírá stopy řetězové analýzy. Z vnějšího pohledu by taková transakce mohla být interpretována jako malý coinjoin mezi dvěma osobami. Ve skutečnosti se však jedná o platbu. Tato metoda tedy vytváří nejistoty v analýze řetězce, což vede i k falešným stopám.
 
-Pojďme se znovu podívat na příklad Alice, Boba pekaře a Charlese. Transakce na blockchainu by vypadala takto:
+Podívejme se na příklad Alice, pekaře Boba a Charlese. Transakce v blockchainu by vypadala takto:
 
-![BTC204](assets/notext/62/06.webp)
+![BTC204](assets/fr/178.webp)
 
-Vnější pozorovatel, spoléhající na běžné heuristiky analýzy řetězce, by mohl chybně usoudit, že "_Alice a Charles provedli malý coinjoin, s jedním UTXO každý na vstupu a dvěma UTXO každý na výstupu_". Opět, analýza této transakce z vnějšku nevede k aplikaci heuristiky společného vlastnictví vstupu (CIOH), protože přítomnost dvou výstupů stejné částky naznačuje vzor coinjoin. Z vnějšího pohledu tedy v tomto konkrétním případě CIOH není aplikovatelná.
+Vnější pozorovatel, který se spoléhá na běžnou heuristiku řetězové analýzy, by mohl mylně dojít k závěru, že "_Alice a Charles provedli malé spojení, přičemž každý z nich měl na vstupu jedno UTXO a na výstupu dvě UTXO_" Analýza této transakce zvenčí opět nevede k použití společné heuristiky vlastnictví na vstupu (CIOH), protože přítomnost dvou výstupů ve stejné výši naznačuje vzor coinjoin. Z vnějšího pohledu se tedy CIOH v tomto konkrétním případě neuplatní.
 
-![BTC204](assets/notext/62/07.webp)
+![BTC204](assets/fr/179.webp)
 
-Tato interpretace je nepřesná, protože, jak víte, jeden UTXO byl poslán Bobovi pekaři, Alice má pouze jeden výstup změny a Charles má dva.
+Tato interpretace je nepřesná, protože, jak víte, Bobovi pekaři bylo posláno jedno UTXO, Alice má pouze jeden klidový výstup a Charles má dva.
 
-![BTC204](assets/notext/62/08.webp)
+![BTC204](assets/fr/180.webp)
 
-A opět, co je zvláště zajímavé na struktuře transakce Stonewall x2, je, že z pohledu vnějšího pozorovatele vypadá přesně jako struktura transakce Stonewall.
+A opět, na struktuře transakce Stonewall x2 je zajímavé zejména to, že z pohledu vnějšího pozorovatele vypadá přesně jako transakce Stonewall.
 
 ### Jaký je rozdíl mezi Stonewall a Stonewall x2?
 
-Transakce StonewallX2 funguje přesně jako transakce Stonewall, s tím rozdílem, že první je kolaborativní, zatímco druhá není. Jak jsme viděli, transakce Stonewall x2 zahrnuje účast třetí strany (Charlese), která je externí vůči platbě, a která poskytuje své bitcoiny, aby zvýšila důvěrnost transakce. V klasické transakci Stonewall je role spolupracovníka převzata odesílatelem.
+Transakce StonewallX2 funguje úplně stejně jako transakce Stonewall s tím rozdílem, že první z nich je kolaborativní, zatímco druhá nikoli. Jak jsme viděli, transakce StonewallX2 zahrnuje účast třetí strany (Charles), která je vůči platbě externí a která poskytuje své bitcoiny, aby zvýšila důvěrnost transakce. V klasické Stonewall transakci přebírá roli přispěvatele odesílatel.
 
-![BTC204](assets/notext/62/09.webp)
+![BTC204](assets/fr/181.webp)
 
-Z vnějšího pohledu je tedy vzor transakce přesně stejný.
-![BTC204](assets/notext/62/10.webp)
-Fakt, že tyto dvě struktury transakcí sdílejí přesně stejný vzor, naznačuje, že i když externí pozorovatel dokáže identifikovat vzor "Stonewall(x2)", nebude mít všechny informace. Nebude schopen určit, který ze dvou UTXO stejných částek odpovídá platbě. Navíc nebude schopen určit, zda dva UTXO ve vstupech pocházejí od dvou různých lidí (Stonewall x2) nebo zda patří jedné osobě, která je sloučila (Stonewall).
-Tento poslední bod je způsoben tím, že transakce Stonewall x2 následují přesně stejný vzor jako transakce Stonewall. Zvenčí a bez dalších informací o kontextu je nemožné odlišit transakci Stonewall od transakce Stonewall x2. Nicméně, prvně jmenované nejsou kolaborativní transakce, zatímco druhé ano. To přidává ještě více pochybností do analýzy jedné z těchto transakcí.
+Z vnějšího pohledu je tedy transakční model naprosto stejný.
+
+Skutečnost, že tyto dvě transakční struktury mají přesně stejný vzor, znamená, že i když vnější pozorovatel dokáže identifikovat vzor "Stonewall(x2)", nebude mít k dispozici všechny informace. Nebude schopen určit, kterému ze dvou UTXO stejných částek odpovídá platba. Nebude také schopen určit, zda obě vstupní UTXO pocházejí od dvou různých osob (Stonewall x2), nebo zda patří jedné osobě, která se k nim připojila (Stonewall).
+
+Tento poslední bod je způsoben skutečností, že transakce Stonewall x2 probíhají přesně podle stejného schématu jako transakce Stonewall. Zvenčí a bez dalších kontextových informací není možné odlišit transakci Stonewall od transakce Stonewall x2. První z nich však nejsou transakcemi spolupráce, zatímco druhé ano. To přidává analýze jedné takové transakce ještě více pochybností.
 
 ### Kdy použít transakce Stonewall a Stonewall x2?
 
-Logika by měla být následující, když chcete použít nástroj pro ochranu soukromí pro transakci:
+Pokud chcete pro transakci použít nástroj pro ochranu osobních údajů, měla by být logika následující:
 
-- Jako prioritu si můžete vybrat provést payjoin;
-- Pokud obchodník nepodporuje payjoins, můžete provést kolaborativní transakci s jinou osobou mimo platbu pomocí struktury Stonewall x2;
-- Pokud se nenajde nikdo, kdo by provedl transakci Stonewall x2, můžete provést transakci Stonewall sami, která bude napodobovat chování transakce Stonewall x2.
+
+- Přednostně můžete zvolit možnost payjoin;
+- Pokud obchodník nepodporuje payjoins, lze provést transakci ve spolupráci s jinou osobou mimo platbu pomocí struktury Stonewall x2;
+- Pokud nemůžete najít nikoho, s kým byste mohli provést transakci Stonewall x2, můžete provést transakci Stonewall sami, která bude napodobovat chování transakce Stonewall x2.
 
 ### Jak používat transakce Stonewall a Stonewall x2?
 
-Transakce Stonewall a Stonewall x2 jsou dostupné jak v aplikaci Samourai Wallet, tak v softwaru Sparrow Wallet.
+Transakce Stonewall a Stonewall x2 jsou dostupné v aplikaci Samourai Wallet i v softwaru Sparrow Wallet.
 
-![BTC204](assets/notext/62/11.webp)
+Stejně jako v případě payjoins však po zatčení zakladatelů společnosti Samourai fungují transakce Stonewall x2 nyní pouze na základě ruční výměny PSBT mezi zúčastněnými stranami. Automatická výměna prostřednictvím Sorobanu bohužel v současné době není k dispozici.
 
-Nicméně, stejně jako u payjoins, po zatčení zakladatelů Samourai, nyní transakce Stonewall x2 fungují pouze manuální výměnou PSBT mezi zúčastněnými stranami. Automatická výměna prostřednictvím Soroban bohužel v současné době není dostupná.
+Tento typ transakce můžete provést také ručně z libovolného softwaru bitcoinové peněženky.
 
-Je také možné manuálně provést tento typ transakce z jakéhokoli softwaru pro Bitcoin peněženku.
-
-V další kapitole se budeme věnovat další technice ochrany soukromí, která je relativně neznámá, ale je velmi užitečná v doplnění toho, co jsme již studovali.
+V příští kapitole se budeme zabývat další relativně neznámou, ale velmi užitečnou technikou ochrany soukromí, která doplňuje již probrané.
 
 https://planb.network/tutorials/privacy/on-chain/stonewall-033daa45-d42c-40e1-9511-cea89751c3d4
-
 https://planb.network/tutorials/privacy/on-chain/stonewall-x2-05120280-f6f9-4e14-9fb8-c9e603f73e5b
-
-## Ricochets
+## Odrazy
 
 <chapterId>db9a20ac-a149-443d-884b-ea6c03f28499</chapterId>
 
-Použití struktur Bitcoin transakcí, které přidávají nejednoznačnost v analýze řetězce, jako je coinjoin, je zvláště prospěšné pro ochranu soukromí. Nicméně, jak jsme diskutovali v kapitole o payjoins, transakce coinjoin jsou přirozeně identifikovatelné v řetězci. Vzpomeňte si na analogii, kterou jsme vytvořili mezi šifrováním a coinjoins: když někdo zašifruje soubor, třetí strana objevující tento zašifrovaný soubor nemůže přistupovat k jeho obsahu, ale může jasně identifikovat, že došlo k modifikaci souboru, aby se jeho obsah skryl. Totéž platí pro coinjoin: když analytik zkoumá transakci coinjoin, ačkoli nemůže stanovit přímé vazby mezi vstupy a výstupy (a naopak), může přesto rozpoznat, že pozorovaná transakce je coinjoin.
-V závislosti na zamýšleném použití vaší mince po projití cykly coinjoin může být fakt, že prošla tímto procesem, problematický. Například, pokud plánujete prodat vaši minci na regulované obchodní platformě, ale nedávno prošla coinjoinem, nástroj pro analýzu řetězce platformy tento fakt odhalí. Platforma pak může odmítnout přijmout váš UTXO, který prošel coinjoinem, nebo dokonce požadovat od vás vysvětlení, s rizikem, že váš účet bude pozastaven nebo vaše prostředky zmrazeny. V některých případech může platforma také nahlásit vaše chování státním orgánům (například to vyžaduje TRACFIN od poskytovatelů služeb digitálních aktiv (PSAN) ve Francii).
+Pro ochranu soukromí je obzvláště výhodné použití transakčních struktur bitcoinů, které přidávají nejednoznačnost při analýze řetězce, jako je například coinjoin. Jak jsme však uvedli v kapitole o payjoin, transakce coinjoin jsou v řetězci přirozeně identifikovatelné. Vzpomeňte si na analogii, kterou jsme zavedli mezi kryptografií a coinjoiny: při zašifrování souboru se třetí strana, která tento zašifrovaný soubor objeví, nemůže dostat k jeho obsahu, ale může jasně identifikovat, že došlo k úpravě souboru za účelem skrytí jeho obsahu. Totéž platí pro coinjoiny: když analytik zkoumá transakci coinjoinu, i když nemůže zjistit přímé vazby mezi vstupy a výstupy (a naopak), stále může rozpoznat, že pozorovaná transakce je coinjoin.
 
-![BTC204](assets/notext/63/01.webp)
+V závislosti na zamýšleném použití vaší mince po absolvování cyklů spojování mincí může být skutečnost, že mince prošla tímto procesem, problematická. Pokud například plánujete prodat svou minci na regulované burzovní platformě, ale ta nedávno prošla coinjoinem, nástroj pro analýzu řetězce platformy tuto skutečnost zjistí. Platforma pak může odmítnout přijmout váš UTXO, který prošel coinjoinem, nebo po vás dokonce může požadovat vysvětlení, přičemž hrozí, že vám bude účet pozastaven nebo že vám budou zmrazeny finanční prostředky. V některých případech může platforma vaše chování také nahlásit státním orgánům (například ve Francii to po poskytovatelích služeb digitálních aktiv (PSAN) požaduje TRACFIN).
 
-To, co bychom potřebovali k vyhnutí se tomuto, je nástroj schopný zamaskovat stopy minulosti Bitcoinové mince, aby obnovil určitou formu zaměnitelnosti. To je přesně cíl ricochetu.
+Abychom tomu zabránili, potřebovali bychom nástroj, který by dokázal zahladit stopy minulosti bitcoinové mince a obnovit tak určitou formu zastupitelnosti. Právě to je cílem ricochetu.
 
-![BTC204](assets/notext/63/02.webp)
+### Co je to ricochet?
 
-### Co je ricochet?
+Ricochet je technika, která spočívá v provedení několika fiktivních transakcí vůči sobě (sweeping), aby se simuloval převod vlastnictví bitcoinů. Tento nástroj se liší od ostatních transakčních struktur, o kterých jsme hovořili, protože neumožňuje prospektivní anonymitu, ale spíše formu retrospektivní anonymity. Ricochet totiž umožňuje rozmazat specifika, která by mohla ohrozit zaměnitelnost bitcoinové mince kvůli její minulosti.
 
-Ricochet je technika, která zahrnuje provádění několika fiktivních transakcí na sebe (sweeping) za účelem simulace převodu vlastnictví bitcoinů. Tento nástroj se liší od jiných struktur transakcí, o kterých jsme diskutovali, protože neumožňuje potenciální anonymitu, ale spíše formu retrospektivní anonymity. Ricochet skutečně umožňuje zamaskovat specifika, která by mohla ohrozit zaměnitelnost Bitcoinové mince kvůli její minulosti.
+Aby se zamaskoval otisk, který na minci zanechala minulá událost, jako jsou například cykly spojování mincí, provede ricochet čtyři po sobě jdoucí transakce, při nichž si uživatel převede finanční prostředky na různé adresy.
 
-Aby zamaskoval otisk zanechaný minulou událostí na minci, jako jsou například cykly coinjoin, ricochet provádí čtyři po sobě jdoucí transakce, kde uživatel převádí prostředky na sebe na různé adresy.
+Po této sekvenci transakcí nástroj ricochet nakonec směruje bitcoiny do jejich konečného cíle jako směnné platformy.
 
-![BTC204](assets/cs/63/03.webp)
-
-Po této sérii transakcí nástroj ricochet nakonec směruje bitcoiny na jejich konečné místo určení, jako je například obchodní platforma.
-
-![BTC204](assets/cs/63/04.webp)
-
-Cílem je vytvořit vzdálenost ovlivňující zaměnitelnost mince, jako je transakce coinjoin, a konečný akt utrácení, který by mohl tuto minci odmítnout kvůli její minulosti. Takto by nástroje pro analýzu řetězce mohly dospět k závěru, že po události pravděpodobně došlo ke změně vlastnictví, a považovat tuto minci za zaměnitelnou. V případě coinjoinu by nástroje pro analýzu řetězce mohly pak předpokládat, že není stejná osoba, která poslala bitcoiny a provedla coinjoin, a proto není nutné proti odesílateli zahajovat akce.
-
-![BTC204](assets/notext/63/05.webp)
+Cílem je vytvořit odstup, který ovlivní zaměnitelnost mince, například transakci coinjoin, a konečný akt utrácení, který by mohl tuto minci odmítnout kvůli její minulosti. Nástroje řetězové analýzy by tak mohly dojít k závěru, že po této události pravděpodobně došlo ke změně vlastníka, a považovat tuto minci za zaměnitelnou. V případě transakce coinjoin by pak nástroje analýzy řetězce mohly předpokládat, že se nejedná o stejnou osobu, která bitcoiny odeslala a provedla coinjoin, a je tedy zbytečné zahajovat kroky proti odesílateli.
 
 ### Proč to funguje?
 
-Vzhledem k této metodě ricochetu by si člověk mohl představit, že software pro analýzu řetězce by prohloubil své zkoumání za čtyři skoky. Tyto platformy však čelí dilematu v optimalizaci prahu detekce. Musí stanovit limit počtu skoků, po kterých přiznají, že pravděpodobně došlo ke změně vlastnictví a že by měl být ignorován vztah s předchozí událostí (jako je coinjoin).
-![BTC204](assets/cs/63/06.webp)
+Tváří v tvář této metodě ricochetu si lze představit, že software pro analýzu řetězců prohloubí své zkoumání nad rámec čtyř skoků. Tyto platformy však čelí dilematu při optimalizaci detekčního prahu. Potřebují stanovit hranici počtu skoků, po jejímž překročení připustí, že pravděpodobně došlo ke změně vlastníka a že by spojení s předchozí událostí (např. coinjoin) mělo být ignorováno.
 
-Stanovení tohoto prahu se však ukazuje jako riskantní: každé prodloužení pozorovaného počtu skoků exponenciálně zvyšuje objem falešných pozitiv, tj. jedinců chybně označených za účastníky události, když operaci provedl někdo jiný. Tento scénář představuje pro tyto společnosti velké riziko, protože falešná pozitiva vedou k nespokojenosti, která může dotčené zákazníky tlačit k konkurenci. V dlouhodobém horizontu vede příliš široký detekční práh k tomu, že platforma ztrácí více zákazníků než její konkurenti, což by mohlo ohrozit její životaschopnost. Proto je pro tyto platformy komplikované zvyšovat počet pozorovaných skoků, a 4 je často dostatečný počet k odražení jejich analýz.
+Stanovení tohoto prahu se však ukazuje jako riskantní: každé rozšíření sledovaného počtu přeskočení exponenciálně zvyšuje objem falešně pozitivních výsledků, tj. osob nesprávně označených jako účastníci události, ačkoli transakci provedl někdo jiný. Tento scénář představuje pro tyto společnosti větší riziko, protože falešně pozitivní výsledky vedou k nespokojenosti, která může postižené zákazníky přivést ke konkurenci. Z dlouhodobého hlediska vede příliš vysoký práh detekce k tomu, že platforma ztrácí více zákazníků než její konkurenti, což může ohrozit její přežití. Proto je pro tyto platformy komplikované zvyšovat počet pozorovaných skoků a 4 je často dostatečný počet pro jejich analýzu.
 
-Pozorovaný fenomén je zde do jisté míry analogický teorii šesti stupňů oddělení.
-Teorie šesti stupňů oddělení naznačuje, že jakákoli osoba na Zemi je spojena s jakoukoliv jinou prostřednictvím řetězce známých, který nezahrnuje více než šest prostředníků. Stačilo by projít sérií šesti lidí, kteří osobně znají následujícího, aby se dosáhlo jakékoli osoby na světě.
-U transakcí s Bitcoinem se objevuje podobný jev. Při sledování dostatečného počtu transakcí s Bitcoinem se nevyhnutelně narazí na coinjoin. Metoda ricochet využívá tohoto principu tím, že používá více skoků, než kolik mohou burzovní platformy rozumně sledovat. Pokud se platformy rozhodnou sledovat více transakcí, je pak možné jednoduše přidat další skok, aby se tato opatření obešla.
+Pozorovaný jev je do jisté míry analogický teorii šesti stupňů odloučení.
 
-### Kdy a jak použít ricochet?
+Teorie šesti stupňů oddělenosti předpokládá, že každý člověk na Zemi je spojen s každým jiným prostřednictvím řetězce poznání, který zahrnuje nejvýše šest prostředníků. Stačilo by projít řadou šesti lidí, z nichž každý by osobně znal dalšího, abychom se dostali ke kterémukoli člověku na světě.
 
-Nejčastější případ použití ricochetu nastává, když je nutné skrýt předchozí účast na coinjoinu na UTXO, které vlastníte. Ideálně je lepší se vyhnout převodu bitcoinů, které prošly coinjoinem, na regulované subjekty. Nicméně, v případě, že se člověk ocitne bez jiné možnosti, zejména v naléhavosti přeměnit bitcoiny na fiat měnu, nabízí ricochet účinné řešení.
+U transakcí s bitcoiny se setkáváme s podobným jevem. Při zpětném sledování dostatečného počtu transakcí s bitcoiny nevyhnutelně narazíme na coinjoin. Metoda ricochet využívá tohoto principu tím, že používá více skoků, než mohou směnné platformy rozumně sledovat. Pokud se platformy rozhodnou sledovat více transakcí, je pak možné jednoduše přidat další hop a toto opatření obejít.
 
-Tato metoda je účinná nejen pro coinjoins, ale také pro jakékoli jiné označení, které by mohlo ohrozit zaměnitelnost mince.
-Nápad této metody ricochet původně pochází od týmů v Samourai Wallet, kteří ji integrovali do své aplikace, aby automatizovali proces. Služba je na Samourai placená, protože ricochet zahrnuje poplatek za službu ve výši 100 000 sats, kromě poplatků za těžbu. Jeho použití se tedy doporučuje spíše pro převody významných částek.
+### Kdy a jak používat ricochet?
 
-![BTC204](assets/notext/63/07.webp)
+Nejběžnější případ použití ricochetu nastává, když je třeba skrýt předchozí účast v coinjoinu na UTXO, které vlastníte. V ideálním případě je nejlepší vyhnout se převodu bitcoinů, které prošly coinjoinem, na regulované subjekty. Nicméně v případě, že se člověk ocitne bez jiných možností, zejména při naléhavé potřebě likvidace bitcoinů do fiat měny, nabízí ricochet účinné řešení.
+
+Tato metoda je účinná nejen u spojů mincí, ale i u jiných značek, které by mohly ohrozit zaměnitelnost mince.
+
+S nápadem na tuto metodu ricochet původně přišly týmy společnosti Samourai Wallet, které ji integrovaly do své aplikace, aby proces automatizovaly. Služba je na Samourai zpoplatněna, protože za ricochet se kromě poplatků za těžbu platí také poplatek za službu ve výši 100 000 sátů. Proto se její použití doporučuje spíše pro převody významných částek.
 
 Aplikace Samourai nabízí dvě varianty ricochetu:
 
-- Vylepšený ricochet, nebo "staggered delivery", který má výhodu rozložení poplatků za službu Samourai na pět po sobě jdoucích transakcí. Tato možnost také zajišťuje, že každá transakce je vysílána v odlišném čase a zaznamenána v jiném bloku, což jí umožňuje co nejvíce napodobit chování změny vlastnictví. Ačkoli je pomalejší, tato metoda je preferována pro ty, kteří se nechvátají, protože maximalizuje efektivitu ricochetu posílením jeho odolnosti vůči analýze řetězce;
 
-![BTC204](assets/notext/63/08.webp)
+- Pokročilý ricochet neboli "rozložené doručení", jehož výhodou je rozložení poplatků za služby společnosti Samourai na pět po sobě jdoucích transakcí. Tato možnost také zajišťuje, že každá transakce je přenesena v samostatném čase a zaznamenána v jiném bloku, což umožňuje co nejvěrněji napodobit chování při změně vlastníka. Ačkoli je tento způsob pomalejší, je vhodnější pro ty, kteří nespěchají, protože maximalizuje účinnost ricochetu posílením jeho odolnosti vůči analýze řetězce;
+- Klasický ricochet, který je určen k rychlému provedení operace přenosem všech transakcí v krátkém časovém úseku. Tato metoda proto nabízí méně soukromí a menší odolnost proti analýze než pokročilá metoda. Měla by se používat pouze pro naléhavá podání.
 
-- Klasický ricochet, který je navržen tak, aby operaci provedl rychle vysíláním všech transakcí v krátkém časovém rámci. Tato metoda tedy nabízí menší soukromí a nižší odolnost vůči analýze než vylepšená metoda. Měla by být použita pouze pro naléhavé zásilky.
+Recochet spočívá v jednoduchém zasílání bitcoinů sobě samému. Je zcela možné provést ricochet ručně v jakémkoli softwaru peněženky, aniž by bylo nutné použít specializovaný nástroj. Stačí si později převést stejnou minci, pokaždé s použitím nové prázdné adresy.
 
-![BTC204](assets/notext/63/09.webp)
-
-Ricochet jednoduše zahrnuje poslání bitcoinů sami sobě. Je zcela možné provést ricochet ručně na jakémkoli softwaru peněženky, aniž byste používali specializovaný nástroj. Stačí převést stejnou minci na sebe opakovaně, pokaždé použít novou prázdnou adresu.
-
-V následující kapitole prozkoumáme různé techniky pro tajné převody majetku. Tyto metody se radikálně liší od těch, které jsme dosud zkoumali, jak z hlediska provozu, tak výsledků.
+V následující kapitole prozkoumáme několik technik tajných převodů majetku. Tyto metody se zásadně liší od těch, které jsme zkoumali doposud, a to jak z hlediska způsobu fungování, tak z hlediska jejich výsledků.
 
 https://planb.network/tutorials/privacy/on-chain/ricochet-e0bb1afe-becd-44a6-a940-88a463756589
-
 ## Tajné převody majetku
 
 <chapterId>a2067036-849c-4d6b-87d2-44235cfae7a1</chapterId>
 
-Mezi technikami soukromí na Bitcoinu je také tajný převod majetku. Tato metoda má za cíl převést vlastnictví bitcoinů z jedné osoby na druhou, a naopak, aniž by tato transakce byla explicitně viditelná na blockchainu. Pojďme společně prozkoumat různé dostupné techniky, stejně jako jejich výhody a nevýhody.
+Mezi techniky ochrany soukromí v bitcoinech patří tajný převod vlastnictví. Cílem této metody je převést vlastnictví bitcoinů z jedné osoby na druhou a naopak, aniž by tato transakce byla explicitně viditelná v blockchainu. Pojďme si společně prostudovat různé dostupné techniky a jejich výhody a nevýhody.
 
-### CoinSwap
+### Výměna mincí
 
-CoinSwap je založen na relativně jednoduchém konceptu: používá chytré kontrakty k usnadnění převodu vlastnictví bitcoinů mezi dvěma uživateli, bez nutnosti důvěry a bez toho, aby byl tento převod explicitně viditelný na blockchainu.
-![BTC204](assets/notext/64/01.webp)
-Představme si zjednodušený příklad s Alicí a Bobem. Alice vlastní 1 BTC zabezpečený soukromým klíčem $A$, a Bob také vlastní 1, zabezpečený soukromým klíčem $B$. Teoreticky by mohli vyměnit své soukromé klíče prostřednictvím externího komunikačního kanálu, aby provedli tajný převod.
-![BTC204](assets/notext/64/02.webp)
+CoinSwap je založen na poměrně jednoduchém konceptu: využívá chytré smlouvy k usnadnění převodu vlastnictví bitcoinů mezi dvěma uživateli, aniž by byla nutná důvěra a aniž by tento převod byl explicitně viditelný v blockchainu.
 
-Tato naivní metoda však představuje vysoké riziko z hlediska důvěry. Nic nebrání Alici, aby si po výměně ponechala kopii soukromého klíče $A$ a později jej použila k odcizení bitcoinů, jakmile je klíč v Bobově držení.
+Představme si zjednodušený příklad s Alicí a Bobem. Alice má 1 BTC zabezpečený soukromým klíčem $A$ a Bob má také 1 BTC zabezpečený soukromým klíčem $B$. Teoreticky by si mohli vyměnit své soukromé klíče prostřednictvím externího komunikačního kanálu a provést tajný převod.
 
-![BTC204](assets/notext/64/03.webp)
+Tato naivní metoda však představuje vysoké riziko z hlediska důvěryhodnosti. Nic nebrání tomu, aby si Alice po výměně ponechala kopii soukromého klíče $A$ a později ji použila ke krádeži bitcoinů, jakmile bude klíč v Bobově držení.
 
-Navíc neexistuje žádná záruka, která by bránila Alici přijmout Bobův soukromý klíč $B$ a nikdy neodeslat svůj soukromý klíč $A$ na oplátku. Tato výměna se tedy spoléhá na nadměrnou důvěru mezi stranami a ukazuje se jako neefektivní v zajištění bezpečného tajného převodu vlastnictví.
+Navíc neexistuje žádná záruka, která by Alici zabránila přijmout Bobův soukromý klíč $B$ a nikdy na oplátku neposlat svůj soukromý klíč $A$. Tato výměna tedy závisí na přílišné důvěře mezi stranami a ukazuje se jako neúčinná při zajišťování tajného převodu vlastnictví bezpečným způsobem.
 
-![BTC204](assets/notext/64/04.webp)
+Abychom tyto problémy vyřešili a umožnili výměnu mezi stranami, které si navzájem nedůvěřují, můžeme místo toho použít systémy chytrých smluv. Inteligentní smlouva je program, který se spouští automaticky při splnění předem definovaných podmínek, což v našem případě zajišťuje, že výměna majetku probíhá automaticky, aniž by byla vyžadována vzájemná důvěra.
 
-Abychom tyto problémy vyřešili a umožnili výměny mezi stranami, které si nevěří, můžeme místo toho použít systémy chytrých kontraktů. Chytrý kontrakt je program, který se automaticky spustí, když jsou splněny předem definované podmínky, což v našem případě zajišťuje, že výměna vlastnictví proběhne automaticky bez nutnosti vzájemné důvěry.
+K tomu můžeme použít HTLC (_Hash Time-Locked Contracts_) nebo PTLC (_Point Time-Locked Contracts_). Tyto dva protokoly fungují podobně a využívají systém časového zámku, který zajišťuje úspěšné dokončení nebo úplné zrušení výměny, čímž chrání integritu prostředků obou stran. Hlavní rozdíl mezi HTLC a PTLC spočívá v tom, že HTLC používají k zabezpečení transakce hashe a předobrazy, zatímco PTLC používají adaptivní podpisy.
 
-K tomu můžeme použít HTLC (_Hash Time-Locked Contracts_) nebo PTLC (_Point Time-Locked Contracts_). Tyto dva protokoly fungují podobně pomocí systému časového zámku, který zaručuje, že výměna buď proběhne úspěšně, nebo je zcela zrušena, čímž chrání integritu finančních prostředků obou stran. Hlavní rozdíl mezi HTLC a PTLC je, že HTLC používá hash a preimage k zabezpečení transakce, zatímco PTLC používá Adaptor Signatures.
+Ve scénáři výměny mincí pomocí HTLC nebo PTLC mezi Alicí a Bobem probíhá výměna bezpečným způsobem: buď se podaří a každý z nich obdrží BTC toho druhého, nebo se nepodaří a každý si ponechá své vlastní BTC. Není tedy možné, aby některá ze stran podváděla nebo ukradla BTC té druhé.
 
-Ve scénáři coinswapu s použitím HTLC nebo PTLC mezi Alicí a Bobem probíhá výměna bezpečně: buď uspěje a každý obdrží BTC toho druhého, nebo selže a každý si ponechá své BTC. Je tedy nemožné, aby jedna ze stran podváděla nebo kradla BTC té druhé.
+> hTLC jsou také mechanismem, který slouží k bezpečnému směrování plateb prostřednictvím obousměrných kanálů sítě Lightning Network._
+> Použití adaptivních podpisů je v této souvislosti obzvláště zajímavé, protože umožňuje obejít tradiční skripty (tento mechanismus se někdy označuje jako "_scriptless scripts_"). Tato funkce pomáhá snížit poplatky spojené s výměnou. Další významnou výhodou adaptivních podpisů je, že nevyžadují použití společného hashe pro obě strany transakce, čímž se u některých typů výměn zamezí odhalení přímého spojení mezi nimi.
+### Adaptivní podpisy
 
-> _HTLC jsou také mechanismem používaným pro bezpečné směrování plateb přes obousměrné kanály Lightning Network._
-> Použití Adaptor Signatures je v tomto kontextu obzvláště zajímavé, protože umožňuje obejít tradiční skripty (jedná se o mechanismus někdy označovaný jako "_scriptless scripts_"). Tato funkce pomáhá snižovat poplatky spojené s výměnou. Další velkou výhodou Adaptor Signatures je, že nevyžadují použití společného hash pro obě strany transakce, čímž se vyhýbá odhalení přímého spojení mezi nimi v určitých typech výměn.
+Adaptivní podpisy jsou kryptografickou metodou, která spojuje platný podpis s dalším podpisem, tzv. "adaptivním podpisem", a odhaluje tak tajnou část dat. Tento mechanismus je navržen tak, že znalost dvou z následujících tří prvků: platného podpisu, adaptivního podpisu a tajného údaje umožňuje odvodit třetí chybějící prvek. Zajímavou vlastností této metody je, že pokud známe adaptivní podpis našeho protějšku a konkrétní bod na eliptické křivce spojený s tajemstvím použitým k výpočtu tohoto adaptivního podpisu, můžeme odvodit náš vlastní adaptivní podpis, který bude kompatibilní s týmž tajemstvím, aniž bychom měli přímý přístup k samotnému tajemství.
 
-### Adaptor Signatures
+Při výměně mincí umožňuje použití adaptivních podpisů současné zveřejnění dvou citlivých informací mezi účastníky, čímž odpadá nutnost vzájemné důvěry. Uveďme příklad, který tento proces ilustruje na příkladu Alice a Boba, kteří si chtějí vyměnit vlastnictví 1 BTC každý, ale navzájem si nedůvěřují. K eliminaci potřeby důvěry při této výměně použijí adaptivní podpisy. Zde je uveden jejich postup:
 
-Adaptor Signatures jsou kryptografická metoda, která integruje platný podpis s dalším podpisem, nazývaným "_adaptor signature_", k odhalení tajného kusu dat. Tento mechanismus je navržen tak, že znalost 2 z následujících 3 prvků: platný podpis, adaptor signature a tajemství, umožňuje odvodit chybějící třetí prvek. Zajímavou vlastností této metody je, že pokud známe adaptor signature naší protistrany a konkrétní bod na eliptické křivce spojený s tajemstvím použitým k výpočtu tohoto adaptor signature, můžeme odvodit vlastní adaptor signature, který bude kompatibilní s tímto stejným tajemstvím, aniž bychom kdy měli přímý přístup k samotnému tajemství.
-Při coinswapu umožňuje použití Adaptor Signatures současné odhalení dvou citlivých informací mezi účastníky, čímž se eliminuje potřeba vzájemné důvěry. Pojďme si tento proces ilustrovat na příkladu s Alicí a Bobem, kteří si chtějí vyměnit vlastnictví 1 BTC každý, ale nevěří si navzájem. Používají Adaptor Signatures, aby odstranili potřebu důvěry v této výměně. Postupují takto:
 
-- Alice zahájí výměnu vytvořením transakce $m_A$, která pošle 1 BTC Bobovi. Vygeneruje podpis $s_A$, který tuto transakci ověří, pomocí svého soukromého klíče $p_A$ ($P_A = p_A \cdot G$), nonce $n_A$ ($N_A = n_A \cdot G$) a tajemství $t$ ($T = t \cdot G$):
+- Alice zahájí výměnu vytvořením transakce $m_A$, která odešle Bobovi 1 BTC. Pomocí svého soukromého klíče $p_A$ ($P_A = p_A \cdot G$), nonce $n_A$ ($N_A = n_A \cdot G$) a tajemství $t$ ($T = t \cdot G$) vygeneruje podpis $s_A$, kterým tuto transakci potvrdí:
 
-$$s_A = n_A + t + H(N_A + T \parallel P_A \parallel m_A) \cdot p_A$$
+$$s_A = n_A + t + H(N_A + T \paralelní P_A \paralelní m_A) \cdot p_A$$
 
-- Alice vypočítá adaptorový podpis $s_A'$ odečtením tajemství $t$ od jejího pravého podpisu $s_A$:
+
+- Alice vypočítá adaptivní podpis $s_A'$ odečtením tajemství $t$ od svého pravého podpisu $s_A$:
 
 $$s_A' = s_A - t$$
 
-- Alice pošle Bobovi svůj adaptorový podpis $s'_A$, její nepodepsanou transakci $m_A$, bod odpovídající tajemství ($T$) a bod odpovídající nonce ($N_A$). Tyto prvky tvoří to, co se nazývá "_adaptor_". Je důležité si uvědomit, že pouze s touto informací Bob nemůže získat zpět BTC od Alice.
-- Bob však má možnost ověřit, že se Alice nesnaží od něj ukrást. Aby to udělal, zkontroluje, zda adaptorový podpis Alice $s_A'$ skutečně odpovídá navrhované transakci $m_A$. Pokud je následující rovnice správná, může být poté jistý, že adaptorový podpis Alice je platný:
-  $$s_A' \cdot G = N_A + H(N_A + T \parallel P_A \parallel m_A) \cdot P_A$$
 
-- Toto ověření poskytuje Bobovi dostatečné záruky, aby mohl s výměnou pokračovat s důvěrou. Poté vytvoří svou vlastní transakci $m_B$, určenou k odeslání 1 BTC Alici, a vygeneruje svůj adaptorový podpis $s_B'$, který bude také spojen se stejným tajemstvím $t$. V tomto okamžiku zná hodnotu $t$ pouze Alice; Bob zná pouze odpovídající bod $T$, který mu Alice předala:
+- Alice pošle Bobovi svůj adaptivní podpis $s'_A$, svou nepodepsanou transakci $m_A$, bod odpovídající tajemství ($T$) a bod odpovídající nonce ($N_A$). Tyto prvky tvoří to, čemu se říká "_adaptér_" Je důležité poznamenat, že pouze s těmito informacemi nemůže Bob získat Alicin BTC.
+- Bob má však možnost ověřit, že se ho Alice nesnaží okrást. Za tímto účelem zkontroluje, zda Alicin adaptivní podpis $s_A'$ skutečně odpovídá navrhované transakci $m_A$. Pokud je následující rovnice správná, může si být jistý, že Alicin adaptivní podpis je platný:
 
-$$s_B' = n_B + H(N_B + T \parallel P_B \parallel m_B) \cdot p_B$$
+$$s_A' \cdot G = N_A + H(N_A + T \paralelní P_A \paralelní m_A) \cdot P_A$$
 
-- Bob předá Alici svůj adaptorový podpis $s_B'$, jeho nepodepsanou transakci $m_B$, stejně jako bod odpovídající tajemství ($T$) a bod odpovídající nonce ($N_B$). Alice, která zná tajemství $t$, nyní může kombinovat Bobův adaptorový podpis $s_B'$ s tímto tajemstvím, aby vygenerovala platný podpis $s_B$ pro transakci $m_B$, která převede Bobovo BTC na ni:
+
+- Toto ověření poskytuje Bobovi dostatečnou jistotu, aby mohl s jistotou pokračovat ve výměně. Poté vytvoří vlastní transakci $m_B$, jejímž cílem je poslat Alici 1 BTC, a vygeneruje svůj adaptivní podpis $s_B'$, který bude rovněž spojen se stejným tajemstvím $t$. V tomto okamžiku zná hodnotu $t$ pouze Alice, Bob zná pouze odpovídající bod $T$, který mu Alice předala:
+
+$$s_B' = n_B + H(N_B + T \paralelní P_B \paralelní m_B) \cdot p_B$$
+
+
+- Bob předá Alici svůj adaptivní podpis $s_B'$, svou nepodepsanou transakci $m_B$, jakož i bod odpovídající tajemství ($T$) a bod odpovídající nonce ($N_B$). Alice, která zná tajemství $t$, může nyní zkombinovat Bobův adaptivní podpis $s_B'$ s tímto tajemstvím a vygenerovat platný podpis $s_B$ pro transakci $m_B$, která jí převede Bobovy BTC:
 
 $$s_B = s_B' + t$$
 
-$$(s_B' + t) \cdot G = N_B + T + H(N_B + T \parallel P_B \parallel m_B) \cdot P_B$$
+$$(s_B' + t) \cdot G = N_B + T + H(N_B + T \paralelní P_B \paralelní m_B) \cdot P_B$$
 
-- Alice vysílá tuto podepsanou transakci $m_B$ na Bitcoin blockchain, aby získala slíbené BTC od Boba. Když Bob uvidí tuto transakci na blockchainu, může extrahovat podpis $s_B = s_B' + t$. S touto informací je pak Bob schopen izolovat slavné tajemství $t$, které potřeboval:
-  $$t = (s_B' + t) - s_B' = s_B - s_B'$$
-- A skutečně, toto tajemství $t$ byl jediný chybějící prvek, který Bob potřeboval k vygenerování platného podpisu $s_A$ z Aliceiného adaptérového podpisu $s_A'$. Tento podpis umožňuje ověřit transakci $m_A$, která posílá BTC od Alice k Bobovi. Bob poté vypočítá $s_A$ a následně vysílá transakci $m_A$ na blockchain:
+
+- Alice přenese tuto podepsanou transakci $m_B$ do blockchainu Bitcoinu, aby získala BTC slíbené Bobem. Když Bob uvidí tuto transakci v blockchainu, může z ní vyčíst podpis $s_B = s_B' + t$. S touto informací je pak Bob schopen izolovat slavné tajemství $t$, které potřeboval:
+
+$$t = (s_B' + t) - s_B' = s_B - s_B'$$
+
+
+- A toto tajemství $t$ bylo ve skutečnosti jediným chybějícím prvkem, který Bobovi umožnil vygenerovat platný podpis $s_A$ z Alicina adaptérového podpisu $s_A'$. Tento podpis umožňuje ověřit platnost transakce $m_A$, která posílá BTC od Alice Bobovi. Bob poté vypočítá $s_A$ a následně transakci $m_A$ odešle do blockchainu:
 
 $$s_A = s_A' + t$$
 
-$$(s_A' + t) \cdot G = N_A + T + H(N_A + T \parallel P_A \parallel m_A) \cdot P_A$$
-Shrněme, jak funguje adaptérový podpis v coinswapu. Původně Alice pošle Bobovi nepodepsanou transakci spolu s adaptérem, který Bobovi umožňuje ověřit, že později odhalené tajemství mu dá přístup k bitcoinům. Na oplátku Bob pošle Alici jeho vlastní nepodepsanou transakci a jeho adaptér. Alice pak může dokončit Bobovu transakci a získat zpět bitcoiny tím, že vysílá platnou transakci s použitím tajemství. Když je tato transakce publikována na blockchainu, Bob má možnost extrahovat tajemství a tím odemknout Alicinu transakci. V důsledku toho, pokud Alice zahájí převod Bobových bitcoinů, on může na oplátku získat přístup k Aliciným bitcoinům bez nutnosti vzájemné důvěry.
-Je důležité poznamenat, že coinswapy byly poprvé navrženy [Gregorym Maxwellem v říjnu 2013 na BitcoinTalk](https://bitcointalk.org/index.php?topic=321228.0).
+$$(s_A' + t) \cdot G = N_A + T + H(N_A + T \paralelní P_A \paralelní m_A) \cdot P_A$$
 
-### Atomický Swap
+Shrňme si, jak funguje podpisový adaptér ve směnárně mincí. Na začátku Alice pošle Bobovi nepodepsanou transakci spolu s adaptérem, který Bobovi umožní ověřit, že později odhalené tajemství mu umožní přístup k bitcoinům. Bob na oplátku pošle Alici svou nepodepsanou transakci a adaptér. Alice pak může dokončit Bobovu transakci a získat zpět bitcoiny odesláním platné transakce s použitím tajemství. Když je tato transakce zveřejněna v blockchainu, Bob má možnost získat tajemství, a tím odemknout Alicinu transakci. V důsledku toho, pokud Alice iniciuje převod Bobových bitcoinů, může naopak on získat přístup k Aliciným bitcoinům, aniž by byla vyžadována vzájemná důvěra.
 
-Podobně jako coinswap a s použitím stejných typů chytrých kontraktů, je také možné provádět atomické swapy. Atomický swap umožňuje přímou výměnu různých kryptoměn, jako jsou BTC a XMR, mezi dvěma uživateli bez nutnosti důvěry nebo zásahu prostředníka. Tyto výměny se nazývají "atomické", protože mají pouze dvě možné výsledky: buď je výměna úspěšná a obě strany jsou spokojeny, nebo selže a každý si ponechá své původní kryptoměny, čímž se eliminuje potřeba důvěry v druhou stranu.
+Je důležité poznamenat, že výměnu mincí poprvé navrhl [Gregory Maxwell v říjnu 2013 na BitcoinTalk](https://bitcointalk.org/index.php?topic=321228.0).
 
-![BTC204](assets/notext/64/05.webp)
+### Atomová burza
 
-Atomický swap a coinswap mají podobný způsob fungování a nabízejí stejné výhody a nevýhody z hlediska soukromí. Skutečně, z pohledu Bitcoinu, je atomický swap srovnatelný s coinswapem provedeným ve dvou krocích. Nejprve vyměníme naše BTC za jinou kryptoměnu a poté tuto kryptoměnu můžeme vyměnit za jiné BTC. Nakonec získáme BTC jiného uživatele. To je důvod, proč v analýze problémů soukromí řadím tyto dva protokoly do kategorie tajných výměn vlastnictví.
+Podobně jako u výměny mincí a s využitím stejných typů chytrých smluv je možné provádět i atomické výměny. Atomická výměna umožňuje přímou výměnu různých kryptoměn, například BTC a XMR, mezi dvěma uživateli bez nutnosti důvěry nebo zásahu zprostředkovatele. Tyto výměny se nazývají "atomické", protože mají pouze dva možné výsledky: buď se výměna podaří a obě strany jsou spokojené, nebo se nezdaří a každá si ponechá své původní kryptoměny, čímž odpadá potřeba důvěry v druhou stranu.
 
-![BTC204](assets/notext/64/06.webp)
+![BTC204](assets/fr/197.webp)
 
-Na rozdíl od coinswapu však může mít atomický swap nerovnováhy z hlediska dostupné likvidity, zejména při výměnách BTC/XMR. Obecně je snazší vyměnit bitcoiny za altcoiny, protože je vysoká poptávka po bitcoinech, což udržuje prémie nízké pro tento směr konverze. Výměna altcoinů za získání BTC může být však složitější kvůli nižší poptávce, což často vede k velmi vysokým prémiím.
+Atomová směnárna a směnárna mincí mají podobný způsob fungování a nabízejí stejné výhody i nevýhody z hlediska ochrany soukromí. Z pohledu Bitcoinu je atomová výměna ve skutečnosti srovnatelná s výměnou mincí prováděnou ve dvou krocích. Nejprve vyměníme svůj BTC za jinou kryptoměnu a poté lze tuto kryptoměnu směnit za jiné BTC. Nakonec získáme BTC jiného uživatele. Proto v analýze otázek ochrany soukromí řadím tyto dva protokoly do kategorie tajných výměn majetku.
 
-Konečně, když atomická výměna zahrnuje onchain bitcoiny a bitcoiny na Lightning network, pak se tomu říká "_submarine swap_".
+![BTC204](assets/fr/198.webp)
 
-### Je to skutečně užitečné?
+Na rozdíl od burzy mincí však může u atomové burzy docházet k nerovnováze, pokud jde o dostupnou likviditu, zejména u burz BTC/XMR. Obecně je snazší vyměnit bitcoin za altcoin, protože existuje velká poptávka po bitcoinu, což udržuje prémie za tento směr konverze nízké. Výměna altcoinů za BTC však může být kvůli nižší poptávce složitější, což často vede k velmi vysokým prémiím.
 
-Tajné převody majetku, jako jsou coinswapy a atomické swapy, mají výhodu v tom, že klamou heuristiky analýzy řetězce. Tyto metody mohou vytvářet dojem, že transakce zahrnují stejného uživatele, i když se skutečné vlastnictví přesunulo. Hlavní nevýhodou těchto metod je však to, že jsou velmi riskantní bez použití dodatečné techniky k přerušení historie mince.
-Opravdu, když Alice provádí coinswap nebo atomic swap s Bobem, vyměňuje vlastnictví svých bitcoinů za Bobovy. V případě atomic swapu zahrnuje výměna altcoin, ale princip zůstává stejný. Takže Alice skončí s mincí $B$ a Bob s mincí $A$. To přidává pochybnosti do analýzy řetězce, ale historie mincí zůstává vystopovatelná. Pokud analytik zkoumá minci $A$, může se vrátit k předchozím aktivitám Alice a naopak pro minci $B$.
-![BTC204](assets/cs/64/07.webp)
+A konečně, pokud atomická výměna zahrnuje bitcoiny v řetězci a bitcoiny v síti Lightning, označujeme ji jako "ponornou výměnu"
 
-Z pohledu Alice je riziko, že historie mince $B$ by mohla být určitými subjekty považována za podezřelou. Pokud by například Bob získal minci $B$ v trestném činu, jako je hacking, tato mince by zůstala spojena s jeho nelegálními aktivitami. Alice by se pak mohla ocitnout ve vlastnictví mince, kterou by nemohla převést na regulovaných burzách bez rizika, že její prostředky budou zmrazeny, nebo dokonce obviněna z Bobových zločinů, ačkoliv s nimi neměla nic společného.
+### Je to opravdu užitečné?
 
-![BTC204](assets/cs/64/08.webp)
+Tajné převody vlastnictví, jako jsou výměny mincí a atomové výměny, mají tu výhodu, že obelstí heuristiku analýzy řetězce. Tyto metody mohou vyvolat dojem, že se transakce týkají stejného uživatele, i když skutečné vlastnictví změnilo majitele. Hlavní nevýhodou těchto metod však je, že jsou bez použití další techniky k narušení historie mincí velmi riskantní.
 
-A samozřejmě, metody soukromí jako coinswap nebo atomic swap jsou upřednostňovány zločinci, jejichž prostředky jsou sledovány úřady. Tyto protokoly jim nabízejí možnost zbavit se svých sledovaných bitcoinů výměnou za dokonale zaměnitelné bitcoiny. To jim také umožňuje vytvořit odvrácení pozornosti, směřující úřady k jiným uživatelům. Pro tyto jedince existuje tedy dvojí užitek.
+Když Alice s Bobem provede výměnu mincí nebo atomickou výměnu, vymění si vlastnické právo ke svým bitcoinům za Bobovy bitcoiny. V případě atomického swapu výměna zahrnuje altcoin, ale princip zůstává stejný. Alice tedy skončí s mincí $B$ a Bob s mincí $A$. To přidává pochybnosti v analýze řetězce, ale historie mincí zůstává dohledatelná. Pokud analytik zkoumá minci $A$, může dohledat předchozí aktivity Alice a naopak u mince $B$.
 
-S coinjoin, i když je vaše mince smíchána se sledovanými bitcoiny, historie mince je přerušena, což poskytuje formu věrohodného popření, která neexistuje u protokolů tajného převodu vlastnictví jako jsou coinswap nebo atomic swap.
+Z pohledu Alice hrozí, že historie mince $B$ může být některými subjekty považována za podezřelou. Pokud by například Bob získal minci $B$ při trestné činnosti, například při hackerském útoku, zůstala by tato mince spojena s jeho nezákonnou činností. Alice by se pak mohla ocitnout v držení mince, kterou by nemohla převést na regulované obchodní platformy, aniž by riskovala zmrazení svých prostředků, nebo by dokonce mohla být obviněna z Bobových trestných činů, ačkoli s nimi nemá nic společného.
 
-![BTC204](assets/notext/64/09.webp)
-Pokud chce Alice vyhnout se jakémukoli riziku, musí nutně použít metodu k přerušení historie mince $B$, jako je například použití coinjoin. To vyvolává otázku o užitečnosti kombinace tajného převodu vlastnictví a coinjoin. Coinjoin, přerušením historie mince, již poskytuje dostatečnou úroveň soukromí pro Alice. Takže, mé mínění je, že pokud Alice hledá ochranu svého soukromí, bylo by rozumnější přímo postupovat s coinjoin, než se zapojit do coinswapu následovaného coinjoinem.
-Aby byly metody tajného převodu vlastnictví skutečně účinné a vyhnuly se riziku spojení historie uživatele $A$ s uživatelem $B$, bylo by paradoxně nutné, aby jejich použití bylo široce známé. Pokud je coinswap masivně používán a úřady jsou si této běžné praxe vědomy, pak by mohlo být zřízeno věrohodné popření. Nicméně, dokud zůstává použití těchto převodů okrajové, věřím, že tyto metody zůstanou pro uživatele příliš riskantní.
+A samozřejmě metody ochrany soukromí, jako je výměna mincí nebo výměna atomů, mají v oblibě zločinci, jejichž finanční prostředky jsou monitorovány úřady. Tyto protokoly jim dávají možnost zbavit se svých monitorovaných bitcoinů výměnou za dokonale zaměnitelné bitcoiny. To jim také umožňuje vytvářet diverzi tím, že úřady nasměrují na jiné uživatele. Pro tyto lidi tak existuje dvojí užitečnost.
 
-Doposud jsme se hlavně zabývali metodami soukromí na úrovni samotných transakcí. V další kapitole prozkoumáme problémy na úrovni sítě a šíření transakcí.
+V případě coinjoin je historie mince přerušena i v případě, že je vaše mince smíchána s monitorovanými bitcoiny, což poskytuje formu věrohodného popření, která neexistuje v tajných protokolech pro převod majetku, jako je výměna mincí nebo atomová výměna.
 
-## Soukromí na P2P síti
+Pokud se chce Alice vyhnout jakémukoli riziku, musí nutně použít metodu, která naruší historii mince $B$, například ji prověří pomocí coinjoins. To vyvolává otázku o užitečnosti kombinace tajného převodu vlastnictví a coinjoinu. Coinjoin tím, že přeruší historii mince, již Alici poskytuje dostatečnou úroveň soukromí. Můj názor je tedy takový, že pokud Alice usiluje o ochranu svého soukromí, bylo by rozumnější přistoupit přímo k coinjoinu než se zapojit do výměny mincí, po níž následuje coinjoin.
+
+Aby byly metody tajného převodu vlastnictví skutečně účinné a zamezily riziku propojení historie uživatele $A$ s uživatelem $B$, bylo by paradoxně nutné, aby jejich použití bylo všeobecně známé. Pokud je výměna mincí masově využívána a úřady o této běžné praxi vědí, pak by bylo možné vytvořit věrohodnou formu popření. Dokud však bude používání těchto převodů okrajové, domnívám se, že tyto metody budou pro uživatele i nadále příliš rizikové.
+
+Dosud jsme se zabývali především metodami ochrany soukromí na úrovni samotných transakcí. V příští kapitole se budeme zabývat otázkami na úrovni sítě a šířením transakcí.
+
+## Ochrana soukromí v síti P2P
 
 <chapterId>04a2467b-db84-4076-a9ff-919be5135106</chapterId>
 
-V části 4 jsme diskutovali o důležitosti používání plného uzlu k ochraně soukromí vašich transakcí. Je však důležité pochopit, že váš uzel sám může být předmětem útoků, které se snaží extrahovat informace o vašich aktivitách. V této kapitole se proto budeme zabývat různými opatřeními na ochranu soukromí, ne na úrovni samotných transakcí nebo toků bitcoinů, ale na úrovni sítě.
+Ve 4. části jsme se zabývali důležitostí používání úplného uzlu pro ochranu soukromí vašich transakcí. Je však důležité si uvědomit, že samotný uzel může být předmětem útoků, které se snaží získat informace o vašich aktivitách. V této kapitole se proto budeme zabývat různými opatřeními na ochranu soukromí, a to nikoli na úrovni samotných transakcí nebo toků bitcoinů, ale na úrovni sítě.
 
 ### Pampeliška
 
-Jedním ze způsobů, jak se vyhnout různým útokům na de-anonymizaci, je použití návrhu Dandelion. Tento protokol šíření byl formalizován v BIP156, ale nikdy nebyl implementován do Bitcoinu.
-Idea Dandelion spočívá ve zlepšení soukromí směrování transakcí v síti Bitcoin, aby se čelilo různým formám útoků. Jeho hlavním cílem je skrýt zdrojový uzel, který původně vysílal transakci v síti. Odhalení tohoto uzlu by mohlo spojit Bitcoinovou transakci s konkrétní IP adresou (pokud uzel funguje na clearnetu), což by mohlo poskytnout vstupní bod pro analýzu řetězce.
-Toto spojení mezi aktivitou na Bitcoinu a IP adresou představuje významné riziko pro soukromí uživatele. Skutečně, mnoho subjektů může snadno spojit IP adresu s osobní identitou. To zahrnuje zejména vlády a poskytovatele internetových služeb. Navíc tyto informace mohou být veřejně dostupné, například pokud jsou vaše IP adresa a osobní údaje vystaveny kvůli úniku během hackování databáze webové stránky.
-Při standardním provozu Bitcoinu jsou transakce vytvořené uživatelem ve své peněžence přenášeny na jeho osobní uzel. Tento uzel okamžitě vysílá novou transakci všem svým připojeným vrstevníkům.
+Jedním ze způsobů, jak se vyhnout různým deanonymizačním útokům, je použití navrženého systému Dandelion. Tento přenosový protokol byl formalizován v BIP156, ale nikdy nebyl implementován na Bitcoinu. Myšlenkou Dandelionu je zlepšit soukromí směrování transakcí v síti Bitcoin a zmařit tak různé formy útoků. Jeho hlavním cílem je skrýt zdrojový uzel, který transakci v síti původně přenáší. Odhalení tohoto uzlu by mohlo spojit transakci v Bitcoinech s konkrétní IP adresou (pokud uzel funguje v nešifrované síti), a poskytnout tak vstupní bod pro analýzu řetězce.
 
-![BTC204](assets/notext/65/01.webp)
+Toto spojení mezi aktivitou na Bitcoinu a IP adresou představuje významné riziko pro soukromí uživatelů. Řada subjektů totiž může snadno propojit IP adresu s osobní identitou. Mezi ně pozoruhodně patří vlády a poskytovatelé internetových služeb. Tyto informace se navíc mohou stát veřejně přístupnými, například pokud jsou IP adresa a osobní údaje odhaleny v důsledku úniku dat při nabourání se do databáze webových stránek.
 
-Tito vrstevníci poté ověří transakci, aby zajistili, že je v souladu s pravidly konsensu a místními standardizačními pravidly. Jakmile je ověřena, každý vrstevník po sobě přenáší transakci svým vlastním vrstevníkům, a tak dále.
+Při standardním fungování Bitcoinu se transakce vytvořené uživatelem v jeho softwarové peněžence přenášejí do jeho osobního uzlu. Tento uzel okamžitě předá novou transakci všem peerům, ke kterým je připojen.
 
-![BTC204](assets/notext/65/02.webp)
+Tito kolegové pak transakci ověří, aby se ujistili, že splňuje pravidla konsensu a místní pravidla standardizace. Po ověření každý peer zase předá transakci svým peerům a tak dále.
 
-Distribuce transakcí čekajících na začlenění do bloku se provádí poměrně vyváženým a statisticky předvídatelným způsobem. Tuto zranitelnost mohou využít spolupracující špehovací uzly, které spolupracují na monitorování a analýze sítě, aby identifikovaly první uzel, který vysílal transakci. Pokud pozorovatel dokáže lokalizovat zdrojový uzel, může předpokládat, že transakce pochází od provozovatele tohoto uzlu. Tento typ pozorování může spojit transakce, obvykle anonymní, s konkrétními IP adresami.
+Rozložení transakcí čekajících na začlenění do bloku probíhá poměrně vyváženě a statisticky předvídatelně. Tato zranitelnost může být zneužita koluzními špionážními uzly, které spolupracují na monitorování a analýze sítě s cílem určit první uzel, který transakci přenese. Pokud pozorovatel dokáže lokalizovat zdrojový uzel, může předpokládat, že transakce pochází od provozovatele tohoto uzlu. Tento typ pozorování může spojit transakce, obvykle anonymní, s konkrétními IP adresami.
 
-![BTC204](assets/notext/65/03.webp)
+Cílem BIP156 je tento problém řešit. Za tímto účelem zavádí další fázi přenosu nové transakce, která má zachovat anonymitu před rozsáhlým veřejným šířením. Pampeliška nejprve používá "kmenovou" fázi, kdy je transakce odeslána náhodnou cestou uzlů.
 
-Cílem BIP156 je tento problém řešit. K tomu zavádí dodatečnou fázi ve vysílání nové transakce, aby se před širokou veřejnou propagací zachovala anonymita. Dandelion nejprve používá fázi "stem" (stonku), kde je transakce poslána přes náhodnou cestu uzlů.
+Transakce je poté přenesena do celé sítě ve fázi "fluff" (blowhole).
 
-![BTC204](assets/notext/65/04.webp)
+Stonek a pampeliška odkazují na chování při šíření transakce v síti, které připomíná tvar pampelišky.
 
-Poté je transakce vysílána do celé sítě ve fázi "fluff" (chmýří).
+Špehovací uzly tak mohou potenciálně vysledovat transakci zpět k uzlu, který zahájil fázi vyfukování (masivní přenos), ale tento uzel není tím, který transakci přenesl jako první, protože ji přijal od posledního uzlu v kmeni. Pokud špionážní uzly nemohou vystopovat kmen, nemohou identifikovat ani zdrojový uzel.
 
-![BTC204](assets/notext/65/05.webp)
+Dokonce i v přítomnosti špionážních uzlů ve fázi kmene vždy zůstávají pochybnosti, protože jakmile se v difuzním grafu setkají s poctivým uzlem, nemohou špioni určit, zda je tento uzel původním zdrojem, nebo pouze prostředníkem.
 
-Stonková a chmýřová fáze jsou odkazy na chování šíření transakce sítí, které připomíná tvar pampelišky.
+Tento způsob směrování ztěžuje zpětné dohledání zdrojového uzlu, což komplikuje dohledání transakce v síti až k jejímu původu. Dandelion tak zlepšuje soukromí tím, že omezuje schopnost protivníků deanonymizovat síť. Tato metoda je ještě účinnější, pokud transakce během fáze "stem" prochází uzlem, který šifruje svou síťovou komunikaci, jako je tomu u Tor nebo P2P Transport V2.
 
-Takto špehovací uzly mohou potenciálně vystopovat transakci zpět k uzlu, který zahájil fázi chmýří (masivní vysílání), ale tento uzel není ten, který transakci vysílal jako první, protože ji přijal od posledního uzlu ve fázi stonku. Pokud špehovací uzly nemohou vystopovat cestu zpět po stonku, nemohou také identifikovat zdrojový uzel.
-
-![BTC204](assets/notext/65/06.webp)
-I přítomnost špehovacích uzlů během stonkové fáze vždy zanechává pochybnosti, protože jakmile narazí na poctivý uzel v grafu šíření, špehové nemohou určit, zda je tento uzel původním zdrojem nebo pouze prostředníkem.
-![BTC204](assets/notext/65/07.webp)
-Tato metoda směrování ztěžuje sledování cesty k zdrojovému uzlu, což znesnadňuje vystopování transakce v síti zpět k jejímu původu. Dandelion tak zlepšuje soukromí tím, že omezuje schopnost protivníků deanonymizovat síť. Tato metoda je ještě účinnější, když transakce během fáze "stem" projde uzlem, který šifruje svou síťovou komunikaci, jako je Tor nebo P2P Transport V2.
-BIP156 nebyl integrován do Bitcoin Core a je v současné době klasifikován pod stavem "odmítnuto". Jedním z hlavních problémů tohoto protokolu je skutečnost, že během fáze stem musí být transakce předávány prostřednictvím intermediárních uzlů před ověřením. Jak jsme viděli, v normálním modelu Bitcoinu každý uzel nejprve ověří transakci před jejím šířením mezi své partnery. Pokud transakce nesplňuje pravidla konsensu nebo lokální standardizační pravidla uzlu, ignoruje ji a nešíří dále. Tento proces je důležitý pro boj proti DoS útokům, protože jsou šířeny pouze platné transakce do celé sítě. Neplatné transakce, potenciálně generované hromadně za účelem přetížení sítě, jsou zastaveny u prvního narazího uzlu a nedostanou se dále. Hlavním rizikem s Dandelionem je, že tento nový protokol by mohl představovat nové vektory pro DoS útoky tím, že umožní šíření neplatných transakcí částí sítě.
+BIP156 nebyl integrován do jádra bitcoinu a v současné době je klasifikován jako "zamítnutý" Hlavní obavy ohledně tohoto protokolu spočívají v tom, že během kmenové fáze musí být transakce před verifikací předány zprostředkujícími uzly. Jak jsme viděli, v běžném modelu Bitcoinu každý uzel nejprve transakci ověří a teprve poté ji předá svým kolegům. Pokud transakce nesplňuje pravidla konsensu nebo lokální standardizace uzlu, je ignorována a není předána. Tento proces je důležitý pro zmaření DoS útoků, protože do celé sítě jsou předávány pouze platné transakce. Neplatné transakce, potenciálně hromadně generované za účelem přetížení sítě, jsou zastaveny v prvním uzlu, na který narazí, a dále se nešíří. Hlavním rizikem protokolu Dandelion je, že by tento nový protokol mohl zavést nové vektory pro útoky DoS tím, že by umožnil přenos neplatných transakcí přes část sítě.
 
 ### P2P Transport V2
 
-P2P Transport V2 je další síťový protokol prezentovaný v BIP324. Jedná se o novou verzi protokolu pro P2P transport Bitcoinu, která zahrnuje příležitostné šifrování pro zlepšení důvěrnosti a bezpečnosti komunikace mezi uzly.
+P2P Transport V2 je další síťový protokol představený v BIP324. Jedná se o novou verzi transportního protokolu P2P Bitcoinu, která obsahuje oportunistickou kryptografii pro zlepšení důvěrnosti a bezpečnosti komunikace mezi uzly.
 
-Toto vylepšení si klade za cíl vyřešit několik problémů s základní verzí P2P protokolu. Na jedné straně činí vyměňovaná data nerozeznatelná od jiných typů dat, která kolují na internetu pro pasivního pozorovatele. Hlavním cílem je zabránit vládám, poskytovatelům internetových služeb nebo poskytovatelům VPN v masivním sledování uživatelů Bitcoinu. To také komplikuje úkol pro tyto entity určit, zda je internetový uživatel také uživatelem Bitcoinu, tedy zda provozuje plný uzel.
-P2P V2 také přispívá ke snížení rizik cenzury a útoků prostřednictvím detekce specifických vzorů v datových paketech. Komplikuje a činí provedení různých typů Sybil útoků nákladnějšími na úrovni sítě. Sybil útok nastává, když aktér vytvoří více falešných identit, aby získal neoprávněnou výhodu. V kontextu Bitcoinové sítě se to často projevuje jako aktér ovládající velké množství plných uzlů a agresivně je využívající k násobení spojení. Sybil útoky mohou být pasivní, s cílem shromažďovat informace a kompromitovat důvěrnost uživatele, nebo aktivní, ve formě Eclipse útoků. Ty izolují specifický uzel od zbytku sítě, což umožňuje buď cenzurovat uživatele, nebo upravit data, která přijímají. Nakonec P2P V2 také činí _Man-In-The-Middle_ (MITM) útoky nákladnějšími a snadněji detekovatelnými.
-Šifrování implementované P2P V2 nezahrnuje autentizaci, aby se nepřidávala zbytečná složitost a nekompromitovala bezpovolenost připojení k síti. Tento nový P2P transportní protokol přesto nabízí lepší bezpečnost proti pasivním útokům a činí aktivní útoky výrazně nákladnějšími a detekovatelnými. Zavedení pseudonáhodného datového proudu v síťových zprávách komplikuje úkol pro útočníky, kteří si přejí cenzurovat nebo manipulovat s komunikací.
+Cílem tohoto vylepšení je vyřešit několik problémů základní verze protokolu P2P. Zaprvé činí vyměňovaná data pro pasivního pozorovatele nerozeznatelnými od jiných typů dat kolujících po internetu. Hlavním cílem je zabránit vládám, poskytovatelům internetových služeb nebo poskytovatelům VPN v masivním sledování uživatelů Bitcoinu. Těmto subjektům to také komplikuje úkol zjistit, zda je uživatel internetu zároveň uživatelem Bitcoinu, tj. zda provozuje plnohodnotný uzel.
 
-P2P V2 transport byl zahrnut jako volba (ve výchozím nastavení zakázáno) ve verzi 26.0 Bitcoin Core, nasazené v prosinci 2023. Poté byl ve výchozím nastavení povolen ve verzi 27.0 v dubnu 2024. Lze jej upravit s možností `v2transport=` v konfiguračním souboru.
+P2P V2 také pomáhá snižovat rizika cenzury a útoků tím, že detekuje specifické vzory v datových paketech. To komplikuje a prodražuje provádění různých typů Sybilových útoků na úrovni sítě. K útoku Sybil dochází, když aktér vytvoří více falešných identit, aby získal neoprávněnou výhodu. V kontextu sítě Bitcoin se to často projevuje tak, že aktér ovládá velký počet kompletních uzlů a agresivně je využívá k násobení spojení. Sybilovy útoky mohou být pasivní, jejichž cílem je shromažďovat informace a ohrozit důvěrnost uživatelů, nebo aktivní, v podobě útoků typu Eclipse. Ty izolují konkrétní uzel od zbytku sítě a umožňují mu cenzurovat uživatele nebo měnit přijímaná data. V neposlední řadě P2P V2 zdražuje a usnadňuje odhalování útoků _Man-In-The-Middle_ (MITM).
+
+Šifrování implementované P2P V2 nezahrnuje ověřování, aby nepřidávalo zbytečnou složitost a neohrožovalo bezpříznakovou povahu síťového připojení. Tento nový transportní protokol P2P však poskytuje lepší zabezpečení proti pasivním útokům a výrazně prodražuje a znemožňuje odhalení aktivních útoků. Zavedení pseudonáhodného datového toku do síťových zpráv komplikuje úlohu útočníkům, kteří chtějí cenzurovat nebo manipulovat s komunikací.
+
+Transport P2P V2 byl zahrnut jako volitelná možnost (ve výchozím nastavení vypnutá) do verze 26.0 jádra bitcoinu, která byla nasazena v prosinci 2023. Ve výchozím nastavení pak byl povolen ve verzi 27.0 v dubnu 2024. Lze ji změnit pomocí volby `v2transport=` v konfiguračním souboru.
 
 ### Tor
 
-Dalším poměrně jednoduchým řešením, jak se vyhnout rizikům ztráty důvěrnosti pro uzel na úrovni sítě, je provozovat jej úplně pod Tor.
-Tor je síť překládacích serverů (uzlů), která anonymizuje původ TCP spojení na internetu. Funguje tak, že data obalí do několika vrstev šifrování. Každý překládací uzel odstraní jednu vrstvu, aby odhalil adresu dalšího uzlu, až dosáhne konečného cíle. Síť Tor zajišťuje anonymitu tím, že brání mezilehlým uzlům v poznání jak původu, tak cíle dat, což velmi ztěžuje pozorovateli sledování aktivity uživatele.
+Poměrně jednoduchým řešením, jak se vyhnout riziku ztráty důvěrnosti pro uzel na úrovni sítě, je spustit jej celý pod Tor. Tor je síť relay serverů (uzlů), která anonymizuje původ TCP spojení přes internet. Funguje tak, že data zapouzdřuje do několika vrstev šifrování. Každý relay uzel odstraní jednu vrstvu, aby odhalil adresu dalšího uzlu, dokud není dosaženo konečného cíle. Síť Tor zajišťuje anonymitu tím, že zprostředkujícím uzlům znemožňuje znát původ i cíl dat, což pozorovateli velmi ztěžuje sledování činnosti uživatele.
 
-![BTC204](assets/notext/65/08.webp)
-Tor tedy nejenže šifruje komunikovaná data, ale také umožňuje maskování původu a cíle komunikace. Používáním Toru pro komunikaci osobního uzlu zvyšujeme soukromí našich transakcí: poskytovatel internetových služeb (ISP) nemůže dešifrovat komunikaci a ostatní uzly v síti Bitcoin nemohou identifikovat IP adresu zdrojového uzlu. Navíc Tor také skrývá vaše používání Bitcoinu před vaším ISP.
+Tor tedy nejen šifruje komunikovaná data, ale také umožňuje maskovat původ a cíl komunikace. Používáním Toru pro komunikaci s osobními uzly zlepšujeme soukromí našich transakcí: poskytovatel internetových služeb (ISP) nemůže komunikaci dešifrovat a ostatní uzly v síti Bitcoin nemohou identifikovat IP adresu zdrojového uzlu. Kromě toho Tor také skrývá používání Bitcoinu před poskytovatelem internetového připojení.
 
-Hlavním rizikem spojeným s touto metodou je, že Tor je protokol nezávislý na Bitcoinu. Pokud máte Bitcoin uzel pod Tor a Tor přestane fungovat, váš Bitcoin uzel již nebude moci komunikovat.
+Hlavní riziko spojené s touto metodou spočívá v tom, že Tor je protokol nezávislý na Bitcoinu. Pokud máte uzel Bitcoinu pod protokolem Tor a Tor přestane fungovat, váš uzel Bitcoinu již nebude schopen komunikovat.
 
-Je také důležité poznamenat, že komunikace přes Tor je pomalejší. Toto zpoždění je zvláště obtížné během počátečního spuštění uzlu, protože počáteční stahování bloků (IBD) vyžaduje mnoho komunikace. V důsledku toho by vaše počáteční synchronizace se sítí Bitcoin mohla být použitím Toru výrazně delší. Je také možné provést IBD na clearnetu a poté aktivovat Tor. Ačkoli tato metoda odhaluje existenci vašeho Bitcoin uzlu vašemu ISP, chrání informace související s vašimi osobními transakcemi, jakmile přepnete na Tor.
+Je také důležité si uvědomit, že komunikace v síti Tor je pomalejší. Tato latence je nepříjemná zejména při počátečním spuštění uzlu, protože stahování počátečních bloků (IBD) vyžaduje hodně komunikace. V důsledku toho může být počáteční synchronizace se sítí Bitcoin při použití Toru výrazně delší. Je také možné provést IBD v otevřené síti a aktivovat Tor později. Tato metoda sice prozradí vašemu poskytovateli internetových služeb existenci vašeho uzlu Bitcoin, ale po přepnutí na Tor chrání vaše osobní informace o transakcích.
 
-Po prozkoumání různých metod ochrany soukromí na úrovni sítě chci v nadcházejících kapitolách také představit dvě elegantní řešení, jak se vyhnout opakovanému použití adres: BIP47 a Silent Payments.
+Poté, co jsem prozkoumal různé metody ochrany soukromí na síťové úrovni, chci v dalších kapitolách představit dvě elegantní řešení, jak zabránit opakovanému použití adres: BIP47 a tiché platby.
 
 ## BIP47 a opakovaně použitelné platební kódy
 
 <chapterId>ad88e076-a04b-4aec-b3b2-7b4760175504</chapterId>
 
-Jak jsme viděli v části 3, opakované použití adresy představuje vážnou překážku pro soukromí uživatele v protokolu Bitcoin. Aby se tyto rizika zmírnily, je silně doporučeno generovat pro každou novou přijatou platbu novou přijímací adresu v peněžence. Ačkoli generování nové adresy je dnes zjednodušeno použitím moderního softwaru a hierarchicky deterministických peněženek, tato praxe se může zdát protiintuitivní.
+Jak jsme viděli v části 3, opakované použití adres je vážnou překážkou pro soukromí uživatelů v protokolu Bitcoin. Pro zmírnění těchto rizik se důrazně doporučuje generovat novou přijímací adresu pro každou novou platbu přijatou do peněženky. Ačkoli je dnes generování nové adresy zjednodušeno používáním moderního softwaru a hierarchických deterministických peněženek, může se tento postup zdát neintuitivní.
 
-![BTC204](assets/notext/66/1.webp)
+V tradičním bankovním systému jsme například zvyklí sdílet svůj IBAN, který zůstává stále stejný. Jakmile ho někomu sdělíme, může nám poslat více plateb, aniž by s námi musel znovu komunikovat. Neobanky nabízejí i modernější možnosti, jako je používání unikátních e-mailových adres u služby PayPal nebo RevTags u služby Revolut. I mimo finanční oblast jsou naše každodenní identifikátory, jako je poštovní adresa, telefonní číslo a e-mailová adresa, jedinečné a trvalé. Nemusíme je obnovovat při každé nové interakci.
 
-V tradičním bankovním systému jsme například zvyklí sdílet náš IBAN, který zůstává stále stejný. Jakmile jej někomu sdělíme, mohou nám poslat více plateb, aniž by s námi museli znovu komunikovat. Neo-banky také nabízejí modernější možnosti, jako je použití jedinečných e-mailových adres na PayPal nebo RevTags na Revolut. I mimo finanční oblast jsou naše každodenní identifikátory, jako je naše poštovní adresa, telefonní číslo a e-mailová adresa, také jedinečné a trvalé. Nemusíme je obnovovat při každé nové interakci.
+Bitcoin však funguje jinak: pro každou příchozí transakci je nutné vygenerovat novou přijímací adresu. Tento kompromis mezi snadností použití a soukromím sahá až k samotným počátkům bílé knihy Bitcoinu. Již od zveřejnění první verze svého dokumentu na konci roku 2008 nás Satoshi Nakamoto na toto riziko upozorňoval:
 
-![BTC204](assets/notext/66/2.webp)
-Nicméně, provoz Bitcoinu je odlišný: je nezbytné generovat novou přijímací adresu pro každou příchozí transakci. Tento kompromis mezi snadností použití a soukromím sahá až k samotnému počátku Bílé knihy Bitcoinu. Od publikace první verze jeho dokumentu na konci roku 2008 nás Satoshi Nakamoto již varoval před tímto rizikem:
-**"_Jako dodatečný firewall by mohl být pro každou transakci použit nový pár klíčů, aby byly udrženy nevázané na společného vlastníka._"**
-Existuje mnoho metod pro přijímání více plateb na jediný identifikátor bez způsobení opětovného použití adresy. Každá z nich má své kompromisy a nevýhody. Mezi tyto metody patří BIP47, návrh vyvinutý Justusem Ranvierem a publikovaný v roce 2015. Tento návrh si klade za cíl vytvořit opakovaně použitelné platební kódy, které umožňují více transakcí téže osobě při vyhnutí se opětovnému použití adresy. V podstatě BIP47 usiluje o nabídnutí platebního systému stejně intuitivního jako unikátní identifikátor, přičemž zachovává soukromí transakcí.
-![BTC204](assets/notext/66/3.webp)
+**"_Jako další firewall by se pro každou transakci mohl použít nový pár klíčů, aby nebyly spojeny se společným vlastníkem._"**
 
-BIP47 přímo nezlepšuje soukromí uživatele, protože platební transakce BIP47 nabízí stejnou úroveň soukromí jako klasická Bitcoinová transakce s použitím nových adres. Nicméně, činí používání Bitcoinu pohodlnějším a intuitivnějším, což by normálně mělo soukromí ohrozit. Díky BIP47 dosahuje tato pohodlnost použití stejné úrovně soukromí jako klasická transakce. To je důvod, proč je BIP47 cenným nástrojem pro zachování soukromí.
+Existuje řada metod, jak přijímat více plateb na jeden identifikátor, aniž by došlo k opakovanému použití adresy. Každá z těchto metod má své vlastní kompromisy a nevýhody. Mezi tyto metody patří BIP47, návrh vyvinutý Justusem Ranvierem a zveřejněný v roce 2015. Cílem tohoto návrhu je vytvořit opakovaně použitelné platební kódy, které umožňují více transakcí stejné osobě a zároveň zabraňují opakovanému použití adresy. BIP47 se v podstatě snaží nabídnout intuitivní platební systém jako jedinečný identifikátor a zároveň zachovat soukromí transakcí.
 
-Původně byl BIP47 návrh formulovaný pro integraci do Bitcoin Core, ale nikdy nebyl přijat. Některé softwary se přesto rozhodly implementovat jej na vlastní pěst na úrovni aplikace. Týmy v Samourai Wallet tak vyvinuly vlastní implementaci BIP47 nazvanou "PayNym".
+![BTC204](assets/fr/212.webp)
 
-### Obecný princip BIP47 a PayNym
+BIP47 přímo nezlepšuje soukromí uživatelů, protože platba BIP47 nabízí stejnou úroveň soukromí jako klasická transakce Bitcoin s použitím nových adres. Umožňuje však pohodlnější a intuitivnější používání Bitcoinu, což je snadnost, která by za normálních okolností musela ohrozit soukromí. Díky BIP47 dosahuje toto snadné používání stejné úrovně soukromí jako klasická transakce. Proto je BIP47 cenným nástrojem pro zachování soukromí.
 
-Cílem BIP47 je umožnit přijímání mnoha plateb bez způsobení opětovného použití adresy. Spoléhá na použití opakovaně použitelného platebního kódu, který umožňuje různým odesílatelům posílat více plateb na jediný kód patřící jinému uživateli. Příjemce tak nemusí pro každou transakci poskytovat novou čerstvou adresu, což výrazně usnadňuje jejich výměny při zachování jejich soukromí.
+Původně byl BIP47 návrhem, který měl být integrován do jádra Bitcoinu, ale nikdy nebyl přijat. Některý software se však rozhodl implementovat jej nezávisle na aplikační úrovni. Týmy peněženky Samourai tak vyvinuly vlastní implementaci BIP47 nazvanou "PayNym"
 
-![BTC204](assets/cs/66/4.webp)
+### Obecná zásada BIP47 a PayNym
 
-Uživatel může tedy svůj platební kód sdílet volně, ať už na sociálních sítích nebo na svých webových stránkách, bez rizika ztráty soukromí, na rozdíl od toho, co by se stalo s klasickou přijímací adresou nebo veřejným klíčem.
-Pro provedení transakce musí obě strany mít Bitcoinovou peněženku s implementací BIP47, jako je PayNym na Samourai Wallet nebo Sparrow Wallet. Společné použití jejich platebních kódů vytváří mezi nimi tajný kanál. Pro efektivní zřízení tohoto kanálu musí odesílatel provést specifickou transakci na Bitcoinovém blockchainu, známou jako "notifikační transakce" (více informací o tomto později).
+Cílem BIP47 je umožnit přijímání četných plateb, aniž by došlo k opakovanému použití adresy. Je založen na použití opakovaně použitelného platebního kódu, který umožňuje různým odesílatelům odeslat více plateb na jeden kód patřící jinému uživateli. Příjemce tak nemusí pro každou transakci uvádět novou adresu, což výrazně usnadňuje jejich výměnu a zároveň zachovává jejich soukromí.
 
-Kombinace platebních kódů obou uživatelů generuje sdílená tajemství, která zase umožňují vytvoření velkého počtu unikátních Bitcoinových přijímacích adres (přesně 2^32, nebo asi 4 miliardy). Platby provedené prostřednictvím BIP47 tedy nejsou ve skutečnosti adresovány samotnému platebnímu kódu, ale spíše klasickým přijímacím adresám odvozeným z platebních kódů zúčastněných uživatelů.
+![BTC204](assets/it/66/4.webp)
 
-Platební kód tak slouží jako virtuální identifikátor odvozený ze seedu peněženky. V hierarchické struktuře odvození peněženky je platební kód umístěn na úrovni 3, tj. na úrovni účtu.
+Uživatel pak může svůj platební kód volně sdílet na sociálních sítích nebo na svých webových stránkách, aniž by riskoval ztrátu soukromí, na rozdíl od klasické přijímací adresy nebo veřejného klíče.
 
-![BTC204](assets/cs/66/5.webp)
+K provedení transakce musí mít obě strany peněženku Bitcoin s implementací BIP47, například PayNym na Samourai Wallet nebo Sparrow Wallet. Společné použití jejich platebních kódů mezi nimi vytvoří tajný kanál. Aby se tento kanál efektivně vytvořil, musí odesílatel provést specifickou transakci v bitcoinovém blockchainu, známou jako "notifikační transakce" (podrobněji se jí budu věnovat později).
 
-Cíl odvození pro BIP47 je identifikován indexem `47'` (`0x8000002F`), odkazujícím na BIP47. Příklad cesty odvození pro opakovaně použitelný platební kód by byl následující:
+Kombinace platebních kódů obou uživatelů vytváří sdílené tajemství, které následně umožňuje vytvoření velkého počtu jedinečných adres pro příjem bitcoinů (přesně 2^32, tedy asi 4 miliardy). Platby prováděné prostřednictvím BIP47 tedy ve skutečnosti nejsou adresovány na samotný platební kód, ale na klasické přijímací adresy odvozené z platebních kódů zúčastněných uživatelů.
+
+Platební kód pak slouží jako virtuální identifikátor odvozený od seedu peněženky. V hierarchické odvozovací struktuře portfolia je platební kód umístěn na úrovni 3, tj. na úrovni účtu.
+
+![BTC204](assets/it/66/5.webp)
+
+Cíl odvození pro BIP47 je identifikován indexem `47` (`0x8000002F`), který odkazuje na BIP47. Příklad odvozovací cesty pro opakovaně použitelný platební kód je následující:
 
 ```plaintext
 m/47'/0'/0'/
 ```
 
-Abyste si udělali představu, jak vypadá platební kód, zde je ten můj:
+Abyste si mohli udělat představu o tom, jak vypadá kód platby, zde je můj kód:
 
-````plaintext
-Tento kód lze také zakódovat do QR kódu, aby se usnadnila jeho komunikace, stejně jako klasická přijímací adresa.
+```plaintext
+M8TJSBiQmNQDwTogMAbyqJe2PE2kQXjtgh88MRTxsrnHC8zpEtJ8j7Aj628oUFk8X6P5rJ7P5qDudE4Hwq9JXSRzGcZJbdJAjM9oVQ1UKU5j2nr7VR5
+```
 
-Pokud jde o PayNym Boty, tyto roboty, které jsou někdy vidět na Twitteru, jsou vizuální reprezentace platebního kódu, vytvořené peněženkou Samourai. Jsou generovány pomocí hashovací funkce, což jim dává téměř unikátnost. Objvují se ve formě malého řetězce znaků začínajícího na `+`:
+Tento kód lze také zakódovat do QR kódu pro snadnou komunikaci, stejně jako klasickou přijímací adresu.
+
+Pokud jde o PayNym Bots, tito roboti, kteří se někdy objevují na Twitteru, jsou vizuální reprezentací platebního kódu vytvořeného společností Samourai Wallet. Jsou generovány pomocí hashovací funkce, která jim dodává téměř jedinečnost. Zobrazují se jako malý řetězec znaků začínající na `+`:
+
 ```plaintext
 +throbbingpond8B1
 +twilightresonance487
 +billowingfire340
-````
-
-Tyto avatary mohou být také reprezentovány ve formě obrázků:
-
-![BTC204](assets/notext/66/6.webp)
-
-Ačkoliv tyto roboty nemají v rámci BIP47 specifickou technickou funkcionalitu, hrají roli ve zjednodušení interakcí mezi uživateli tím, že nabízejí snadno rozpoznatelnou vizuální identitu.
-
-
----
-*V následujících částech této kapitoly věnované BIP47 podrobně prozkoumáme jeho fungování, přičemž se zaměříme zejména na použité kryptografické metody. Abychom tyto poněkud technické vysvětlení plně pochopili, je důležité nejprve porozumět struktuře HD peněženek, procesům odvození klíčů a základním principům kryptografie založené na eliptických křivkách. Pokud si přejete tyto koncepty prohloubit, na Plan ₿ Network je k dispozici další bezplatné školení:*
-
-https://planb.network/courses/cyp201
-
-*Doporučuji je absolvovat, protože pochopením technického fungování BIP47 snáze porozumíte dalším podobným návrhům, o kterých budeme hovořit v následujících kapitolách.*
-
----
-
-
-### Opakovaně použitelný platební kód
-
-Jak bylo zmíněno dříve, opakovaně použitelný platební kód se nachází na hloubce 3 HD peněženky, což jej činí srovnatelným s `xpub`, jak v jeho pozici ve struktuře peněženky, tak v jeho roli.
-
-80bajtový platební kód se rozkládá následovně:
-
-- **Byte `0`: Verze**. Pro první verzi BIP47 je tento byte nastaven na `0x01`;
-- **Byte `1`: Bitové pole**. Tento prostor je vyhrazen pro integraci dodatečných indikací při specifickém použití. Pro standardní použití s PayNym je tento byte definován jako `0x00`;
-- **Byte `2`: Parita `y`**. Tento byte je `0x02` nebo `0x03`, což indikuje, zda je ordináta veřejného klíče sudá nebo lichá, protože se používá komprimovaný veřejný klíč;
-- **Od bytu `3` do bytu `34`: Hodnota `x`**. Tyto byty reprezentují souřadnici x veřejného klíče. Konkatenace `x` a parity `y` tvoří kompletní komprimovaný veřejný klíč;
-- **Od bytu `35` do bytu `66`: Řetězec kódů**. Tento prostor obsahuje řetězec kódů spojený s veřejným klíčem;
-- **Od bytu `67` do bytu `79`: Výplň**. Tento prostor je určen pro možné budoucí vývoje. Pro současnou verzi jsou zde jednoduše umístěny nuly, aby se dosáhlo požadované velikosti 80 bajtů pro výstup `OP_RETURN`.
-
-Zde je hexadecimální reprezentace mého opakovaně použitelného platebního kódu již prezentovaná v předchozí sekci:
-
-```plaintext
-
 ```
 
-Nejprve je také nutné přidat na začátek prefixový bajt `P`, aby bylo jasně indikováno, že se jedná o platební kód. Tento bajt je reprezentován jako `0x47`:
+Tyto avatary lze také znázornit jako obrázky:
+
+![BTC204](assets/fr/215.webp)
+
+Ačkoli tito roboti nemají v rámci BIP47 specifickou technickou funkci, hrají roli při usnadňování interakce mezi uživateli tím, že nabízejí snadno rozpoznatelnou vizuální identitu.
+
+---
+*V následujících částech této kapitoly věnovaných protokolu BIP47 se budeme podrobně zabývat jeho fungováním a zaměříme se zejména na použité kryptografické metody. Pro úplné pochopení těchto spíše technických výkladů je nejprve nezbytné porozumět struktuře peněženek HD, procesům odvozování klíčů a základním principům kryptografie založené na eliptických křivkách. Pokud se chcete o těchto pojmech dozvědět více, je k dispozici další bezplatný kurz sítě Plan ₿:*
+
+https://planb.network/courses/cyp201
+*Vřele vám doporučuji, abyste se jím řídili, protože pochopení technického fungování BIP47 vám pomůže mnohem lépe porozumět dalším podobným návrhům, které budeme probírat v následujících kapitolách.*
+
+---
+### Opakovaně použitelný platební kód
+
+Jak již bylo zmíněno, opakovaně použitelný platební kód se nachází na 3. úrovni peněženky HD, takže je srovnatelný s `xpubem`, a to jak svou pozicí ve struktuře peněženky, tak svou rolí.
+
+80bajtový kód platby je rozdělen takto:
+
+
+- Byte `0`: Verze**. Pro první verzi BIP47 je tento bajt nastaven na `0x01`;
+- Byte `1`: Bitové pole**. Tento prostor je vyhrazen pro vložení dalších údajů při specifickém použití. Pro standardní použití s PayNym je tento bajt definován jako `0x00`;
+- Byte `2`: Parita `y`**. Tento bajt je `0x02` nebo `0x03`, což udává, zda je pořadí veřejného klíče sudé nebo liché, protože se používá komprimovaný veřejný klíč;
+- Od bajtu `3` do bajtu `34`: Hodnota `x`**. Tyto bajty představují absenci veřejného klíče. Konkatenace `x` a parity `y` tvoří kompletní komprimovaný veřejný klíč;
+- Od bajtu `35` do bajtu `66`: Řetězový kód**. Tento prostor obsahuje řetězový kód spojený s veřejným klíčem;
+- Od bajtu `67` do bajtu `79`: Plnění**. Tento prostor je určen pro možný budoucí vývoj. V současné verzi jsou zde jednoduše umístěny nuly, aby bylo dosaženo velikosti 80 bajtů požadované pro výstup `OP_RETURN`.
+
+Zde je hexadecimální reprezentace mého opakovaně použitelného platebního kódu, který jsem již uvedl v předchozí části:
+
+```plaintext
+0x010002a0716529bae6b36c5c9aa518a52f9c828b46ad8d907747f0d09dcd4d9a39e97c3c5f37c470c390d842f364086362f6122f412e2b0c7e7fc6e32287e364a7a36a00000000000000000000000000
+```
+
+![BTC204](assets/it/66/7.webp)
+
+Především je nutné přidat na začátek předponu `P`, aby bylo zřejmé, že se jedná o kód platby. Tento bajt je reprezentován znakem `0x47`:
 
 ```plaintext
 0x47010002a0716529bae6b36c5c9aa518a52f9c828b46ad8d907747f0d09dcd4d9a39e97c3c5f37c470c390d842f364086362f6122f412e2b0c7e7fc6e32287e364a7a36a00000000000000000000000000
 ```
 
-Nakonec, aby byla zajištěna integrita platebního kódu, provádí se výpočet kontrolního součtu pomocí `HASH256`, který se skládá z dvojitého hašování funkcí `SHA256`. První čtyři bajty vzniklé z tohoto haše jsou poté konkatenovány na konec platebního kódu:
+Nakonec se pro zajištění integrity platebního kódu provede výpočet kontrolního součtu pomocí funkce `HASH256`, která spočívá v dvojitém hašování pomocí funkce `SHA256`. První čtyři bajty, které jsou výsledkem tohoto hashování, se pak spojí na konci platebního kódu:
 
 ```plaintext
 0x47010002a0716529bae6b36c5c9aa518a52f9c828b46ad8d907747f0d09dcd4d9a39e97c3c5f37c470c390d842f364086362f6122f412e2b0c7e7fc6e32287e364a7a36a00000000000000000000000000567080c4
 ```
 
-Jakmile jsou tyto kroky dokončeny, platební kód je připraven. Jediné, co zbývá, je převést jej do base 58, aby byla získána jeho konečná verze:
+Po dokončení těchto kroků je platební kód připraven. Jediným zbývajícím krokem je jeho převod do základu 58, abyste získali jeho konečnou verzi:
 
 ```plaintext
 PM8TJSBiQmNQDwTogMAbyqJe2PE2kQXjtgh88MRTxsrnHC8zpEtJ8j7Aj628oUFk8X6P5rJ7P5qDudE4Hwq9JXSRzGcZJbdJAjM9oVQ1UKU5j2nr7VR5
 ```
 
-Během tohoto procesu vytváření platebního kódu používáme komprimovaný veřejný klíč a řetězový kód. Oba jsou odvozeny z deterministické a hierarchické derivace ze seedu peněženky. Cesta derivace použitá k dosažení tohoto je:
+Během tohoto procesu vytváření platebního kódu používáme komprimovaný veřejný klíč a řetězový kód. Oba jsou odvozeny deterministickou a hierarchickou derivací ze semínka peněženky. Odvozovací cesta, která se k tomu používá, je následující:
 
 ```plaintext
 m/47'/0'/0'/
 ```
 
-Pro generování komprimovaného veřejného klíče a přidruženého řetězového kódu pro opakovaně použitelný platební kód začínáme výpočtem hlavního soukromého klíče ze seedu peněženky. Poté pokračujeme derivací páru dětských klíčů pomocí indexu `47 + 2^31` (pevná derivace). Tento krok je následován dalšími dvěma postupnými derivacemi dětských párů, každý s použitím indexu `2^31` (pevná derivace).
+Při generování komprimovaného veřejného klíče a přidruženého řetězového kódu pro opakovaně použitelný platební kód začneme výpočtem hlavního soukromého klíče ze seedu peněženky. Poté přejdeme k odvození dvojice dceřiných klíčů pomocí indexu `47 + 2^31` (zesílená derivace). Po tomto kroku následují další dvě po sobě jdoucí odvození dvojic dceřiných klíčů, vždy s použitím indexu `2^31` (zesílené odvození).
 
-### Výměna klíčů Elliptic-Curve Diffie-Hellman (ECDH)
+### Výměna klíčů s eliptickou křivkou Diffie-Hellman (ECDH)
 
-Kryptografický protokol v srdci BIP47 je označován akronymem ECDH, pro _Elliptic-Curve Diffie-Hellman_. Tato metoda je variantou původního výměnného klíče Diffie-Hellman.
-Zavedený v roce 1976, Diffie-Hellman je protokol pro dohodu o klíči, který umožňuje dvěma stranám, každé vybavené párem klíčů (veřejný a soukromý), dohodnout se na společném tajemství, i když komunikují pouze přes veřejný a nezabezpečený kanál.
+Kryptografický protokol, který je základem protokolu BIP47, se označuje zkratkou ECDH, což znamená _Elliptic-Curve Diffie-Hellman_. Tato metoda je variantou původní Diffie-Hellmanovy výměny klíčů.
 
-![BTC204](assets/cs/66/10.webp)
+Diffie-Hellmanův protokol byl představen v roce 1976 a umožňuje dvěma stranám, z nichž každá je vybavena párem klíčů (veřejným a soukromým), dohodnout se na společném tajemství, i když komunikují výhradně veřejným, nezabezpečeným kanálem.
 
-Toto společné tajemství (zde modrý klíč) lze poté použít pro další operace. Typicky lze toto sdílené tajemství použít k šifrování a dešifrování komunikace přes nezabezpečenou síť:
+![BTC204](assets/it/66/10.webp)
 
-![BTC204](assets/notext/66/11.webp)
+Toto sdílené tajemství (zde modrý klíč) lze pak použít pro další operace. Typicky lze toto sdílené tajemství použít k šifrování a dešifrování komunikace v nezabezpečené síti:
 
-Pro dosažení této výměny používá Diffie-Hellman modulární aritmetiku k výpočtu sdíleného tajemství. Zde je zjednodušené vysvětlení, jak to funguje:
+![BTC204](assets/fr/220.webp)
 
-- Alice a Bob se dohodnou na společné barvě, zde žluté, která představuje veřejná data (útočníci znají tuto barvu);
-- Alice si vybere tajnou barvu, zde červenou, a smíchá obě, aby získala oranžovou;
+Diffie-Hellman používá k výpočtu sdíleného tajemství modulární aritmetiku. Zde je zjednodušené vysvětlení, jak to funguje:
+
+
+- Alice a Bob se dohodnou na společné barvě, zde žluté, která představuje veřejný údaj (útočníci tuto barvu znají);
+- Alice si vybere tajnou barvu, zde červenou, a smíchá je, aby získala oranžovou;
 - Bob si také vybere tajnou barvu, zde modrou, a smíchá ji se žlutou, aby získal zelenou;
-- Poté si vymění získané barvy, oranžovou a zelenou. Tato výměna může proběhnout přes nezabezpečenou a sledovanou síť;
-- Smícháním Bobovy zelené se svou vlastní tajnou barvou Alice vytvoří hnědou;
-- Bob, dělající totéž s Alicinou oranžovou a jeho tajnou modrou, také získá hnědou.
+- Poté si vymění získané barvy, oranžovou a zelenou. Tato výměna může probíhat v nezabezpečené, pozorované síti;
+- Smícháním Bobovy zelené barvy s jeho tajnou barvou získá Alice hnědou;
+- Bob, který udělá totéž s Alicinou oranžovou a její tajnou modrou, získá také hnědou.
 
-![BTC204](assets/cs/66/12.webp)
+![BTC204](assets/it/66/12.webp)
 
-V této zjednodušení hnědá barva představuje sdílené tajemství mezi Alicí a Bobem. Je důležité pochopit, že ve skutečnosti je pro útočníka nemožné oddělit oranžovou a zelenou barvu, aby objevil tajné barvy Alice nebo Boba.
+V tomto zjednodušení představuje hnědá barva tajemství sdílené mezi Alicí a Bobem. Je důležité si uvědomit, že ve skutečnosti je pro útočníka nemožné oddělit oranžovou a zelenou barvu a zjistit tak tajné barvy Alice nebo Boba.
 
-Nyní se podívejme, jak tento protokol skutečně funguje, ne s analogiemi barev, ale s použitím skutečných čísel a modulární aritmetiky!
-Než začneme diskutovat o mechanismech Diffie-Hellman, dovolte mi stručně vás připomenout dvě zásadní matematické koncepty, které budeme potřebovat:
+Nyní prozkoumejme, jak tento protokol ve skutečnosti funguje, a to nikoli pomocí analogií s barvami, ale pomocí reálných čísel a modulární aritmetiky!
 
-- **Prvočíslo** je přirozené číslo, které má pouze dva dělitele: $1$ a samo sebe. Například $7$ je prvočíslo, protože je dělitelné pouze $1$ a $7$. Na druhou stranu, $8$ není prvočíslo, protože je dělitelné $1$, $2$, $4$ a $8$. Má tedy čtyři kladné celočíselné dělitele místo dvou;
-- **Modulo** (označované $mod$ nebo $\%$) je matematická operace, která mezi dvěma celými čísly vrací zbytek z euklidovského dělení prvního číslem druhým. Například $16 \bmod 5 = 1$.
+Než se začneme zabývat Diffieho-Hellmanovými mechanismy, dovolte mi, abych vám stručně připomněl dva základní matematické pojmy, které budeme potřebovat:
 
-**Výměna klíčů Diffie-Hellman mezi Alicí a Bobem probíhá takto:**
 
-- Alice a Bob se dohodnou na dvou společných číslech: $p$ a $g$. $p$ je prvočíslo a čím je toto číslo větší, tím bezpečnější Diffie-Hellman bude. $g$ je primitivní kořen $p$. Tyto dvě čísla lze otevřeně komunikovat přes nezabezpečenou síť. Představují ekvivalent **žluté barvy** v předchozím zjednodušení. Je tedy důležité, aby Alice a Bob používali přesně stejné hodnoty pro $p$ a $g$.
-- Jakmile jsou tyto parametry definovány, Alice a Bob si každý vyberou tajné náhodné číslo. Alice pojmenuje své tajné náhodné číslo $a$ (ekvivalent k **červené barvě**) a Bob pojmenuje své $b$ (ekvivalent k **modré barvě**). Tyto čísla musí zůstat přísně důvěrná.
-- Místo přímé výměny čísel $a$ a $b$ každá strana vypočítá $A$ a $B$ následovně:
+- **Prvočíslo** je přirozené číslo, které má pouze dva dělitele: $1$ a sebe sama. Například $7$ je prvočíslo, protože je dělitelné pouze čísly $1$ a $7$. Na druhou stranu $8$ není prvočíslo, protože je dělitelné $1$, $2$, $4$ a $8$. Má tedy čtyři kladné celočíselné dělitele místo dvou;
+- **mod** (označovaný $mod$ nebo $\%$) je matematická operace, která mezi dvěma celými čísly vrací zbytek euklidovského dělení prvního číslem druhým. Například $16 \bmod 5 = 1$.
 
-$A$ je rovno $g$ umocněnému na $a$ modulo $p$:
+**Výměna Diffieho-Hellmanova klíče mezi Alicí a Bobem probíhá takto:**
+
+
+- Alice a Bob se dohodnou na dvou společných číslech: $p$ a $g$. $p$ je prvočíslo, a čím je toto číslo větší, tím je Diffie-Hellmanova šifra bezpečnější. $g$ je primitivní kořen $p$. Tato dvě čísla lze otevřeně komunikovat po nezabezpečené síti. Představují ekvivalent **žluté barvy** ve výše uvedeném zjednodušení. Je proto důležité, aby Alice a Bob používali přesně stejné hodnoty pro $p$ a $g$.
+
+Po definování těchto parametrů si Alice a Bob zvolí náhodné tajné číslo. Alice nazve své náhodné tajné číslo $a$ (odpovídá **červené barvě**) a Bob nazve své $b$ (odpovídá **modré barvě**). Tato čísla musí zůstat přísně tajná.
+
+Místo přímé výměny čísel $a$ a $b$ si každá strana vypočítá $A$ a $B$ takto:
+
+$A$ se rovná $g$ zvýšenému na mocninu $a$ modulo $p$:
 
 $$
-
 A = g^a \bmod p
-
-
 $$
 
-$B$ je rovno $g$ umocněnému na $b$ modulo $p$:
+$B$ se rovná $g$ zvýšenému na mocninu $b$ modulo $p$:
 
 $$
-
 B = g^b \bmod p
-
-
 $$
 
-- Hodnoty $A$ (ekvivalent k **oranžové barvě**) a $B$ (ekvivalent k **zelené barvě**) jsou mezi oběma stranami vyměněny. Tato výměna může proběhnout otevřeně přes nezabezpečenou síť;
+Mezi oběma stranami se vymění hodnoty $A$ (odpovídající **oranžové barvě**) a $B$ (odpovídající **zelené barvě**). Tato výměna může probíhat otevřeně přes nezabezpečenou síť;
 
-- Alice, která obdržela $B$, vypočítá hodnotu $z$ následovně:
+Alice po obdržení $B$ vypočítá hodnotu $z$ takto:
 
-$z$ je rovno $B$ umocněnému na $a$ modulo $p$:
+$z$ se rovná $B$ zvýšenému na mocninu $a$ modulo $p$:
 
 $$
-
 z = B^a \bmod p
-
-
 $$
 
 Připomeňme si:
 
 $$
-
 B = g^b \bmod p
-
-
 $$
 
-Tak získáme:
+Dostáváme tedy:
 
 $$
-
 z = B^a \bmod p
-
-
 $$
 
 $$
-
 z = (g^b)^a \bmod p
-
-
 $$
 
-Použitím pravidel pro exponenty:
+Použití pravidel pro exponenty:
 
 $$
-
 (x^n)^m = x^{nm}
-
-
 $$
 
-Poté získáme:
+Získáme tedy:
 
 $$
-
 z = g^{ba} \bmod p
-
-
 $$
+
 
 - Na své straně Bob, který obdržel $A$, také vypočítá hodnotu $z$ následujícím způsobem:
 
-$z$ je rovno $A$ umocněnému na $b$ modulo $p$:
+$z$ se rovná $A$ zvýšenému na mocninu $b$ modulo $p$:
 
 $$
-
 z = A^b \bmod p
-
-
 $$
 
-Tak získáme:
+Dostáváme tedy:
 
 $$
-
 z = (g^a)^b \bmod p
-
-
 $$
 
 $$
-
 z = g^{ab} \bmod p
-
-
 $$
 
 $$
-
 z = g^{ba} \bmod p
-
-
 $$
 
-Díky distributivitě operátoru modulo získají Alice a Bob přesně stejnou hodnotu $z$. Toto číslo představuje jejich společné tajemství, ekvivalentní **hnědé barvě** v předchozím zjednodušení s barvami. Nyní mohou toto společné tajemství použít k symetrickému šifrování svých komunikací přes nezabezpečenou síť.
+Díky distributivitě operátoru modulo dostanou Alice a Bob přesně stejnou hodnotu $z$. Toto číslo představuje jejich společné tajemství, ekvivalentní **hnědé barvě** v předchozím zjednodušení s hrnci s barvou. Toto společné tajemství nyní mohou použít k symetrickému šifrování své komunikace v nezabezpečené síti.
 
-![BTC204](assets/notext/66/13.webp)
+Útočník, i když bude mít k dispozici $p$, $g$, $A$ a $B$ (veřejné hodnoty), nebude schopen vypočítat $a$, $b$ nebo $z$ (soukromé hodnoty). K tomu by bylo třeba invertovat exponenciálu, což je nemožný úkol, aniž bychom postupně vyzkoušeli všechny možnosti, protože je to ekvivalentní výpočtu diskrétního logaritmu, tj. inverzní hodnoty exponenciály v konečné cyklické grupě.
 
-Útočník, i když má k dispozici $p$, $g$, $A$ a $B$ (veřejné hodnoty), nebude schopen vypočítat $a$, $b$ nebo $z$ (soukromé hodnoty). K dosažení toho by musel provést reverzní umocňování, operaci nemožnou bez postupného zkoušení všech možností, jelikož to znamená výpočet diskrétního logaritmu, tj. inverze exponenciálu v konečné cyklické skupině.
+Pokud jsou tedy hodnoty $a$, $b$ a $p$ dostatečně velké, je Diffie-Hellmanův protokol bezpečný. Typicky u 2048bitových parametrů (číslo s 600 číslicemi v desítkové soustavě) by testování všech možností pro $a$ a $b$ bylo nepraktické. K dnešnímu dni je s takovými čísly tento algoritmus považován za bezpečný.
 
-Takže pokud jsou hodnoty $a$, $b$ a $p$ dostatečně velké, je protokol Diffie-Hellman bezpečný. Typicky, s 2048-bitovými parametry (číslo s 600 číslicemi v desítkové soustavě), by testování všech možností pro $a$ a $b$ bylo nepraktické. Dodnes, s takovými čísly, je tento algoritmus považován za bezpečný.
-Právě zde leží hlavní nevýhoda protokolu Diffie-Hellman. Pro zajištění bezpečnosti musí algoritmus používat velká čísla. Proto se dnes preferuje algoritmus ECDH (_Elliptic Curve Diffie-Hellman_), varianta Diffie-Hellmana, která se opírá o algebraickou křivku, přesněji o eliptickou křivku. Tento přístup umožňuje pracovat s mnohem menšími čísly, přičemž zachovává ekvivalentní bezpečnost, a tím snižuje potřebné zdroje pro výpočet a ukládání.
+Právě v tom spočívá hlavní nevýhoda Diffie-Hellmanova protokolu. Aby byl algoritmus bezpečný, musí používat velká čísla. Proto se dnes dává přednost algoritmu ECDH (_Elliptic Curve Diffie-Hellman_), variantě Diffie-Hellmanova protokolu, která je založena na algebraické křivce, přesněji na eliptické křivce. Tento přístup umožňuje pracovat s mnohem menšími čísly při zachování rovnocenného zabezpečení, čímž se snižují prostředky potřebné pro výpočet a ukládání.
 
-Obecný princip algoritmu zůstává stejný. Nicméně, místo použití náhodného čísla $a$ a čísla $A$ vypočítaného z $a$ pomocí modulárního umocňování, používáme pár klíčů založených na eliptické křivce. Místo spoléhání na distributivitu modulo operátoru, používáme grupový zákon na eliptických křivkách, a konkrétněji asociativitu tohoto zákona.
+Obecný princip algoritmu zůstává stejný. Místo náhodného čísla $a$ a čísla $A$ vypočteného z $a$ modulární exponencí však používáme dvojici klíčů vytvořenou na eliptické křivce. Namísto spoléhání na distributivitu operátoru modulo využíváme skupinový zákon na eliptických křivkách, konkrétně asociativitu tohoto zákona.
 
-Abychom stručně vysvětlili princip kryptografie eliptických křivek, soukromý klíč je reprezentován náhodným číslem mezi $1$ a $n-1$, kde $n$ reprezentuje řád křivky. Veřejný klíč, na druhou stranu, je specifický bod na této křivce, získaný z soukromého klíče operacemi sčítání bodů a zdvojením počínaje generátorovým bodem, podle rovnice:
+Stručně vysvětlíme princip kryptografie na eliptických křivkách: soukromý klíč je reprezentován náhodným číslem v rozsahu $1$ až $n-1$, kde $n$ představuje řád křivky. Veřejný klíč je naproti tomu konkrétní bod na této křivce, získaný ze soukromého klíče operacemi sčítání a zdvojování bodů počínaje generujícím bodem podle rovnice:
 
 $$
-
 K = k \cdot G
-
-
 $$
 
-V této formuli $K$ označuje veřejný klíč, $k$ soukromý klíč a $G$ generátorový bod.
+V tomto vzorci $K$ označuje veřejný klíč, $k$ soukromý klíč a $G$ generující bod.
 
-Jednou z podstatných charakteristik těchto klíčů je snadnost výpočtu $K$ z $k$ a $G$, zatímco je prakticky nemožné najít $k$ z $K$ a $G$. Tato asymetrie vytváří jednosměrnou funkci. Jinými slovy, je snadné vypočítat veřejný klíč, pokud někdo zná soukromý klíč, ale najít soukromý klíč z veřejného klíče je nemožné. Tato bezpečnost je stále založena na výpočetní obtížnosti diskrétního logaritmu.
+Jednou z podstatných vlastností těchto klíčů je snadnost výpočtu $K$ z $k$ a $G$, zatímco najít $k$ z $K$ a $G$ je prakticky nemožné. Tato asymetrie vytváří jednosměrnou funkci. Jinými slovy, je snadné vypočítat veřejný klíč, pokud známe soukromý klíč, ale najít soukromý klíč z veřejného klíče je nemožné. Toto zabezpečení stále závisí na výpočetní náročnosti diskrétního logaritmu.
 
-Tuto vlastnost využijeme k adaptaci našeho algoritmu Diffie-Hellman. **Princip fungování ECDH je následující:**
+Tuto vlastnost využijeme k úpravě našeho Diffie-Hellmanova algoritmu. **Princip fungování ECDH je následující:**
+
 
 - Alice a Bob se společně dohodnou na kryptograficky bezpečné eliptické křivce a jejích parametrech. Tyto informace jsou veřejné;
-
-- Alice generuje náhodné číslo $ka$, které bude jejím soukromým klíčem. Tento soukromý klíč musí zůstat tajný. Určí svůj veřejný klíč $Ka$ sčítáním a zdvojením bodů na zvolené eliptické křivce:
+- Alice vygeneruje náhodné číslo $ka$, které bude jejím soukromým klíčem. Tento soukromý klíč musí zůstat utajen. Svůj veřejný klíč $Ka$ určí sčítáním a zdvojováním bodů na zvolené eliptické křivce:
 
 $$
-
 K_a = k_a \cdot G
-
-
 $$
 
-- Bob také generuje náhodné číslo $kb$, které bude jeho soukromým klíčem. Spočítá přidružený veřejný klíč $Kb$:
+
+- Bob také vygeneruje náhodné číslo $kb$, které bude jeho soukromým klíčem. Vypočítá související veřejný klíč $kb$:
 
 $$
-
 K_b = k_b \cdot G
-
-
 $$
 
-- Alice a Bob si vymění své veřejné klíče $Ka$ a $Kb$ přes nezabezpečenou veřejnou síť.
 
-- Alice vypočítá bod $(x,y)$ na křivce aplikací svého soukromého klíče $ka$ na Bobův veřejný klíč $Kb$:
+- Alice a Bob si vymění své veřejné klíče $Ka$ a $Kb$ v nezabezpečené veřejné síti.
+- Alice vypočítá bod $(x,y)$ na křivce použitím svého soukromého klíče $ka$ na Bobův veřejný klíč $Kb$:
 
 $$
-
 (x,y) = k_a \cdot K_b
-
-
 $$
 
-- Bob vypočítá bod $(x,y)$ na křivce aplikací svého soukromého klíče $kb$ na Alicin veřejný klíč $Ka$:
+
+- Bob vypočítá bod $(x,y)$ na křivce použitím svého soukromého klíče $kb$ na Alicin veřejný klíč $Ka$:
 
 $$
-
 (x,y) = k_b \cdot K_a
-
-
 $$
 
-- Alice a Bob získají stejný bod na eliptické křivce. Sdíleným tajemstvím bude x-ová souřadnice $x$ tohoto bodu.
 
-Skutečně získají stejné sdílené tajemství, protože:
+- Alice a Bob získají stejný bod na eliptické křivce. Sdíleným tajemstvím bude souřadnice $x$ tohoto bodu.
+
+Ve skutečnosti mají stejné sdílené tajemství, protože:
+
 (x,y) = k_a \cdot K_b = k_a \cdot (k_b \cdot G) = (k_a \cdot k_b) \cdot G = (k_b \cdot k_a) \cdot G = k_b \cdot (k_a \cdot G) = k_b \cdot K_a
 
 $$
-
-Útočník pozorující nezabezpečenou veřejnou síť může získat pouze veřejné klíče každé strany a parametry zvolené eliptické křivky. Jak bylo dříve vysvětleno, tyto informace samy o sobě nejsou dostatečné pro určení soukromých klíčů. Proto útočník nemůže najít sdílené tajemství mezi Alicí a Bobem.
-
-ECDH je tedy algoritmus, který umožňuje výměnu klíčů. Často se používá ve spojení s dalšími kryptografickými metodami pro vytvoření kompletního protokolu. Například ECDH je integrováno do jádra TLS (_Transport Layer Security_), protokolu pro šifrování a autentizaci používaného pro transportní vrstvu internetu. TLS používá pro výměnu klíčů ECDHE, variantu ECDH, kde jsou klíče efemérní, aby poskytl trvalou důvěrnost. Kromě toho TLS používá autentizační algoritmy jako ECDSA, šifrovací algoritmy jako AES a hashovací funkce jako SHA256.
-
-TLS je zvláště zodpovědné za `s` v `https` a také za zámek viditelný v adresním řádku vašeho prohlížeče, symboly šifrované komunikace. Tím, že sledujete tento kurz, používáte tedy ECDH, a je velmi pravděpodobné, že jej používáte denně, aniž byste o tom věděli.
-
-### Transakce oznámení
-
-Jak jsme viděli v předchozí sekci, ECDH je varianta výměny Diffie-Hellman používající klíčové páry založené na eliptické křivce. Pohodlně už máme mnoho klíčových párů, které odpovídají tomuto standardu, ve svých Bitcoinových peněženkách! Myšlenka BIP47 je použít klíčové páry z Bitcoinových deterministických hierarchických peněženek obou stran pro vytvoření sdílených a efemérních tajemství mezi nimi. V kontextu BIP47 se místo toho používá ECDHE (_Elliptic Curve Diffie-Hellman Ephemeral_).
-
-![BTC204](assets/notext/66/14.webp)
-
-ECDHE se používá poprvé v BIP47 pro přenos platebního kódu od odesílatele k příjemci. To je slavná **transakce oznámení**. Tento krok je zásadní, protože pro efektivní fungování BIP47 musí obě strany zapojené (odesílatel a příjemce) znát platební kód toho druhého. Toto vědomí umožňuje odvození efemérních veřejných klíčů a následně spojených prázdných přijímacích adres.
-Před tímto výměnem je odesílatel logicky již informován o platebním kódu příjemce, protože jej získal mimo síť, například z jejich webové stránky, faktury nebo sociálních médií. Nicméně příjemce nemusí nutně znát platební kód odesílatele. Přesto musí být tento kód přenesen k nim; jinak nebudou schopni odvodit efemérní klíče potřebné pro identifikaci adres, kde jsou jejich bitcoiny uloženy, ani přistupovat ke svým fondům. Ačkoliv lze toto přenos odesílatelova kódu technicky provést mimo síť prostřednictvím jiných komunikačních prostředků, představuje to problém, pokud je potřeba peněženku obnovit pouze ze seedu.
-Opravdu, na rozdíl od konvenčních adres, adresy BIP47 nejsou odvozeny přímo ze seedu příjemce - použití `xpub` by bylo v tomto případě jednodušší - ale jsou výsledkem výpočtu kombinujícího oba platební kódy: odesílatele a příjemce. Takže, pokud příjemce ztratí svou peněženku a pokusí se ji obnovit ze svého seedu, obnoví svůj vlastní platební kód, který je přímo odvozen ze seedu. Nicméně, pro nalezení efemérních adres bude nezbytné, aby měli také platební kódy všech, kdo jim poslali bitcoiny přes BIP47. Odtud význam notifikační transakce, která umožňuje uložení těchto informací na Bitcoin blockchainu, zatímco je možné je velmi snadno najít bez nutnosti prohledávat miliardu transakcí provedených od jeho spuštění v roce 2009.
-![BTC204](assets/cs/66/15.webp)
-
-Proto by bylo možné implementovat BIP47 bez nutnosti použití notifikační transakce, za předpokladu, že každý uživatel si uchovává zálohu platebních kódů svých protějšků. Tato metoda se však ukazuje jako složitá na správu, dokud není vyvinuto jednoduché, robustní a efektivní řešení pro vytváření, ukládání a aktualizaci těchto záloh. V současném stavu věcí se notifikační transakce stává téměř nezbytnou.
-
-V následujících kapitolách prozkoumáme další protokoly s cíli podobnými BIP47, které však nevyžadují notifikační transakci. Tyto alternativy však přinášejí vlastní kompromisy.
-
-Kromě své role v zálohování platebních kódů slouží notifikační transakce také jako notifikační funkce pro příjemce, jak již název napovídá. Signalizuje klientu příjemce, že byl zřízen nový platební kanál, a tedy naznačuje monitorování výsledných efemérních adres.
-
-### Model soukromí BIP47
-
-Před podrobným popisem technického provozu notifikační transakce je důležité diskutovat o modelu soukromí spojeném s BIP47, který odůvodňuje určitá opatření přijatá při vytváření této počáteční transakce.
-Platební kód sám o sobě nepředstavuje přímé riziko pro soukromí. Na rozdíl od tradičního modelu Bitcoinu, který si klade za cíl přerušit spojení mezi identitou uživatele a jeho transakcemi (které jsou veřejné) tím, že zachovává anonymitu klíčů a adres, může být platební kód otevřeně spojen s identitou bez toho, aby to představovalo hrozbu.
-Skutečně, platební kód není používán k přímému odvození adres přijímajících platby BIP47. Tyto adresy jsou místo toho generovány aplikací ECDH mezi odvozenými klíči platebních kódů obou zúčastněných stran.
-
-Takže platební kód sám o sobě nepřímo nevede ke ztrátě soukromí, protože pouze notifikační adresa je z něj odvozena. Ačkoli tato adresa může odhalit nějaké informace, obvykle neumožňuje objevit strany, se kterými provádíte transakce, pokud ne prostřednictvím důkladné analýzy řetězce. Skutečně, pokud odesílatel použije UTXO, které lze spojit s jejich identitou k provedení notifikační transakce, pak se stává možným usoudit, že jejich identita je pravděpodobně spojena s platbami BIP47 na váš platební kód. To neodhalí podkladové transakce, ale naznačí jejich pravděpodobnou existenci.
-
-Proto je nezbytné udržovat tuto striktní separaci mezi platebními kódy uživatelů. K tomuto cíli je počáteční komunikační krok kódu kritickým momentem pro soukromí platby, přesto je povinný pro správné fungování protokolu. Pokud jeden z platebních kódů lze získat veřejně (například na webové stránce), druhý kód, ten odesílatele, nesmí být v žádném případě spojen s prvním.
-
-Pojďme si vzít konkrétní příklad: Chci udělat dar politickému hnutí přes BIP47:
-
-- Organizace zveřejnila svůj platební kód na svých webových stránkách nebo prostřednictvím svých sociálních sítí;
-- Tento kód je tedy spojen s politickým hnutím;
-- Získávám tento platební kód;
-- Před tím, než provedu odeslání, musím se ujistit, že znají můj vlastní platební kód, který je také spojen s mou identitou, protože ho používám k přijímání transakcí na mých sociálních sítích.
-
-Jak mohu přenést můj kód bez rizika? Použití běžných komunikačních prostředků by mohlo vést k úniku informací a následně mě spojit s tímto politickým hnutím. Notifikační transakce nabízí řešení díky vrstvě šifrování, která přesně zabraňuje tomuto spojení mezi dvěma kódy. Ačkoli to není jediná metoda pro tajný přenos platebního kódu odesílatele, ukazuje se jako velmi účinná.
-
-Na níže uvedeném diagramu oranžové čáry označují místa, kde musí být tok informací přerušen, a černé šipky ukazují spojení, která by mohla být potenciálně pozorována třetími stranami:
-![BTC204](assets/cs/66/16.webp)
-Ve skutečnosti, v rámci tradičního modelu soukromí Bitcoinu, je často složité úplně oddělit tok informací mezi párem klíčů a uživatelem, zejména při transakcích na dálku. Například v kontextu kampaně na podporu, musí příjemce nevyhnutelně zveřejnit adresu nebo veřejný klíč prostřednictvím svého webu nebo sociálních sítí. Správné použití BIP47, zejména s notifikační transakcí, umožňuje obejít tento problém díky ECDHE a vrstvě šifrování, kterou si dále probereme.
-
-Samozřejmě, klasický model soukromí Bitcoinu stále platí pro efemérní veřejné klíče, které jsou odvozeny z kombinace dvou platebních kódů. Tyto dva modely jsou ve skutečnosti doplňující. Co zde chci zdůraznit, je, že na rozdíl od obvyklého použití veřejného klíče k přijímání bitcoinů, může být platební kód spojen s konkrétní identitou, protože informace "_Alice provádí transakci s Bobem_" je přerušena v jiné fázi. Platební kód se používá k generování platebních adres, ale pouze na základě pozorování blockchainu, je nemožné spojit BIP47 platební transakci s použitými platebními kódy, pokud nebyly UTXO již dříve spojeny s identitou a uživatelé nespojili své platební kódy se svými identitami.
-
-Shrnutí, model soukromí nabízený platebními transakcemi BIP47 by mohl být považován za lepší než základní model Bitcoinu, ačkoli to rozhodně není magie.
-
-### Konstrukce notifikační transakce
-
-Nyní se podívejme, jak notifikační transakce funguje. Představte si, že Alice chce poslat prostředky Bobovi s BIP47. V mém příkladu Alice vystupuje jako odesílatel a Bob jako příjemce. Ten poslední zveřejnil svůj platební kód na svém webu. Alice je tedy již informována o Bobově platebním kódu.
-
-**1- Alice vypočítá sdílené tajemství s ECDH:**
-
-- Vybere pár klíčů ze své HD peněženky umístěné na jiné větvi než její platební kód. Poznámka, tento pár by neměl být snadno spojen s Alicinou notifikační adresou, ani s Alicinou identitou (viz předchozí sekce);
-
-- Alice vybere soukromý klíč z tohoto páru. Nazveme ho $a$ (malé písmeno);
-
-
+Un attaccante che osserva la rete pubblica non protetta può ottenere solo le chiavi pubbliche di ciascuna parte e i parametri della curva ellittica scelta. Come precedentemente spiegato, queste informazioni da sole non sono sufficienti per determinare le chiavi private. Pertanto, l'attaccante non può trovare il segreto condiviso tra Alice e Bob.
+ECDH è quindi un algoritmo che consente lo scambio di chiavi. È spesso utilizzato in combinazione con altri metodi crittografici per stabilire un protocollo completo. Ad esempio, ECDH è integrato nel nucleo di TLS (_Transport Layer Security_), un protocollo di crittografia e autenticazione utilizzato per il livello di trasporto di Internet. TLS utilizza ECDHE per lo scambio di chiavi, una variante di ECDH dove le chiavi sono effimere, per garantire la confidenzialità persistente. Inoltre, TLS utilizza algoritmi di autenticazione come ECDSA, algoritmi di crittografia come AES e funzioni hash come SHA256.
+TLS è notevolmente responsabile della `s` in `https` così come del lucchetto visibile nella barra degli indirizzi del tuo browser, simboli delle comunicazioni criptate. Seguendo questo corso, stai quindi utilizzando ECDH, ed è molto probabile che lo usi quotidianamente senza nemmeno saperlo.
+### La Transazione di Notifica
+Come abbiamo visto nella sezione precedente, ECDH è una variante dello scambio Diffie-Hellman che utilizza coppie di chiavi stabilite su una curva ellittica. Convenientemente, possediamo già molte coppie di chiavi aderenti a questo standard nei nostri portafogli Bitcoin! L'idea di BIP47 è di utilizzare le coppie di chiavi dei portafogli Bitcoin gerarchici deterministici di entrambe le parti per stabilire segreti condivisi ed effimeri tra di loro. Nel contesto di BIP47, viene utilizzato ECDHE (_Elliptic Curve Diffie-Hellman Ephemeral_).
+ECDHE viene utilizzato per la prima volta in BIP47 per trasmettere il codice di pagamento dal mittente al destinatario. Questo è il famoso **notification transaction**. Questo passaggio è essenziale perché affinché BIP47 funzioni efficacemente, entrambe le parti coinvolte (il mittente e il destinatario) devono conoscere il codice di pagamento dell'altro. Questa conoscenza consente la derivazione di chiavi pubbliche effimere e, di conseguenza, indirizzi di ricezione vuoti associati.
+Prima di questo scambio, il mittente è logicamente già a conoscenza del codice di pagamento del destinatario poiché lo ha recuperato off-chain, ad esempio, dal loro sito web, una fattura o i loro social media. Tuttavia, il destinatario potrebbe non conoscere necessariamente il codice di pagamento del mittente. Eppure, questo codice deve essere trasmesso a loro; altrimenti, non saranno in grado di derivare le chiavi effimere necessarie per identificare gli indirizzi dove sono conservati i loro bitcoin, né accedere ai loro fondi. Sebbene questa trasmissione del codice del mittente possa tecnicamente essere effettuata off-chain attraverso altri mezzi di comunicazione, ciò pone un problema se il portafoglio deve essere recuperato solo dal seme.
+Infatti, a differenza degli indirizzi convenzionali, gli indirizzi BIP47 non sono derivati direttamente dal seed del destinatario—utilizzare un `xpub` sarebbe più semplice in questo caso—ma risultano da un calcolo che combina i codici di pagamento di entrambi: quello del mittente e quello del destinatario. Pertanto, se il destinatario perde il proprio portafoglio e tenta di ripristinarlo dal proprio seed, recupererà il proprio codice di pagamento, che è derivato direttamente dal loro seed. Tuttavia, per trovare gli indirizzi effimeri, sarà essenziale per loro avere anche i codici di pagamento di tutti coloro che hanno inviato loro bitcoin tramite BIP47. Da qui l'importanza della transazione di notifica, che consente di salvare queste informazioni sulla blockchain di Bitcoin, pur essendo in grado di trovarle molto facilmente senza dover cercare tra il miliardo di transazioni eseguite dal suo lancio nel 2009.
+![BTC204](assets/it/66/15.webp)
+Pertanto, sarebbe possibile implementare BIP47 senza ricorrere alla transazione di notifica, a condizione che ogni utente conservi un backup dei codici di pagamento dei propri pari. Tuttavia, questo metodo si rivela complesso da gestire finché non viene sviluppata una soluzione semplice, robusta ed efficiente per creare, conservare e aggiornare questi backup. Nello stato attuale delle cose, la transazione di notifica diventa quasi indispensabile.
+Nei capitoli seguenti, studieremo altri protocolli con obiettivi simili a quelli di BIP47, ma che non richiedono una transazione di notifica. Queste alternative, tuttavia, introducono i propri compromessi.
+Oltre al suo ruolo nel backup dei codici di pagamento, la transazione di notifica serve anche una funzione di notifica per il destinatario, come suggerisce il suo nome. Segnala al client del destinatario che è stato stabilito un nuovo canale di pagamento e suggerisce quindi di monitorare gli indirizzi effimeri risultanti.
+### Il Modello di Privacy di BIP47
+Prima di dettagliare il funzionamento tecnico della transazione di notifica, è importante discutere il modello di privacy associato a BIP47, che giustifica alcune misure prese durante la creazione di questa transazione iniziale.
+Il codice di pagamento, di per sé, non rappresenta un rischio diretto per la privacy. A differenza del modello Bitcoin tradizionale, che mira a rompere il collegamento tra l'identità di un utente e le sue transazioni (che sono pubbliche) preservando l'anonimato di chiavi e indirizzi, il codice di pagamento può essere apertamente associato a un'identità senza rappresentare una minaccia.
+Infatti, il codice di pagamento non è utilizzato per derivare direttamente gli indirizzi che ricevono pagamenti BIP47. Questi indirizzi sono invece generati attraverso l'applicazione di ECDH tra le chiavi derivate dai codici di pagamento delle due parti coinvolte.
+Così, un codice di pagamento di per sé non porta direttamente a una perdita di privacy, poiché solo l'indirizzo di notifica è derivato da esso. Sebbene questo indirizzo possa rivelare alcune informazioni, normalmente non consente di scoprire le parti con cui si stanno conducendo transazioni, a meno che non si effettui un'analisi approfondita della catena. Infatti, se il mittente utilizza UTXO che possono essere collegati alla loro identità per eseguire la transazione di notifica, allora diventa possibile dedurre che la loro identità è probabilmente collegata ai pagamenti BIP47 al tuo codice di pagamento. Questo non rivelerà le transazioni sottostanti, ma indicherà la loro probabile esistenza.
+Pertanto, è essenziale mantenere questa stretta separazione tra i codici di pagamento degli utenti. Verso questo obiettivo, il passo iniziale di comunicazione del codice è un momento critico per la privacy del pagamento, ma obbligatorio per il corretto funzionamento del protocollo. Se uno dei codici di pagamento può essere ottenuto pubblicamente (come su un sito web), il secondo codice, quello del mittente, non deve essere collegato al primo in nessun caso.
+Prendiamo un esempio concreto: voglio fare una donazione a un movimento politico tramite BIP47:
+- L'organizzazione ha reso pubblico il suo codice di pagamento sul suo sito web o tramite i suoi social network;
+- Questo codice è quindi collegato al movimento politico;
+- Recupero questo codice di pagamento;
+- Prima di procedere con un invio, devo assicurarmi che conoscano il mio codice di pagamento, che è anche collegato alla mia identità poiché lo uso per ricevere transazioni sui miei social network.
+Come trasmettere il mio codice senza rischi? L'uso di mezzi di comunicazione convenzionali potrebbe portare a una fuga di informazioni e, di conseguenza, associarmi a questo movimento politico. La transazione di notifica offre una soluzione grazie a uno strato di crittografia che impedisce precisamente questa associazione tra due codici. Sebbene questo non sia l'unico metodo per trasmettere segretamente il codice di pagamento del mittente, si dimostra molto efficace.
+Nel diagramma sottostante, le linee arancioni indicano i punti in cui il flusso di informazioni deve essere interrotto, e le frecce nere mostrano le connessioni che potrebbero potenzialmente essere osservate da terze parti:
+![BTC204](assets/it/66/16.webp)
+In realtà, all'interno del modello tradizionale di privacy di Bitcoin, è spesso complesso dissociare completamente il flusso di informazioni tra la coppia di chiavi e l'utente, specialmente durante le transazioni a distanza. Ad esempio, nel contesto di una campagna di donazione, il destinatario deve inevitabilmente divulgare un indirizzo o una chiave pubblica tramite il loro sito web o social network. L'uso corretto di BIP47, in particolare con la transazione di notifica, permette di aggirare questo problema grazie a ECDHE e allo strato di crittografia che studieremo ulteriormente.
+Ovviamente, il modello classico di privacy di Bitcoin si applica ancora alle chiavi pubbliche effimere, che sono derivate dalla combinazione dei due codici di pagamento. I due modelli sono in realtà complementari. Quello che voglio evidenziare qui è che, contrariamente all'uso abituale di una chiave pubblica per ricevere bitcoin, il codice di pagamento può essere collegato a una specifica identità, perché l'informazione "_Alice effettua una transazione con Bob_" viene interrotta in un'altra fase. Il codice di pagamento viene utilizzato per generare indirizzi di pagamento, ma basandosi unicamente sull'osservazione della blockchain, è impossibile collegare una transazione di pagamento BIP47 ai codici di pagamento utilizzati per eseguirla, a meno che gli UTXO coinvolti non fossero già collegati a un'identità precedentemente e gli utenti non abbiano associato i loro codici di pagamento alle rispettive identità.
+Per riassumere, il modello di privacy offerto dai pagamenti BIP47 potrebbe essere considerato superiore a quello della base di Bitcoin, anche se non è magico in alcun modo.
+### Costruzione della Transazione di Notifica
+Ora, vediamo come funziona questa transazione di notifica. Immaginiamo che Alice voglia inviare fondi a Bob con BIP47. Nel mio esempio, Alice agisce come mittente e Bob come destinatario. Quest'ultimo ha pubblicato il suo codice di pagamento sul suo sito web. Pertanto, Alice è già a conoscenza del codice di pagamento di Bob.
+**1- Alice calcola un segreto condiviso con ECDH:**
+- Seleziona una coppia di chiavi dal suo portafoglio HD situato su un ramo diverso dal suo codice di pagamento. Nota, questa coppia non dovrebbe essere facilmente associata all'indirizzo di notifica di Alice, né all'identità di Alice (vedi sezione precedente);
+- Alice seleziona la chiave privata da questa coppia. La chiamiamo $a$ (minuscolo);
 $$
 
 a
 
 $$
-
-- Alice získá veřejný klíč spojený s Bobovou notifikační adresou. Tento klíč je první odvozená dcera z Bobova platebního kódu (index $/0$). Tento veřejný klíč nazveme $B$ (velké písmeno). Soukromý klíč spojený s tímto veřejným klíčem nazveme $b$ (malé písmeno). $B$ je určen sčítáním a zdvojením bodů na eliptické křivce z $G$ (generující bod) s $b$ (soukromý klíč):
-  $$ B = b \cdot G $$
-- Alice vypočítá tajný bod $S$ (velké S) na eliptické křivce pomocí sčítání a zdvojení bodů aplikací svého soukromého klíče $a$ z Bobova veřejného klíče $B$.
-  $$ S = a \cdot B $$
-
-- Alice vypočítá faktor zaslepení $f$, který jí umožní zašifrovat její platební kód. K tomu určí pseudonáhodné číslo funkcí HMAC-SHA512. Jako druhý vstup této funkce použije hodnotu, kterou bude moci získat pouze Bob: $x$, což je souřadnice x dříve vypočítaného tajného bodu. První vstup je $o$, což je UTXO spotřebované na vstupu této transakce (outpoint).
-
+```text
+- Alice recupera la chiave pubblica associata all'indirizzo di notifica di Bob. Questa chiave è la prima figlia derivata dal codice di pagamento di Bob (indice $/0$). Chiamiamo questa chiave pubblica $B$ (maiuscolo). La chiave privata associata a questa chiave pubblica è chiamata $b$ (minuscolo). $B$ è determinata dall'addizione e dal raddoppio dei punti sulla curva ellittica da $G$ (il punto generatore) con $b$ (la chiave privata):
+$$ B = b \cdot G $$
+- Alice calcola un punto segreto $S$ (maiuscolo) sulla curva ellittica tramite l'addizione e il raddoppio dei punti applicando la sua chiave privata $a$ dalla chiave pubblica di Bob $B$.
+$$ S = a \cdot B $$
+- Alice calcola il fattore di oscuramento $f$ che le permetterà di criptare il suo codice di pagamento. Per fare ciò, determinerà un numero pseudo-casuale con la funzione HMAC-SHA512. Nel secondo input di questa funzione, utilizza un valore che solo Bob potrà recuperare: $x$ che è l'ascissa del punto segreto precedentemente calcolato. Il primo input è $o$ che è l'UTXO consumato in input di questa transazione (outpoint).
 $$ f = \text{HMAC-SHA512}(o, x) $$
-
-**2- Alice převede svůj osobní platební kód do základu 2 (binárně).**
-
-**3- Použije tento faktor zaslepení jako klíč k provedení symetrického šifrování nákladu jejího platebního kódu.** Použitý šifrovací algoritmus je jednoduše `XOR`. Operace provedená je srovnatelná s šifrou Vernam, také nazývanou "One-Time Pad".
-
-- Alice nejprve rozdělí svůj faktor zaslepení na dvě části: prvních 32 bajtů je pojmenováno $f1$ a posledních 32 bajtů je pojmenováno $f2$. Tedy máme:
-
+**2- Alice converte il suo codice di pagamento personale in base 2 (binario).**
+**3- Utilizza questo fattore di oscuramento come chiave per eseguire la crittografia simmetrica sul payload del suo codice di pagamento.** L'algoritmo di crittografia utilizzato è semplicemente un `XOR`. L'operazione eseguita è paragonabile alla cifratura di Vernam, anche denominata "One-Time Pad".
+- Alice prima divide il suo fattore di oscuramento in due: i primi 32 byte sono denominati $f1$ e gli ultimi 32 byte sono denominati $f2$. Quindi, abbiamo:
 $$ f = f1 || f2 $$
-
-- Alice vypočítá zašifrovanou $x'$ souřadnici x veřejného klíče svého platebního kódu a zašifrovaný $c'$ svého řetězového kódu $c$ zvlášť. $f1$ a $f2$ působí jako šifrovací klíče. Použitá operace je `XOR` (výhradní nebo).
-
+- Alice calcola l'$x'$ criptato dell'ascissa della chiave pubblica $x$ del suo codice di pagamento, e il $c'$ criptato del suo codice catena $c$ separatamente. $f1$ e $f2$ agiscono rispettivamente come chiavi di crittografia. L'operazione utilizzata è il `XOR` (o esclusivo).
 $$ x' = x \oplus f1 $$
 $$ c' = c \oplus f2 $$
-
-- Alice nahradí skutečné hodnoty souřadnice x veřejného klíče $x$ a řetězového kódu $c$ ve svém platebním kódu zašifrovanými hodnotami $x'$ a $c'$.
-  **4-** Alice nyní má svůj platební kód se zašifrovaným nákladem. Sestaví a vysílá transakci, která zahrnuje její veřejný klíč $A$ jako vstup, výstup na Bobovu notifikační adresu a výstup `OP_RETURN` obsahující její platební kód se zašifrovaným nákladem. **Tato transakce je notifikační transakce**.
-  `OP_RETURN` je operační kód, který označuje výstup Bitcoinové transakce jako neplatný. Dnes se používá k vysílání nebo ukotvení informací na Bitcoinovém blockchainu. Lze uložit až 80 bajtů dat, které jsou zapsány na řetězec a tedy viditelné pro všechny ostatní uživatele.
-
-Jak jsme viděli v předchozích sekcích, ECDH se používá k generování sdíleného tajemství mezi dvěma uživateli komunikujícími přes nezabezpečenou síť, potenciálně pozorovanou útočníky. V BIP47 se ECDH využívá pro komunikaci přes Bitcoinovou síť, která je svou povahou transparentní komunikační síť pozorovaná mnoha útočníky. Sdílené tajemství vypočítané prostřednictvím výměny klíčů ECDH je pak použito k šifrování tajných informací k přenosu: platební kód odesílatele (Alice).
-
-Shrneme kroky, které jsme právě společně probrali, aby se provedla notifikační transakce:
-
-- Alice získá Bobův platební kód a notifikační adresu;
-- Alice vybere UTXO, které vlastní ve své HD peněžence s odpovídajícím párem klíčů;
-- Vypočítá tajný bod na eliptické křivce pomocí ECDH;
-- Použije tento tajný bod k výpočtu HMAC, což je faktor zaslepení;
-- Použije tento faktor zaslepení k zašifrování nákladu svého osobního platebního kódu;
-- Používá výstup transakce `OP_RETURN` k předání maskovaného platebního kódu Bobovi.
-  ![BTC204](assets/cs/66/17.webp)
-
-### Transakce s oznámením: Konkrétní studie
-
-Abychom lépe pochopili její fungování, zejména použití `OP_RETURN`, pojďme se společně podívat na skutečnou transakci s oznámením. Provedl jsem takovou transakci na testnetu, kterou můžete najít [kliknutím zde](https://mempool.space/fr/testnet/tx/0e2e4695a3c49272ef631426a9fd2dae6ec3a469e3a39a3db51aa476cd09de2e).
-
-![BTC204](assets/notext/66/18.webp)
-
-Při pozorování této transakce můžeme vidět, že má jediný vstup a 4 výstupy:
-
-- První výstup je `OP_RETURN` obsahující můj maskovaný platební kód;
-- Druhý výstup 546 sats směřuje na notifikační adresu mého příjemce;
-- Třetí výstup 15 000 sats představuje poplatky za službu, jelikož jsem k vytvoření této transakce použil Samourai Wallet;
-- Čtvrtý výstup 2 miliony sats představuje zbytek, což znamená zbývající rozdíl z mého vstupu, který se vrací na jinou mou adresu.
-  Nejzajímavější k prozkoumání je samozřejmě výstup 0 používající `OP_RETURN`. Podívejme se podrobněji na to, co obsahuje. Zde je `scriptPubKey` v hexadecimálním formátu:
-
-```text
+- Alice sostituisce i valori reali dell'ascissa della chiave pubblica $x$ e del codice catena $c$ nel suo codice di pagamento con i valori criptati $x'$ e $c'$.
+**4-** Alice ora ha il suo codice di pagamento con un payload criptato. Costruirà e trasmetterà una transazione che coinvolge la sua chiave pubblica $A$ come input, un output all'indirizzo di notifica di Bob, e un output `OP_RETURN` contenente il suo codice di pagamento con il payload criptato. **Questa transazione è la transazione di notifica**.
+Un `OP_RETURN` è un opcode che segna un output di una transazione Bitcoin come non valido. Oggi, è utilizzato per trasmettere o ancorare informazioni sulla blockchain di Bitcoin. Fino a 80 byte di dati possono essere memorizzati, che sono scritti sulla catena e quindi visibili a tutti gli altri utenti.
+Come abbiamo visto nelle sezioni precedenti, ECDH è utilizzato per generare un segreto condiviso tra due utenti che comunicano su una rete non sicura, potenzialmente osservata da attaccanti. In BIP47, ECDH è utilizzato per la comunicazione sulla rete Bitcoin, che per sua natura è una rete di comunicazione trasparente osservata da molti attaccanti. Il segreto condiviso calcolato tramite lo scambio di chiavi ECDH è poi utilizzato per criptare le informazioni segrete da trasmettere: il codice di pagamento del mittente (di Alice).
+Ricapitoliamo i passaggi che abbiamo appena esaminato insieme per eseguire una transazione di notifica:
+- Alice recupera il codice di pagamento e l'indirizzo di notifica di Bob;
+- Alice seleziona un UTXO che possiede nel suo portafoglio HD con la corrispondente coppia di chiavi;
+- Calcola un punto segreto sulla curva ellittica utilizzando ECDH;
+- Utilizza questo punto segreto per calcolare un HMAC, che è il fattore di oscuramento;
+- Utilizza questo fattore di oscuramento per criptare il payload del suo codice di pagamento personale.
+- Lei utilizza un output di transazione `OP_RETURN` per comunicare il codice di pagamento mascherato a Bob.
+![BTC204](assets/it/66/17.webp)
+### Transazione di Notifica: Studio Concreto
+Per comprendere meglio il suo funzionamento, in particolare l'uso di `OP_RETURN`, esaminiamo insieme una vera transazione di notifica. Ho eseguito tale transazione sulla testnet, che potete trovare [cliccando qui](https://mempool.space/fr/testnet/tx/0e2e4695a3c49272ef631426a9fd2dae6ec3a469e3a39a3db51aa476cd09de2e).
+![BTC204](assets/fr/227.webp)
+Osservando questa transazione, possiamo vedere che ha un singolo input e 4 output:
+- Il primo output è l'`OP_RETURN` che contiene il mio codice di pagamento mascherato;
+- Il secondo output di 546 sats punta all'indirizzo di notifica del mio destinatario;
+- Il terzo output di 15.000 sats rappresenta le commissioni di servizio, poiché ho utilizzato Samourai Wallet per costruire questa transazione;
+- Il quarto output di 2 milioni di sats rappresenta il resto, ovvero la differenza rimanente dal mio input che ritorna a un altro indirizzo che mi appartiene.
+Il più interessante da studiare è ovviamente l'output 0 che utilizza l'`OP_RETURN`. Vediamo più da vicino cosa contiene. Ecco lo `scriptPubKey` in esadecimale:
 6a4c50010002b13b2911719409d704ecc69f74fa315a6cb20fdd6ee39bc9874667703d67b164927b0e88f89f3f8b963549eab2533b5d7ed481a3bea7e953b546b4e91b6f50d800000000000000000000000000
 ```
 
-V tomto skriptu můžeme rozlišit několik částí. Především operátory:
-
 ```text
+In questo script, possiamo sezionare diverse parti. Prima di tutto, gli opcode:
 6a4c
 ```
 
-Mezi operátory můžeme rozpoznat `0x6a`, který označuje `OP_RETURN` a `0x4c`, který označuje `OP_PUSHDATA1`.
-
-Byte následující po tomto posledním operátoru udává velikost následujícího payloadu. Udává `0x50`, neboli 80 bajtů:
-
 ```text
+Tra gli opcode, possiamo riconoscere `0x6a` che designa l'`OP_RETURN` e `0x4c` che designa l'`OP_PUSHDATA1`.
+Il byte seguente questo ultimo opcode indica la dimensione del payload che segue. Indica `0x50`, ovvero 80 byte:
 6a4c50
 ```
 
-Poté máme metadata mého platebního kódu v prostém textu:
-
 ```text
+Poi, abbiamo i metadati del mio codice di pagamento in chiaro:
 010002
 ```
 
-Zašifrovaná x-ová souřadnice veřejného klíče mého platebního kódu:
-
 ```text
+La coordinata x criptata della chiave pubblica del mio codice di pagamento:
 b13b2911719409d704ecc69f74fa315a6cb20fdd6ee39bc9874667703d67b164
 ```
 
-Zašifrovaný řetězec kódu mého platebního kódu:
-
 ```text
+Il codice catena criptato del mio codice di pagamento:
 927b0e88f89f3f8b963549eab2533b5d7ed481a3bea7e953b546b4e91b6f50d8
 ```
 
-A nakonec, doplnění do 80 bajtů, standardní velikosti `OP_RETURN`:
-
 ```text
+E infine, il padding per raggiungere 80 byte, la dimensione standard di un `OP_RETURN`:
 00000000000000000000000000
 ```
 
-Pro lepší pochopení, zde je můj platební kód v prostém textu v base 58:
-
+```
+Per capire meglio, ecco il mio codice di pagamento in chiaro in base 58:
 ````text
-A v base 16:
-
-```text
-4701000277507c9c17a89cfca2d3af554745d6c2db0e7f6b2721a3941a504933103cc42add94881210d6e752a9abc8a9fa0070e85184993c4f643f1121dd807dd556d1dc000000000000000000000000008604e4db
-````
-
-Když porovnávám můj čistý platební kód s `OP_RETURN`, je patrné, že HRP (`0x47`) a kontrolní součet (`0x8604e4db`) nejsou přenášeny. To je očekávané, jelikož tyto informace jsou určeny pro lidi.
-Dále můžeme identifikovat verzi (`0x01`), bitové pole (`0x00`) a paritu veřejného klíče (`0x02`). A na konci platebního kódu jsou prázdné bajty (`0x00000000000000000000000000`) použity k doplnění kódu na celkových 80 bajtů. Všechna tato metadata jsou přenášena v čistém textu (nešifrovaně).
-
-Nakonec lze pozorovat, že x-ová souřadnice veřejného klíče (`0x77507c9c17a89cfca2d3af554745d6c2db0e7f6b2721a3941a504933103cc42a`) a řetězový kód (`0xdd94881210d6e752a9abc8a9fa0070e85184993c4f643f1121dd807dd556d1dc`) byly zašifrovány. To tvoří náklad platebního kódu.
-
-### Co je XOR?
-
-V předchozích sekcích jsme viděli, že platební kód byl přenášen zašifrovaně pomocí operace XOR. Pojďme si na chvíli vysvětlit, jak tento operátor funguje, jelikož je široce používán v kryptografii.
-
-XOR je bitový logický operátor založený na Booleově algebře. S dvěma bitovými operandy vrací `1`, pokud se bity stejného řádu liší, a vrací `0`, pokud jsou bity stejného řádu stejné. Zde je pravdivostní tabulka XOR založená na hodnotách operandů `D` a `E`:
-
+PM8TJQCyt6ovbozreUCBrfKqmSVmTzJ5vjqse58LnBzKFFZTwny3KfCDdwTqAEYVasn11tTMPc2FJsFygFd3YzsHvwNXLEQNADgxeGnMK8Ugmin62TZU
+Quando si confronta il mio codice di pagamento in chiaro con l'`OP_RETURN`, è evidente che l'HRP (`0x47`) e il checksum (`0x8604e4db`) non vengono trasmessi. Questo è previsto, poiché queste informazioni sono destinate agli esseri umani.
+Successivamente, possiamo identificare la versione (`0x01`), il campo di bit (`0x00`) e la parità della chiave pubblica (`0x02`). E, alla fine del codice di pagamento, i byte vuoti (`0x00000000000000000000000000`) sono utilizzati per riempire il codice fino a un totale di 80 byte. Tutti questi metadati vengono trasmessi in chiaro (non criptati).
+Infine, si può osservare che la coordinata x della chiave pubblica (`0x77507c9c17a89cfca2d3af554745d6c2db0e7f6b2721a3941a504933103cc42a`) e il codice catena (`0xdd94881210d6e752a9abc8a9fa0070e85184993c4f643f1121dd807dd556d1dc`) sono stati criptati. Questo costituisce il payload del codice di pagamento.
+### Cos'è XOR?
+Nelle sezioni precedenti, abbiamo visto che il codice di pagamento è stato trasmesso criptato utilizzando l'operazione XOR. Prendiamoci un momento per capire come funziona questo operatore, poiché è ampiamente utilizzato nella crittografia.
+XOR è un operatore logico bit a bit basato sull'algebra booleana. Con due operandi bit, restituisce `1` se i bit dello stesso rango sono diversi, e restituisce `0` se i bit dello stesso rango sono uguali. Ecco la tabella di verità di XOR basata sui valori degli operandi `D` e `E`:
 | D   | E   | D XOR E |
 | --- | --- | ------- |
 | 0   | 0   | 0       |
 | 0   | 1   | 1       |
 | 1   | 0   | 1       |
 | 1   | 1   | 0       |
-
-Například:
-
-
+Per esempio:
 $$
 
+$$
 0110 \oplus 1110 = 1000
-
+Oppure:
 $$
 
-Nebo:
-
-
 $$
-
 010011 \oplus 110110 = 100101
-
+Con ECDH, l'uso di XOR come strato di crittografia è particolarmente adatto. Innanzitutto, a causa di questo operatore, la crittografia è simmetrica. Questo consente al destinatario di decifrare il codice di pagamento con la stessa chiave utilizzata per la crittografia. La chiave di crittografia e decrittografia viene calcolata dal segreto condiviso grazie a ECDH. Questa simmetria è resa possibile dalle proprietà commutativa e associativa dell'operatore XOR:
+- Altre proprietà:
 $$
 
-S ECDH je použití XOR jako šifrovací vrstvy obzvláště vhodné. Za prvé, díky tomuto operátoru je šifrování symetrické. To umožňuje příjemci dešifrovat platební kód stejným klíčem, který byl použit pro šifrování. Šifrovací a dešifrovací klíč je vypočítán z sdíleného tajemství díky ECDH. Tato symetrie je umožněna komutativními a asociativními vlastnostmi operátoru XOR:
-
-- Další vlastnosti:
-
-
 $$
-
 D \oplus D = 0
-
-$$
-
 D ⊕ 0 = D
-
-- Komutativita:
-
-
+- Commutatività:
 $$
 
+$$
 D \oplus E = E \oplus D
-
+- Associatività:
 $$
 
-- Asociativita:
-
-
 $$
-
 D \oplus (E \oplus Z) = (D \oplus E) \oplus Z = D \oplus E \oplus Z
-
+Se:
 $$
 
-Pokud:
-
-
 $$
-
 D \oplus E = L
-
+Allora:
 $$
 
-Pak:
-
-
 $$
-
 D \oplus L = D \oplus (D \oplus E) = D \oplus D \oplus E = 0 \oplus E = E \\
 \therefore D \oplus L = E
-
-$$
-
-Dále, tato metoda šifrování se velmi podobá Vernamově šifře (One-Time Pad), jedinému šifrovacímu algoritmu známému dosud, který má bezpodmínečnou (nebo absolutní) bezpečnost. Aby Vernamova šifra měla tuto charakteristiku, musí být šifrovací klíč dokonale náhodný, musí mít stejnou velikost jako zpráva a musí být použit pouze jednou. V šifrovací metodě použité zde pro BIP47 je klíč skutečně stejně velký jako zpráva, slepý faktor je přesně stejně velký jako spojení x-ové souřadnice veřejného klíče s řetězcovým kódem platebního kódu. Tento šifrovací klíč je skutečně použit pouze jednou. Tento klíč však není výsledkem dokonalé náhodnosti, protože je to HMAC. Je spíše pseudo-náhodný. Proto to není Vernamova šifra, ale metoda je podobná.
-
-### Přijetí notifikační transakce
-
-Nyní, když Alice poslala notifikační transakci Bobovi, pojďme se podívat, jak ji interpretuje. Jako připomínka, Bob musí být schopen přistupovat k platebnímu kódu Alice. Bez těchto informací, jak uvidíme v následující části, nebude schopen odvodit klíčové páry vytvořené Alicí a tudíž nebude schopen přistupovat k jeho bitcoinům přijatým přes BIP47. Zatím je náklad platebního kódu Alice zašifrován. Podívejme se, jak Bob dešifruje.
-
-**1-** Bob monitoruje transakce, které vytvářejí výstupy na jeho notifikační adresu.
-
-**2-** Když transakce má výstup na jeho notifikační adresu, Bob ji analyzuje, aby zjistil, zda obsahuje výstup OP_RETURN, který následuje standard BIP47.
-
-**3-** Pokud první bajt nákladu OP_RETURN je `0x01`, Bob začne hledat možné sdílené tajemství s ECDH:
-
-- Bob vybere veřejný klíč ve vstupu transakce. To znamená, Alicin veřejný klíč označený $A$ s:
-
+Successivamente, questo metodo di cifratura assomiglia molto al cifrario di Vernam (One-Time Pad), l'unico algoritmo di cifratura conosciuto fino ad oggi che possiede sicurezza incondizionata (o assoluta). Affinché il cifrario di Vernam abbia questa caratteristica, la chiave di cifratura deve essere perfettamente casuale, deve essere della stessa dimensione del messaggio e deve essere utilizzata una sola volta. Nel metodo di cifratura utilizzato qui per BIP47, la chiave è effettivamente della stessa dimensione del messaggio, il fattore di offuscamento è esattamente della stessa dimensione della concatenazione della coordinata x della chiave pubblica con il codice catena del codice di pagamento. Questa chiave di cifratura è effettivamente utilizzata una sola volta. Tuttavia, questa chiave non è il risultato di una casualità perfetta poiché è un HMAC. È piuttosto pseudo-casuale. Pertanto, non si tratta di un cifrario di Vernam, ma il metodo è simile.
+### Ricezione della Transazione di Notifica
+Ora che Alice ha inviato la transazione di notifica a Bob, vediamo come lui la interpreta. Come promemoria, Bob deve essere in grado di accedere al codice di pagamento di Alice. Senza queste informazioni, come vedremo nella sezione seguente, non sarà in grado di derivare le coppie di chiavi create da Alice e, quindi, non sarà in grado di accedere ai suoi bitcoin ricevuti tramite BIP47. Per ora, il payload del codice di pagamento di Alice è criptato. Vediamo come Bob lo decifra.
+**1-** Bob monitora le transazioni che creano output con il suo indirizzo di notifica.
+**2-** Quando una transazione ha un output sul suo indirizzo di notifica, Bob la analizza per vedere se contiene un output OP_RETURN che segue lo standard BIP47.
+**3-** Se il primo byte del payload OP_RETURN è `0x01`, Bob inizia la sua ricerca di un possibile segreto condiviso con ECDH:
+- Bob seleziona la chiave pubblica nell'input della transazione. Ovvero, la chiave pubblica di Alice denominata $A$ con:
 $$ A = a \cdot G $$
-
-- Bob vybere soukromý klíč $b$ spojený s jeho osobní notifikační adresou:
-
+- Bob seleziona la chiave privata $b$ associata al suo indirizzo di notifica personale:
 $$ b $$
-
-- Bob vypočítá tajný bod $S$ (sdílené tajemství ECDH) na eliptické křivce přidáním a zdvojením bodů, aplikací svého soukromého klíče $b$ na Alicin veřejný klíč $A$:
-  $$ S = b \cdot A $$
-
-- Bob určí slepý faktor $f$, který mu umožní dešifrovat náklad platebního kódu Alice. Stejným způsobem, jakým Alice předtím vypočítala, Bob najde $f$ aplikací HMAC-SHA512 na $x$ x-souřadnici tajného bodu $S$ a na $o$ UTXO spotřebované jako vstup v této notifikační transakci:
-
+- Bob calcola il punto segreto $S$ (segreto condiviso ECDH) sulla curva ellittica sommando e raddoppiando i punti, applicando la sua chiave privata $b$ alla chiave pubblica di Alice $A$:
+$$ S = b \cdot A $$
+- Bob determina il fattore di offuscamento $f$ che gli permetterà di decifrare il payload del codice di pagamento di Alice. Nello stesso modo in cui Alice aveva precedentemente calcolato, Bob troverà $f$ applicando HMAC-SHA512 su $x$ la coordinata x del punto segreto $S$, e su $o$ l'UTXO consumato come input in questa transazione di notifica:
 $$ f = \text{HMAC-SHA512}(o, x) $$
-
-**4-** Bob interpretuje data v OP_RETURN notifikační transakce jako platební kód. Jednoduše dešifruje náklad tohoto potenciálního platebního kódu použitím slepého faktoru $f$:
-
-- Bob rozdělí slepící faktor $f$ na 2 části: prvních 32 bajtů $f$ bude $f1$ a posledních 32 bajtů bude $f2$;
-- Bob dešifruje zašifrovanou x-souřadnici $x'$ veřejného klíče z Aliceina platebního kódu:
-
+**4-** Bob interpreta i dati nell'OP_RETURN della transazione di notifica come un codice di pagamento. Egli semplicemente decifra il payload di questo potenziale codice di pagamento usando il fattore di offuscamento $f$:
+- Bob divide il fattore di offuscamento $f$ in 2 parti: i primi 32 byte di $f$ saranno $f1$ e gli ultimi 32 byte saranno $f2$;
+- Bob decifra la coordinata x cifrata $x'$ della chiave pubblica dal codice di pagamento di Alice:
 $$ x = x' \oplus f1 $$
-
-- Bob dešifruje zašifrovanou hodnotu řetězového kódu $c'$ z Aliceina platebního kódu:
-
+- Bob decifra il valore del codice catena cifrato $c'$ dal codice di pagamento di Alice:
 $$ c = c' \oplus f2 $$
-
-**5-** Bob kontroluje, zda je hodnota veřejného klíče z Aliceina platebního kódu skutečně součástí skupiny secp256k1. Pokud tomu tak je, interpretuje to jako platný platební kód. V opačném případě tuto transakci ignoruje.
-
-Nyní, když Bob zná Alicein platební kód, může mu poslat až `2^32` plateb, aniž by kdy znovu potřebovala provést jinou notifikační transakci tohoto typu.
-
-Proč to funguje? Jak může Bob určit stejný slepící faktor jako Alice a tím dešifrovat její platební kód? Podívejme se podrobněji na roli ECDH v tom, co jsme právě popisovali.
-
-Především se zabýváme symetrickým šifrováním. To znamená, že šifrovací klíč a dešifrovací klíč jsou stejné hodnoty. Tento klíč v notifikační transakci je slepící faktor:
-
+**5-** Bob verifica se il valore della chiave pubblica dal codice di pagamento di Alice è effettivamente parte del gruppo secp256k1. Se è così, lo interpreta come un codice di pagamento valido. Altrimenti, ignora questa transazione.
+Ora che Bob è a conoscenza del codice di pagamento di Alice, lei può inviargli fino a `2^32` pagamenti, senza mai dover effettuare un'altra transazione di notifica di questo tipo.
+Perché funziona? Come fa Bob a determinare lo stesso fattore di offuscamento di Alice, e quindi a decifrare il suo codice di pagamento? Esaminiamo più da vicino il ruolo di ECDH in quello che abbiamo appena descritto.
+Prima di tutto, stiamo trattando con la crittografia simmetrica. Questo significa che la chiave di cifratura e la chiave di decifratura sono lo stesso valore. Questa chiave nella transazione di notifica è il fattore di offuscamento:
 $$ f = f1 || f2 $$
-
-Alice a Bob tedy musí získat stejnou hodnotu pro $f$, aniž by ji přímo přenášeli, protože útočník by ji mohl ukrást a dešifrovat tajné informace. Tento slepící faktor je získán aplikací HMAC-SHA512 na 2 hodnoty:
-
-- x-souřadnice tajného bodu;
-- a UTXO spotřebované jako vstup v transakci.
-  Bob tedy potřebuje tyto dvě informace k dešifrování nákladu Aliceina platebního kódu. Pro UTXO jako vstup může Bob jednoduše získat pozorováním notifikační transakce. Pro tajný bod bude muset Bob použít ECDH. Jak jsme viděli v předchozí sekci o Diffie-Hellmanovi, pouhým výměnou jejich veřejných klíčů a tajným použitím jejich soukromých klíčů na veřejný klíč druhého, Alice a Bob mohou najít specifický a tajný bod na eliptické křivce. Notifikační transakce spoléhá na tento mechanismus:
-- Bobův pár klíčů:
-
+Pertanto, Alice e Bob devono ottenere lo stesso valore per $f$, senza trasmetterlo direttamente poiché un attaccante potrebbe rubarlo e decifrare le informazioni segrete. Questo fattore di offuscamento si ottiene applicando HMAC-SHA512 su 2 valori:
+- la coordinata x di un punto segreto;
+- e l'UTXO consumato come input nella transazione.
+Bob, quindi, ha bisogno di queste due informazioni per decifrare il payload del codice di pagamento di Alice. Per l'UTXO come input, Bob può semplicemente recuperarlo osservando la transazione di notifica. Per il punto segreto, Bob dovrà usare ECDH. Come visto nella sezione precedente su Diffie-Hellman, semplicemente scambiando le rispettive chiavi pubbliche e applicando segretamente le proprie chiavi private alla chiave pubblica dell'altro, Alice e Bob possono trovare un punto specifico e segreto sulla curva ellittica. La transazione di notifica si basa su questo meccanismo:
+- Coppia di chiavi di Bob:
 $$ B = b \cdot G $$
-
-- Alicein pár klíčů:
-
+- Coppia di chiavi di Alice:
 $$ A = a \cdot G $$
-
-- Pro tajný bod $S (x, y)$:
-
+- Per un segreto $S (x, y)$:
 $$ S = a \cdot B = a \cdot (b \cdot G) = (b \cdot a) \cdot G = b \cdot A $$
-
-![BTC204](assets/cs/66/19.webp)
-
-Nyní, když Bob zná Alicein platební kód, bude moci detekovat její BIP47 platby a může odvodit soukromé klíče uzamčení přijatých bitcoinů.
-
-Shrneme kroky, které jsme právě prošli, abychom přijali a interpretovali notifikační transakci:
-
-- Bob monitoruje výstupy transakcí na svou notifikační adresu;
-- Když jednu detekuje, získá informace obsažené v OP_RETURN;
-- Bob vybere veřejný klíč na vstupu a vypočítá tajný bod pomocí ECDH;
-- Použije tento tajný bod k výpočtu HMAC, který je slepícím faktorem;
-- Použije tento slepící faktor k dešifrování nákladu Aliceina platebního kódu obsaženého v OP_RETURN.
-
-![BTC204](assets/cs/66/20.webp)
-
-### BIP47 Platební Transakce
-
-Nyní se společně podíváme na platební proces s BIP47. Připomínáme současný stav věcí:
-
-- Alice zná Bobův platební kód, který jednoduše získala z jeho webových stránek;
-- Bob zná platební kód Alice díky transakci oznámení;
-- Alice provede první platbu Bobovi. Bude moci provést mnoho dalších stejným způsobem.
-
-Před vysvětlením tohoto procesu si myslím, že je důležité připomenout indexy, na kterých v současnosti pracujeme. Derivační cesta platebního kódu je popsána takto: `m/47'/0'/0'`. Další hloubka distribuuje indexy následovně:
-
-- První normální (nepevný) pár dětí je ten, který se používá k generování notifikační adresy, o které jsme mluvili v předchozí části: `m/47'/0'/0'/0`;
-- Normální páry klíčů dětí se používají v rámci ECDH k generování přijímacích adres plateb BIP47, jak uvidíme v této sekci: od `m/47'/0'/0'/0` do `m/47'/0'/0'/2 147 483 647`;
-- Pevné páry klíčů dětí jsou efemérní platební kódy: od `m/47'/0'/0'/0'` do `m/47'/0'/0'/2 147 483 647'`.
-
-Kdykoli si Alice přeje poslat platbu Bobovi, odvodí novou jedinečnou nepoužitou adresu, díky protokolu ECDH znovu:
-
-- Alice vybere první soukromý klíč odvozený z jejího osobního opakovaně použitelného platebního kódu:
-
+Ora che Bob conosce il codice di pagamento di Alice, sarà in grado di rilevare i suoi pagamenti BIP47, e può derivare le chiavi private che bloccano i bitcoin ricevuti.
+Ricapitoliamo i passaggi che abbiamo appena esaminato per ricevere e interpretare una transazione di notifica:
+- Bob monitora gli output delle transazioni al suo indirizzo di notifica;
+- Quando ne rileva uno, recupera le informazioni contenute nell'OP_RETURN;
+- Bob seleziona la chiave pubblica in input e calcola un punto segreto usando ECDH;
+- Usa questo punto segreto per calcolare un HMAC che è il fattore di offuscamento;
+- Usa questo fattore di offuscamento per decifrare il payload del codice di pagamento di Alice contenuto nell'OP_RETURN.
+### La Transazione di Pagamento BIP47
+Studiamo ora insieme il processo di pagamento con BIP47. Per ricordarvi lo stato attuale delle cose:
+- Alice conosce il codice di pagamento di Bob, che ha semplicemente recuperato dal suo sito web;
+- Bob conosce il codice di pagamento di Alice grazie alla transazione di notifica;
+- Alice effettuerà un primo pagamento a Bob. Potrà effettuarne molti altri allo stesso modo.
+Prima di spiegare questo processo, penso sia importante ricordare gli indici su cui stiamo attualmente lavorando. Il percorso di derivazione di un codice di pagamento è descritto come segue: `m/47'/0'/0'`. La profondità successiva distribuisce gli indici in questo modo:
+- La prima coppia di chiavi figlio normali (non rinforzate) è quella utilizzata per generare l'indirizzo di notifica di cui abbiamo parlato nella parte precedente: `m/47'/0'/0'/0`;
+- Le coppie di chiavi figlio normali sono utilizzate all'interno di ECDH per generare indirizzi di ricezione dei pagamenti BIP47 come vedremo in questa sezione: da `m/47'/0'/0'/0` a `m/47'/0'/0'/2 147 483 647`;
+- Le coppie di chiavi figlio rinforzate sono codici di pagamento effimeri: da `m/47'/0'/0'/0'` a `m/47'/0'/0'/2 147 483 647'`.
+Ogni volta che Alice desidera inviare un pagamento a Bob, deriva un nuovo indirizzo vergine unico, grazie ancora al protocollo ECDH:
+- Alice seleziona la prima chiave privata derivata dal suo codice di pagamento personale riutilizzabile:
 $$ a $$
-
-- Alice vybere první nepoužitý veřejný klíč odvozený z Bobova platebního kódu. Tento veřejný klíč, nazveme ho $B$. Je spojen s soukromým klíčem $b$, který zná pouze Bob:
-
+- Alice seleziona la prima chiave pubblica inutilizzata derivata dal codice di pagamento di Bob. Questa chiave pubblica, la chiameremo $B$. È associata alla chiave privata $b$ che solo Bob conosce:
 $$ B = b \cdot G $$
-
-- Alice vypočítá tajný bod $S$ na eliptické křivce pomocí sčítání bodů a zdvojení aplikací svého soukromého klíče $a$ na Bobův veřejný klíč $B$:
-
+- Alice calcola un punto segreto $S$ sulla curva ellittica tramite addizione e raddoppio di punti applicando la sua chiave privata $a$ alla chiave pubblica $B$ di Bob:
 $$ S = a \cdot B $$
-
-- Z tohoto tajného bodu Alice vypočítá sdílené tajemství $s$ (malé písmeno). K tomu vybere x-ovou souřadnici tajného bodu $S$ pojmenovanou $Sx$ a tuto hodnotu propustí funkcí hash SHA256:
-
+- Da questo punto segreto, Alice calcolerà il segreto condiviso $s$ (minuscolo). Per fare ciò, seleziona la coordinata x del punto segreto $S$ denominata $Sx$, e passa questo valore attraverso la funzione hash SHA256:
 $$ S = (Sx, Sy) $$
 $$ s = \text{SHA256}(Sx) $$
-
-- Alice použije toto sdílené tajemství $s$ k výpočtu přijímací adresy Bitcoinu. Nejprve ověří, že $s$ je obsaženo v pořadí křivky secp256k1. Pokud ne, zvýší index Bobova veřejného klíče k odvození dalšího sdíleného tajemství;
-- Za druhé, vypočítá veřejný klíč $K0$ přidáním na eliptické křivce bodů $B$ a $s·G$. Jinými slovy, Alice přidá veřejný klíč odvozený z Bobova platebního kódu $B$ s dalším bodem vypočítaným na eliptické křivce sčítáním bodů a zdvojením se sdíleným tajemstvím $s$ z generátorového bodu křivky secp256k1 $G$. Tento nový bod představuje veřejný klíč, a pojmenujeme ho $K0$:
-
+- Alice utilizza questo segreto condiviso $s$ per calcolare un indirizzo Bitcoin di ricezione dei pagamenti. Inizialmente, verifica che $s$ sia contenuto nell'ordine della curva secp256k1. In caso contrario, incrementa l'indice della chiave pubblica di Bob per derivare un altro segreto condiviso;
+- In secondo luogo, calcola una chiave pubblica $K0$ aggiungendo sulla curva ellittica i punti $B$ e $s·G$. In altre parole, Alice aggiunge la chiave pubblica derivata dal codice di pagamento di Bob $B$ con un altro punto calcolato sulla curva ellittica tramite addizione e raddoppio con il segreto condiviso $s$ dal punto generatore della curva secp256k1 $G$. Questo nuovo punto rappresenta una chiave pubblica, e lo chiamiamo $K0$:
 $$ K0 = B + s \cdot G $$
-
-- S tímto veřejným klíčem $K0$ může Alice odvodit standardní nepoužitou přijímací adresu (například SegWit V0 v bech32).
-  Jakmile Alice získá Bobovu přijímací adresu $K0$, může provést transakci Bitcoinu standardním způsobem. K tomu vybere UTXO, které vlastní, zajištěné párem klíčů z jiné větve její HD peněženky, a utratí ji k uspokojení výstupu na Bobovu adresu $K0$. Je důležité poznamenat, že tato platba, jakmile je adresa odvozena, následuje konvenční proces a již nezávisí na klíčích spojených s BIP47.
-  Shrněme si kroky, které jsme právě společně prošli, abychom mohli poslat platbu BIP47:
-- Alice vybere první odvozený dětský soukromý klíč ze svého osobního platebního kódu;
-- Vypočítá tajný bod na eliptické křivce pomocí ECDH z prvního nepoužitého odvozeného dětského veřejného klíče z Bobova platebního kódu;
-- Tento tajný bod použije k výpočtu sdíleného tajemství pomocí SHA256;
-- Toto sdílené tajemství použije k výpočtu nového tajného bodu na eliptické křivce;
-- Tento nový tajný bod přičte k Bobovu veřejnému klíči;
-- Získá nový efemerní veřejný klíč, pro který má Bob přidružený soukromý klíč;
-- Alice může provést standardní transakci Bobovi s odvozenou efemerní přijímací adresou.
-
-![BTC204](assets/cs/66/21.webp)
-
-Pokud si Alice přeje provést druhou platbu, postupuje stejně jako předtím, s výjimkou toho, že tentokrát vybere druhý odvozený veřejný klíč z Bobova platebního kódu. Konkrétně použije další nepoužitý klíč. Tímto způsobem získá novou přijímací adresu patřící Bobovi, označenou $K1$:
-
-![BTC204](assets/cs/66/22.webp)
-
-Může takto pokračovat a odvodit až `2^32` nepoužitých adres patřících Bobovi.
-
-Z vnějšího pohledu, pozorováním blockchainu, je teoreticky nemožné odlišit platbu BIP47 od standardní platby. Zde je příklad transakce platby BIP47 na Testnetu:
-
-```text
-94b2e59510f2e1fa78411634c98a77bbb638e28fb2da00c9f359cd5fc8f87254
+- Con questa chiave pubblica $K0$, Alice può derivare un indirizzo vergine standard di ricezione (per esempio, SegWit V0 in bech32).
+Una volta che Alice ha ottenuto l'indirizzo di ricezione di Bob $K0$, può eseguire una transazione Bitcoin in modo standard. Per fare ciò, seleziona un UTXO di sua proprietà, assicurato da una coppia di chiavi di un ramo diverso del suo portafoglio HD, e lo spende per soddisfare un output all'indirizzo di Bob $K0$. È importante notare che questo pagamento, una volta derivato l'indirizzo, segue un processo convenzionale e non dipende più dalle chiavi associate a BIP47.
+Ricapitoliamo i passaggi che abbiamo appena eseguito insieme per inviare un pagamento BIP47:
+- Alice seleziona la prima chiave privata derivata dal suo codice di pagamento personale;
+- Calcola un punto segreto sulla curva ellittica utilizzando ECDH dalla prima chiave pubblica derivata non utilizzata dal codice di pagamento di Bob;
+- Utilizza questo punto segreto per calcolare un segreto condiviso con SHA256;
+- Utilizza questo segreto condiviso per calcolare un nuovo punto segreto sulla curva ellittica;
+- Aggiunge questo nuovo punto segreto alla chiave pubblica di Bob;
+- Ottiene una nuova chiave pubblica effimera per la quale solo Bob ha la chiave privata associata;
+- Alice può effettuare una transazione standard a Bob con l'indirizzo di ricezione effimero derivato.
+![BTC204](assets/it/66/21.webp)
+Se Alice desidera effettuare un secondo pagamento, seguirà gli stessi passaggi di prima, eccetto che questa volta selezionerà la seconda chiave pubblica derivata dal codice di pagamento di Bob. Specificamente, utilizzerà la prossima chiave non utilizzata. Otterrà così un nuovo indirizzo di ricezione appartenente a Bob, designato $K1$:
+![BTC204](assets/it/66/22.webp)
+Può continuare in questo modo e derivare fino a `2^32` indirizzi non utilizzati appartenenti a Bob.
+Da un punto di vista esterno, osservando la blockchain, è teoricamente impossibile differenziare un pagamento BIP47 da un pagamento standard. Ecco un esempio di transazione di pagamento BIP47 sul Testnet:
 ```
 
-Vypadá to jako standardní transakce s vyčerpaným vstupem, výstupem platby a změnou:
-
-![BTC204](assets/notext/66/23.webp)
-
-### Přijetí platby BIP47 a odvození soukromého klíče
-
-Alice právě provedla svou první platbu na novou adresu BIP47 patřící Bobovi. Nyní se podívejme, jak Bob tuto platbu přijme. Uvidíme také, proč Alice nemá přístup k soukromému klíči adresy, kterou právě sama vygenerovala, a jak Bob tento klíč získá, aby mohl utratit právě přijaté bitcoiny.
-Jakmile Bob obdrží notifikační transakci od Alice, odvodí veřejný klíč BIP47 $K0$ ještě předtím, než jí poslal jakoukoliv platbu. Poté sleduje jakékoli platby na přidruženou adresu. Ve skutečnosti ihned odvodí několik adres, které bude sledovat ($K0$, $K1$, $K2$, $K3$...). Zde je, jak odvodí tento veřejný klíč $K0$:
-
-- Bob vybere první odvozený dětský soukromý klíč ze svého platebního kódu. Tento soukromý klíč se jmenuje $b$. Je spojen s veřejným klíčem $B$, s nímž Alice prováděla své výpočty v předchozím kroku:
-
+94b2e59510f2e1fa78411634c98a77bbb638e28fb2da00c9f359cd5fc8f87254
+````
+Questo sembra una transazione standard con un input consumato, un output di pagamento e un resto:
+![BTC204](assets/fr/232.webp)
+### Ricevere il Pagamento BIP47 e Derivare la Chiave Privata
+Alice ha appena effettuato il suo primo pagamento a un nuovo indirizzo BIP47 appartenente a Bob. Ora vediamo come Bob riceve questo pagamento. Vedremo anche perché Alice non ha accesso alla chiave privata dell'indirizzo che ha appena generato da sola, e come Bob recupera questa chiave per spendere i bitcoin che ha appena ricevuto.
+Non appena Bob riceve la transazione di notifica da Alice, deriva la chiave pubblica BIP47 $K0$ anche prima che lei abbia inviato qualsiasi pagamento. Poi monitora qualsiasi pagamento all'indirizzo associato. Infatti, deriva immediatamente diversi indirizzi che monitorerà ($K0$, $K1$, $K2$, $K3$...). Ecco come deriva questa chiave pubblica $K0$:
+- Bob seleziona la prima chiave privata derivata dal suo codice di pagamento. Questa chiave privata è denominata $b$. È associata alla chiave pubblica $B$ con cui Alice aveva fatto i suoi calcoli nel passaggio precedente:
 $$ b $$
-
-- Bob vybere první veřejný klíč Alice odvozený z jejího platebního kódu. Tento klíč se jmenuje $A$. Je spojen s soukromým klíčem $a$, s nímž Alice prováděla své výpočty, a o kterém ví pouze Alice. Bob může tento proces provést, protože zná Alicein platební kód, který mu byl předán s notifikační transakcí:
-
+- Bob seleziona la prima chiave pubblica di Alice derivata dal suo codice di pagamento. Questa chiave è denominata $A$. È associata alla chiave privata $a$ con cui Alice aveva fatto i suoi calcoli, e di cui solo Alice è a conoscenza. Bob può eseguire questo processo poiché è a conoscenza del codice di pagamento di Alice che le è stato trasmesso con la transazione di notifica:
 $$ A = a \cdot G $$
-
-- Bob vypočítá tajný bod $S$, přičtením a zdvojením bodů na eliptické křivce, aplikací svého soukromého klíče $b$ na Alicein veřejný klíč $A$. Zde nacházíme použití ECDH, které zaručuje, že tento bod $S$ bude stejný pro oba, Boba i Alici:
-
+- Bob calcola il punto segreto $S$, mediante addizione e raddoppio di punti sulla curva ellittica, applicando la sua chiave privata $b$ alla chiave pubblica di Alice $A$. Qui troviamo l'uso di ECDH che garantisce che questo punto $S$ sarà lo stesso sia per Bob che per Alice:
 $$ S = b \cdot A $$
-
-- Stejně jako Alice, Bob izoluje x-ovou souřadnici tohoto bodu $S$. Tuto hodnotu jsme pojmenovali $Sx$. Tuto hodnotu propustí funkcí SHA256, aby našel sdílené tajemství $s$ (malé písmeno):
-  $$ s = \text{SHA256}(Sx) $$
-
-- Stejně jako Alice, Bob vypočítá bod $s·G$ na eliptické křivce. Poté přičte tento tajný bod ke svému veřejnému klíči $B$. Získá tak nový bod na eliptické křivce, který interpretuje jako veřejný klíč $K0$:
-
+- Proprio come ha fatto Alice, Bob isola la coordinata x di questo punto $S$. Abbiamo chiamato questo valore $Sx$. Egli passa questo valore attraverso la funzione SHA256 per trovare il segreto condiviso $s$ (minuscolo):
+$$ s = \text{SHA256}(Sx) $$
+- Proprio come Alice, Bob calcola il punto $s·G$ sulla curva ellittica. Poi, aggiunge questo punto segreto alla sua chiave pubblica $B$. Ottiene così un nuovo punto sulla curva ellittica che interpreta come una chiave pubblica $K0$:
 $$ K0 = B + s \cdot G $$
-
-Jakmile Bob má tento veřejný klíč $K0$, může odvodit přidružený soukromý klíč, aby mohl utrácet své bitcoiny. On je jediný, kdo může tento soukromý klíč vygenerovat:
-
-- Bob přičte svůj dětský soukromý klíč $b$, odvozený z jeho osobního platebního kódu. On je jediný, kdo může získat hodnotu $b$. Poté přičte $b$ k sdílenému tajemství $s$, aby získal $k0$, soukromý klíč $K0$:
-
+Una volta che Bob ha questa chiave pubblica $K0$, può derivare la chiave privata associata per essere in grado di spendere i suoi bitcoin. È l'unico che può generare questa chiave privata:
+- Bob aggiunge la sua chiave privata figlio $b$ derivata dal suo codice di pagamento personale. È l'unico che può ottenere il valore di $b$. Poi, aggiunge $b$ con il segreto condiviso $s$ per ottenere $k0$, la chiave privata di $K0$:
 $$ k0 = b + s $$
-
-Díky zákonu skupiny eliptické křivky Bob získá přesně soukromý klíč odpovídající veřejnému klíči použitému Alice. Máme tedy:
-
+Grazie alla legge di gruppo della curva ellittica, Bob ottiene esattamente la chiave privata corrispondente alla chiave pubblica usata da Alice. Abbiamo quindi:
 $$ K0 = k0 \cdot G $$
-Shrneme kroky, které jsme právě společně prošli, abychom přijali platbu BIP47 a vypočítali odpovídající soukromý klíč:
-
-- Bob vybere první odvozený dětský soukromý klíč ze svého osobního platebního kódu;
-- Vypočítá tajný bod na eliptické křivce pomocí ECDH z prvního odvozeného dětského veřejného klíče z Aliceina řetězového kódu;
-- Tento tajný bod použije k výpočtu sdíleného tajemství pomocí SHA256;
-- Toto sdílené tajemství použije k výpočtu nového tajného bodu na eliptické křivce;
-- Přičte tento nový tajný bod ke svému osobnímu veřejnému klíči;
-- Získá nový efemerní veřejný klíč, na který mu Alice pošle její první platbu;
-- Bob vypočítá soukromý klíč spojený s tímto efemerním veřejným klíčem přičtením jeho odvozeného dětského soukromého klíče z jeho platebního kódu a sdíleného tajemství.
-
-![BTC204](assets/cs/66/24.webp)
-
-Protože Alice nemůže získat $b$ (Bobův soukromý klíč), nemůže určit $k0$ (soukromý klíč spojený s Bobovou přijímací adresou BIP47). Schématicky můžeme reprezentovat výpočet sdíleného tajemství $S$ takto:
-
-![BTC204](assets/cs/66/19.webp)
-
-Jakmile je sdílené tajemství nalezeno s ECDH, Alice a Bob vypočítají veřejný klíč platby BIP47 $K0$, a Bob také vypočítá přidružený soukromý klíč $k0$:
-
-![BTC204](assets/cs/66/25.webp)
-
-### Vrácení platby BIP47
-
-Protože Bob zná Alicein opakovaně použitelný platební kód, již má všechny potřebné informace k odeslání jejího vrácení peněz. Nebude potřebovat kontaktovat Alice znovu, aby požádal o jakékoli informace. Bude stačit, když ji upozorní notifikační transakcí, zejména aby mohla získat své adresy BIP47 pomocí svého seedu, a poté jí může také poslat až `2^32` plateb.
-
-Funkcionalita vrácení peněz je specifická pro BIP47 a je jednou z jeho výhod oproti jiným metodám, které budeme studovat v nadcházejících kapitolách, jako jsou Silent Payments.
-
-Bob může poté vrátit Alice peníze stejným způsobem, jakým mu poslala platby. Role jsou obrácené:
-
-![BTC204](assets/cs/66/26.webp)
-_Velké poděkování [Fanis Michalakis](https://x.com/FanisMichalakis) za jeho recenzi a cenné odborné rady k článku, který inspiroval k napsání této kapitoly!_
-
+Riassumerò i passaggi che abbiamo appena esaminato insieme per ricevere un pagamento BIP47 e calcolare la chiave privata corrispondente:
+- Bob seleziona la prima chiave privata figlio derivata dal suo codice di pagamento personale;
+- Calcola un punto segreto sulla curva ellittica usando ECDH dalla prima chiave pubblica figlio derivata dal codice catena di Alice;
+- Usa questo punto segreto per calcolare un segreto condiviso con SHA256;
+- Usa questo segreto condiviso per calcolare un nuovo punto segreto sulla curva ellittica;
+- Aggiunge questo nuovo punto segreto alla sua chiave pubblica personale;
+- Ottiene una nuova chiave pubblica effimera, alla quale Alice invierà il suo primo pagamento;
+- Bob calcola la chiave privata associata a questa chiave pubblica effimera aggiungendo la sua chiave privata figlio derivata dal suo codice di pagamento e il segreto condiviso.
+![BTC204](assets/it/66/24.webp)
+Poiché Alice non può ottenere $b$ (la chiave privata di Bob), lei non è in grado di determinare $k0$ (la chiave privata associata all'indirizzo di ricezione BIP47 di Bob). Schematicamente, possiamo rappresentare il calcolo del segreto condiviso $S$ così:
+![BTC204](assets/it/66/19.webp)
+Una volta trovato il segreto condiviso con ECDH, Alice e Bob calcolano la chiave pubblica di pagamento BIP47 $K0$, e Bob calcola anche la chiave privata associata $k0$:
+![BTC204](assets/it/66/25.webp)
+### Rimborsare il Pagamento BIP47
+Poiché Bob è a conoscenza del codice di pagamento riutilizzabile di Alice, ha già tutte le informazioni necessarie per inviarle un rimborso. Non avrà bisogno di contattare nuovamente Alice per chiedere informazioni. Dovrà semplicemente notificarla con una transazione di notifica, specialmente affinché lei possa recuperare i suoi indirizzi BIP47 con il suo seed, e poi potrà anche inviarle fino a `2^32` pagamenti.
+La funzionalità di rimborso è specifica per BIP47 ed è uno dei suoi vantaggi rispetto ad altri metodi che studieremo nei prossimi capitoli, come i Pagamenti Silenziosi.
+Bob può quindi rimborsare Alice nello stesso modo in cui lei gli ha inviato i pagamenti. I ruoli si invertono:
+![BTC204](assets/it/66/26.webp)
+_Un grande ringraziamento a [Fanis Michalakis](https://x.com/FanisMichalakis) per la sua revisione e preziosi consigli esperti sull'articolo che ha ispirato la scrittura di questo capitolo!_
 https://planb.network/tutorials/privacy/on-chain/paynym-bip47-a492a70b-50eb-4f95-a766-bae2c5535093
-
-## Tiché platby
-
+## Pagamenti Silenziosi
 <chapterId>2871d594-414e-4598-a830-91c9eb84dfb8</chapterId>
-
-BIP47 byl kritizován za svou neefektivitu na blockchainu. Jak bylo vysvětleno v předchozí kapitole, vyžaduje notifikační transakci pro každého nového příjemce. Toto omezení se stává zanedbatelným, pokud plánujete zřídit trvalý platební kanál s tímto příjemcem. Skutečně, jedna notifikační transakce otevírá cestu pro téměř nekonečný počet následujících BIP47 plateb.
-
-Nicméně, v určitých situacích může být notifikační transakce překážkou pro uživatele. Vezměme si příklad jednorázového daru příjemci: s klasickou Bitcoin adresou stačí jedna transakce k provedení daru. Ale s BIP47 jsou nutné dvě transakce: jedna pro notifikaci a druhá pro samotnou platbu. Když je poptávka po blokovém prostoru nízká a transakční poplatky jsou minimální, tento další krok obecně není problém. Nicméně, během období zácpy mohou být transakční poplatky exorbitantní pro jednu platbu, potenciálně zdvojnásobující náklady pro uživatele ve srovnání se standardní Bitcoin transakcí, což může být pro uživatele nepřijatelné.
-
-Pro situace, kdy uživatel plánuje provést pouze několik plateb na statický identifikátor, byla vyvinuta jiná řešení. Mezi nimi jsou Tiché platby, popsané v [BIP352](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki). Tento protokol umožňuje použití statického identifikátoru pro příjem plateb bez generování opětovného použití adresy a bez nutnosti použití notifikačních transakcí. Pojďme se podívat, jak tento protokol funguje.
-
+Il BIP47 è stato criticato per la sua inefficienza sulla blockchain. Come spiegato nel capitolo precedente, richiede una transazione di notifica per ogni nuovo destinatario. Questo vincolo diventa trascurabile se si prevede di stabilire un canale di pagamento duraturo con questo destinatario. Infatti, una singola transazione di notifica apre la strada a un numero quasi infinito di pagamenti BIP47 successivi.
+Tuttavia, in determinate situazioni, la transazione di notifica può rappresentare un ostacolo per l'utente. Prendiamo l'esempio di una donazione una tantum a un destinatario: con un indirizzo Bitcoin classico, una singola transazione è sufficiente per effettuare la donazione. Ma con il BIP47, sono necessarie due transazioni: una per la notifica e un'altra per il pagamento effettivo. Quando la domanda di spazio nel blocco è bassa e le commissioni di transazione sono minime, questo passaggio aggiuntivo generalmente non rappresenta un problema. Tuttavia, durante i periodi di congestione, le commissioni di transazione possono diventare esorbitanti per un singolo pagamento, potenzialmente raddoppiando il costo per l'utente rispetto a una transazione Bitcoin standard, il che può essere inaccettabile per l'utente.
+Per situazioni in cui l'utente prevede di effettuare solo pochi pagamenti a un identificatore statico, sono state sviluppate altre soluzioni. Tra queste ci sono i Pagamenti Silenziosi, descritti nel [BIP352](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki). Questo protocollo consente l'uso di un identificatore statico per ricevere pagamenti senza generare riutilizzo dell'indirizzo e senza richiedere l'uso di transazioni di notifica. Esaminiamo come funziona questo protocollo.
 ---
-
-_Pro plné pochopení této kapitoly je nezbytné být obeznámen s fungováním ECDH (Elliptic Curve Diffie-Hellman) a kryptografickou derivací klíčů v HD peněžence. Tyto koncepty byly podrobně popsány v předchozí kapitole o BIP47. Zde je znovu neproberu. Pokud nejste s těmito pojmy ještě obeznámeni, doporučuji před pokračováním v této kapitole konzultovat předchozí kapitolu. Rizika spojená s opětovným používáním přijímacích adres ani důležitost mít unikátní identifikátor pro příjem plateb zde také nebudu znovu probírat._
-
+_Per comprendere appieno questo capitolo, è essenziale essere familiari con il funzionamento di ECDH (Elliptic Curve Diffie-Hellman) e la derivazione delle chiavi crittografiche in un portafoglio HD. Questi concetti sono stati dettagliati nel capitolo precedente sul BIP47. Non li ripeterò qui. Se non sei ancora familiare con queste nozioni, ti consiglio di consultare il capitolo precedente prima di continuare con questo. Non riprenderò nemmeno i rischi associati al riutilizzo degli indirizzi di ricezione, né l'importanza di avere un identificatore unico per ricevere pagamenti._
 ---
-
-### Proč nepřesunout notifikaci?
-
-Jak bylo diskutováno v kapitole o BIP47, notifikační transakce primárně plní dvě funkce:
-
-- Informuje příjemce;
-- Přenáší platební kód odesílatele.
-
-Mohl by se člověk naivně domnívat, že tento notifikační proces by mohl být proveden mimo řetězec. Teoreticky je to zcela proveditelné: stačilo by, aby příjemce uvedl způsob komunikace pro příjem BIP47 platebních kódů od odesílatelů. Nicméně, tento přístup představuje dvě hlavní problémy:
-
-- Zaprvé, přesunul by proces přenosu kódu na jiný komunikační protokol. Problémy související s náklady a soukromím výměny by zůstaly, ale byly by jednoduše přeneseny na tento nový protokol. Z hlediska soukromí by to také mohlo vytvořit spojení mezi identitou uživatele a aktivitou na blockchainu, což je něco, čemu se snažíme vyhnout tím, že notifikaci provádíme přímo na blockchainu. Navíc by provádění notifikace mimo blockchain představovalo rizika cenzury (jako je blokování finančních prostředků), která na Bitcoinu neexistují.
-- Dále by to představovalo problém s obnovou. S BIP47 musí příjemce nutně znát platební kódy odesílatelů, aby mohl přistupovat k prostředkům. To platí v době přijetí, ale také v případě obnovy prostředků prostřednictvím seedu v případě ztráty peněženky. S onchain notifikacemi se tomuto riziku vyhýbáme, protože uživatel může jednoduše najít a dešifrovat transakce s oznámením tím, že zná svůj seed. Pokud by však bylo oznámení provedeno mimo blockchain, uživatel by musel udržovat dynamickou zálohu všech přijatých platebních kódů, což je pro průměrného uživatele nepraktické.
-  Všechna tato omezení činí použití onchain notifikace nezbytným v kontextu BIP47. Silent Payments se však konkrétně snaží vyhnout tomuto kroku onchain notifikace kvůli jeho nákladům. Proto přijaté řešení není přesunout notifikaci, ale zcela ji eliminovat. Pro dosažení tohoto cíle musí být přijat kompromis: skenování. Na rozdíl od BIP47, kde uživatel přesně ví, kde najít své prostředky díky transakcím s oznámením, v kontextu Silent Payments musí uživatel prozkoumat všechny existující Bitcoinové transakce, aby zjistil, zda nejsou některé platby určeny pro něj. Aby se snížilo toto operační břemeno, hledání Silent Payments je omezeno pouze na transakce, které pravděpodobně obsahují takové platby, konkrétně ty, které obsahují alespoň jeden Taproot P2TR výstup. Skenování se také zaměřuje výhradně na transakce od data vytvoření peněženky (není třeba skenovat transakce sahající až do roku 2009, pokud byla peněženka vytvořena v roce 2024).
-
-Proto můžete vidět, proč BIP47 a Silent Payments, ačkoli mají podobný cíl, zahrnují různé kompromisy a **tak skutečně vyhovují odlišným případům užití**. Pro jednorázové platby, jako jsou příležitostné darování, jsou Silent Payments vhodnější kvůli jejich nižším nákladům. Naopak pro pravidelné transakce ke stejnému příjemci, jako je případ burzovních platforem nebo těžebních poolů, by mohl být preferován BIP47.
-Pojďme společně prozkoumat technické fungování Silent Payments, abychom lépe pochopili jejich důsledky. K tomu navrhuji, abychom postupovali stejně jako vysvětlující dokument BIP352. Postupně rozebereme výpočty, které je třeba provést, prvek po prvku, odůvodňující každý nový přídavek.
-
-### Některé koncepty k pochopení
-
-Než začneme, je důležité objasnit, že Silent Payments se spoléhají výhradně na použití typů skriptů P2TR (_Pay to Taproot_). Na rozdíl od BIP47 není nutné odvozovat přijímací adresy z dětských veřejných klíčů jejich hašováním. Ve standardu P2TR je upravený veřejný klíč používán přímo a otevřeně v adrese. Takže Taproot přijímací adresa je v podstatě veřejný klíč doprovázený nějakými metadaty. Tento upravený veřejný klíč je agregací dvou dalších veřejných klíčů: jednoho umožňujícího přímé a tradiční utrácení prostřednictvím jednoduchého podpisu a druhého představujícího kořen Merkle stromu MAST, který autorizuje utrácení podmíněné splněním jedné z potenciálně zapsaných podmínek v Merkle stromu.
-
-![BTC204](assets/cs/67/01.webp)
-
-Rozhodnutí omezit Silent Payments výhradně na Taproot je motivováno dvěma hlavními důvody:
-
-- Zaprvé, výrazně to usnadňuje implementaci a budoucí aktualizace v softwaru peněženky, protože je třeba dodržovat pouze jeden standard;
-- Zadruhé, tento přístup pomáhá zlepšit anonymní sadu uživatelů tím, že je povzbuzuje, aby se nerozptylovali mezi různé typy skriptů, které generují odlišné otisky peněženek v analýze řetězce (pro více informací o tomto konceptu vás zvu, abyste si přečetli kapitolu 4 části 2).
-
-### Naivní odvození veřejného klíče Silent Payments
-
-Začněme s jednoduchým příkladem, který vám pomůže pochopit základní fungování SP (Silent Payments). Vezměme Alice a Boba, dva uživatele Bitcoinu. Alice chce poslat bitcoiny Bobovi na novou přijímací adresu. V tomto procesu musí být splněny tři cíle:
-
-- Alice musí být schopna vygenerovat novou adresu;
-- Bob musí být schopen identifikovat platbu poslanou na tuto konkrétní adresu;
-- Bob musí být schopen získat soukromý klíč spojený s touto adresou, aby mohl své prostředky utratit.
-
-Alice má v její Bitcoinové peněžence UTXO zabezpečené následujícím párem klíčů:
-
-- $a$: soukromý klíč;
-- $A$: veřejný klíč ($A = a \cdot G$)
-
-Bob má SP adresu, kterou zveřejnil na internetu s:
-
-- $b$: soukromý klíč;
-- $B$: veřejný klíč ($B = b \cdot G$)
-  Pomocí získání Bobovy adresy je Alice schopna vypočítat novou prázdnou adresu, která patří Bobovi pomocí ECDH. Tuto adresu nazvěme $P$:
-  $$ P = B + \text{hash}(a \cdot B) \cdot G $$
-
-V této rovnici Alice jednoduše vypočítala skalární součin svého soukromého klíče $a$ a Bobova veřejného klíče $B$. Tento výsledek pak prošla hashovací funkcí známou všem. Výstupní hodnota je pak skalárně vynásobena generátorovým bodem $G$ eliptické křivky `secp256k1`. Nakonec Alice přičte získaný bod k Bobovu veřejnému klíči $B$. Jakmile má Alice tuto adresu $P$, použije ji jako výstup v transakci, což znamená, že na ni pošle bitcoiny.
-
-> _V kontextu Silent Payments odpovídá funkce "hash" hashovací funkci SHA256 specificky označené `BIP0352/SharedSecret`, což zajišťuje, že vygenerované hashe jsou unikátní pro tento protokol a nelze je znovu použít v jiných kontextech, zároveň také poskytuje dodatečnou ochranu proti opětovnému použití nonců v podpisech. Tento standard odpovídá tomu, který je [specifikován v BIP340 pro Schnorr podpisy](https://github.com/bitcoin/bips/blob/master/bip-0340.mediawiki) na `secp256k1`._
-
-Díky vlastnostem eliptické křivky, na které ECDH spoléhá, víme, že:
-
+### Perché non spostare la notifica?
+Come discusso nel capitolo sul BIP47, la transazione di notifica svolge principalmente due funzioni:
+- Notifica il destinatario;
+- Trasmette il codice di pagamento del mittente.
+Si potrebbe ingenuamente pensare che questo processo di notifica potrebbe essere effettuato off-chain. In teoria, ciò è completamente fattibile: sarebbe sufficiente per il destinatario indicare un mezzo di comunicazione per ricevere i codici di pagamento BIP47 dai mittenti. Tuttavia, questo approccio presenta due problemi principali:
+- Primo, ciò sposterebbe il processo di trasmissione del codice su un altro protocollo di comunicazione. Le questioni relative ai costi e alla privacy dello scambio rimarrebbero, ma sarebbero semplicemente trasferite a questo nuovo protocollo. In termini di privacy, ciò potrebbe anche creare un collegamento tra l'identità di un utente e l'attività sulla blockchain, cosa che cerchiamo di evitare eseguendo la notifica direttamente sulla blockchain. Inoltre, effettuare la notifica fuori dalla blockchain introdurrebbe rischi di censura (come il blocco dei fondi) che non esistono su Bitcoin;
+Successivamente, ciò porrebbe un problema di recupero. Con BIP47, il destinatario deve assolutamente conoscere i codici di pagamento dei mittenti per accedere ai fondi. Questo è vero al momento della ricezione, ma anche in caso di recupero dei fondi tramite il seed in caso di perdita del portafoglio. Con le notifiche onchain, questo rischio viene evitato, poiché l'utente può trovare e decifrare le transazioni di notifica semplicemente conoscendo il proprio seed. Tuttavia, se la notifica viene eseguita fuori dalla blockchain, l'utente dovrebbe mantenere un backup dinamico di tutti i codici di pagamento ricevuti, il che è impraticabile per l'utente medio.
+Tutti questi vincoli rendono l'uso della notifica onchain indispensabile nel contesto di BIP47. Eppure, i Pagamenti Silenziosi cercano specificamente di evitare questo passaggio di notifica onchain a causa del suo costo. Pertanto, la soluzione adottata non è spostare la notifica, ma eliminarla completamente. Per raggiungere questo obiettivo, deve essere accettato un compromesso: quello della scansione. A differenza di BIP47, dove l'utente sa esattamente dove trovare i propri fondi grazie alle transazioni di notifica, nel contesto dei Pagamenti Silenziosi, l'utente deve esaminare tutte le transazioni Bitcoin esistenti per rilevare eventuali pagamenti che potrebbero essere destinati a loro. Per ridurre questo onere operativo, la ricerca di Pagamenti Silenziosi è limitata solo alle transazioni che probabilmente contengono tali pagamenti, ovvero quelle che includono almeno un output Taproot P2TR. La scansione si concentra esclusivamente anche sulle transazioni dalla data di creazione del portafoglio (non c'è bisogno di scandire transazioni risalenti al 2009 se il portafoglio è stato creato nel 2024).
+Pertanto, potete vedere perché BIP47 e Pagamenti Silenziosi, sebbene mirino a un obiettivo simile, comportano compromessi diversi e **quindi si rivolgono effettivamente a casi d'uso distinti**. Per i pagamenti una tantum, come le donazioni occasionali, i Pagamenti Silenziosi sono più appropriati a causa del loro costo inferiore. Al contrario, per le transazioni regolari allo stesso destinatario, come nel caso delle piattaforme di scambio o dei pool di mining, BIP47 potrebbe essere preferito.
+Esploriamo insieme il funzionamento tecnico dei Pagamenti Silenziosi per capirne meglio le implicazioni. Per fare ciò, suggerisco di adottare lo stesso approccio del documento esplicativo di BIP352. Scomporremo gradualmente i calcoli da eseguire, elemento per elemento, giustificando ogni nuova aggiunta.
+### Alcuni concetti da comprendere
+Prima di iniziare, è importante chiarire che i Pagamenti Silenziosi si basano esclusivamente sull'uso di tipi di script P2TR (_Pay to Taproot_). A differenza di BIP47, non è necessario derivare gli indirizzi di ricezione dalle chiavi pubbliche figlie tramite hashing. Infatti, nello standard P2TR, la chiave pubblica modificata viene utilizzata direttamente e apertamente nell'indirizzo. Così, un indirizzo di ricezione Taproot è essenzialmente una chiave pubblica accompagnata da alcuni metadati. Questa chiave pubblica modificata è l'aggregazione di altre due chiavi pubbliche: una che consente la spesa diretta e tradizionale tramite una semplice firma, e l'altra che rappresenta la radice di Merkle del MAST, che autorizza la spesa soggetta alla soddisfazione di una delle condizioni potenzialmente iscritte nell'albero di Merkle.
+![BTC204](assets/it/67/01.webp)
+La decisione di limitare i Pagamenti Silenziosi esclusivamente a Taproot è motivata da due ragioni principali:
+- Primo, facilita significativamente l'implementazione e gli aggiornamenti futuri nel software del portafoglio, poiché è necessario aderire a un solo standard;
+- In secondo luogo, questo approccio aiuta a migliorare l'insieme di anonimato degli utenti incoraggiandoli a non disperdersi tra diversi tipi di script, che generano impronte di portafoglio distinte nell'analisi della catena (per maggiori informazioni su questo concetto, vi invito a consultare il capitolo 4 della parte 2).
+### Derivazione naive di una chiave pubblica di Pagamenti Silenziosi
+Iniziamo con un semplice esempio che ti aiuterà a comprendere il funzionamento di base dei Pagamenti Silenziosi (SP, Silent Payments). Prendiamo Alice e Bob, due utenti Bitcoin. Alice vuole inviare bitcoin a Bob su un nuovo indirizzo di ricezione. Tre obiettivi devono essere raggiunti in questo processo:
+- Alice deve essere in grado di generare un nuovo indirizzo;
+- Bob deve essere in grado di identificare un pagamento inviato a questo specifico indirizzo;
+- Bob deve essere in grado di ottenere la chiave privata associata a questo indirizzo per poter spendere i suoi fondi.
+Alice ha un UTXO nel suo portafoglio Bitcoin protetto con la seguente coppia di chiavi:
+- $a$: la chiave privata;
+- $A$: la chiave pubblica ($A = a \cdot G$)
+Bob ha un indirizzo SP che ha pubblicato su internet con:
+- $b$: la chiave privata;
+- $B$: la chiave pubblica ($B = b \cdot G$)
+Recuperando l'indirizzo di Bob, Alice è in grado di calcolare un nuovo indirizzo vuoto che appartiene a Bob usando ECDH. Chiamiamo questo indirizzo $P$:
+$$ P = B + \text{hash}(a \cdot B) \cdot G $$
+In questa equazione, Alice ha semplicemente calcolato il prodotto scalare della sua chiave privata $a$ e della chiave pubblica di Bob $B$. Ha passato questo risultato attraverso una funzione hash conosciuta da tutti. Il valore di output è poi moltiplicato scalarmente per il punto generatore $G$ della curva ellittica `secp256k1`. Infine, Alice aggiunge il punto ottenuto alla chiave pubblica di Bob $B$. Una volta che Alice ha questo indirizzo $P$, lo usa come output in una transazione, il che significa che invia bitcoin ad esso.
+> _Nel contesto dei Pagamenti Silenziosi, la funzione "hash" corrisponde a una funzione hash SHA256 etichettata specificamente con `BIP0352/SharedSecret`, assicurando che gli hash generati siano unici per questo protocollo e non possano essere riutilizzati in altri contesti, fornendo anche una protezione aggiuntiva contro il riutilizzo di nonce nelle firme. Questo standard corrisponde a quello [specificato nel BIP340 per le firme Schnorr](https://github.com/bitcoin/bips/blob/master/bip-0340.mediawiki) su `secp256k1`._
+Grazie alle proprietà della curva ellittica su cui si basa ECDH, sappiamo che:
 $$ a \cdot B = b \cdot A $$
-
-Bob tedy bude schopen vypočítat přijímací adresu, na kterou Alice poslala bitcoiny. K tomu sleduje všechny Bitcoinové transakce, které splňují kritéria Silent Payments, a k každé z nich aplikuje následující výpočet, aby zjistil, zda je platba adresována jemu (_skenování_):
-
+Bob sarà quindi in grado di calcolare l'indirizzo di ricezione su cui Alice ha inviato i bitcoin. Per fare ciò, monitora tutte le transazioni Bitcoin che soddisfano i criteri dei Pagamenti Silenziosi e applica il seguente calcolo a ciascuna di esse per vedere se il pagamento è indirizzato a lui (_scanning_):
 $$ P' = B + \text{hash}(b \cdot A) \cdot G $$
-
-Když skenuje Aliceinu transakci, uvědomí si, že $P'$ se rovná $P$. Tím pádem ví, že tato platba je adresována jemu:
-
+Quando esamina la transazione di Alice, si rende conto che $P'$ è uguale a $P$. Sa quindi che questo pagamento è indirizzato a lui:
 $$ P' = B + \text{hash}(b \cdot A) \cdot G = B + \text{hash}(a \cdot B) \cdot G = P $$
-
-Odtud bude Bob schopen vypočítat soukromý klíč $p$, který umožňuje utratit adresu $P$:
-
+Da qui, Bob sarà in grado di calcolare la chiave privata $p$ che consente di spendere l'indirizzo $P$:
 $$ p = (b + \text{hash}(b \cdot A)) \bmod n $$
-
-Jak vidíte, pro výpočet tohoto soukromého klíče $p$ je nutné mít soukromý klíč $b$. Pouze Bob má tento soukromý klíč $b$. Bude tedy skutečně jediný, kdo bude moci utratit bitcoiny poslané na jeho adresu Silent Payments.
-
-![BTC204](assets/notext/67/02.webp)
-_Popisek:_
-
-- $B$: Veřejný klíč / statická adresa publikovaná Bobem
-- $b$: Bobův soukromý klíč
-- $A$: Veřejný klíč Aliceina UTXO použitého jako vstup pro transakci
-- $a$: Alicin soukromý klíč
-- $G$: Generátorový bod eliptické křivky `secp256k1`
-- $\text{SHA256}$: Hašovací funkce SHA256 označená s `BIP0352/SharedSecret`
-- $s$: Společné tajemství ECDH
-- $P$: Veřejný klíč / unikátní adresa pro platbu Bobovi
-
-Zde je původně spíše naivní přístup k použití Bobovy statické adresy, označené $B$, k odvození unikátní adresy $P$ pro posílání bitcoinů. Tato metoda je však příliš zjednodušená a má několik nedostatků, které je třeba opravit. Prvním problémem je, že v tomto schématu nemůže Alice vytvořit více výstupů pro Boba v rámci téže transakce.
-
-### Jak vytvořit více výstupů?
-
-V příkladu z předchozí sekce Alice vytvoří jediný výstup, který půjde Bobovi na jeho unikátní adresu $P$. S tím samým vybraným vstupem je pro Alici nemožné vytvořit dvě odlišné původní adresy pro Boba, protože použitá metoda by vždy vedla ke stejnému výsledku pro $P$, tedy téže adrese. Existuje však mnoho situací, kdy by Alice chtěla rozdělit svou platbu Bobovi na několik menších částek, čímž by vytvořila více UTXO. Je tedy nutné najít metodu, která to umožní.
-
-K dosažení tohoto cíle mírně upravíme výpočet, který Alice provádí k odvození $P$, tak aby mohla generovat dvě odlišné adresy pro Boba, konkrétně $P_0$ a $P_1$.
-
-K úpravě výpočtu a získání 2 různých adres stačí přidat celé číslo, které změní výsledek. Alice tedy přidá do svého výpočtu $0$ pro získání adresy $P_0$ a $1$ pro získání adresy $P_1$. Toto celé číslo nazveme $i$:
-
+Come puoi vedere, per calcolare questa chiave privata $p$, è necessario avere la chiave privata $b$. Solo Bob ha questa chiave privata $b$. Sarà quindi effettivamente l'unico in grado di spendere i bitcoin inviati al suo indirizzo di Pagamenti Silenziosi.
+![BTC204](assets/fr/236.webp)
+_Didascalia:_
+- $B$: La chiave pubblica / indirizzo statico pubblicato da Bob
+- $b$: La chiave privata di Bob
+- $A$: La chiave pubblica dell'UTXO di Alice usata come input per la transazione
+- $a$: La chiave privata di Alice
+- $G$: Il punto generatore della curva ellittica `secp256k1`
+- $\text{SHA256}$: La funzione di hashing SHA256 etichettata con `BIP0352/SharedSecret`
+- $s$: Il segreto comune ECDH
+- $P$: La chiave pubblica / indirizzo unico per il pagamento a Bob
+Ecco un approccio inizialmente piuttosto ingenuo nell'uso dell'indirizzo statico di Bob, denotato $B$, per derivare un indirizzo unico $P$ per inviare bitcoin. Tuttavia, questo metodo è troppo semplicistico e presenta diversi difetti che necessitano di correzione. Il primo problema è che, in questo schema, Alice non può creare molteplici output per Bob all'interno della stessa transazione.
+### Come creare molteplici output?
+Nell'esempio della sezione precedente, Alice crea un singolo output che andrà a Bob al suo indirizzo unico $P$. Con lo stesso input selezionato, è impossibile per Alice creare due indirizzi vergini distinti per Bob, poiché il metodo utilizzato porterebbe sempre allo stesso risultato per $P$, quindi allo stesso indirizzo. Tuttavia, ci possono essere molte situazioni in cui Alice desidera dividere il suo pagamento a Bob in diverse piccole somme, creando così molteplici UTXO. È quindi necessario trovare un metodo che permetta di farlo.
+Per raggiungere questo obiettivo, modificheremo leggermente il calcolo che Alice esegue per derivare $P$, in modo che possa generare due indirizzi distinti per Bob, ovvero $P_0$ e $P_1$.
+Per modificare il calcolo e ottenere 2 indirizzi diversi, è sufficiente aggiungere un intero che modifica il risultato. Così, Alice aggiungerà $0$ nel suo calcolo per ottenere l'indirizzo $P_0$ e $1$ per ottenere l'indirizzo $P_1$. Chiamiamo questo intero $i$:
 $$ P_i = B + \text{hash}(a \cdot B \text{ ‖ } i) \cdot G $$
-
-Proces výpočtu zůstává nezměněn oproti předchozí metodě, s tím rozdílem, že tentokrát Alice spojí $a \cdot B$ s $i$ před pokračováním k haši. Stačí pak změnit $i$ na získání nové adresy patřící Bobovi. Například:
-
+Il processo di calcolo rimane invariato rispetto al metodo precedente, eccetto che questa volta Alice concatenerà $a \cdot B$ con $i$ prima di procedere al hash. È quindi sufficiente cambiare $i$ per avere un nuovo indirizzo appartenente a Bob. Ad esempio:
 $$ P_0 = B + \text{hash}(a \cdot B \text{ ‖ } 0) \cdot G $$
-
 $$ P_1 = B + \text{hash}(a \cdot B \text{ ‖ } 1) \cdot G $$
-Když Bob prohledává blockchain za Silent Payments určenými pro něj, začne použitím $i = 0$ pro adresu $P_0$. Pokud na $P_0$ nenajde žádnou platbu, uzavře, že tato transakce neobsahuje žádné Silent Payments pro něj a přestane ji analyzovat. Pokud však $P_0$ je platná a obsahuje platbu pro něj, pokračuje s $P_1$ ve stejné transakci, aby zkontroloval, zda Alice provedla druhou platbu. Pokud se $P_1$ ukáže jako neplatná, zastaví své hledání této transakce; jinak pokračuje v testování postupných hodnot $i$:
-$$ P_0 = B + \text{hash}(b \cdot A \text{ ‖ } 0) \cdot G $$
+Quando Bob esamina la blockchain per i Pagamenti Silenziosi destinati a lui, inizia utilizzando $i = 0$ per l'indirizzo $P_0$. Se non trova nessun pagamento su $P_0$, conclude che questa transazione non contiene nessun Pagamento Silenzioso per lui e smette di analizzarla. Tuttavia, se $P_0$ è valido e contiene un pagamento per lui, procede con $P_1$ nella stessa transazione per verificare se Alice ha effettuato un secondo pagamento. Se $P_1$ risulta essere invalido, interrompe la sua ricerca per questa transazione; altrimenti, continua a testare valori successivi di $i$.
 $$ P_1 = B + \text{hash}(b \cdot A \text{ ‖ } 1) \cdot G $$
-Protože Bob ihned zastaví na $i = 0$, pokud $P_0$ nic nevydá, použití tohoto celého čísla přidává téměř žádnou dodatečnou operativní zátěž pro Boba při skenování transakcí.
-
-Bob pak může vypočítat soukromé klíče stejným způsobem:
-
-
+Poiché Bob si ferma immediatamente a $i = 0$ se $P_0$ non produce risultati, l'uso di questo intero aggiunge quasi nessun onere operativo aggiuntivo a Bob per la fase di scansione delle transazioni.
+Bob può quindi calcolare le chiavi private nello stesso modo:
 $$
 
 p_0 = (b + \text{hash}(b \cdot A \text{ ‖ } 0)) \bmod n
 
 $$
-
-
-$$
-
 p_1 = (b + \text{hash}(b \cdot A \text{ ‖ } 1)) \bmod n
-
 $$
 
-![BTC204](assets/notext/67/03.webp)
+_Didascalia:_
 
-_Popisek:_
 
-- $B$: Veřejný klíč / statická adresa publikovaná Bobem
-- $b$: Bobův soukromý klíč
-- $A$: Veřejný klíč Alice UTXO použitý jako vstup pro transakci
-- $a$: Alicein soukromý klíč
-- $G$: Generátorový bod eliptické křivky `secp256k1`
-- $\text{SHA256}$: Hašovací funkce SHA256 označená s `BIP0352/SharedSecret`
-- $s_0$: První sdílené tajemství ECDH
-- $s_1$: Druhé sdílené tajemství ECDH
-- $P_0$: První veřejný klíč / unikátní adresa pro platbu Bobovi
-- $P_1$: Druhý veřejný klíč / unikátní adresa pro platbu Bobovi
+- $B$: La chiave pubblica / indirizzo statico pubblicato da Bob
+- $b$: Soukromá chiave Boba
+- $A$: La chiave pubblica dell'UTXO di Alice usata come input per la transazione
+- $a$: La chiave privata di Alice
+- $G$: Generátor elitární křivky `secp256k1`
+- $\text{SHA256}$: La funzione di hash SHA256 etichettata con `BIP0352/SharedSecret`
+- $s_0$: první segment ECDH
+- $s_1$: Druhý segment condiviso ECDH
+- $P_0$: La prima chiave pubblica / indirizzo unico per il pagamento a Bob
+- $P_1$: La seconda chiave pubblica / indirizzo unico per il pagamento a Bob
 
-S touto metodou začínáme mít pěkný protokol, ale stále existují některé výzvy, které je třeba překonat, zejména prevence opětovného použití adresy.
+Con questo metodo, iniziamo ad avere un bel protocollo, ma ci sono ancora alcune sfide da superare, in particolare la prevenzione del riutilizzo degli indirizzi.
 
-### Jak se vyhnout opětovnému použití adresy?
+### Come evitare il riutilizzo degli indirizzi?
 
-Jak jsme viděli v předchozích sekcích, Alice používá pár klíčů, které zabezpečují její UTXO, které utratí, aby vypočítala sdílené tajemství ECDH s Bobem. Toto tajemství jí umožňuje odvodit unikátní adresu $P_0$. Nicméně, pár klíčů ($a$, $A$) použitý Alicí může zabezpečit více UTXO, pokud tuto adresu několikrát použila. V případě, že Alice provede dvě platby na Bobovu statickou adresu $B$ pomocí dvou UTXO zabezpečených stejným klíčem $A$, dojde k opětovnému použití adresy pro Boba.
+Come abbiamo visto nelle sezioni precedenti, Alice utilizza la coppia di chiavi cheeggono il suo UTXO, che spenderà per calcolare il segreto condiviso ECDH con Bob. Questo segreto le permette di derivare l'indirizzo unico $P_0$. Tuttavia, la coppia di chiavi ($a$, $A$) usata da Alice può proteggere più UTXO se ha riutilizzato questo indirizzo diverse volte. Nel caso in cui Alice effettui due pagamenti all'indirizzo statico $B$ di Bob utilizzando due UTXO protetti dalla stessa chiave $A$, ciò comporterebbe un riutilizzo dell'indirizzo per Bob.
 
-> _Opětovné použití adresy je velmi špatná praxe pro soukromí uživatele. Abychom pochopili proč, doporučuji vám zkontrolovat první části tohoto školení._
+> _Il riutilizzo degli indirizzi è una pratica molto negativa per la privacy degli utenti. Per capire perché, vi consiglio di rivedere le prime parti di questa formazione._
+Infatti, poiché l'indirizzo unico $P_0$ è derivato da $A$ e $B$, se Alice deriva un secondo indirizzo per un secondo pagamento a $B$, con la stessa chiave $A$, finirà per ottenere lo stesso indirizzo $P_0$. Abychom se vyhnuli tomuto riziku a zabránili riutilizzo degli indirizzi all'interno dei Pagamenti Silenziosi, dobbiamo modificare leggermente i nostri calcoli.
 
-Skutečně, protože unikátní adresa $P_0$ je odvozena z $A$ a $B$, pokud Alice odvodí druhou adresu pro druhou platbu na $B$ se stejným klíčem $A$, skončí s tou samou adresou $P_0$. Abychom se vyhnuli tomuto riziku a zabránili opětovnému použití adresy v rámci Silent Payments, musíme naše výpočty mírně upravit.
-
-To, co chceme, je, aby každé UTXO spotřebované Alicí jako vstup platby dalo na Bobově straně unikátní adresu, i když několik UTXO je zabezpečeno stejným párem klíčů. Je tedy dostatečné přidat odkaz na UTXO do výpočtu unikátní adresy $P_0$. Tento odkaz bude jednoduše haš UTXO spotřebovaného jako vstup:
+Quello che vogliamo è che ogni UTXO consumato da Alice come input di un pagamento dia un indirizzo unico dal lato di Bob, anche se più UTXO sono protetti dalla stessa coppia di chiavi. È quindi sufficiente aggiungere un riferimento all'UTXO nel calcolo dell'indirizzo unico $P_0$. Questo riferimento sarà semplicemente l'hash dell'UTXO consumato come input:
 
 $$ \text{inputHash} = \text{hash}(\text{outpoint} \text{ ‖ } A) $$
 
-A tento vstupní odkaz, Alice jej přidá do svého výpočtu unikátní adresy $P_0$:
-$$ P_0 = B + \text{hash}(\text{inputHash} \cdot a \cdot B \text{ ‖ } 0) \cdot G $$
-Během svého prohledávání může Bob také přidat $\text{inputHash}$, protože vše, co potřebuje udělat, je sledovat transakci, aby odvodil $\text{outpoint}$:
+E questo riferimento di input, Alice lo aggiungerà nel suo calcolo dell'indirizzo unico $P_0$:
+
+Během skenování může Bob také přidat $\text{inputHash}$, protože to, co musí udělat, je zajistit převod pro získání $\text{outpoint}$:
 
 $$ P_0 = B + \text{hash}(\text{inputHash} \cdot b \cdot A \text{ ‖ } 0) \cdot G $$
 
-Když najde platný $P_0$, může vypočítat odpovídající soukromý klíč $p_0$:
-
+Když najdete platný $P_0$, můžete vypočítat odpovídající soukromý kód $p_0$:
 
 $$
-
 p_0 = (b + \text{hash}(\text{inputHash} \cdot b \cdot A \text{ ‖ } 0)) \bmod n
-
 $$
-
-![BTC204](assets/notext/67/04.webp)
-
-_Legenda:_
-
-- $B$: Veřejný klíč / statická adresa publikovaná Bobem
-- $b$: Bobův soukromý klíč
-- $A$: Veřejný klíč Aliceina UTXO použitého jako vstup pro transakci
-- $a$: Alicin soukromý klíč
-- $H$: Hash UTXO použitého jako vstup
-- $G$: Generátorový bod eliptické křivky `secp256k1`
-- $\text{SHA256}$: Hashovací funkce SHA256 označená s `BIP0352/SharedSecret`
-- $s_0$: První sdílené tajemství ECDH
-- $P_0$: První veřejný klíč / unikátní adresa pro platbu Bobovi
-
-V současné době naše výpočty předpokládají, že Alice používá pro svou transakci jediný vstup. Nicméně by měla být schopna použít více vstupů. V důsledku toho by na Bobově straně pro každou transakci obsahující více vstupů teoreticky potřeboval vypočítat ECDH pro každý vstup, aby určil, zda je platba určena pro něj. Tato metoda není uspokojivá, takže potřebujeme najít řešení, jak snížit pracovní zátěž!
-
-### Úprava veřejných klíčů ve vstupech
-
-Abychom tento problém vyřešili, místo použití páru klíčů zabezpečujícího konkrétní vstup na straně Alice, budeme používat součet všech párů klíčů použitých ve vstupech transakce. Tento součet bude poté považován za nový pár klíčů. Tato technika je známá jako "tweak".
-
-Například si představte, že transakce Alice má 3 vstupy, každý zabezpečený s jiným párem klíčů:
-
-- $a_0$ zabezpečuje vstup #0;
-- $a_1$ zabezpečuje vstup #1;
-- $a_2$ zabezpečuje vstup #2.
-
-![BTC204](assets/notext/67/05.webp)
-
-Podle výše popsané metody by Alice musela vybrat jediný pár klíčů mezi $a_0$, $a_1$ a $a_2$, aby vypočítala tajemství ECDH a vygenerovala unikátní platební adresu $P$ z Bobovy statické adresy $B$. Tento přístup však vyžaduje, aby Bob testoval každou možnost sekvenčně, začínaje $a_0$, poté $a_1$ a tak dále, dokud neidentifikuje pár generující platnou adresu $P$. Tento proces vyžaduje, aby Bob prováděl výpočet ECDH na všech vstupech všech transakcí, což výrazně zvyšuje pracovní zátěž při prohledávání.
-
-Abychom se tomuto vyhnuli, požádáme Alici, aby svůj výpočet $P$ provedla pomocí součtu všech klíčů ve vstupu. Vezmeme-li náš příklad, upravený soukromý klíč $a$ by byl vypočítán takto:
-
-$$ a = a_0 + a_1 + a_2 $$
-Podobně, Alice a Bob budou schopni vypočítat upravený veřejný klíč:
-$$ A = A_0 + A_1 + A_2 $$
-Díky této metodě Bob potřebuje pouze vypočítat součet veřejných klíčů transakce, poté vypočítat tajný klíč ECDH z $A$, což výrazně snižuje počet výpočtů potřebných pro krok skenování. Nicméně, jak si pamatujeme z předchozí sekce, do našeho výpočtu jsme zahrnuli hash $\text{inputHash}$, který je použit jako nonce k zabránění opětovnému použití adresy:
-
-$$ \text{inputHash} = \text{hash}(\text{outpoint} \text{ ‖ } A) $$
-
-Pokud však transakce obsahuje více vstupů, je nutné určit, který $\text{outpoint}$ bude v tomto výpočtu použit. Podle BIP352 je kritérium pro výběr $\text{outpoint}$ k použití vybrat ten nejmenší lexikograficky, což znamená vybrat UTXO, které se objeví jako první v abecedním pořadí. Tato metoda standardizuje výběr UTXO pro každou transakci. Například, pokud je tento nejmenší $\text{outpoint}$ lexikograficky $\text{outpoint}_L$, výpočet $\text{inputHash}$ bude:
-
-$$ \text{inputHash} = \text{hash}(\text{outpoint}\_L \text{ ‖ } A) $$
-
-Výpočty pak zůstávají identické s těmi, které byly prezentovány v předchozí sekci, s výjimkou toho, že soukromý klíč $a$ a jeho odpovídající veřejný klíč $A$ již nejsou párem zabezpečujícím jediný vstup, ale nyní reprezentují úpravu všech párů klíčů ve vstupech.
-
-### Oddělení klíčů pro utrácení a skenování
-
-Doposud jsme diskutovali o statické adrese Silent Payment $B$ jako o unikátním veřejném klíči. Pamatujte, že právě tento veřejný klíč $B$ je použit Alice k vytvoření sdíleného tajného klíče ECDH, který je poté použit k výpočtu unikátní platební adresy $P$. Bob používá tento veřejný klíč $B$ a odpovídající soukromý klíč $b$ pro krok skenování. Ale také použije soukromý klíč $b$ k výpočtu soukromého klíče $p$, který umožňuje utrácení z adresy $P$.
-
-Nevýhodou této metody je, že soukromý klíč $b$, který je použit k výpočtu všech soukromých klíčů pro adresy přijímající Silent Payments, je také použit Bobem pro skenování transakcí. Tento krok vyžaduje, aby klíč $b$ byl dostupný na softwaru peněženky připojeného k internetu, což ho vystavuje většímu riziku krádeže ve srovnání s jeho uchováním v cold wallet. Ideálně by bylo výhodné moci využívat Silent Payments při současném uchování soukromého klíče $b$, který kontroluje přístup ke všem ostatním soukromým klíčům, zabezpečeného na hardware peněžence. Naštěstí byl protokol přizpůsoben tak, aby to umožňoval.
-K dosažení tohoto cíle BIP352 specifikuje, že příjemce používá 2 různé páry klíčů:
-
-- $B_{\text{spend}}$: pro výpočet soukromých klíčů unikátních platebních adres;
-- $B_{\text{scan}}$: pro nalezení unikátních platebních adres.
-
-Tímto způsobem může Bob uchovávat soukromý klíč $b_{\text{spend}}$ na hardware peněžence a používat soukromý klíč $b_{\text{scan}}$ na online softwaru k nalezení svých Silent Payments, aniž by odhalil $b_{\text{spend}}$. Nicméně, veřejné klíče $B_{\text{scan}}$ a $B_{\text{spend}}$ jsou oba veřejně odhaleny, jelikož se nacházejí v Bobově statické adrese $B$:
-$$ B = B*{\text{scan}} \text{ ‖ } B*{\text{spend}} $$
-Pro výpočet unikátní platební adresy $P_0$ patřící Bobovi, Alice nyní provede následující výpočet:
-
-$$ P*0 = B*{\text{spend}} + \text{hash}(\text{inputHash} \cdot a \cdot B\_{\text{scan}} \text{ ‖ } 0) \cdot G $$
-
-Pro nalezení plateb adresovaných jemu, Bob provede následující výpočet:
-
-$$ P*0 = B*{\text{spend}} + \text{hash}(\text{inputHash} \cdot b\_{\text{scan}} \cdot A \text{ ‖ } 0) \cdot G $$
-
-Jak vidíte, dosud Bob nepotřeboval použít $b_{\text{spend}}$, který má ve své hardwarové peněžence. Když si bude přát utratit $P_0$, může poté provést následující výpočet pro nalezení soukromého klíče $p_0$:
-
-$$ p*0 = (b*{\text{spend}} + \text{hash}(\text{inputHash} \cdot b\_{\text{scan}} \cdot A \text{ ‖ } 0)) \bmod n $$
-
-![BTC204](assets/notext/67/06.webp)
-
-_Popisek:_
-
-- $B_{\text{scan}}$: Bobův veřejný klíč pro skenování (statická adresa)
-- $b_{\text{scan}}$: Bobův soukromý klíč pro skenování
-- $B_{\text{spend}}$: Bobův veřejný klíč pro utrácení (statická adresa)
-- $b_{\text{spend}}$: Bobův soukromý klíč pro utrácení
-- $A$: Součet veřejných klíčů ve vstupu (úprava)
-- $a$: Soukromý klíč odpovídající upravenému veřejnému klíči
-- $H$: Hash nejmenšího UTXO (lexikograficky) použitého ve vstupu
-- $G$: Generátorový bod eliptické křivky `secp256k1`
-- $\text{SHA256}$: Hashovací funkce SHA256 označená s `BIP0352/SharedSecret`
-- $s_0$: První sdílené tajemství ECDH
-- $P_0$: První veřejný klíč / unikátní platební adresa pro Boba
-
-### Používání SP adres s označením
-
-Bob tedy má pro Tiché Platby statickou adresu $B$ následovně:
-
-$$ B = B*{\text{scan}} \text{ ‖ } B*{\text{spend}} $$
-
-Problém s touto metodou je, že neumožňuje segregovat různé platby poslané na tuto adresu. Například, pokud má Bob 2 různé klienty pro svůj podnik a chce jasně rozlišit platby od každého z nich, potřeboval by 2 různé statické adresy. Naivní řešení, s aktuálním přístupem, by bylo, aby Bob vytvořil dvě oddělené peněženky, každou se svou vlastní statickou adresou, nebo dokonce zřídil dvě různé statické adresy v rámci téže peněženky. Toto řešení však vyžaduje skenování celého blockchainu dvakrát (jednou pro každou adresu) pro detekci plateb určených pro každou adresu. Toto dvojité skenování neracionálně zvyšuje operační zátěž pro Boba.
-K řešení tohoto problému BIP352 využívá systém označování, který umožňuje použití různých statických adres bez neúměrného zvyšování pracovní zátěže při hledání Silent Payments na blockchainu. K tomu je k veřejnému klíči pro utrácení $B_{\text{spend}}$ přidáno celé číslo $m$. Toto číslo může nabývat hodnoty $1$ pro první statickou adresu, poté $2$ pro druhou a tak dále. Klíče pro utrácení $B_{\text{spend}}$ budou odteď nazývány $B_m$ a budou konstruovány následovně:
-$$ B*m = B*{\text{spend}} + \text{hash}(b\_{\text{scan}} \text{ ‖ } m) \cdot G $$
-
-Například pro první klíč pro utrácení s označením $1$:
-
-$$ B*1 = B*{\text{spend}} + \text{hash}(b\_{\text{scan}} \text{ ‖ } 1) \cdot G $$
-
-Statická adresa publikovaná Bobem bude nyní sestávat z $B_{\text{scan}}$ a $B_m$. Například první statická adresa s označením $1$ bude:
-
-$$ B = B\_{\text{scan}} \text{ ‖ } B_1 $$
-
-> _Začínáme pouze od označení 1, protože označení 0 je rezervováno pro změnu._
-
-Alice na své straně odvodí unikátní platební adresu $P$ stejným způsobem jako dříve, ale použije nový $B_1$ místo $B_{\text{spend}}$.
-$$ P*0 = B_1 + \text{hash}(\text{inputHash} \cdot a \cdot B*{\text{scan}} \text{ ‖ } 0) \cdot G $$
-
-Ve skutečnosti Alice možná ani nebude vědět, že Bob má označenou adresu, protože jednoduše použije druhou část statické adresy, kterou jí poskytl, což v tomto případě je hodnota $B_1$ namísto $B_{\text{spend}}$.
-
-Pro skenování plateb Bob vždy použije hodnotu své původní statické adresy s $B_{\text{spend}}$ tímto způsobem:
-
-$$ P*0 = B*{\text{spend}} + \text{hash}(\text{inputHash} \cdot b\_{\text{scan}} \cdot A \text{ ‖ } 0) \cdot G $$
-
-Poté jednoduše odečte hodnotu, kterou najde pro $P_0$, od každého výstupu postupně. Poté zkontroluje, zda jedna z výsledků těchto odečtů odpovídá hodnotě jednoho z označení, které používá ve své peněžence. Pokud to odpovídá, například pro výstup č. 4 s označením $1$, to znamená, že tento výstup je Silent Payment spojený s jeho označenou statickou adresou $B_1$:
-
-$$ Out*4 - P_0 = \text{hash}(b*{\text{scan}} \text{ ‖ } 1) \cdot G $$
-
-To funguje, protože:
-
-$$ B*1 = B*{\text{spend}} + \text{hash}(b*{\text{scan}} \text{ ‖ } 1) \cdot G $$
-Díky této metodě může Bob používat množství statických adres ($B_1$, $B_2$, $B_3$...), všechny odvozené od jeho základní statické adresy ($B = B*{\text{scan}} \text{ ‖ } B*{\text{spend}}$), aby správně oddělil použití.
-Toto oddělení statických adres je však platné pouze z pohledu správy osobní peněženky a neumožňuje oddělení identit. Jelikož všechny mají stejný $B*{\text{scan}}$, je velmi snadné všechny statické adresy spojit dohromady a usoudit, že patří jedné entitě.
-
-![BTC204](assets/notext/67/07.webp)
-
-_Popisek:_
-
-- $B_{\text{scan}}$: Bobův veřejný klíč pro skenování (statická adresa)
-- $b_{\text{scan}}$: Bobův soukromý klíč pro skenování
-- $B_{\text{spend}}$: Bobův veřejný klíč pro utrácení (počáteční adresa)
-- $B_m$: Bobův označený veřejný klíč pro utrácení (statická adresa)
-- $b_m$: Bobův označený soukromý klíč pro utrácení
-- $A$: Součet veřejných klíčů vstupů (tweak)
-- $a$: Soukromý klíč odpovídající upravenému veřejnému klíči
-- $H$: Hash nejmenšího UTXO (lexikograficky) použitého jako vstup
-- $G$: Generátorový bod eliptické křivky `secp256k1`
-- $\text{SHA256}$: Hashovací funkce SHA256 označená `BIP0352/SharedSecret`
-- $s_0$: První sdílené tajemství ECDH
-- $P_0$: První veřejný klíč / unikátní adresa pro platbu Bobovi
-- $p_0$: Soukromý klíč první unikátní platební adresy pro Boba
-- $X$: Hash soukromého klíče pro skenování s označením
-
-### Jak sestavit adresu pro tiché platby?
-
-Pro sestavení dedikované adresy pro tiché platby je nejprve nutné odvodit 2 páry klíčů ve vaší Bitcoin HD peněžence:
-
-- Pár $b_{\text{scan}}$, $B_{\text{scan}}$ pro vyhledávání plateb adresovaných nám;
-- Pár $b_{\text{spend}}$, $B_{\text{spend}}$ pro utrácení bitcoinů, které jsme obdrželi.
-
-Tyto páry jsou odvozeny podle těchto cest (_Bitcoin Mainnet_):
 
 ```text
+_Legenda:_
+- $B$: La chiave pubblica / indirizzo statico pubblicato da Bob
+- $b$: La chiave privata di Bob
+- $A$: La chiave pubblica dell'UTXO di Alice usata come input per la transazione
+- $a$: La chiave privata di Alice
+- $H$: L'hash dell'UTXO usato come input
+- $G$: Il punto generatore della curva ellittica `secp256k1`
+- $\text{SHA256}$: La funzione di hash SHA256 etichettata con `BIP0352/SharedSecret`
+- $s_0$: Il primo segreto condiviso ECDH
+- $P_0$: La prima chiave pubblica / indirizzo unico per il pagamento a Bob
+Al momento, i nostri calcoli presuppongono che Alice utilizzi un singolo input per la sua transazione. Tuttavia, dovrebbe essere in grado di utilizzare più input. Di conseguenza, da parte di Bob, per ogni transazione contenente più input, teoricamente avrebbe bisogno di calcolare l'ECDH per ogni input per determinare se un pagamento è destinato a lui. Questo metodo non è soddisfacente, quindi abbiamo bisogno di trovare una soluzione per ridurre il carico di lavoro!
+### Modificare le chiavi pubbliche negli input
+Per risolvere questo problema, invece di utilizzare la coppia di chiavi che protegge un input specifico da parte di Alice, useremo la somma di tutte le coppie di chiavi utilizzate negli input della transazione. Questa somma sarà quindi considerata come una nuova coppia di chiavi. Questa tecnica è nota come "tweak".
+Per esempio, immagina che la transazione di Alice abbia 3 input, ognuno protetto con una coppia di chiavi diversa:
+- $a_0$ protegge l'input #0;
+- $a_1$ protegge l'input #1;
+- $a_2$ protegge l'input #2.
+Seguendo il metodo descritto sopra, Alice dovrebbe scegliere una singola coppia di chiavi tra $a_0$, $a_1$ e $a_2$ per calcolare il segreto ECDH e generare l'indirizzo di pagamento unico $P$ dall'indirizzo statico $B$ di Bob. Tuttavia, questo approccio richiede a Bob di testare ogni possibilità sequenzialmente, partendo da $a_0$, poi $a_1$, e così via, fino all'identificazione di una coppia che genera un indirizzo valido $P$. Questo processo richiede che Bob esegua il calcolo ECDH su tutti gli input di tutte le transazioni, aumentando significativamente il carico di lavoro operativo di scansione.
+Per evitare ciò, chiederemo ad Alice di eseguire il suo calcolo di $P$ utilizzando la somma di tutte le chiavi in input. Prendendo il nostro esempio, la chiave privata modificata $a$ sarebbe calcolata come segue:
+$$ a = a_0 + a_1 + a_2 $$
+Allo stesso modo, Alice e Bob saranno in grado di calcolare la chiave pubblica modificata:
+$$ A = A_0 + A_1 + A_2 $$
+Grazie a questo metodo, a Bob basta calcolare la somma delle chiavi pubbliche della transazione, poi calcolare il segreto ECDH da $A$ soltanto, il che riduce notevolmente il numero di calcoli da fare per la fase di scansione. Tuttavia, ricorda dalla sezione precedente. Avevamo incluso nel nostro calcolo l'hash $\text{inputHash}$ che viene usato come nonce per prevenire il riutilizzo degli indirizzi:
+$$ \text{inputHash} = \text{hash}(\text{outpoint} \text{ ‖ } A) $$
+Ma se ci sono più input in una transazione, è necessario determinare quale $\text{outpoint}$ viene scelto in questo calcolo. Secondo il BIP352, il criterio di selezione per $\text{outpoint}$ da usare è scegliere il più piccolo lessicograficamente, il che significa selezionare l'UTXO che appare per primo in ordine alfabetico. Questo metodo standardizza l'UTXO da scegliere in ogni transazione. Ad esempio, se questo $\text{outpoint}$ più piccolo lessicograficamente è $\text{outpoint}_L$, il calcolo di $\text{inputHash}$ sarà:
+$$ \text{inputHash} = \text{hash}(\text{outpoint}\_L \text{ ‖ } A) $$
+I calcoli rimangono quindi identici a quelli presentati nella sezione precedente, eccetto che la chiave privata $a$ e la sua corrispondente chiave pubblica $A$ non rappresentano più una coppia che protegge un singolo input, ma ora rappresentano la modifica di tutte le coppie di chiavi negli input.
+### Separare le Chiavi di Spesa e di Scansione
+Finora, abbiamo discusso dell'indirizzo statico di Pagamento Silenzioso $B$ come di una chiave pubblica unica. Ricorda, è questa chiave pubblica $B$ che viene usata da Alice per creare il segreto condiviso ECDH, che a sua volta viene usato per calcolare l'indirizzo di pagamento unico $P$. Bob usa questa chiave pubblica $B$ e la corrispondente chiave privata $b$ per la fase di scansione. Ma userà anche la chiave privata $b$ per calcolare la chiave privata $p$ che consente di spendere dall'indirizzo $P$.
+Lo svantaggio di questo metodo è che la chiave privata $b$, che viene usata per calcolare tutte le chiavi private per gli indirizzi che ricevono Pagamenti Silenziosi, viene anche usata da Bob per scansionare le transazioni. Questo passaggio richiede che la chiave $b$ sia disponibile su un software di portafoglio connesso a Internet, il che la espone a un rischio maggiore di furto rispetto al mantenerla su un portafoglio freddo. Idealmente, sarebbe vantaggioso poter approfittare dei Pagamenti Silenziosi mantenendo la chiave privata $b$, che controlla l'accesso a tutte le altre chiavi private, al sicuro su un portafoglio hardware. Fortunatamente, il protocollo è stato adattato per permettere esattamente questo.
+Per raggiungere questo obiettivo, il BIP352 specifica che il ricevente usa 2 diverse coppie di chiavi:
+- $B_{\text{spend}}$: per calcolare le chiavi private degli indirizzi di pagamento unici;
+- $B_{\text{scan}}$: per trovare indirizzi di pagamento unici.
+In questo modo, Bob può mantenere la chiave privata $b_{\text{spend}}$ su un portafoglio hardware e usare la chiave privata $b_{\text{scan}}$ su software online per trovare i suoi Pagamenti Silenziosi, senza rivelare $b_{\text{spend}}$. Tuttavia, le chiavi pubbliche $B_{\text{scan}}$ e $B_{\text{spend}}$ sono entrambe pubblicamente rivelate, poiché si trovano nell'indirizzo statico di Bob $B$:
+Per calcolare un indirizzo di pagamento unico $P_0$ appartenente a Bob, Alice eseguirà il seguente calcolo:
+$$ P*0 = B*{\text{spend}} + \text{hash}(\text{inputHash} \cdot a \cdot B\_{\text{scan}} \text{ ‖ } 0) \cdot G $$
+Per trovare i pagamenti indirizzati a lui, Bob eseguirà il seguente calcolo:
+$$ P*0 = B*{\text{spend}} + \text{hash}(\text{inputHash} \cdot b\_{\text{scan}} \cdot A \text{ ‖ } 0) \cdot G $$
+Come puoi vedere, fino a questo momento, Bob non ha avuto bisogno di usare $b_{\text{spend}}$ che si trova sul suo portafoglio hardware. Quando desidera spendere $P_0$, può quindi eseguire il seguente calcolo per trovare la chiave privata $p_0$:
+$$ p*0 = (b*{\text{spend}} + \text{hash}(\text{inputHash} \cdot b\_{\text{scan}} \cdot A \text{ ‖ } 0)) \bmod n $$
+_Didascalia:_
+- $B_{\text{scan}}$: Chiave pubblica di scansione di Bob (indirizzo statico)
+- $b_{\text{scan}}$: Chiave privata di scansione di Bob
+- $B_{\text{spend}}$: Chiave pubblica di spesa di Bob (indirizzo statico)
+- $b_{\text{spend}}$: Chiave privata di spesa di Bob
+- $A$: La somma delle chiavi pubbliche in input (tweak)
+- $a$: La chiave privata corrispondente alla chiave pubblica modificata
+- $H$: L'hash dell'UTXO più piccolo (lessicograficamente) usato in input
+- $G$: Il punto generatore della curva ellittica `secp256k1`
+- $\text{SHA256}$: La funzione di hashing SHA256 etichettata con `BIP0352/SharedSecret`
+- $s_0$: Il primo segreto condiviso ECDH
+- $P_0$: La prima chiave pubblica / indirizzo di pagamento unico per Bob
+### Utilizzando indirizzi SP con un'etichetta
+Bob ha quindi un indirizzo statico $B$ per i Pagamenti Silenziosi come segue:
+$$ B = B*{\text{scan}} \text{ ‖ } B*{\text{spend}} $$
+Il problema con questo metodo è che non permette di segregare i diversi pagamenti inviati a questo indirizzo. Ad esempio, se Bob ha 2 clienti diversi per la sua attività e vuole differenziare chiaramente i pagamenti da ciascuno, avrebbe bisogno di 2 indirizzi statici diversi. Una soluzione ingenua, con l'approccio attuale, sarebbe che Bob crei due portafogli separati, ognuno con il proprio indirizzo statico, o addirittura stabilisca due indirizzi statici diversi all'interno dello stesso portafoglio. Tuttavia, questa soluzione richiede la scansione dell'intera blockchain due volte (una per ciascun indirizzo) per rilevare rispettivamente i pagamenti destinati a ciascun indirizzo. Questa doppia scansione aumenta in modo irragionevole l'onere operativo per Bob.
+Per risolvere questo problema, BIP352 utilizza un sistema di etichettatura che consente di avere diversi indirizzi statici senza aumentare in modo irragionevole il carico di lavoro per trovare Pagamenti Silenziosi sulla blockchain. Per fare ciò, viene aggiunto un intero $m$ alla chiave pubblica di spesa $B_{\text{spend}}$. Questo intero può assumere il valore di $1$ per il primo indirizzo statico, poi $2$ per il secondo, e così via. Le chiavi di spesa $B_{\text{spend}}$ saranno d'ora in poi chiamate $B_m$ e saranno costruite in questo modo:
+$$ B*m = B*{\text{spend}} + \text{hash}(b\_{\text{scan}} \text{ ‖ } m) \cdot G $$
+Per esempio, per la prima chiave di spesa con l'etichetta $1$:
+$$ B*1 = B*{\text{spend}} + \text{hash}(b\_{\text{scan}} \text{ ‖ } 1) \cdot G $$
+L'indirizzo statico pubblicato da Bob consisterà ora di $B_{\text{scan}}$ e $B_m$. Per esempio, il primo indirizzo statico con l'etichetta $1$ sarà:
+$$ B = B\_{\text{scan}} \text{ ‖ } B_1 $$
+> _Iniziamo solo dall'etichetta 1 perché l'etichetta 0 è riservata per il resto._
+Alice, da parte sua, deriverà l'indirizzo di pagamento unico $P$ nello stesso modo di prima, ma utilizzando il nuovo $B_1$ invece di $B_{\text{spend}}$.
+$$ P*0 = B_1 + \text{hash}(\text{inputHash} \cdot a \cdot B*{\text{scan}} \text{ ‖ } 0) \cdot G $$
+In realtà, Alice potrebbe non sapere nemmeno che Bob ha un indirizzo etichettato, poiché lei semplicemente utilizza la seconda parte dell'indirizzo statico che lui le ha fornito, che in questo caso, è il valore $B_1$ piuttosto che $B_{\text{spend}}$.
+Per scansionare i pagamenti, Bob utilizzerà sempre il valore del suo indirizzo statico iniziale con $B_{\text{spend}}$ in questo modo:
+$$ P*0 = B*{\text{spend}} + \text{hash}(\text{inputHash} \cdot b\_{\text{scan}} \cdot A \text{ ‖ } 0) \cdot G $$
+Poi, semplicemente sottrae il valore che trova per $P_0$ da ogni output uno per uno. Poi controlla se uno dei risultati di queste sottrazioni corrisponde al valore di una delle etichette che usa nel suo portafoglio. Se corrisponde, per esempio, per l'output #4 con l'etichetta $1$, ciò significa che questo output è un Pagamento Silenzioso associato al suo indirizzo statico etichettato $B_1$:
+$$ Out*4 - P_0 = \text{hash}(b*{\text{scan}} \text{ ‖ } 1) \cdot G $$
+Questo funziona perché:
+$$ B*1 = B*{\text{spend}} + \text{hash}(b*{\text{scan}} \text{ ‖ } 1) \cdot G $$
+Grazie a questo metodo, Bob può utilizzare una moltitudine di indirizzi statici ($B_1$, $B_2$, $B_3$...), tutti derivati dal suo indirizzo statico base ($B = B*{\text{scan}} \text{ ‖ } B*{\text{spend}}$), al fine di separare correttamente gli usi.
+Tuttavia, questa separazione degli indirizzi statici è valida solo da una prospettiva di gestione personale del portafoglio e non consente la separazione delle identità. Poiché tutti hanno lo stesso $B*{\text{scan}}$, è molto facile associare tutti gli indirizzi statici insieme e dedurre che appartengono a una singola entità.
+_Didascalia:_
+- $B_{\text{scan}}$: chiave pubblica di scansione di Bob (indirizzo statico)
+- $b_{\text{scan}}$: chiave privata di scansione di Bob
+- $B_{\text{spend}}$: chiave pubblica di spesa di Bob (indirizzo iniziale)
+- $B_m$: chiave pubblica di spesa etichettata di Bob (indirizzo statico)
+- $b_m$: chiave privata di spesa etichettata di Bob
+- $A$: La somma delle chiavi pubbliche in input (tweak)
+- $a$: La chiave privata corrispondente alla chiave pubblica modificata
+- $H$: L'hash del più piccolo UTXO (lessicograficamente) utilizzato come input
+- $G$: Il punto generatore della curva ellittica `secp256k1`
+- $\text{SHA256}$: La funzione di hashing SHA256 etichettata con `BIP0352/SharedSecret`
+- $s_0$: Il primo segreto condiviso ECDH
+- $P_0$: La prima chiave pubblica / indirizzo unico per il pagamento a Bob
+- $p_0$: La chiave privata del primo indirizzo di pagamento unico a Bob
+- $X$: L'hash della chiave privata di scansione con l'etichetta
+### Come Costruire un Indirizzo per Pagamenti Silenziosi?
+Per costruire un indirizzo dedicato ai Pagamenti Silenziosi, è necessario prima derivare 2 coppie di chiavi nel proprio portafoglio Bitcoin HD:
+- La coppia $b_{\text{scan}}$, $B_{\text{scan}}$ per cercare i pagamenti indirizzati a noi;
+- La coppia $b_{\text{spend}}$, $B_{\text{spend}}$ per spendere i bitcoin che abbiamo ricevuto.
+Queste coppie sono derivate seguendo questi percorsi (_Bitcoin Mainnet_):
 scan: m / 352' / 0' / 0' / 1' / 0
 spend: m / 352' / 0' / 0' / 0' / 0
 ```
 
-Jakmile jsou tyto 2 páry klíčů k dispozici, jednoduše se spojí (konec s koncem) k vytvoření nákladu statické adresy:
-
-$$ B = B*{\text{scan}} \text{ ‖ } B*{\text{spend}} $$
-
-Pokud si přejete použít označení, $B_{\text{spend}}$ se nahradí za $B_m$:
-
-$$ B = B\_{\text{scan}} \text{ ‖ } B_m $$
-
-S označením $m$:
-
-$$ B*m = B*{\text{spend}} + \text{hash}(b\_{\text{scan}} \text{ ‖ } m) \cdot G $$
-
-Jakmile je tento náklad k dispozici, přidá se HRP (_Human-Readable Part_) `sp` a verze `q` (= verze 0). Přidá se také kontrolní součet a adresa se formátuje v bech32m.
-Například, zde je moje statická adresa pro Silent Payments:
-
 ```text
+Una volta disponibili queste 2 coppie di chiavi, si concatenano semplicemente (una di seguito all'altra) per creare il payload dell'indirizzo statico:
+$$ B = B*{\text{scan}} \text{ ‖ } B*{\text{spend}} $$
+Se si desidera utilizzare etichette, $B_{\text{spend}}$ viene sostituito con $B_m$:
+$$ B = B\_{\text{scan}} \text{ ‖ } B_m $$
+Con l'etichetta $m$:
+$$ B*m = B*{\text{spend}} + \text{hash}(b\_{\text{scan}} \text{ ‖ } m) \cdot G $$
+Una volta disponibile questo payload, si aggiunge la HRP (_Human-Readable Part_) `sp` e la versione `q` (= versione 0). Viene anche aggiunto un checksum, e l'indirizzo è formattato in bech32m.
+Ad esempio, ecco il mio indirizzo statico per i Pagamenti Silenziosi:
 sp1qqvhjvsq2vz8zwrw372vuzle7472zup2ql3pz64yn5cpkw5ngv2n6jq4nl8cgm6zmu48yk3eq33ryc7aam6jrvrg0d0uuyzecfhx2wgsumcurv77e
 ```
-
-Důležitý bod týkající se statických adres, které jste mohli zadat v předchozích sekcích, je, že tyto adresy nejsou viditelné v Bitcoinových transakcích. Na blockchainu se ve standardním formátu Taproot objevují pouze platební adresy $P$, použité ve výstupech. Zvenčí je tedy nemožné odlišit transakci zahrnující Silent Payment od běžné transakce používající výstupy P2TR.
-Stejně jako u BIP47, je nemožné navázat spojení mezi statickou adresou $B$ a odvozenou platební adresou $P$ z $B$. Skutečně, i když se Eve, potenciální útočník, pokusí prohledat blockchain s Bobovou statickou adresou $B$, nebude schopna provést potřebné výpočty k určení $P$. K tomu by potřebovala buď Bobův soukromý skenovací klíč $b_{\text{scan}}$ nebo soukromé klíče odesílatele $a$, ale oba tyto prvky jsou samozřejmě soukromé. Je tedy možné explicitně spojit svou statickou adresu s formou osobní identity.
-
-### Jak používat Silent Payments?
-
-Návrh na Silent Payments je poměrně nový a zatím byl implementován pouze velmi omezeným počtem peněženek. Podle mého vědomí existují pouze 3 softwary, které je podporují:
-
-- [CakeWallet](https://cakewallet.com/)
-- [Silentium](https://app.silentium.dev/)
-- [DonationWallet](https://github.com/Sosthene00/donationwallet)
-
-Brzy nabídneme podrobný tutoriál na nastavení vaší vlastní statické adresy pro Silent Payments.
-
-Vzhledem k tomu, že se jedná o novou funkci, je doporučeno být opatrný a vyhnout se používání Silent Payments pro velké částky na hlavní síti.
-
-_K vytvoření této kapitoly o Silent Payments jsem použil [web s vysvětlením Silent Payments](https://silentpayments.xyz/) a [dokument s vysvětlením BIP352](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)._
-
-# Závěr
-<partId>2aee56c0-b285-4799-b4f7-373a552ee2b2</partId>
-
-## Recenze & Hodnocení
-<chapterId>195d149f-80fa-5816-8b46-995a9226d082</chapterId>
-<isCourseReview>true</isCourseReview>
-
-## Závěrečná zkouška
-<chapterId>e803d394-e3c1-5816-a6b4-a69a2472019c</chapterId>
-<isCourseExam>true</isCourseExam>
-
-## Závěr
-<chapterId>cd8e5c67-50e4-4dcd-8e04-88ba5ec95305</chapterId>
-<isCourseConclusion>true</isCourseConclusion>
