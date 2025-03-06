@@ -144,7 +144,7 @@ NB. Det anbefales å se gjennom i kodevinduet, med det opprinnelige innholdet vi
 - Om du finn sitat, sørg for å gjere litt research på nettet for å finne den rette oversetjinga på språket ditt.
 - IKKJE oversett dei statiske orda i starten av teksten, som blir brukt til å beskrive innhaldet: "name", "description", "objectives".
 - Om du finn "Plan ₿ Network" i teksten, lat det stå i denne originale forma. Ikkje oversett ordet "plan" eller ordet "network". I tillegg, IKKJE bruk artikkelen når du introduserer Plan ₿ Network, og betrakt det som eit merke. Det same gjeld for "₿-CERT", "BIZ SCHOOL", "TECH SCHOOL", som også bør haldast i originalform.
-- Ver merksam på rar interpunkjson som \*\*, som kan representere ei dårleg rendering av det fete symbolet **. Sjekk alltid den originale engelske teksten for å sjå om det skal vere ein fet tekst der. Du kan finne meir informasjon om markdown-språket [her](https://www.markdownguide.org/basic-syntax/).
+- Ver merksam på rar interpunkjson som `\*\*\`, som kan representere ei dårleg rendering av det fete symbolet **. Sjekk alltid den originale engelske teksten for å sjå om det skal vere ein fet tekst der. Du kan finne meir informasjon om markdown-språket [her](https://www.markdownguide.org/basic-syntax/).
 - Når du er ferdig med korrekturen, kan du gå tilbake til det første issue som vart opna av koordinatoren, kommentere med "Proofreading done" og sette inn PR-lenken din der.
 
 ## 7. Vent på vurdering
