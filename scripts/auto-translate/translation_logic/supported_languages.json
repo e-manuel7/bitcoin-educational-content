@@ -120,7 +120,7 @@
       "name": "Serbian",
       "translator": "openai",
       "code_translator": "sr",
-      "custom_prompt": "Only use the Latin alphabet when translating this content. Do not use Cyrillic characters."
+      "custom_prompt": "Prevedi sledeći sadržaj o Bitcoinu ili o povezanim temamam na srpski koristeći latinicu. Nemojte koristiti ćirilicu."
     },
     {
       "code": "sv",
