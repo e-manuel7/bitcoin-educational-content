@@ -12,6 +12,7 @@ objectives:
 # A journey to your first bitcoins
 
 The industry surrounding Bitcoin is booming.
+This is better that way 
 
 The technological and financial changes in this new world are only accelerating, and it's up to you to take advantage and start falling down the Bitcoin Rabbit Hole. This adventure will be rich in knowledge and will push you to question many of your beliefs. It will give you back freedom and allow you to regain privacy, sovereignty, and financial independence.
 
