@@ -1,7 +1,7 @@
---- 
+---
 name: Awesome Conference 2009
-description: This is a one line description. Thought it can be composed of several sentences 
---- 
+description: This is a one line description. Thought it can be composed of several sentences
+---
 
 # This heading level is a "Stage"
 
@@ -12,8 +12,8 @@ description: This is a one line description. Thought it can be composed of sever
 Speaker: John Doe
 
 You can also more information about the replay, like the YT description or any relevant information.
-(for now no need to translate this markdown, so only `en.md` is needed). 
-A thumbnail is needed in the `/asset/` folder named `thumbnail.webp`.
+(for now no need to translate this markdown, so only `en.md` is needed).
+A thumbnail is needed in the `/assets/` folder named `thumbnail.webp`.
 
 
 ## This heading level is another "replay"
@@ -41,5 +41,3 @@ You can also more information about the replay, like the YT description or any r
 Speaker: Jane Doe
 
 You can also more information about the replay, like the YT description or any relevant information.
-
-
