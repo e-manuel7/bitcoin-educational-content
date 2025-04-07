@@ -575,7 +575,7 @@ Leur journal ne paraît plus régulièrement. C’est la fin de la période acti
 
 La Physiocratie continuera cependant à avoir une influence jusque sous la Révolution. En France d’abord, par l’intermédiaire de Turgot, compagnon de route plus que disciple, mais aussi par son représentant, Dupont de Nemours, dont nous étudierons plus tard la vie et les œuvres. Mais aussi partout en Europe, où la doctrine physiocrate a été reçue avec enthousiasme. En Allemagne, par le margrave de Bade, et en Italie, par Léopold de Toscane, les théories physiocratiques ont même inspiré des réformes économiques en faveur de la propriété privée et de la liberté. 
 
-## Les Fondements de doctrine des Physiocrates
+## Les fondements de doctrine des Physiocrates
 <chapterId>4dbe5436-0578-57c2-b054-03ed00aa091a</chapterId>
 
 ![](https://youtu.be/0s7WEfx_Tv0?si=A6e8vlz4jk1PpUAV)
@@ -640,7 +640,7 @@ Bénéfique par nature, le commerce doit être entièrement et parfaitement libr
 
 Adversaires virulents de l’esclavagisme, les Physiocrates ont aussi été de grands pacifistes. "Notre politique étrangère s’appelle paix" disait simplement Mirabeau. Et en 1790, à l’Assemblé constituante, Dupont de Nemours suivra encore cette fibre pacifiste quand il proposera un projet de loi interdisant les guerres offensives. 
 
-## Les Réalisations et influences des Physiocrates
+## Les réalisations et influences des Physiocrates
 <chapterId>5b911105-796a-5e2e-a501-c7a364fc758e</chapterId>
 
 ![](https://youtu.be/nxtX1uPBt6o?si=VYCjll9Ga1Y7jhTs)
