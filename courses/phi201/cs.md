@@ -48,9 +48,10 @@ Budeme pokračovat studiem změn v 19. a 20. století, přičemž se zaměříme
 Na závěr tato část zkoumá, jak sociální stát postupně převládl nad myšlenkami ekonomické svobody, zejména analýzou triumfu Keynese a opuštění zlatého standardu. Ukončíme důrazem na důležitost myšlenek při ovlivňování běhu dějin a na roli, kterou svoboda stále hraje v našich moderních společnostech.
 
 Připraveny ponořit se do tohoto jedinečného filozofického putování za hledáním svobody? Pojďme na to!
-# Úvod
 
-<partId>6edada19-3af3-411b-8483-3fe45cfe1c54</partId>
+# Svoboda nebo Moc
+
+<partId>e59475e9-3ae4-5e66-a17e-218de0281b06</partId>
 
 ## Přehled kurzu
 
