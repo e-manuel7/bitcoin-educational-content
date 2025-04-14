@@ -94,6 +94,7 @@ BTCPay Server Foundation, đã cho phép Alekos và Bas viết khóa học này,
 Bài tập bắt đầu sau khi xem xong video giới thiệu "Làm thế nào Bitcoin và blockchain hoạt động" của BBC.
 
 ![how bitcoin and the blockchain works](https://youtu.be/mhE_vvwAiRc)
+:::video id=c20b6df7-0c3a-4785-94b9-42ef59093acc:::
 
 Bài tập này yêu cầu ít nhất chín người tham gia. Mục đích của bài tập này là để hiểu trực quan về cách hoạt động của Bitcoin. Bằng cách nhập vào từng vai những thành phần tham gia vào mạng lưới, bạn sẽ có một cách học tương tác và vui vẻ. Bài tập này không liên quan đến Lightning Network.
 
@@ -674,6 +675,7 @@ Trong khóa học này, chúng tôi đề cập đến việc lưu trữ cụm t
 Chúng ta sẽ sử dụng kho lưu trữ BTCPay Server và ví cứng Blockstream Jade trong ví dụ này.
 Bạn cũng có thể theo dõi qua video để tham khảo cách kết nối ví cứng.
 ![BTCPay Server - Cách kết nối ví cứng của bạn với BTCPay Vault.](https://youtu.be/s4qbGxef43A)
+:::video id=8e61664b-e0c0-416d-8ef9-b631bf28ec4d:::
 
 Tải về kho lưu trữ BTCPay Server: https://github.com/btcpayserver/BTCPayServer.Vault/releases
 

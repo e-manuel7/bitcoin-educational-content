@@ -93,6 +93,7 @@ This is classroom exercise so if you take this course yourself, you cannot perfo
 The exercise starts after watching the introduction “How Bitcoin and the blockchain works” by the BBC.
 
 ![how bitcoin and the blockchain works](https://youtu.be/mhE_vvwAiRc)
+:::video id=c20b6df7-0c3a-4785-94b9-42ef59093acc:::
 
 This exercise requires at least nine people to participate. This exercise intends to physically get an idea of how Bitcoin works. By playing each role in the network, you will have an interactive and playful way of learning. This exercise does not involve Lightning Network.
 
@@ -689,6 +690,7 @@ We will use BTCPay Server vault and a Blockstream Jade hardware wallet in this e
 
 You can also follow along by video for reference on connecting a hardware wallet.
 ![BTCPay Server - How to connect your hardware wallet with BTCPay Vault.](https://youtu.be/s4qbGxef43A)
+:::video id=8e61664b-e0c0-416d-8ef9-b631bf28ec4d:::
 
 Download BTCPay Server Vault: https://github.com/btcpayserver/BTCPayServer.Vault/releases
 

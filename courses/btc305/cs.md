@@ -93,6 +93,7 @@ Jedná se o třídní cvičení, takže pokud absolvujete tento kurz sami, nemů
 Cvičení začíná po zhlédnutí úvodu "Jak funguje Bitcoin a blockchain" od BBC.
 
 ![jak funguje bitcoin a blockchain](https://youtu.be/mhE_vvwAiRc)
+:::video id=c20b6df7-0c3a-4785-94b9-42ef59093acc:::
 
 Toto cvičení vyžaduje účast alespoň devíti lidí. Cílem tohoto cvičení je fyzicky pochopit, jak Bitcoin funguje. Hraním jednotlivých rolí v síti se naučíte interaktivním a zábavným způsobem. Toto cvičení nezahrnuje Lightning Network.
 
@@ -675,6 +676,7 @@ V tomto kurzu se dotýkáme ukládání seed fráze na hardware peněženku. Ná
 V tomto příkladu použijeme BTCPay Server vault a hardware peněženku Blockstream Jade.
 Můžete také sledovat video pro návod, jak připojit hardware peněženku.
 ![BTCPay Server - Jak připojit vaši hardware peněženku k BTCPay Vault.](https://youtu.be/s4qbGxef43A)
+:::video id=8e61664b-e0c0-416d-8ef9-b631bf28ec4d:::
 
 Stáhněte si BTCPay Server Vault: https://github.com/btcpayserver/BTCPayServer.Vault/releases
 

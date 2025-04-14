@@ -356,6 +356,7 @@ Koncept Ripple byl založen na myšlence, že peníze jsou v podstatě tvořeny 
 Zde je úvodní video o Ripple z roku 2011:
 
 ![Video (Youtube) prezentace Ripple z roku 2011](https://www.youtube.com/watch?v=f9KqSgRZYgg)
+:::video id=056364f2-a222-4d79-a4a1-cb0dc4cea751:::
 
 Přes nadšení jeho komunity a několika tisíc uživatelů měl Ripple zásadní nedostatky, které mu bránily v úspěchu. Zejména [trpěl](https://fiatjaf.com/3cb7c325.html) "problémem decentralizovaného závazku": během platby se účastníci nemohli zavázat bezpečným způsobem, aby zajistili řetězec půjček, problém, který byl později vyřešen pomocí Lightning. (*originál: "the problem of the decentralized commit"*)
 
@@ -1093,6 +1094,7 @@ EFF si dala nějaký čas, než začala přijímat veřejné dary. Po jednání 
 O několik dní později byl na toto téma napsán [příspěvek](https://web.archive.org/web/20101117060233/http://www.bitcoinblogger.com/2010/11/bitcoin-gains-legal-protection-through.html) blogerem jimbobway, který upoutal pozornost k Bitcoinu. Tento článek byl [sdílen](https://news.ycombinator.com/item?id=1905522) na HackerNews. Byl také přepsán do videa BitcoinMedia pomocí Xtranormal:
 
 ![Video "Bitcoin a EFF."](https://www.youtube.com/watch?v=AiGCuyRJe8s)
+:::video id=03dfd302-1e05-4cad-a91a-e5e65f1d0932:::
 
 To je velmi dobrá zpráva pro Bitcoin, protože obě iniciativy sdílejí společné hodnoty. Navíc je EFF proslulá poskytováním právní ochrany projektům zaměřeným na ochranu soukromí a sdílení dat, jako jsou Tor a BitTorrent. Sám Satoshi Nakamoto je si toho vědom a je zvláště podporující akcí organizace, jak je vidět v jeho [komentáři](https://mmalmi.github.io/satoshi/#email-254) uvedeném v jednom z jeho emailů adresovaných Gavinu Andresenovi 6. ledna 2011:
 > "EFF je opravdu důležitá. &nbsp;Chceme udržovat dobré vztahy s nimi. &nbsp;Jsme typ projektu, který si váží; pomohli projektu TOR a udělali hodně pro ochranu P2P sdílení souborů."
@@ -1277,6 +1279,7 @@ První setkání uživatelů Bitcoinu zorganizoval Bruce Wagner, moderátor z Ne
 Únor také znamenal [první filmovanou prezentaci](https://www.youtube.com/watch?v=koIq58UoNfE) Bitcoinu, kterou provedl Gavin Andresen 8. února během akce organizované ve svém rodném městě Amherst v Massachusetts. Prezentace s názvem "Making Money" od nového hlavního správce projektu zahrnovala mnoho jazykových prvků, které by charakterizovaly způsob prezentace kryptoměny v následujících letech.
 
 ![Video (Youtube) Gavinova projevu v Amherstu v únoru 2011](https://www.youtube.com/watch?v=koIq58UoNfE)
+:::video id=92b9aa30-1479-4d4f-b57f-f07b660145f2:::
 
 I když se první akce konaly ve Spojených státech, francouzská komunita nezůstala pozadu. Dne 25. května, aby se připomněla návštěva Gavina Andresena v Paříži, byl v oblasti La Défense uspořádán oběd, kterého se zúčastnili významné osobnosti jako Lucien Grondin, David François a Jon Matonis (který také navštívil).
 
@@ -1291,6 +1294,7 @@ Prezentace Bitcoinu od Renauda Lifchitze 15. června 2011 (zdroj: [archiv fóra]
 Po této zkušenosti pařížská komunita [zorganizovala](https://bitcointalk.org/index.php?topic=21991.msg276443#msg276443) společenské setkání, které se konalo 11. července. Tato akce spojila jednotlivce jako Pierre Noizat nebo Émilien Dutang.
 Na mezinárodní scéně se první kolektivní konference o Bitcoinu konala od 19. do 21. srpna v New Yorku. Toto setkání, které organizoval Bruce Wagner, spojilo osobnosti jako Roger Ver, Jesse Powell, Jed McCaleb, Mark Karpelès a Charlie Lee. Ačkoliv Wagner sliboval tři dny událostí, odehrály se pouze čtyři prezentace: jeho vlastní a ty od Gavina Andresena, Jeffa Garzika a Stefana Thomase.
 ![Video (Youtube) z Gavina vystoupení 20. srpna 2011](https://www.youtube.com/watch?v=0ljx4bbJrYE)
+:::video id=bca0217c-29ee-49b2-8d16-d9efe6f390da:::
 
 Později v roce, v listopadu, se v Praze [uskuteční](https://bitcointalk.org/index.php?topic=40272.msg490901#msg490901) evropská konference. Mezi významné řečníky budou patřit vývojář Amir Taaki, zakladatel Švédské pirátské strany Rick Falkvinge a moderátor Max Keiser. Následující rok bude [organizována podobná akce v Londýně](https://blog.bitmex.com/london-2012-the-2nd-bitcoin-conference/).
 
@@ -1301,6 +1305,7 @@ Rok 2011 byl také rokem, kdy mediální pokrytí výrazně vzrostlo. Případ W
 Za prvé, na Youtube začaly proliferovat videa na toto téma. Dne 22. března se objevilo první video o Bitcoinu vysoké kvality. Toto video, jednoduše nazvané "Co je Bitcoin?", bylo vyrobeno Stefanem Thomasem (justmoon) díky [crowdfunding](https://bitcointalk.org/index.php?topic=697.msg70001#msg70001) od komunity. Bylo zveřejněno na portálu WeUseCoins věnovaném vzdělávání a popularizaci kryptoměny. Následovala další nezávisle vyrobená úvodní videa, jako [to od howtovanish](https://www.youtube.com/watch?v=LSLByqTusaQ) v dubnu, [to od Reason](https://www.youtube.com/watch?v=yYTqvYqXRbY), nebo [to od Rocketboom](https://www.youtube.com/watch?v=9LaSrxtWfgc) v červnu.
 
 ![Co je Bitcoin?](https://www.youtube.com/watch?v=Um63OQz3bjo)
+:::video id=6147a351-da80-4331-9d79-d3156889ac62:::
 V dubnu bylo téma digitální měny pokryto hlavními mainstreamovými médii, jako jsou [The Atlantic](https://www.theatlantic.com/business/archive/2011/04/how-to-start-your-own-private-currency/73327/), [Time Magazine](https://techland.time.com/2011/04/16/online-cash-bitcoin-could-challenge-governments/), a [Forbes](https://www.forbes.com/forbes/2011/0509/technology-psilocybin-bitcoins-gavin-andresen-crypto-currency.html). V květnu získal tento pohyb na momentu a Bitcoin byl zmíněn téměř všude, zejména na [Wired UK](https://web.archive.org/web/20110517122859/http://www.wired.co.uk/news/archive/2011-05/16/bitcoin-p2p-currency), na [Slate](https://slate.com/business/2011/05/bitcoin-why-the-new-electronic-currency-is-a-favorite-of-libertarian-hipsters-and-criminals.html), na [Gizmodo](https://gizmodo.com/what-is-bitcoin-5803124), a na [TechCrunch](https://techcrunch.com/2011/05/20/bitcoin-ven-and-the-end-of-currency/).
 ![Gavin Andresen v Forbes v dubnu 2011](assets/en/68.webp)
 Gavin Andresen v Forbes v dubnu 2011 (zdroj: [archiv Forbes](https://web.archive.org/web/20110502052302/https://www.forbes.com/forbes/2011/0509/technology-psilocybin-bitcoins-gavin-andresen-crypto-currency.html))

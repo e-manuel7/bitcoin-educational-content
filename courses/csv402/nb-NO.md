@@ -81,6 +81,7 @@ Klar til å dykke ned i den komplekse og fascinerende verdenen av RGB? La oss g�
 <chapterId>f52f8af5-5d7c-588b-b56d-99b97176204b</chapterId>
 
 ![video](https://youtu.be/AF2XbifPGXM)
+:::video id=f27338bc-4210-4a2e-9b27-30278ed3282c:::
 
 RGB er en protokoll som er utviklet for å anvende og håndheve digitale rettigheter (i form av kontrakter og eiendeler) på en skalerbar og konfidensiell måte, basert på konsensusreglene og -operasjonene i Bitcoin-blokkjeden. Målet med dette første kapittelet er å presentere de grunnleggende konseptene og terminologien rundt RGB-protokollen, og spesielt fremheve de nære koblingene til grunnleggende distribuerte databehandlingskonsepter som validering på klientsiden og engangsforseglinger.
 
@@ -425,6 +426,7 @@ Før du dykker inn i de mer tekniske detaljene i det andre kapittelet, kan du gj
 <chapterId>cc2fe85a-9cc7-5b8c-a00a-c0a867241061</chapterId>
 
 ![video](https://youtu.be/FS6PDprWl5Q)
+:::video id=73ddea2d-c243-479d-a3dc-12d7db8eef70:::
 
 I dette kapittelet skal vi se på implementeringen av validering på klientsiden og engangsforseglinger i Bitcoin-blokkjeden. Vi presenterer hovedprinsippene for RGBs **commitment-lag** (lag 1), med særlig fokus på **TxO2**-ordningen, som RGB bruker for å definere og lukke et segl i en Bitcoin-transaksjon. Deretter vil vi diskutere to viktige punkter som ennå ikke har blitt dekket i detalj:
 
@@ -1012,6 +1014,7 @@ I neste kapittel skal vi se på den rene off-chain-komponenten i RGB, nemlig kon
 <chapterId>04a9569f-3563-5382-bf53-0c7069343ba0</chapterId>
 
 ![video](https://youtu.be/tmAVdyXGmj4)
+:::video id=db4ee09f-1352-4ad1-9f7a-c962df7ea9fa:::
 
 I dette og neste kapittel skal vi se nærmere på begrepet **smart kontrakt** i RGB-miljøet og utforske de ulike måtene disse kontraktene kan definere og utvikle sin *tilstand* på. Vi skal se hvorfor RGB-arkitekturen, ved hjelp av den ordnede sekvensen av Single-use Seals, gjør det mulig å utføre ulike typer ***kontraktsoperasjoner*** på en skalerbar måte og uten å gå gjennom et sentralisert register. Vi skal også se på den grunnleggende rollen som ***Forretningslogikk*** spiller i utviklingen av kontraktstilstanden.
 
@@ -1104,6 +1107,7 @@ I neste kapittel vil vi gå nærmere inn på den konkrete representasjonen av di
 <chapterId>78c44e88-50c4-5ec4-befe-456c1a9f080b</chapterId>
 
 ![video](https://youtu.be/lUTjeuM0oTA)
+:::video id=1caec34d-f214-425b-a1a4-0a40ae7d3e0e:::
 
 I dette kapittelet skal vi se på hvordan operasjoner i smartkontrakter og tilstandsoverganger fungerer, igjen innenfor RGB-protokollen. Målet er også å forstå hvordan flere deltakere samarbeider om å overføre eierskapet til en eiendel.
 
@@ -1928,6 +1932,7 @@ Vitnetransaksjonen er Bitcoin-transaksjonen som lukker engangsforseglingen rundt
 <chapterId>8333ea5f-51c7-5dd5-b1d7-47d491e58e51</chapterId>
 
 ![video](https://youtu.be/Uo1UoxiImsI)
+:::video id=97d81b85-5a82-40a5-b111-7d96be5afd0f:::
 
 I dette kapittelet skal vi se nærmere på hvordan en RGB-kontrakt defineres og implementeres. Vi skal se hva komponentene i en RGB-kontrakt er, hvilke roller de har, og hvordan de er bygget opp.
 
@@ -2616,6 +2621,7 @@ I neste kapittel skal vi se nærmere på hvordan en kontraktsoverføring fungere
 <chapterId>f043a307-d420-5752-b0d7-ebfd845802c0</chapterId>
 
 ![video](https://youtu.be/sVoKIi-1XbY)
+:::video id=75eb5a8d-1910-4155-b5e3-81204c9a8901:::
 
 I dette kapittelet skal vi analysere prosessen med en kontraktsoverføring i RGB-økosystemet. For å illustrere dette tar vi en titt på Alice og Bob, våre vanlige hovedpersoner, som ønsker å bytte en RGB-aktiva. Vi skal også vise noen kommandoutdrag fra kommandolinjeverktøyet `rgb`, for å se hvordan det fungerer i praksis.
 
@@ -2910,6 +2916,7 @@ Nå som vi har sett på hovedelementene i RGB-programmering, skal jeg ta deg gje
 <chapterId>0e0a645c-0049-588d-8965-b8c536590cc9</chapterId>
 
 ![video](https://youtu.be/GRwS-NvWF3I)
+:::video id=a3ad6dcd-90b8-4272-9dfc-76c85c859167:::
 
 I dette kapittelet går vi steg for steg gjennom hvordan du skriver en kontrakt ved hjelp av kommandolinjeverktøyet `rgb`. Målet er å vise hvordan du installerer og manipulerer CLI, kompilerer et **skjema**, importerer **grensesnittet** og **grensesnittsimplementeringen**, og deretter utsteder (*issue*) en ressurs. Vi ser også på den underliggende logikken, inkludert kompilering og tilstandsvalidering. Ved slutten av dette kapittelet bør du være i stand til å reprodusere prosessen og opprette dine egne RGB-kontrakter.
 
@@ -3209,6 +3216,7 @@ I neste kapittel skal vi se nærmere på integreringen av RGB i Lightning Networ
 <chapterId>0962980a-8f94-5d0f-9cd0-43d7f884a01d</chapterId>
 
 ![video](https://youtu.be/mqCupTlDbA0)
+:::video id=be25a165-6e23-488c-91d8-3dcfccc6eca1:::
 
 I dette kapittelet foreslår jeg å undersøke hvordan RGB kan brukes i Lightning Network til å integrere og flytte RGB-aktiva (tokens, NFT-er osv.) via betalingskanaler utenfor kjeden.
 
@@ -3364,6 +3372,7 @@ Tillegg for å støtte Bitcoin-protokollen (transaksjoner, omgåelser osv.).
 <chapterId>dc92a5e8-ed93-5a3f-bcd0-d433932842f4</chapterId>
 
 ![video](https://youtu.be/nbUtV8GOR_U)
+:::video id=2ec9a181-a8b0-4da2-b7b5-9dfaaaeb10ba:::
 
 Denne siste delen av kurset er basert på presentasjoner holdt av ulike foredragsholdere på RGB-bootcampen. Her finner du uttalelser og refleksjoner om RGB og dets økosystem, samt presentasjoner av verktøy og prosjekter basert på protokollen. Dette første kapittelet er moderert av Hunter Beast, og de to neste av Frederico Tenga.
 
@@ -3430,6 +3439,7 @@ Lommeboken **Bitmask** er en del av denne tilnærmingen: på blockchain-siden er
 <chapterId>d4d80e07-5eac-5b29-a93a-123180e97047</chapterId>
 
 ![vidéo](https://youtu.be/5iAhsgCSL3U)
+:::video id=04555813-516f-4eea-9767-7082c2ea6f01:::
 
 I dette kapittelet, som er basert på en presentasjon av Frederico Tenga, ser vi på et sett med verktøy og prosjekter som er opprettet av Bitfinex-teamet dedikert til RGB, med sikte på å fremme fremveksten av et rikt og mangfoldig økosystem rundt denne protokollen. Teamets opprinnelige mål er ikke å lansere et spesifikt kommersielt produkt, men snarere å tilby programvarebyggesteiner, bidra til selve RGB-protokollen og foreslå konkrete implementeringsreferanser, for eksempel en mobil lommebok (* Iris Wallet*) eller en RGB-kompatibel Lightning-node.
 
@@ -3544,6 +3554,7 @@ I neste kapittel skal vi se nærmere på hvordan du starter en RGB Lightning-nod
 <chapterId>ecaabe32-20ba-5f8c-8ca1-a3f095792958</chapterId>
 
 ![vidéo](https://youtu.be/piQQH4Q2nr0)
+:::video id=d1e9753e-6093-4a47-bcdc-da1aebaefffc:::
 
 I dette siste kapittelet tar Frederico Tenga deg steg for steg gjennom oppsettet av en Lightning RGB-node i et Regtest-miljø, og viser deg hvordan du oppretter RGB-tokens på den. Ved å starte to separate noder kan du også se hvordan du åpner en Lightning-kanal mellom dem og utveksler RGB-aktiva.
 

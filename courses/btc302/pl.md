@@ -545,6 +545,7 @@ Poniżej przedstawiamy niewyczerpujący samouczek wideo, który przedstawia niek
 
 
 ![Tutorial Canva](https://www.youtube.com/watch?v=sgloI_v-nAk)
+:::video id=d11ae0ed-eacd-4924-afd3-75aff95d2899:::
 
 
 ####
@@ -750,6 +751,7 @@ W poniższych samouczkach użyjemy aplikacji "Telegram+" APK; aplikacji, która 
 
 
 ![Tutorial Telegram+](https://www.youtube.com/watch?v=Z5mE-LksBZw)
+:::video id=b1da7cb4-5fb1-4a41-a1d4-bd90686826a9:::
 
 
 ### Tworzenie kanału Telegram
@@ -777,6 +779,7 @@ Samouczek dotyczący tworzenia kanału Telegram:
 
 
 ![Tutorial Canale Telegram](https://www.youtube.com/watch?v=N5S7cgySV8U)
+:::video id=98be4709-d221-4030-8c31-e10113482515:::
 
 
 ### Utwórz grupę Telegram
@@ -811,6 +814,7 @@ Samouczek dotyczący tworzenia grupy Telegram:
 
 
 ![Tutorial canale Telegram](https://www.youtube.com/watch?v=u1BuxEsmFuA)
+:::video id=3d4792a7-1345-475b-93b1-b3a3945fb567:::
 
 
 Uwaga: jak wspomniano wcześniej, powyższy samouczek został wykonany na komputerze z "Telegram+" APK. Jednak teraz bardzo łatwo jest utworzyć grupę Telegram na telefonie.
@@ -871,6 +875,7 @@ Samouczek dotyczący tworzenia supergrupy Telegram:
 
 
 ![Tutorial supergruppo Telegram](https://www.youtube.com/watch?v=GWVqpjBtg-U)
+:::video id=f78800ae-d8ca-479a-b913-99abd9916bff:::
 
 
 Uwaga: Jak wspomniano powyżej, powyższy samouczek został wykonany na komputerze z "Telegram+" APK. Jednak teraz bardzo łatwo jest utworzyć supergrupę Telegram na telefonie.
@@ -980,6 +985,7 @@ Samouczek dodawania wielofunkcyjnego bota do grupy lub supergrupy w Telegramie:
 
 
 ![Tutorial bot Telegram multifunzione](https://www.youtube.com/watch?v=l72GZcEFDtU)
+:::video id=cdbf82d6-3530-45c4-90de-593f100863bb:::
 
 
 Mała uwaga: jak wspomniano wcześniej, teraz całą tę procedurę można wykonać na telefonie.
@@ -1007,6 +1013,7 @@ Aby ułatwić ci pracę, **udostępniamy [gotowy, duplikowalny i edytowalny serw
 
 
 ![Tutorial server Discord duplicabile](https://www.youtube.com/watch?v=i3V6_359Ajw)
+:::video id=e647458a-a21e-44e0-bd03-20b82a871777:::
 
 
 ####
@@ -1025,6 +1032,7 @@ Aby zaoszczędzić czas, oto samouczek dotyczący dodawania wielofunkcyjnego bot
 
 
 ![Tutorial bot TediCross Discord - Telegram](https://www.youtube.com/watch?v=e4YAPG0ITF8)
+:::video id=6a0283f6-6d6c-4e81-8b2f-644b33c52fe6:::
 
 
 ## Rozważ inne, prywatne i bezpieczniejsze kanały komunikacji
@@ -1187,6 +1195,7 @@ Samouczek dotyczący tworzenia konta na Twitterze:
 
 
 ![Tutorial account Twitter](https://www.youtube.com/watch?v=pp3DDakV0bA)
+:::video id=4648976f-41ec-499a-b7ec-a53e796f71b4:::
 
 
 ## Łączenie się z pobliskimi spotkaniami
@@ -2096,6 +2105,7 @@ Później będziesz mógł kupić własną domenę, a nawet hostować ją na wł
 
 
 ![Tutorial per creare un sito web WordPress gratuito](https://www.youtube.com/watch?v=cZzH4gj_kZY)
+:::video id=a1b25c18-5fc1-4b97-baef-816d819c9382:::
 
 
 ####
@@ -2199,6 +2209,7 @@ Poniżej znajduje się krótki samouczek, który w 10 minut przedstawia główne
 
 
 ![Tutorial per creare un podcast con Audacity](https://www.youtube.com/watch?v=z471_Ye6Y0I)
+:::video id=67d80ac7-253f-40a5-b621-fef2fb7174bd:::
 
 
 Uwaga: Jak wspomniano wcześniej, w przypadku, gdy pewnego dnia Bitcoin zostanie zakazany lub ocenzurowany, istotne może być **zachowanie lokalnej kopii na dysku Hard publikowanych podcastów**.
@@ -2690,6 +2701,7 @@ Nieco mniej szczegółowo, w 21-minutowym wideo, wygląda to następująco:
 
 
 ![Tutorial Comunità Bitcoin](https://www.youtube.com/watch?v=EHLAmHHuZd8)
+:::video id=a59956da-f554-4b54-89dd-5ca55b722686:::
 
 
 W każdym razie, **pamiętaj, że nie jesteś sam i że istniejące społeczności są po to, aby ci pomóc**.

@@ -105,6 +105,7 @@ Gotowy, aby rozwinąć swoje umiejętności Lightning Network z Rust? Do dzieła
 
 
 ![video](https://www.youtube.com/watch?v=aZYhDXE_Gas)
+:::video id=12a518cf-64be-43f1-b6d4-f6592a1324ea:::
 
 
 ## Wprowadzenie do Rust (2/7)
@@ -113,6 +114,7 @@ Gotowy, aby rozwinąć swoje umiejętności Lightning Network z Rust? Do dzieła
 
 
 ![video](https://youtu.be/Xm8eCv4LQPc)
+:::video id=8ed76bae-7c30-4aac-9f28-bb4cbb9180e4:::
 
 
 ## Wprowadzenie do Rust (3/7)
@@ -121,6 +123,7 @@ Gotowy, aby rozwinąć swoje umiejętności Lightning Network z Rust? Do dzieła
 
 
 ![video](https://youtu.be/R8NeHvHT0uc)
+:::video id=c78a543f-1462-43a1-9845-889d310d31a4:::
 
 
 ## Wprowadzenie do Rust (4/7)
@@ -129,6 +132,7 @@ Gotowy, aby rozwinąć swoje umiejętności Lightning Network z Rust? Do dzieła
 
 
 ![video](https://youtu.be/et8pKvYiO4c)
+:::video id=0f2f6f68-52ca-474f-a64f-ba61cdc92821:::
 
 
 ## Wprowadzenie do Rust (5/7)
@@ -137,6 +141,7 @@ Gotowy, aby rozwinąć swoje umiejętności Lightning Network z Rust? Do dzieła
 
 
 ![video](https://youtu.be/PxQkVmxOc40)
+:::video id=5514da77-5b71-4763-96b8-49eb21291c2b:::
 
 
 ## Wprowadzenie do Rust (6/7)
@@ -145,6 +150,7 @@ Gotowy, aby rozwinąć swoje umiejętności Lightning Network z Rust? Do dzieła
 
 
 ![video](https://youtu.be/3C6hl9BW-Ho)
+:::video id=44c681d1-d154-4240-b3e8-15590cbfcbd2:::
 
 
 ## Wprowadzenie do Rust (7/7)
@@ -153,6 +159,7 @@ Gotowy, aby rozwinąć swoje umiejętności Lightning Network z Rust? Do dzieła
 
 
 ![video](https://youtu.be/SBDcb_AauHM)
+:::video id=5e96914d-df02-4781-ae54-b06008952301:::
 
 
 # Rust I BTC
@@ -166,6 +173,7 @@ Gotowy, aby rozwinąć swoje umiejętności Lightning Network z Rust? Do dzieła
 
 
 ![video](https://youtu.be/veLj2w6ulpc)
+:::video id=f59c4951-e109-4c70-b7da-41721e50ab04:::
 
 
 ## Model błędu
@@ -174,6 +182,7 @@ Gotowy, aby rozwinąć swoje umiejętności Lightning Network z Rust? Do dzieła
 
 
 ![video](https://youtu.be/X3VKhLtKTRU)
+:::video id=9fac0184-8443-4c36-8afd-8acb21fb43c3:::
 
 
 ## Unniffit
@@ -182,6 +191,7 @@ Gotowy, aby rozwinąć swoje umiejętności Lightning Network z Rust? Do dzieła
 
 
 ![video](https://youtu.be/zro9GQpJrH0)
+:::video id=b1a0f5f6-fc29-4b83-9c09-0b24711654e2:::
 
 
 ## Cechy asynchroniczne
@@ -190,6 +200,7 @@ Gotowy, aby rozwinąć swoje umiejętności Lightning Network z Rust? Do dzieła
 
 
 ![video](https://youtu.be/cz66eTfk0lw)
+:::video id=8926dd48-3613-43b6-a509-60ba26ec337f:::
 
 
 # Rozwijanie LNP/BP za pomocą SDK
@@ -203,6 +214,7 @@ Gotowy, aby rozwinąć swoje umiejętności Lightning Network z Rust? Do dzieła
 
 
 ![video](https://youtu.be/aEzpxuhLdeo)
+:::video id=94b9bee6-154e-4b9c-a8ce-5e2d9e9656a2:::
 
 
 ## Breez sdk
@@ -211,6 +223,7 @@ Gotowy, aby rozwinąć swoje umiejętności Lightning Network z Rust? Do dzieła
 
 
 ![video](https://youtu.be/M3ad9BE6ovo)
+:::video id=68d1f253-6210-4eab-8329-b676e5772eac:::
 
 
 ## Greenlight dla Lipy
@@ -219,6 +232,7 @@ Gotowy, aby rozwinąć swoje umiejętności Lightning Network z Rust? Do dzieła
 
 
 ![video](https://youtu.be/gKiIPF4apeE)
+:::video id=c3dec3df-1416-4761-b7c8-e1d66d27e390:::
 
 
 ## Breez sdk dla lipa
@@ -227,6 +241,7 @@ Gotowy, aby rozwinąć swoje umiejętności Lightning Network z Rust? Do dzieła
 
 
 ![video](https://youtu.be/6VaIVvBKjLY)
+:::video id=f2770a37-a22f-43d7-9334-8de60eaacff8:::
 
 
 # Sekcja końcowa

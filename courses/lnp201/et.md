@@ -56,6 +56,7 @@ Kas olete valmis avastama Lightning Networki tehnilisi mehhanisme? Alustame!
 
 <chapterId>df6230ae-ff35-56ea-8651-8e65580730a8</chapterId>
 ![video en](https://youtu.be/QDQ8NG0l3hk)
+:::video id=ba99951f-81d2-418f-b5e7-4b8c9f8b8cc8:::
 
 
 Lightning Network on maksekanalite võrk, mis on ehitatud Bitcoin'i protokolli peale, eesmärgiga võimaldada kiireid ja madala tasuga tehinguid. See võimaldab luua maksekanaleid osalejate vahel, mille sees saab tehinguid teha peaaegu koheselt ja minimaalsete tasudega, ilma et iga tehingut oleks vaja eraldi plokiahelas salvestada. Seega püüab Lightning Network parandada Bitcoin'i skaleeritavust ja muuta selle kasutatavaks madala väärtusega maksete jaoks.
@@ -111,6 +112,7 @@ See on selle esimese peatüki lõpp, kus oleme pannud aluse Lightning Networkile
 
 <chapterId>0cfb7e6b-96f0-508b-9210-90bc1e28649d</chapterId>
 ![video en](https://youtu.be/U9l5IVriCss)
+:::video id=75323eef-ea03-45ac-9a6e-46d73ca255de:::
 
 See peatükk on veidi eriline, kuna see ei ole otseselt pühendatud Lightning'ule, vaid Bitcoinile. Tõepoolest, Lightning Network on kiht Bitcoin'i peal. Seetõttu on oluline mõista teatud Bitcoin'i põhimõisteid, et korralikult mõista Lightning'i toimimist järgnevates peatükkides. Selles peatükis vaatame üle Bitcoin'i vastuvõtu aadresside, UTXO-de ning Bitcoin'i tehingute toimimise alused.
 
@@ -176,6 +178,7 @@ See peatükk Bitcoinist on võimaldanud meil üle vaadata mõned olulised mõist
 
 <chapterId>96243eb0-f6b5-5b68-af1f-fffa0cc16bfe</chapterId>
 ![video en](https://youtu.be/Ty80WuN5X-g)
+:::video id=6098fee1-735e-4d8d-9f57-0faf5fef6d76:::
 
 
 Sel peatükis vaatame täpsemalt, kuidas avada maksekanalit Lightning Networkis ja mõistame selle operatsiooni seost aluseks oleva Bitcoin süsteemiga.
@@ -239,6 +242,7 @@ Järgmises peatükis uurime Lightningi tehingu tehnilist toimimist kanalis.
 
 <chapterId>7d3fd135-129d-5c5a-b306-d5f2f1e63340</chapterId>
 ![video en](https://youtu.be/dzPMGiR_JSE)
+:::video id=c17454f3-14c5-47a0-8c9c-42ee12932bd3:::
 
 
 Sel peatükis avastame tehnilist toimimist tehingu puhul kanalis Lightningi võrgus, see tähendab, kui vahendid liiguvad ühelt kanali poolelt teisele.
@@ -296,6 +300,7 @@ Siiski on selles süsteemis potentsiaalne viga, mida käsitleme järgmises peat�
 
 <chapterId>f2f61e5b-badb-5947-9a81-7aa530b44e59</chapterId>
 ![video en](https://youtu.be/veCs39uVFUk)
+:::video id=1d850f23-eff1-4725-b284-ce12456a2c26:::
 Sel peatükis süveneme sellele, kuidas tehingud Lightning Network'is toimivad, arutades mehhanisme, mis on paigas petmise vastu kaitsmiseks, tagades, et mõlemad pooled järgivad kanalis reegleid.
 
 ### Meeldetuletus: Kohustuslikud Tehingud
@@ -372,6 +377,7 @@ Selles koolituse etapis te nüüd teate, kuidas Lightning kanalid avatakse ja ku
 
 <chapterId>29a72223-2249-5400-96f0-3756b1629bc2</chapterId>
 ![video en](https://youtu.be/zmAa2fj_V7w)
+:::video id=4d8ad4e6-32ff-46d3-bd17-343929aa863b:::
 
 
 Sel peatükis arutame **kanali sulgemist** Lightning võrgus, mida tehakse läbi Bitcoin tehingu, just nagu kanali avamine. Pärast seda, kui oleme näinud, kuidas tehingud kanalis toimivad, on nüüd aeg vaadata, kuidas sulgeda kanal ja taastada vahendid Bitcoin'i plokiahelas.
@@ -457,6 +463,7 @@ On kolm viisi kanali sulgemiseks:
 
 <chapterId>45a7252c-fa4f-554b-b8bb-47449532918e</chapterId>
 ![video en](https://youtu.be/44oBdNdXtEQ)
+:::video id=38419c23-5592-4573-b0a7-84824a5bfb77:::
 
 
 Sel peatükis uurime, kuidas makseid Lightning Networkis saab saajani jõuda isegi siis, kui nad ei ole otse ühendatud maksekanaliga. Lightning on tõepoolest **maksekanalite võrk**, mis võimaldab vahendeid saata kaugemale sõlmele läbi teiste osalejate kanalite. Avastame, kuidas makseid võrgus suunatakse, kuidas likviidsus kanalite vahel liigub ja kuidas tehingutasusid arvutatakse.
@@ -570,6 +577,7 @@ Sel peatükis uurisime maksete suunamist Lightningi võrgus. Kuid tekib küsimus
 
 <chapterId>4369b85a-1365-55d8-99e1-509088210116</chapterId>
 ![video en](https://youtu.be/jI4nM297aHA)
+:::video id=6f204b92-55a5-4939-9440-7c5b96a297bf:::
 
 
 Sel peatükis avastame, kuidas Lightning võimaldab makseid suunata läbi vahendajasõlmede ilma, et peaks neid usaldama, tänu **HTLC**-le (_Hashed Time-Locked Contracts_). Need nutilepingud tagavad, et iga vahendajasõlm saab oma kanalist rahad kätte ainult siis, kui ta edastab makse lõppsaajale, vastasel juhul makset ei valideerita.
@@ -685,6 +693,7 @@ Järgmises peatükis avastame, kuidas sõlm, mis väljastab Lightning tehingu, l
 
 <chapterId>7e2ae959-c2a1-512e-b5d6-8fd962e819da</chapterId>
 ![video en](https://youtu.be/CqetCElRjUQ)
+:::video id=e5baa834-111d-46f5-a28b-3538bed2bbb0:::
 
 
 Eelmistes peatükkides nägime, kuidas kasutada teiste sõlmede kanaleid maksete suunamiseks ja sõlmele jõudmiseks, ilma et oleksime sellega otse kanali kaudu ühendatud. Samuti arutasime, kuidas tagada ülekande turvalisus, ilma et peaksime vahepealseid sõlmi usaldama. Selles peatükis keskendume parima võimaliku marsruudi leidmisele sihtsõlme jõudmiseks.
@@ -772,6 +781,7 @@ Järgmises peatükis uurime spetsiifiliselt arvete toimimist, lisaks mõningaid 
 
 <chapterId>e34c7ecd-2327-52e3-b61e-c837d9e5e8b0</chapterId>
 ![video en](https://youtu.be/XANzf1Qqp9I)
+:::video id=309c3412-506e-4189-ad46-5e5088c55008:::
 Selles peatükis vaatame lähemalt Lightning **arvete** tööpõhimõtet, see tähendab maksepäringuid, mida saaja sõlm saadab saatja sõlmele. Eesmärk on mõista, kuidas Lightningis makseid teha ja vastu võtta. Arutleme ka kahe klassikalisele arvetele alternatiivi üle: LNURL ja Keysend.
 ![LNP201](assets/en/68.webp)
 
@@ -881,6 +891,7 @@ Järgmises peatükis vaatleme, kuidas sõlmeoperaator saab hallata oma kanalites
 
 <chapterId>cc76d0c4-d958-57f5-84bf-177e21393f48</chapterId>
 ![video en](https://youtu.be/MIbej28La7Y)
+:::video id=96096aef-e4ce-4c44-a022-57e27082232a:::
 
 
 Sel peatükis uurime strateegiaid likviidsuse efektiivseks haldamiseks Lightning võrgus. Likviidsuse haldamine varieerub sõltuvalt kasutaja tüübist ja kontekstist. Vaatleme peamisi põhimõtteid ja olemasolevaid tehnikaid, et paremini mõista, kuidas seda haldust optimeerida.
@@ -952,6 +963,7 @@ Järgmises peatükis pakun üle vaadata selle koolituse kõige olulisemad kontse
 
 <chapterId>a65a571c-561b-5e1c-87bf-494644653c22</chapterId>
 ![video en](https://youtu.be/coaskEGRjiU)
+:::video id=5f4f4344-ef27-4765-8f09-8262e6833bde:::
 
 Selles viimases peatükis, mis tähistab LNP201 koolituse lõppu, teen ettepaneku vaadata üle olulised kontseptsioonid, mida oleme koos käsitletud.
 Selle koolituse eesmärk oli anda teile põhjalik ja tehniline arusaam Lightning Networkist. Avastasime, kuidas Lightning Network toetub Bitcoin'i plokiahelale, et teostada off-chain tehinguid, säilitades samal ajal Bitcoin'i põhilised omadused, eriti vajaduse puudumise usaldada teisi sõlmi.

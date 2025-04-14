@@ -376,6 +376,7 @@ Ripple'i kontseptsioon põhines ideel, et raha koosnes sisuliselt IOU-dest, st k
 Siin on Ripple'i tutvustav video aastast 2011:
 
 ![Video (Youtube) Ripple'i esitlusest 2011](https://www.youtube.com/watch?v=f9KqSgRZYgg)
+:::video id=056364f2-a222-4d79-a4a1-cb0dc4cea751:::
 
 Hoolimata oma kogukonna entusiasmist ja mõnest tuhandest kasutajast, oli Ripple'il suuri puudusi, mis takistasid selle edukust. Eriti [kannatas](https://fiatjaf.com/3cb7c325.html) see "detsentraliseeritud kohustuse probleemi" all: makse sooritamisel ei suutnud osalejad turvalisel viisil kohustuda, et tagada laenukett, probleem, mis hiljem lahendati Lightninguga. (_originaal: "the problem of the decentralized commit"_)
 
@@ -1152,6 +1153,7 @@ EFF võttis avalike annetuste vastuvõtmise alustamiseks aega. Pärast läbirä�
 Mõni päev hiljem kirjutas blogger jimbobway teemal [postituse](https://web.archive.org/web/20101117060233/http://www.bitcoinblogger.com/2010/11/bitcoin-gains-legal-protection-through.html), mis tõmbas tähelepanu Bitcoin'ile. See artikkel jagati [HackerNews'is](https://news.ycombinator.com/item?id=1905522). Samuti transkribeeriti see videoformaati BitcoinMedia poolt, kasutades Xtranormali:
 
 ![Video "Bitcoin ja EFF."](https://www.youtube.com/watch?v=AiGCuyRJe8s)
+:::video id=03dfd302-1e05-4cad-a91a-e5e65f1d0932:::
 
 See on väga hea uudis Bitcoin'ile, kuna mõlemad algatused jagavad ühiseid väärtusi. Lisaks on EFF tuntud õiguskaitse pakkumise poolest privaatsuse säilitamise ja andmejagamise projektidele nagu Tor ja BitTorrent. Satoshi Nakamoto ise on sellest teadlik ja toetab eriti organisatsiooni tegevust, nagu nähtub tema [kommentaarist](https://mmalmi.github.io/satoshi/#email-254), mille ta tegi ühes oma e-kirjas Gavin Andresenile 6. jaanuaril 2011:
 
@@ -1348,6 +1350,7 @@ See pole ainult tehniline külg, mis on mõjutatud asutaja lahkumisest ja koost�
 Esimesed Bitcoin'i kasutajate kohtumised algatas Bruce Wagner, New Yorgis baseeruv [YouTube kanali](https://www.youtube.com/@vlogwrap) peremees, mis käsitles tehnilistel teemadel peetavaid teledebate, kus ta lõi saate nimega _Bitcoin Show_ aprillis 2011. Esimene kohtumine [toimus](https://bitcointalk.org/index.php?topic=1891.msg29174#msg29174) New Yorgis 11. detsembril 2010 (UTC). Järgnevalt toimus samatüüpi koosolek [Washington D.C.-s](https://web.archive.org/web/20110413231434/http://bitcoin.meetup.com/). Kohtumine korraldati ka [Zürichis, Šveitsis](https://bitcointalk.org/index.php?topic=2716.msg36886#msg36886) 5. veebruaril 2011, mille viis läbi Mike Hearn, Christian Deckeri ja Stefan Thomase (justmoon) osavõtul. Veebruaris toimus ka [esimene filmitud esitlus](https://www.youtube.com/watch?v=koIq58UoNfE) Bitcoinist, mida juhtis Gavin Andresen 8. veebruaril üritusel, mis oli korraldatud tema kodulinnas Amherstis, Massachusettsis. Esitluse pealkiri oli "Making Money" ja uue projekti peahooldaja esitlus sisaldas arvukalt keeleelemente, mis iseloomustaksid järgnevatel aastatel krüptoraha esitlust.
 
 ![Video (Youtube) Gavin'i kõnest Amherstis veebruaris 2011](https://www.youtube.com/watch?v=koIq58UoNfE)
+:::video id=92b9aa30-1479-4d4f-b57f-f07b660145f2:::
 
 Kuigi esimesed sündmused toimusid Ameerika Ühendriikides, ei jäänud Prantsuse kogukond kõrvale. 25. mail, et tähistada Gavin Andreseni külastust Pariisis, korraldati lõuna La Défense'i piirkonnas, millest võtsid osa tuntud isikud nagu Lucien Grondin, David François ja Jon Matonis (kes samuti külastas).
 
@@ -1362,6 +1365,7 @@ Bitcoin'i esitlus Renaud Lifchitzi poolt 15. juunil 2011 (allikas: [foorumi arhi
 Selle kogemuse järel [korraldas](https://bitcointalk.org/index.php?topic=21991.msg276443#msg276443) Pariisi kogukond sotsiaalse koosviibimise, mis toimus 11. juulil. Sellel üritusel kohtusid isikud nagu Pierre Noizat või Émilien Dutang.
 Rahvusvahelisel areenil toimus esimene ühine konverents Bitcoini teemal 19. kuni 21. augustil New Yorgis. Selle kohtumise, mille korraldas Bruce Wagner, tõid kokku sellised isiksused nagu Roger Ver, Jesse Powell, Jed McCaleb, Mark Karpelès ja Charlie Lee. Kuigi Wagner lubas kolmepäevast üritust, toimusid ainult neli esitlust: tema enda oma ning Gavin Andreseni, Jeff Garziku ja Stefan Thomase omad.
 ![Video (Youtube) Gavin'i sekkumisest 20. augustil 2011](https://www.youtube.com/watch?v=0ljx4bbJrYE)
+:::video id=bca0217c-29ee-49b2-8d16-d9efe6f390da:::
 
 Aasta hiljem, novembris, toimub Euroopa konverents [Praghas](https://bitcointalk.org/index.php?topic=40272.msg490901#msg490901). Märkimisväärsete esinejate hulka kuuluvad arendaja Amir Taaki, Rootsi Piraadipartei asutaja Rick Falkvinge ja esitaja Max Keiser. Järgmisel aastal korraldatakse sarnane üritus [Londonis](https://blog.bitmex.com/london-2012-the-2nd-bitcoin-conference/).
 
@@ -1372,6 +1376,7 @@ Aasta 2011 oli samuti aasta, kus meediakajastus märkimisväärselt laienes. Wik
 Esiteks hakkasid Youtube'is levima videod antud teemal. 22. märtsil ilmus esimene kõrgekvaliteediline video Bitcoini kohta. See video, lihtsalt pealkirjaga "Mis on Bitcoin?", valmis Stefan Thomase (justmoon) poolt tänu [kogukonna rahastamisele](https://bitcointalk.org/index.php?topic=697.msg70001#msg70001). See avaldati WeUseCoins portaalis, mis on pühendatud krüptoraha haridusele ja populariseerimisele. Järgnesid teised sõltumatult toodetud tutvustusvideod, nagu [howtovanish](https://www.youtube.com/watch?v=LSLByqTusaQ) aprillis, [Reason](https://www.youtube.com/watch?v=yYTqvYqXRbY) või [Rocketboom](https://www.youtube.com/watch?v=9LaSrxtWfgc) juunis.
 
 ![Mis on Bitcoin?](https://www.youtube.com/watch?v=Um63OQz3bjo)
+:::video id=6147a351-da80-4331-9d79-d3156889ac62:::
 Aprillis käsitlesid digitaalvaluuta teemat peamised peavoolumeedia väljaanded nagu [The Atlantic](https://www.theatlantic.com/business/archive/2011/04/how-to-start-your-own-private-currency/73327/), [Time Magazine](https://techland.time.com/2011/04/16/online-cash-bitcoin-could-challenge-governments/), ja [Forbes](https://www.forbes.com/forbes/2011/0509/technology-psilocybin-bitcoins-gavin-andresen-crypto-currency.html). Mais sai liikumine hoogu juurde ja Bitcoinist räägiti peaaegu kõikjal, eriti [Wired UK](https://web.archive.org/web/20110517122859/http://www.wired.co.uk/news/archive/2011-05/16/bitcoin-p2p-currency)'s, [Slate](https://slate.com/business/2011/05/bitcoin-why-the-new-electronic-currency-is-a-favorite-of-libertarian-hipsters-and-criminals.html)'il, [Gizmodo](https://gizmodo.com/what-is-bitcoin-5803124)'s ja [TechCrunch](https://techcrunch.com/2011/05/20/bitcoin-ven-and-the-end-of-currency/)'is.
 ![Gavin Andresen Forbes'is aprillis 2011](assets/en/68.webp)
 Gavin Andresen Forbes'is aprillis 2011 (allikas: [Forbesi arhiiv](https://web.archive.org/web/20110502052302/https://www.forbes.com/forbes/2011/0509/technology-psilocybin-bitcoins-gavin-andresen-crypto-currency.html))

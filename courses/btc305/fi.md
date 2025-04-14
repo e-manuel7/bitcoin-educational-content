@@ -93,6 +93,7 @@ Tämä on luokkahuoneharjoitus, joten jos otat tämän kurssin itse, et voi suor
 Harjoitus alkaa katsomalla johdanto "Miten Bitcoin ja lohkoketju toimivat" BBC:ltä.
 
 ![how bitcoin and the blockchain works](https://youtu.be/mhE_vvwAiRc)
+:::video id=c20b6df7-0c3a-4785-94b9-42ef59093acc:::
 
 Tähän harjoitukseen tarvitaan vähintään yhdeksän henkilön osallistuminen. Tämän harjoituksen tarkoituksena on fyysisesti saada käsitys siitä, miten Bitcoin toimii. Toimimalla kunkin roolin mukaisesti verkossa, saat interaktiivisen ja leikkisän tavan oppia. Tämä harjoitus ei sisällä Lightning Networkia.
 
@@ -673,6 +674,7 @@ Tällä kurssilla käsitellään seed-lausekkeen säilyttämistä laitteistolomp
 Tässä esimerkissä käytämme BTCPay Server vaultia ja Blockstream Jade -laitelompakkoa.
 Voit myös seurata mukana videolta, jossa näytetään, miten laitelompakko yhdistetään.
 ![BTCPay Server - Kuinka yhdistää laitelompakkosi BTCPay Vaultiin.](https://youtu.be/s4qbGxef43A)
+:::video id=8e61664b-e0c0-416d-8ef9-b631bf28ec4d:::
 
 Lataa BTCPay Server Vault: https://github.com/btcpayserver/BTCPayServer.Vault/releases
 
