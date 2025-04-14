@@ -138,7 +138,6 @@ Jest to ćwiczenie w klasie, więc jeśli sam bierzesz udział w tym kursie, nie
 Ćwiczenie rozpoczyna się po obejrzeniu wprowadzenia "Jak działa Bitcoin i Blockchain" BBC.
 
 
-![how bitcoin and the blockchain works](https://youtu.be/mhE_vvwAiRc)
 :::video id=c20b6df7-0c3a-4785-94b9-42ef59093acc:::
 
 
@@ -1010,7 +1009,6 @@ W tym przykładzie użyjemy skarbca BTCPay Server i Blockstream Jade Hardware Wa
 
 Możesz także śledzić wideo, aby uzyskać informacje na temat podłączania Hardware Wallet.
 
-![BTCPay Server - How to connect your hardware wallet with BTCPay Vault.](https://youtu.be/s4qbGxef43A)
 :::video id=8e61664b-e0c0-416d-8ef9-b631bf28ec4d:::
 
 

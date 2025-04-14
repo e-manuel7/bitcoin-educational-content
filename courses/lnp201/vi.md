@@ -55,7 +55,6 @@ Sẵn sàng khám phá các cơ chế kỹ thuật của Lightning Network? Hãy
 ## Hiểu về Lightning Network
 
 <chapterId>df6230ae-ff35-56ea-8651-8e65580730a8</chapterId>
-![video en](https://youtu.be/QDQ8NG0l3hk)
 :::video id=ba99951f-81d2-418f-b5e7-4b8c9f8b8cc8:::
 
 
@@ -111,7 +110,6 @@ Hãy lấy một ví dụ: nếu Alice có 130,000 satoshis ở phía của mìn
 ## Bitcoin, Địa Chỉ, UTXO, và Giao Dịch
 
 <chapterId>0cfb7e6b-96f0-508b-9210-90bc1e28649d</chapterId>
-![video en](https://youtu.be/U9l5IVriCss)
 :::video id=75323eef-ea03-45ac-9a6e-46d73ca255de:::
 
 Chương này khá đặc biệt vì nó không trực tiếp nói về Lightning, mà về Bitcoin. Thực tế, Mạng Lưới Lightning là một lớp nằm trên Bitcoin. Do đó, việc hiểu một số khái niệm cơ bản của Bitcoin là cần thiết để nắm bắt được cách thức hoạt động của Lightning trong các chương tiếp theo. Trong chương này, chúng ta sẽ xem xét cơ bản về địa chỉ nhận Bitcoin, UTXOs, cũng như cách thức hoạt động của giao dịch Bitcoin.
@@ -177,7 +175,6 @@ Chương này về Bitcoin đã cho chúng ta xem xét lại một số khái ni
 ## Mở Kênh
 
 <chapterId>96243eb0-f6b5-5b68-af1f-fffa0cc16bfe</chapterId>
-![video en](https://youtu.be/Ty80WuN5X-g)
 :::video id=6098fee1-735e-4d8d-9f57-0faf5fef6d76:::
 
 
@@ -241,7 +238,6 @@ Trong chương tiếp theo, chúng ta sẽ khám phá cách thức kỹ thuật 
 ## Giao Dịch Cam Kết
 
 <chapterId>7d3fd135-129d-5c5a-b306-d5f2f1e63340</chapterId>
-![video en](https://youtu.be/dzPMGiR_JSE)
 :::video id=c17454f3-14c5-47a0-8c9c-42ee12932bd3:::
 
 
@@ -300,7 +296,6 @@ Tuy nhiên, hệ thống này có một khuyết điểm tiềm ẩn, chúng ta 
 ## Khóa Huỷ Bỏ
 
 <chapterId>f2f61e5b-badb-5947-9a81-7aa530b44e59</chapterId>
-![video en](https://youtu.be/veCs39uVFUk)
 :::video id=1d850f23-eff1-4725-b284-ce12456a2c26:::
 Trong chương này, chúng ta sẽ đi sâu hơn vào cách giao dịch hoạt động trên Mạng Lưới Sét bằng cách thảo luận về các cơ chế được đặt ra để bảo vệ chống lại gian lận, đảm bảo rằng mỗi bên tuân thủ các quy tắc trong kênh.
 
@@ -377,7 +372,6 @@ Tại thời điểm này trong quá trình đào tạo, bạn đã biết cách
 ## Đóng Kênh
 
 <chapterId>29a72223-2249-5400-96f0-3756b1629bc2</chapterId>
-![video en](https://youtu.be/zmAa2fj_V7w)
 :::video id=4d8ad4e6-32ff-46d3-bd17-343929aa863b:::
 
 
@@ -464,7 +458,6 @@ Có ba cách để đóng một kênh:
 ## Mạng Lưới Lightning
 
 <chapterId>45a7252c-fa4f-554b-b8bb-47449532918e</chapterId>
-![video en](https://youtu.be/44oBdNdXtEQ)
 :::video id=38419c23-5592-4573-b0a7-84824a5bfb77:::
 
 
@@ -578,7 +571,6 @@ Trong chương này, chúng ta đã khám phá việc định tuyến thanh toá
 ## HTLC – Hợp Đồng Thời Gian Khóa Băm
 
 <chapterId>4369b85a-1365-55d8-99e1-509088210116</chapterId>
-![video en](https://youtu.be/jI4nM297aHA)
 :::video id=6f204b92-55a5-4939-9440-7c5b96a297bf:::
 
 
@@ -698,7 +690,6 @@ Trong chương tiếp theo, chúng ta sẽ khám phá cách một nút phát hà
 ## Tìm Đường Đi
 
 <chapterId>7e2ae959-c2a1-512e-b5d6-8fd962e819da</chapterId>
-![video en](https://youtu.be/CqetCElRjUQ)
 :::video id=e5baa834-111d-46f5-a28b-3538bed2bbb0:::
 
 
@@ -786,7 +777,6 @@ Trong chương tiếp theo, chúng ta sẽ cụ thể nghiên cứu về cách h
 ## Hóa Đơn, LNURL, và Keysend
 
 <chapterId>e34c7ecd-2327-52e3-b61e-c837d9e5e8b0</chapterId>
-![video en](https://youtu.be/XANzf1Qqp9I)
 :::video id=309c3412-506e-4189-ad46-5e5088c55008:::
 Trong chương này, chúng ta sẽ xem xét kỹ lưỡng hơn về cách thức hoạt động của **hóa đơn** Lightning, tức là yêu cầu thanh toán được gửi bởi nút nhận đến nút gửi. Mục tiêu là hiểu cách thức thanh toán và nhận thanh toán trên Lightning. Chúng ta cũng sẽ thảo luận về 2 phương án thay thế cho hóa đơn truyền thống: LNURL và Keysend.
 ![LNP201](assets/en/68.webp)
@@ -896,7 +886,6 @@ Trong chương tiếp theo, chúng ta sẽ xem xét cách một người vận h
 ## Quản Lý Tính Thanh Khoản của Bạn
 
 <chapterId>cc76d0c4-d958-57f5-84bf-177e21393f48</chapterId>
-![video en](https://youtu.be/MIbej28La7Y)
 :::video id=96096aef-e4ce-4c44-a022-57e27082232a:::
 
 
@@ -968,7 +957,6 @@ Trong chương tiếp theo, tôi đề xuất xem lại các khái niệm quan t
 
 
 <chapterId>a65a571c-561b-5e1c-87bf-494644653c22</chapterId>
-![video en](https://youtu.be/coaskEGRjiU)
 :::video id=5f4f4344-ef27-4765-8f09-8262e6833bde:::
 
 Trong chương cuối cùng này, đánh dấu sự kết thúc của khóa học LNP201, tôi đề xuất ôn lại những khái niệm quan trọng mà chúng ta đã cùng nhau tìm hiểu.

@@ -84,7 +84,6 @@ Gotowy do odkrycia technicznych mechanizmów Lightning Network? Zanurzmy się!
 <chapterId>df6230ae-ff35-56ea-8651-8e65580730a8</chapterId>
 
 
-![video en](https://youtu.be/QDQ8NG0l3hk)
 :::video id=ba99951f-81d2-418f-b5e7-4b8c9f8b8cc8:::
 
 
@@ -169,7 +168,6 @@ To koniec pierwszego rozdziału, w którym położyliśmy podwaliny pod Lightnin
 <chapterId>0cfb7e6b-96f0-508b-9210-90bc1e28649d</chapterId>
 
 
-![video en](https://youtu.be/U9l5IVriCss)
 :::video id=75323eef-ea03-45ac-9a6e-46d73ca255de:::
 
 
@@ -269,7 +267,6 @@ Niniejszy rozdział poświęcony Bitcoin pozwolił nam zapoznać się z kilkoma 
 <chapterId>96243eb0-f6b5-5b68-af1f-fffa0cc16bfe</chapterId>
 
 
-![video en](https://youtu.be/Ty80WuN5X-g)
 :::video id=6098fee1-735e-4d8d-9f57-0faf5fef6d76:::
 
 
@@ -372,7 +369,6 @@ W następnym rozdziale zbadamy techniczne działanie transakcji Lightning w kana
 <chapterId>7d3fd135-129d-5c5a-b306-d5f2f1e63340</chapterId>
 
 
-![video en](https://youtu.be/dzPMGiR_JSE)
 :::video id=c17454f3-14c5-47a0-8c9c-42ee12932bd3:::
 
 
@@ -461,7 +457,6 @@ System ten ma jednak potencjalną wadę, którą Address omówi w następnym roz
 
 <chapterId>f2f61e5b-badb-5947-9a81-7aa530b44e59</chapterId>
 
-![video en](https://youtu.be/veCs39uVFUk)
 :::video id=1d850f23-eff1-4725-b284-ce12456a2c26:::
 
 W tym rozdziale zagłębimy się w to, jak transakcje działają na Lightning Network, omawiając mechanizmy ochrony przed oszustwami, zapewniając, że każda ze stron przestrzega zasad w kanale.
@@ -583,7 +578,6 @@ Na tym etapie szkolenia wiesz już, w jaki sposób otwierane są kanały Lightni
 <chapterId>29a72223-2249-5400-96f0-3756b1629bc2</chapterId>
 
 
-![video en](https://youtu.be/zmAa2fj_V7w)
 :::video id=4d8ad4e6-32ff-46d3-bd17-343929aa863b:::
 
 
@@ -718,7 +712,6 @@ W kolejnych rozdziałach zbadamy Lightning Network z szerszej perspektywy, konce
 <chapterId>45a7252c-fa4f-554b-b8bb-47449532918e</chapterId>
 
 
-![video en](https://youtu.be/44oBdNdXtEQ)
 :::video id=38419c23-5592-4573-b0a7-84824a5bfb77:::
 
 
@@ -903,7 +896,6 @@ W tym rozdziale zbadaliśmy routing płatności na Lightning Network. Pojawia si
 <chapterId>4369b85a-1365-55d8-99e1-509088210116</chapterId>
 
 
-![video en](https://youtu.be/jI4nM297aHA)
 :::video id=6f204b92-55a5-4939-9440-7c5b96a297bf:::
 
 
@@ -1085,7 +1077,6 @@ W następnym rozdziale dowiemy się, w jaki sposób węzeł wydający transakcj�
 <chapterId>7e2ae959-c2a1-512e-b5d6-8fd962e819da</chapterId>
 
 
-![video en](https://youtu.be/CqetCElRjUQ)
 :::video id=e5baa834-111d-46f5-a28b-3538bed2bbb0:::
 
 
@@ -1217,7 +1208,6 @@ W następnym rozdziale zajmiemy się w szczególności funkcjonowaniem faktur, a
 
 <chapterId>e34c7ecd-2327-52e3-b61e-c837d9e5e8b0</chapterId>
 
-![video en](https://youtu.be/XANzf1Qqp9I)
 :::video id=309c3412-506e-4189-ad46-5e5088c55008:::
 
 
@@ -1384,7 +1374,6 @@ W następnym rozdziale zobaczymy, jak operator węzła może zarządzać płynno
 <chapterId>cc76d0c4-d958-57f5-84bf-177e21393f48</chapterId>
 
 
-![video en](https://youtu.be/MIbej28La7Y)
 :::video id=96096aef-e4ce-4c44-a022-57e27082232a:::
 
 
@@ -1499,7 +1488,6 @@ W następnym rozdziale proponuję przegląd najważniejszych koncepcji tego szko
 <chapterId>a65a571c-561b-5e1c-87bf-494644653c22</chapterId>
 
 
-![video en](https://youtu.be/coaskEGRjiU)
 :::video id=5f4f4344-ef27-4765-8f09-8262e6833bde:::
 
 

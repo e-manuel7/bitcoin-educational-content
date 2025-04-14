@@ -55,7 +55,6 @@ Klar til å oppdage de tekniske mekanismene i Lightning Network? La oss sette i 
 ## Forstå Lightning Network
 
 <chapterId>df6230ae-ff35-56ea-8651-8e65580730a8</chapterId>
-![video en](https://youtu.be/QDQ8NG0l3hk)
 :::video id=ba99951f-81d2-418f-b5e7-4b8c9f8b8cc8:::
 
 
@@ -111,7 +110,6 @@ Dette er slutten på dette første kapittelet, hvor vi har lagt grunnlaget for L
 ## Bitcoin, adresser, UTXO og transaksjoner
 
 <chapterId>0cfb7e6b-96f0-508b-9210-90bc1e28649d</chapterId>
-![video en](https://youtu.be/U9l5IVriCss)
 :::video id=75323eef-ea03-45ac-9a6e-46d73ca255de:::
 
 Dette kapittelet er litt spesielt siden det ikke vil være direkte viet til Lightning, men til Bitcoin. Faktisk er Lightning Network et lag på toppen av Bitcoin. Det er derfor essensielt å forstå visse grunnleggende konsepter av Bitcoin for å ordentlig forstå hvordan Lightning fungerer i de påfølgende kapitlene. I dette kapittelet vil vi gå gjennom grunnleggende om Bitcoin mottaksadresser, UTXOer, samt funksjonen til Bitcoin-transaksjoner.
@@ -177,7 +175,6 @@ Dette kapittelet om Bitcoin har tillatt oss å gjennomgå noen essensielle begre
 ## Kanalåpning
 
 <chapterId>96243eb0-f6b5-5b68-af1f-fffa0cc16bfe</chapterId>
-![video en](https://youtu.be/Ty80WuN5X-g)
 :::video id=6098fee1-735e-4d8d-9f57-0faf5fef6d76:::
 
 
@@ -241,7 +238,6 @@ I neste kapittel vil vi utforske den tekniske funksjonen av en Lightning-transak
 ## Forpliktelsestransaksjon
 
 <chapterId>7d3fd135-129d-5c5a-b306-d5f2f1e63340</chapterId>
-![video en](https://youtu.be/dzPMGiR_JSE)
 :::video id=c17454f3-14c5-47a0-8c9c-42ee12932bd3:::
 
 
@@ -298,7 +294,6 @@ Imidlertid har dette systemet en potensiell feil, som vi vil adressere i neste k
 ## Tilbakekallingsnøkkel
 
 <chapterId>f2f61e5b-badb-5947-9a81-7aa530b44e59</chapterId>
-![video en](https://youtu.be/veCs39uVFUk)
 :::video id=1d850f23-eff1-4725-b284-ce12456a2c26:::
 I dette kapittelet vil vi gå dypere inn i hvordan transaksjoner fungerer på Lightning Network ved å diskutere mekanismene som er på plass for å beskytte mot juks, og sikre at hver part følger reglene innenfor en kanal.
 
@@ -375,7 +370,6 @@ På dette tidspunktet i opplæringen vet du nå hvordan Lightning-kanaler åpnes
 ## Kanallukking
 
 <chapterId>29a72223-2249-5400-96f0-3756b1629bc2</chapterId>
-![video en](https://youtu.be/zmAa2fj_V7w)
 :::video id=4d8ad4e6-32ff-46d3-bd17-343929aa863b:::
 
 
@@ -461,7 +455,6 @@ Det er tre måter å lukke en kanal på:
 ## Lightning Network
 
 <chapterId>45a7252c-fa4f-554b-b8bb-47449532918e</chapterId>
-![video en](https://youtu.be/44oBdNdXtEQ)
 :::video id=38419c23-5592-4573-b0a7-84824a5bfb77:::
 
 
@@ -575,7 +568,6 @@ I dette kapittelet utforsket vi betalingsruting på Lightning-nettverket. Men et
 ## HTLC – Hashed Time Locked Contract
 
 <chapterId>4369b85a-1365-55d8-99e1-509088210116</chapterId>
-![video en](https://youtu.be/jI4nM297aHA)
 :::video id=6f204b92-55a5-4939-9440-7c5b96a297bf:::
 
 
@@ -691,7 +683,6 @@ I neste kapittel vil vi oppdage hvordan en node som utsteder en Lightning-transa
 ## Finne Veien
 
 <chapterId>7e2ae959-c2a1-512e-b5d6-8fd962e819da</chapterId>
-![video en](https://youtu.be/CqetCElRjUQ)
 :::video id=e5baa834-111d-46f5-a28b-3538bed2bbb0:::
 
 
@@ -779,7 +770,6 @@ I det følgende kapittelet vil vi spesifikt studere funksjonen av fakturaer, i t
 ## Faktura, LNURL, og Keysend
 
 <chapterId>e34c7ecd-2327-52e3-b61e-c837d9e5e8b0</chapterId>
-![video en](https://youtu.be/XANzf1Qqp9I)
 :::video id=309c3412-506e-4189-ad46-5e5088c55008:::
 I dette kapittelet vil vi ta en nærmere titt på hvordan **fakturaer** i Lightning fungerer, det vil si betalingsforespørsler sendt av mottaker-noden til sender-noden. Målet er å forstå hvordan man betaler og mottar betalinger på Lightning. Vi vil også diskutere 2 alternativer til klassiske fakturaer: LNURL og Keysend.
 ![LNP201](assets/en/68.webp)
@@ -889,7 +879,6 @@ I det følgende kapittelet vil vi se hvordan en nodeoperatør kan håndtere likv
 ## Administrere din likviditet
 
 <chapterId>cc76d0c4-d958-57f5-84bf-177e21393f48</chapterId>
-![video en](https://youtu.be/MIbej28La7Y)
 :::video id=96096aef-e4ce-4c44-a022-57e27082232a:::
 
 
@@ -961,7 +950,6 @@ I neste kapittel foreslår jeg å gjennomgå de viktigste konseptene fra denne o
 
 
 <chapterId>a65a571c-561b-5e1c-87bf-494644653c22</chapterId>
-![video en](https://youtu.be/coaskEGRjiU)
 :::video id=5f4f4344-ef27-4765-8f09-8262e6833bde:::
 
 I dette siste kapittelet som markerer slutten på LNP201-opplæringen, foreslår jeg å gjenoppta de viktige konseptene vi har dekket sammen.

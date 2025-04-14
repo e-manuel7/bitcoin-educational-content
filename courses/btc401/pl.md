@@ -35,7 +35,6 @@ Miłego oglądania!
 <chapterId>dcf2d37e-b32a-5eb8-aaa3-41ac92475ba9</chapterId>
 
 
-![Video](https://youtu.be/4VuI9we_XYM)
 :::video id=9b6aa5cf-245e-4a66-b3b8-c4860ab51e90:::
 
 
@@ -69,7 +68,6 @@ Podczas całego kursu uczestnicy będą korzystać z kluczowych narzędzi, któr
 ### Dlaczego Salwador potrzebuje Bitcoin
 
 
-![video](https://youtu.be/VExfKFrGuYw)
 :::video id=ff820fb2-83d4-450f-bda0-17cc5044a902:::
 
 
@@ -233,7 +231,6 @@ Dziękujemy za zaangażowanie w ten materiał!
 ### Stos technologii Bitcoin
 
 
-![video](https://youtu.be/5UkjQomJsHU)
 :::video id=2c008198-7f4e-4e60-87a0-0af17528ad2f:::
 
 
@@ -243,7 +240,6 @@ W pierwszym wykładzie kursu "Jak Bitcoin" rozpoczęliśmy badanie stosu technol
 ### Stos technologiczny Bitcoin, część 2
 
 
-![video](https://youtu.be/UkwbPVhLeIk)
 :::video id=752343b8-aa78-4bd3-9320-efe2a7e9d88f:::
 
 Podczas drugiego wykładu "Jak Bitcoin" przeprowadziliśmy bardziej dogłębną analizę stosu technologii Bitcoin.
@@ -323,7 +319,6 @@ Struktura i ciągła ewolucja Bitcoin pokazują innowacyjność i zdolność ada
 ### Obalanie Bitcoin
 
 
-![video](https://youtu.be/f0Pf0u1y5F4)
 :::video id=c5e2e575-fa9d-4430-805f-205c2cf6f2a5:::
 
 
@@ -407,7 +402,6 @@ Zrozumienie realiów zużycia energii przez Bitcoin, funkcji prywatności i roli
 ### Instalacja rdzenia Bitcoin
 
 
-![Video](https://youtu.be/fIUU2sRCEj0)
 :::video id=4a5253cf-b863-466a-8506-0506b28a28de:::
 
 
@@ -533,7 +527,6 @@ sudo systemctl status bitcoind
 ### Instalacja C-lightning
 
 
-![video](https://youtu.be/zrB1Kc4BqvY)
 :::video id=e13a1407-46e3-4b03-9a7a-b0f4a338c3c7:::
 
 
@@ -830,7 +823,6 @@ Podsumowując, dzisiaj omówiliśmy najważniejsze kroki związane z ponowną in
 ### Urządzenia zabezpieczające i sprzętowe
 
 
-![video](https://youtu.be/oVaI9WuLkgk)
 :::video id=8b4baf24-1350-46b8-a87b-18678ed219ed:::
 
 
@@ -981,7 +973,6 @@ Na tym kończymy nasz wykład na temat bezpieczeństwa i konfiguracji urządzeń
 ### Otwarte problemy w ekosystemie Bitcoin
 
 
-![video](https://youtu.be/Vlm2ZdxcidA)
 :::video id=6d771eca-3f53-493d-8937-db6ddb2cf172:::
 
 
@@ -1113,7 +1104,6 @@ Podsumowując, ciągłe rozwiązywanie tych otwartych problemów i wprowadzanie 
 <professorId>7dfc5865-a0f6-4c3b-9b05-83e0d807ac59</professorId>
 
 
-![Video](https://youtu.be/2f_rK74MB3U)
 :::video id=08101af2-1ded-4f3a-b1db-d4477c6ab63e:::
 
 
@@ -1212,7 +1202,6 @@ Podsumowując, zrozumienie i integracja zasad bezpieczeństwa i niezawodności s
 <professorId>7dfc5865-a0f6-4c3b-9b05-83e0d807ac59</professorId>
 
 
-![Video](https://youtu.be/ln-FYziKqNY)
 :::video id=4544ef7a-685e-4aaf-98a0-8a10dce06172:::
 
 
@@ -1284,7 +1273,6 @@ Podsumowując, ekonomia oprogramowania open-source jest napędzana przez wkład 
 <professorId>6cfd206c-53b8-47a0-bbf4-44fd84e6ee1d</professorId>
 
 
-![Video](https://youtu.be/QcK-Cl8B9QU)
 :::video id=b482b0f0-4468-4eaf-bcd6-eb4748bdfa3a:::
 
 
@@ -1377,7 +1365,6 @@ Opanowując te koncepcje i przestrzegając najlepszych praktyk, będziesz dobrze
 <professorId>7dfc5865-a0f6-4c3b-9b05-83e0d807ac59</professorId>
 
 
-![Video](https://youtu.be/g_BcT5YkZUQ)
 :::video id=91a38c17-5801-4a5c-baf2-c9e4cc24fd84:::
 
 
@@ -1479,7 +1466,6 @@ Podsumowując, przyszłość i zmiany Bitcoin zależą od zbiorowej woli jego u�
 <professorId>6cfd206c-53b8-47a0-bbf4-44fd84e6ee1d</professorId>
 
 
-![Video](https://youtu.be/hGS8Cuj5Zb4)
 :::video id=6fae79f6-da81-4870-927b-923bd1672176:::
 
 
@@ -1633,7 +1619,6 @@ Uruchomienie węzła Bitcoin to potężny sposób na uczestnictwo w sieci Bitcoi
 <professorId>e7e63d59-ea19-4960-9446-61bd4dcc98f0</professorId>
 
 
-![video](https://youtu.be/okvV9hqDOtM)
 :::video id=1790e5fb-33f5-4e0e-982e-41589cd02965:::
 
 
@@ -2008,7 +1993,6 @@ Podsumowując, analizowanie bloków Bitcoin i transakcji w Rust wymaga zrozumien
 <professorId>0b05838c-24af-43ff-93be-896c907e0bc1</professorId>
 
 
-![Video](https://youtu.be/xOdz9GEiShM)
 :::video id=1d148008-9197-446f-afb5-628d4c3a5015:::
 
 
@@ -2391,7 +2375,6 @@ Zrozumienie tych komponentów, od węzłów i portfeli Bitcoin po zestaw dewelop
 <professorId>880c7fa7-8d4c-4c9b-81b4-bc61ed256516</professorId>
 
 
-![Video](https://youtu.be/VtpbCspK5T4)
 :::video id=b90f19a3-a95e-4cd1-8c55-41016f3339cb:::
 
 
@@ -2454,7 +2437,6 @@ Podsumowując, zrozumienie kontekstu historycznego i wyzwań związanych z Bitco
 <professorId>880c7fa7-8d4c-4c9b-81b4-bc61ed256516</professorId>
 
 
-![Video](https://youtu.be/5OUgGHH6jPY)
 :::video id=059a714b-4fe9-4266-acb0-6fe5af491662:::
 
 
@@ -2542,7 +2524,6 @@ Podsumowując, prawidłowe działanie węzła zapewnia płatności atomowe, a Li
 <chapterId>ba4b09ae-81de-53f2-8c15-316f037aaea9</chapterId>
 
 
-![Video](https://youtu.be/1aIuKBkPlkg)
 :::video id=f0d17fe4-d793-4b90-924e-b551db501fbb:::
 
 
@@ -2726,7 +2707,6 @@ Podsumowując, zrozumienie drugiego znaczenia Layer, specyfikacji Lightning Netw
 <chapterId>a2ad8db4-aea2-5231-927c-616c53db31bf</chapterId>
 
 
-![Video](https://youtu.be/a0Q_5dzpqKw)
 :::video id=90240cb6-a942-4015-b0c2-b721c48309ec:::
 
 
@@ -3096,7 +3076,6 @@ Dzięki sprostaniu tym wyzwaniom, Lightning Network będzie nadal dojrzewać, st
 <professorId>880c7fa7-8d4c-4c9b-81b4-bc61ed256516</professorId>
 
 
-![Video](https://youtu.be/VXMON_nD650)
 :::video id=ab5f65f1-0b0d-4ca9-8ff7-d42764c1e915:::
 
 
@@ -3190,7 +3169,6 @@ Rozumiejąc i doceniając te zmiany, możemy dostrzec wieloaspektowy postęp i p
 <professorId>e7e63d59-ea19-4960-9446-61bd4dcc98f0</professorId>
 
 
-![Video](https://youtu.be/KqBfPaXqU2U)
 :::video id=ffee9682-1bfa-4717-9f22-9bc1baff0722:::
 
 
@@ -3312,7 +3290,6 @@ Rozszerzenie i integracja płatności Lightning poprzez różne protokoły i prz
 <professorId>e320ccda-be59-492b-a81b-243d9acb592f</professorId>
 
 
-![Video](https://youtu.be/W3Ra0cdG02I)
 :::video id=161d074d-4a81-48da-b2c9-9bde041a0da5:::
 
 
@@ -3487,7 +3464,6 @@ Podsumowując, świat Bitcoin Mining jest złożoną, wieloaspektową domeną, k
 <professorId>6cfd206c-53b8-47a0-bbf4-44fd84e6ee1d</professorId>
 
 
-![Video](https://youtu.be/VFjccozVwc8)
 :::video id=b89f2064-f2e1-49c3-97d0-580891eee1dd:::
 
 
@@ -3503,7 +3479,6 @@ Adam Gibson oferuje wgląd w Joinmarket, szczegółowo opisując, w jaki sposób
 ### Hackathon Groupe 1 - Dziedzictwo Satoshi
 
 
-![Video](https://youtu.be/NiaahH57N1w)
 :::video id=d78b199e-39cd-4d3c-b478-1502ba9c952a:::
 
 
@@ -3513,7 +3488,6 @@ Grupa Satoshi Legacy prezentuje swoją pracę nad budową Lightning e-commerce z
 ### Groupe 2 Hackathon - Honey Badger
 
 
-![Video](https://youtu.be/dds0-SV8ltE)
 :::video id=2159b401-e195-4bc8-9046-67a05c6ab7ea:::
 
 
@@ -3523,7 +3497,6 @@ Grupa Honey Badger prezentuje swoje rozwiązanie dla bloga z wbudowanymi mikrop�
 ### Groupe 3 Hackathon
 
 
-![Video](https://youtu.be/2YjrrDMGU9c)
 :::video id=eb1e3c20-03ea-4ff8-b018-d197377a85cf:::
 
 
@@ -3533,7 +3506,6 @@ Trzecia grupa prezentuje Lightning Network Node Dashboard za pośrednictwem nies
 ### Groupe 4 Hackathon - Stypendium Satoshi
 
 
-![Video](https://youtu.be/mxLKiHa0mes#)
 :::video id=de1f6032-a0fa-49b0-82eb-18ba0e631756:::
 
 
@@ -3543,7 +3515,6 @@ Grupa Satoshi's Fellowship prezentuje aplikację do gier LN wykorzystującą LnB
 ### Groupe 5 Hackathon - Lighting Walker
 
 
-![Video](https://youtu.be/IiY5PmkGNVo)
 :::video id=1328bada-4fd1-494a-83c6-f147a4880448:::
 
 

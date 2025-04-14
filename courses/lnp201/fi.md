@@ -55,7 +55,6 @@ Oletko valmis oppimaan Lightning Networkin tekniset mekanismit? Aloitetaan!
 ## Lightning-verkon ymmärtäminen
 
 <chapterId>df6230ae-ff35-56ea-8651-8e65580730a8</chapterId>
-![video en](https://youtu.be/QDQ8NG0l3hk)
 :::video id=ba99951f-81d2-418f-b5e7-4b8c9f8b8cc8:::
 
 
@@ -111,7 +110,6 @@ Tämä on tämän ensimmäisen luvun loppu, jossa olemme luoneet perustan Lightn
 ## Bitcoin, osoitteet, UTXO ja siirrot
 
 <chapterId>0cfb7e6b-96f0-508b-9210-90bc1e28649d</chapterId>
-![video en](https://youtu.be/U9l5IVriCss)
 :::video id=75323eef-ea03-45ac-9a6e-46d73ca255de:::
 
 Tämä luku on hieman erityinen, sillä se ei suoraan keskity Lightning-verkkoon, vaan Bitcoiniin. Todellakin, Lightning-verkko on kerros Bitcoinin päällä. On siis olennaista ymmärtää tietyt Bitcoinin peruskäsitteet, jotta voimme kunnolla käsittää Lightningin toiminnan seuraavissa luvuissa. Tässä luvussa käymme läpi Bitcoinin vastaanotto-osoitteiden, UTXO:iden sekä Bitcoin-siirtojen toiminnan perusteet.
@@ -177,7 +175,6 @@ Tämä luku Bitcoinista on antanut meille mahdollisuuden kerrata joitakin olenna
 ## Kanavan Avaaminen
 
 <chapterId>96243eb0-f6b5-5b68-af1f-fffa0cc16bfe</chapterId>
-![video en](https://youtu.be/Ty80WuN5X-g)
 :::video id=6098fee1-735e-4d8d-9f57-0faf5fef6d76:::
 
 
@@ -241,7 +238,6 @@ Seuraavassa luvussa tutustumme Lightning-transaktion tekniseen toimintaan kanava
 ## Sitoutumistransaktio
 
 <chapterId>7d3fd135-129d-5c5a-b306-d5f2f1e63340</chapterId>
-![video en](https://youtu.be/dzPMGiR_JSE)
 :::video id=c17454f3-14c5-47a0-8c9c-42ee12932bd3:::
 
 
@@ -299,7 +295,6 @@ Tässä järjestelmässä on kuitenkin potentiaalinen puute, johon puutumme seur
 ## Revocation Key
 
 <chapterId>f2f61e5b-badb-5947-9a81-7aa530b44e59</chapterId>
-![video en](https://youtu.be/veCs39uVFUk)
 :::video id=1d850f23-eff1-4725-b284-ce12456a2c26:::
 Tässä luvussa syvennymme siihen, miten tapahtumat toimivat Lightning-verkossa keskustelemalla mekanismeista, jotka suojaavat huijauksilta, varmistaen, että kumpikin osapuoli noudattaa kanavan sääntöjä.
 
@@ -376,7 +371,6 @@ Tässä koulutuksen vaiheessa tiedät nyt, miten Lightning-kanavat avataan ja mi
 ## Kanavan sulkeminen
 
 <chapterId>29a72223-2249-5400-96f0-3756b1629bc2</chapterId>
-![video en](https://youtu.be/zmAa2fj_V7w)
 :::video id=4d8ad4e6-32ff-46d3-bd17-343929aa863b:::
 
 
@@ -462,7 +456,6 @@ Kanavan sulkemiseen on kolme tapaa:
 ## Lightning-verkko
 
 <chapterId>45a7252c-fa4f-554b-b8bb-47449532918e</chapterId>
-![video en](https://youtu.be/44oBdNdXtEQ)
 :::video id=38419c23-5592-4573-b0a7-84824a5bfb77:::
 
 
@@ -576,7 +569,6 @@ Tässä luvussa tutkimme maksujen reititystä Lightning-verkossa. Mutta herää 
 ## HTLC – Hashed Time Locked Contract
 
 <chapterId>4369b85a-1365-55d8-99e1-509088210116</chapterId>
-![video en](https://youtu.be/jI4nM297aHA)
 :::video id=6f204b92-55a5-4939-9440-7c5b96a297bf:::
 
 
@@ -695,7 +687,6 @@ Seuraavassa luvussa tutustumme siihen, miten solmu, joka lähettää Lightning-t
 ## Löytämäsi Tie
 
 <chapterId>7e2ae959-c2a1-512e-b5d6-8fd962e819da</chapterId>
-![video en](https://youtu.be/CqetCElRjUQ)
 :::video id=e5baa834-111d-46f5-a28b-3538bed2bbb0:::
 
 
@@ -783,7 +774,6 @@ Seuraavassa luvussa tutkimme erityisesti laskujen toimintaa, lisäksi joitakin m
 ## Lasku, LNURL ja Keysend
 
 <chapterId>e34c7ecd-2327-52e3-b61e-c837d9e5e8b0</chapterId>
-![video en](https://youtu.be/XANzf1Qqp9I)
 :::video id=309c3412-506e-4189-ad46-5e5088c55008:::
 Tässä luvussa tarkastelemme tarkemmin Lightning **laskujen** toimintaa, eli maksupyyntöjä, jotka vastaanottava solmu lähettää lähettävälle solmulle. Tavoitteena on ymmärtää, miten maksuja suoritetaan ja vastaanotetaan Lightning-verkossa. Keskustelemme myös kahdesta klassisten laskujen vaihtoehdosta: LNURL ja Keysend.
 ![LNP201](assets/en/68.webp)
@@ -893,7 +883,6 @@ Seuraavassa luvussa näemme, kuinka solmuoperaattori voi hallita likviditeettiä
 ## Likviditeettisi Hallinta
 
 <chapterId>cc76d0c4-d958-57f5-84bf-177e21393f48</chapterId>
-![video en](https://youtu.be/MIbej28La7Y)
 :::video id=96096aef-e4ce-4c44-a022-57e27082232a:::
 
 
@@ -965,7 +954,6 @@ Seuraavassa luvussa ehdotan tärkeimpien käsitteiden kertausta tästä koulutuk
 
 
 <chapterId>a65a571c-561b-5e1c-87bf-494644653c22</chapterId>
-![video en](https://youtu.be/coaskEGRjiU)
 :::video id=5f4f4344-ef27-4765-8f09-8262e6833bde:::
 
 Tässä viimeisessä luvussa, joka merkitsee LNP201-koulutuksen päätöstä, ehdotan, että kertaamme yhdessä käsittelemämme tärkeät konseptit.

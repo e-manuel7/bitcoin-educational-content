@@ -589,7 +589,6 @@ Koncepcja Ripple opierała się na założeniu, że pieniądze zasadniczo skład
 Oto film wprowadzający do Ripple nakręcony w 2011 roku:
 
 
-![Video (Youtube) of Ripple's presentation in 2011](https://www.youtube.com/watch?v=f9KqSgRZYgg)
 :::video id=056364f2-a222-4d79-a4a1-cb0dc4cea751:::
 
 
@@ -1805,7 +1804,6 @@ EFF potrzebował trochę czasu, aby zacząć przyjmować publiczne darowizny. Po
 Kilka dni później [post](https://web.archive.org/web/20101117060233/http://www.bitcoinblogger.com/2010/11/Bitcoin-gains-legal-protection-through.html) został napisany na ten temat przez blogera jimbobway, który zwrócił uwagę na Bitcoin. Artykuł ten został [udostępniony](https://news.ycombinator.com/item?id=1905522) na HackerNews. Został on również przepisany na wideo przez BitcoinMedia przy użyciu Xtranormal:
 
 
-![Video "Bitcoin and the EFF."](https://www.youtube.com/watch?v=AiGCuyRJe8s)
 :::video id=03dfd302-1e05-4cad-a91a-e5e65f1d0932:::
 
 
@@ -2105,7 +2103,6 @@ Pierwsze spotkania użytkowników Bitcoin zostały zainicjowane przez Bruce'a Wa
 W lutym odbyła się również [pierwsza sfilmowana prezentacja](https://www.youtube.com/watch?v=koIq58UoNfE) Bitcoin, przeprowadzona przez Gavina Andresena 8 lutego podczas wydarzenia zorganizowanego w jego rodzinnym mieście Amherst w stanie Massachusetts. Zatytułowana "Zarabianie pieniędzy" prezentacja nowego głównego opiekuna projektu zawiera liczne języki Elements, które będą charakteryzować sposób, w jaki kryptowaluta będzie prezentowana w kolejnych latach.
 
 
-![Video (Youtube) of Gavin's speech at Amherst in February 2011](https://www.youtube.com/watch?v=koIq58UoNfE)
 :::video id=92b9aa30-1479-4d4f-b57f-f07b660145f2:::
 
 
@@ -2130,7 +2127,6 @@ Po tym doświadczeniu paryska społeczność [zorganizowała](https://bitcointal
 Na froncie międzynarodowym pierwsza zbiorowa konferencja na temat Bitcoin odbyła się w dniach 19-21 sierpnia w Nowym Jorku. Spotkanie to, zorganizowane przez Bruce'a Wagnera, zgromadziło takie osobistości jak Roger Ver, Jesse Powell, Jed McCaleb, Mark Karpelès i Charlie Lee. Chociaż Wagner obiecał trzy dni wydarzeń, odbyły się tylko cztery prezentacje: jego własna oraz Gavina Andresena, Jeffa Garzika i Stefana Thomasa.
 
 
-![Video (Youtube) of Gavin's intervention on August 20, 2011](https://www.youtube.com/watch?v=0ljx4bbJrYE)
 :::video id=bca0217c-29ee-49b2-8d16-d9efe6f390da:::
 
 
@@ -2146,7 +2142,6 @@ Rok 2011 był również rokiem, w którym zasięg mediów znacznie się rozszerz
 Po pierwsze, na Youtube zaczęły pojawiać się filmy na ten temat. 22 marca pojawiło się pierwsze wysokiej jakości wideo na temat Bitcoin. Film ten, zatytułowany po prostu "Czym jest Bitcoin?", został wyprodukowany przez Stefana Thomasa (justmoon) dzięki [crowdfundingowi](https://bitcointalk.org/index.php?topic=697.msg70001#msg70001) społeczności. Został on opublikowany na portalu WeUseCoins poświęconym edukacji i popularyzacji kryptowalut. Następnie pojawiły się inne niezależnie wyprodukowane filmy wprowadzające, takie jak [ten z howtovanish](https://www.youtube.com/watch?v=LSLByqTusaQ) w kwietniu, [ten z Reason](https://www.youtube.com/watch?v=yYTqvYqXRbY) lub [ten z Rocketboom](https://www.youtube.com/watch?v=9LaSrxtWfgc) w czerwcu.
 
 
-![What is Bitcoin?](https://www.youtube.com/watch?v=Um63OQz3bjo)
 :::video id=6147a351-da80-4331-9d79-d3156889ac62:::
 
 

@@ -114,7 +114,6 @@ Gotowy do zanurzenia się w złożonym i fascynującym świecie RGB? Do dzieła!
 <chapterId>f52f8af5-5d7c-588b-b56d-99b97176204b</chapterId>
 
 
-![video](https://youtu.be/AF2XbifPGXM)
 :::video id=f27338bc-4210-4a2e-9b27-30278ed3282c:::
 
 
@@ -621,7 +620,6 @@ Zanim zagłębimy się w bardziej techniczne szczegóły drugiego rozdziału, za
 <chapterId>cc2fe85a-9cc7-5b8c-a00a-c0a867241061</chapterId>
 
 
-![video](https://youtu.be/FS6PDprWl5Q)
 :::video id=73ddea2d-c243-479d-a3dc-12d7db8eef70:::
 
 
@@ -1451,7 +1449,6 @@ W następnym rozdziale przyjrzymy się czysto off-chain komponentowi RGB, a mian
 <chapterId>04a9569f-3563-5382-bf53-0c7069343ba0</chapterId>
 
 
-![video](https://youtu.be/tmAVdyXGmj4)
 :::video id=db4ee09f-1352-4ad1-9f7a-c962df7ea9fa:::
 
 
@@ -1587,7 +1584,6 @@ W następnym rozdziale zajmiemy się bardziej szczegółowo konkretną reprezent
 <chapterId>78c44e88-50c4-5ec4-befe-456c1a9f080b</chapterId>
 
 
-![video](https://youtu.be/lUTjeuM0oTA)
 :::video id=1caec34d-f214-425b-a1a4-0a40ae7d3e0e:::
 
 
@@ -2740,7 +2736,6 @@ Witness Transaction jest transakcją Bitcoin, która zamyka Single-Use Seal wok�
 <chapterId>8333ea5f-51c7-5dd5-b1d7-47d491e58e51</chapterId>
 
 
-![video](https://youtu.be/Uo1UoxiImsI)
 :::video id=97d81b85-5a82-40a5-b111-7d96be5afd0f:::
 
 
@@ -3631,7 +3626,6 @@ W następnym rozdziale przyjrzymy się, jak działa przelew Contract i jak gener
 <chapterId>f043a307-d420-5752-b0d7-ebfd845802c0</chapterId>
 
 
-![video](https://youtu.be/sVoKIi-1XbY)
 :::video id=75eb5a8d-1910-4155-b5e3-81204c9a8901:::
 
 
@@ -4052,7 +4046,6 @@ Teraz, gdy przyjrzeliśmy się głównemu Elements programowania RGB, przeprowad
 <chapterId>0e0a645c-0049-588d-8965-b8c536590cc9</chapterId>
 
 
-![video](https://youtu.be/GRwS-NvWF3I)
 :::video id=a3ad6dcd-90b8-4272-9dfc-76c85c859167:::
 
 
@@ -4461,7 +4454,6 @@ W następnym rozdziale przyjrzymy się bliżej integracji RGB z Lightning Networ
 <chapterId>0962980a-8f94-5d0f-9cd0-43d7f884a01d</chapterId>
 
 
-![video](https://youtu.be/mqCupTlDbA0)
 :::video id=be25a165-6e23-488c-91d8-3dcfccc6eca1:::
 
 
@@ -4694,7 +4686,6 @@ Ekosystem powiązany z deterministycznym rozwojem open-source.
 <chapterId>dc92a5e8-ed93-5a3f-bcd0-d433932842f4</chapterId>
 
 
-![video](https://youtu.be/nbUtV8GOR_U)
 :::video id=2ec9a181-a8b0-4da2-b7b5-9dfaaaeb10ba:::
 
 
@@ -4793,7 +4784,6 @@ Cały proces pokazuje, w jaki sposób można wdrożyć ekosystem RGB i udostępn
 <chapterId>d4d80e07-5eac-5b29-a93a-123180e97047</chapterId>
 
 
-![vidéo](https://youtu.be/5iAhsgCSL3U)
 :::video id=04555813-516f-4eea-9767-7082c2ea6f01:::
 
 
@@ -4960,7 +4950,6 @@ W następnym rozdziale przyjrzymy się bliżej, jak uruchomić węzeł RGB Light
 <chapterId>ecaabe32-20ba-5f8c-8ca1-a3f095792958</chapterId>
 
 
-![vidéo](https://youtu.be/piQQH4Q2nr0)
 :::video id=d1e9753e-6093-4a47-bcdc-da1aebaefffc:::
 
 
