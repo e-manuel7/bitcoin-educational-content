@@ -3,12 +3,12 @@ id: 6fc12131-e464-4515-9d3f-9255365d5fa1
 
 # topic
 # Choose between Bitcoin, Business, Mining, Protocol, Security, Sociology, Sovereignty
-topic: bitcoin
+topic: business
 
 # subtopic
 # Depends on the chosen topic. Subtopics for Bitcoin are limited to just Bitcoin
 # For other topics, refer to https: //github.com/orgs/DecouvreBitcoin/projects/3/views/7
-subtopic: bitcoin
+subtopic: point-of-sale
 
 # level
 # Define the difficulty of the course
