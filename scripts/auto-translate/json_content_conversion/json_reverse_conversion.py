@@ -134,9 +134,16 @@ class JsonToFileConverter:
             else:
                 lines = item.get('lines', item['content'].split('\n'))
                 return lines + ['$$', '']
-                
+        
+        elif item_type == 'table':
+            lines = item.get('lines', item['content'].split('\n'))
+            return lines
+        
         elif item_type in ['embed_links', 'paragraph', 'chapterId', 'partId']:
             return [item['content'], '']
+        
+        elif item_type == 'empty_line':
+            return ['']
             
         return [item['content']]
 
@@ -145,6 +152,7 @@ class JsonToFileConverter:
         is_yml = self.is_yml_json(json_data)
         formatted_lines = []
         prev_was_list = False
+        prev_was_table = False
         
         for item in json_data:
             if is_yml:
@@ -158,10 +166,15 @@ class JsonToFileConverter:
                     if not prev_was_list and formatted_lines:
                         formatted_lines.append('')
                     prev_was_list = True
+                    prev_was_table = False
+                elif item['type'] == 'table':
+                    prev_was_table = True
+                    prev_was_list = False
                 else:
-                    if prev_was_list:
+                    if prev_was_list or prev_was_table:
                         formatted_lines.append('')
                     prev_was_list = False
+                    prev_was_table = False
             
             formatted_lines.extend(lines)
         
@@ -206,3 +219,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

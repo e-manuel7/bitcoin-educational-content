@@ -15,6 +15,7 @@ class JsonConverter:
         self.in_yaml = False
         self.in_snippet = False
         self.in_equation = False
+        self.in_table = False
         self.current_block: List[str] = []
         
         
@@ -224,8 +225,33 @@ class JsonConverter:
         """Process a single line from a Markdown file"""
         raw_line = line
         line = line.strip()
-        if not line:
+        
+        if line.startswith('|'):
+            if not self.in_table:
+                self.in_table = True
+                self.current_block.append(line)
+            else:
+                self.current_block.append(line)
             return
+        elif self.in_table:
+            self.in_table = False
+            self.output.append({
+                'type': 'table',
+                'content': '\n'.join(self.current_block),
+                'lines': self.current_block,
+                'translate': False
+            })
+            self.current_block = []
+            if not line:
+                return
+        
+        if not line:
+            if self.in_snippet or self.in_equation:
+                self.current_block.append(line)
+                return
+            else:
+                self.output.append({'type': 'empty_line'})
+                return
             
         
         delimiter_type, meta = self.detector.get_delimiter_info(line)
@@ -394,7 +420,7 @@ class JsonConverter:
                 output_lines.append(f"{obj['prefix']} {obj['content']}")
                 output_lines.append('')
             
-            elif obj_type in ['snippet', 'equation']:
+            elif obj_type in ['snippet', 'equation', 'table']:
                 if obj.get('lines'):
                     output_lines.extend(obj['lines'])
                 else:
@@ -406,6 +432,10 @@ class JsonConverter:
             elif obj_type in ['embed_links', 'paragraph', 'chapterId', 'partId']:
                 output_lines.append(obj['content'])
                 output_lines.append('')
+            
+            elif obj_type == 'empty_line':
+                if output_lines and output_lines[-1] != '':
+                    output_lines.append('')
             
             else:
                 output_lines.append(obj['content'])
@@ -446,3 +476,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
