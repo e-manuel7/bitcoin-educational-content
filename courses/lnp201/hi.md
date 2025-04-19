@@ -7,7 +7,7 @@ objectives:
   - HTLC, LNURL, और UTXO के बारे में जानकारी हासिल करें।
   - LNN की लिक्विडिटी और फीस के प्रबंधन को समाहित करें।
   - Lightning Network को एक नेटवर्क के रूप में पहचानें।
-  - Lightning Network के सैद्धांतिक उपयोग समझें।
+  - Lightning Network के सैद्धांतिक उपयोग समझें। 
 
 ---
 # Bitcoin के दूसरे Layer की यात्रा
