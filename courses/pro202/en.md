@@ -74,5 +74,5 @@ Enjoy your discovery!
 
 ## Conclusion
 
-<chapterId>dfc534be-44a9-5e8c-9c98-e51ef0554e91</chapterId>
+<chapterId>7fdf0d2c-6c7c-11f0-9a86-d308a341f341</chapterId>
 <isCourseConclusion>true</isCourseConclusion>
