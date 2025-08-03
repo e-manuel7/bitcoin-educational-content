@@ -336,7 +336,7 @@ Mais la réalité est tout autre, et la confusion vient plutôt d’un problème
 
 Enfin, si la croyance au libre arbitre est  une illusion dont il est extrêmement difficile de s’extraire, c’est qu’elle renvoie à une autre illusion qui l’alimente, l’illusion des causes finales que je vous propose d’étudier dans le prochain chapitre.
 
-## L’illusion des causes finales.
+## L’illusion des causes finales
 <chapterId>da2a7fb1-f1e9-5b56-822d-c73770de749d</chapterId>
 
 Nous avons vu dans le précédant chapitre que l’illusion du libre arbitre consiste à croire que l’on pourrait donc commencer quelque chose à partir de rien, que seule notre volonté nous permettrait de diriger notre vie et que nous disposerions d’un pouvoir de décision indéterminé. C’est l’idée que l’homme serait en mesure de troubler l’ordre de la Nature plus qu’il ne le subit.
@@ -448,7 +448,7 @@ Pour Spinoza, un État démocratique qui permet la liberté de penser est donc l
 # De la théorie des affects à Bitcoin
 <partId>82e69d4f-a94f-5978-bcb8-8a7b4651bcca</partId>
 
-## La question du mal chez Spinoza.
+## La question du mal chez Spinoza
 <chapterId>1ce64576-2688-5757-a119-57cc3a1076c0</chapterId>
 
 Je souhaite à présent évoquer avec vous la question du mal, tel que Spinoza (1632-1677) l’expose dans ses œuvres et dans sa correspondance.
