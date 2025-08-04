@@ -1,7 +1,5 @@
-
 ---
 name: How to buy Bitcoin into your own Wallet with Bittr
-
 description: A simple step-by-step guide for self custody Bitcoin purchases
 ---
 

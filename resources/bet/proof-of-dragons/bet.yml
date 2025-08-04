@@ -14,12 +14,14 @@ proofreading:
   - language: en
     last_contribution_date: 2025-07-05
     urgency: 1
-    contributor_names: PaoloFoti
+    contributor_names: 
+      - PaoloFoti
     reward: 0
   - language: it
     last_contribution_date: 2025-07-05
     urgency: 1
-    contributor_names: PaoloFoti
+    contributor_names: 
+      - PaoloFoti
     reward: 0
 
 tags:
