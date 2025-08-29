@@ -50,7 +50,7 @@ This course emphasizes hands-on implementation with real code examples, API inte
 ## Taproot Assets: A New Protocol for Multi-Asset Bitcoin and Lightning
 <chapterId>4731ef2b-3cd7-512c-880f-dcb3144d5f1f</chapterId>
 
-[video](https://www.youtube.com/watch?v=-yiTtO_p3Cw)
+![video](https://www.youtube.com/watch?v=-yiTtO_p3Cw)
 
 ### Understanding Taro
 
@@ -84,7 +84,7 @@ Universe services play a crucial supporting role by providing information about 
 ## Taproot Assets Demo
 <chapterId>5baeb5aa-0034-537a-b1d5-89085a9ebaba</chapterId>
 
-[video](https://www.youtube.com/watch?v=xtklaJHfKIY)
+![video](https://www.youtube.com/watch?v=xtklaJHfKIY)
 
 ### Introduction to Taro Client
 
@@ -119,7 +119,7 @@ For continued learning and more detailed information about Taro's capabilities, 
 ## Tap into the Universe
 <chapterId>88370fbe-0c65-5a5f-ac3d-83825e9fe27e</chapterId>
 
-[video](https://www.youtube.com/watch?v=8Qi7VOvKe5o)
+![video](https://www.youtube.com/watch?v=8Qi7VOvKe5o)
 
 ### Taproot Assets Version 0.2: Advanced Features and Implementation
 
@@ -157,7 +157,7 @@ The REST API provides practical access to universe functionality through standar
 
 ## Install from Source
 <chapterId>5fd4d827-5ae7-5814-9984-e7a3a1d8a01a</chapterId>
-[video](https://www.youtube.com/watch?v=Z7KLo-pGBJA)
+![video](https://www.youtube.com/watch?v=Z7KLo-pGBJA)
 
 ### Installing TAPD: A Complete Setup Guide
 
@@ -191,7 +191,7 @@ The most frequent installation problems relate to Go version compatibility, inco
 
 ## Prototype with Polar
 <chapterId>c9219d04-538c-57bc-be83-144e7666c304</chapterId>
-[video](https://www.youtube.com/watch?v=pYh-4EfdZaM)
+![video](https://www.youtube.com/watch?v=pYh-4EfdZaM)
 
 ### Setting Up TAPD with Polar Development Environment
 
@@ -222,7 +222,7 @@ Effective TAPD development using Polar follows a structured workflow that begins
 ## Launch with Litd
 <chapterId>dd0a5315-f6ad-5bf4-b487-1afdc5e335d7</chapterId>
 
-[video](https://www.youtube.com/watch?v=EaPZ3EbTWhE)
+![video](https://www.youtube.com/watch?v=EaPZ3EbTWhE)
 
 ### Installing TAPD via Lightning Terminal from Source
 
@@ -250,7 +250,7 @@ The final verification step involves testing TAPD's connectivity to universe ser
 
 ## Join a Universe Federation
 <chapterId>f4382e26-bab7-5ad1-b7d2-a689ba9d3f27</chapterId>
-[video](https://www.youtube.com/watch?v=o6U812eSE_Q)
+![video](https://www.youtube.com/watch?v=o6U812eSE_Q)
 
 ### Dicovering Universe Concepts
 
@@ -332,42 +332,42 @@ The finalization process for additional rounds follows the identical procedure. 
 
 ## Mint from the CLI
 <chapterId>f6a287f8-4fdc-57d3-86cf-be929e76a115</chapterId>
-[video](https://www.youtube.com/watch?v=FccI6j0mxuE)
+![video](https://www.youtube.com/watch?v=FccI6j0mxuE)
 
 ## Mint from the API
 <chapterId>bb2bccd2-d462-575d-b325-fcac9ccae81b</chapterId>
-[video](https://www.youtube.com/watch?v=IL4ojWyFPSk)
+![video](https://www.youtube.com/watch?v=IL4ojWyFPSk)
 
 ## Send from the CLI
 <chapterId>e484324d-5d0e-5243-9f92-92cca48e9cf4</chapterId>
-[video](https://www.youtube.com/watch?v=o30AiqbsYhw)
+![video](https://www.youtube.com/watch?v=o30AiqbsYhw)
 
 ## Send from the API
 <chapterId>b6fc3598-1e2d-5c28-82d1-b058802a8538</chapterId>
-[video](https://www.youtube.com/watch?v=UEaNXu8me24)
+![video](https://www.youtube.com/watch?v=UEaNXu8me24)
 
 ## Burn from the CLI
 <chapterId>04545b41-c2f5-51d5-8cad-d8833d7cffc9</chapterId>
-[video](https://www.youtube.com/watch?v=qBTGxSHpyDo)
+![video](https://www.youtube.com/watch?v=qBTGxSHpyDo)
 
 ## Burn from the API
 <chapterId>b8ee3461-e23b-5f91-bb52-7b243968de3e</chapterId>
-[video](https://www.youtube.com/watch?v=hYUBA-AxrtE)
+![video](https://www.youtube.com/watch?v=hYUBA-AxrtE)
 
 # Diving deeper into Taproot Assets 
 <partId>1dd5432a-516a-53bd-92a7-ef816d29a4e3</partId>
 
 ## Update Tapd
 <chapterId>99d5c2d5-721d-5363-b2e8-f5e23a9cdabd</chapterId>
-[video](https://www.youtube.com/watch?v=0nvkrWfxW3k)
+![video](https://www.youtube.com/watch?v=0nvkrWfxW3k)
 
 ## Building a Node from Scratch
 <chapterId>8f3752bb-815f-5e48-bfbf-f6b5d6f0ffad</chapterId>
-[video](https://www.youtube.com/watch?v=lopHP_nF0tE)
+![video](https://www.youtube.com/watch?v=lopHP_nF0tE)
 
 ## Running a Taproot Assets Price Oracle
 <chapterId>daff6e65-2a0b-54b3-8409-e49a6ed87d95</chapterId>
-[video](https://www.youtube.com/watch?v=m0BSUqNZT_U)
+![video](https://www.youtube.com/watch?v=m0BSUqNZT_U)
 
 
 # Final Section
