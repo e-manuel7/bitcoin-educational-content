@@ -20,10 +20,10 @@ Whether you're building stablecoins, NFTs, or custom financial instruments, this
 +++
 
 # Introduction
-<partId>9bcbe4be-8885-5a94-b04f-f6b07b412939</partId>
+<partId>f8d4a3c7-9b2e-4e5f-a1d3-8c6f9e2b4a15</partId>
 
 ## Course presentation
-<chapterId>97160b97-835d-5f94-92f7-90cf58da50d6</chapterId>
+<chapterId>a2e5f8b9-4c3d-41e7-b9f2-6d8a3c5e9f14</chapterId>
 
 Welcome to this advanced technical course on Taproot Assets, designed for experienced developers ready to extend Bitcoin's capabilities into multi-asset protocols. This course provides comprehensive coverage of the Taproot Assets Protocol from theoretical foundations to production deployment.
 
@@ -46,9 +46,9 @@ The final section addresses production concerns including running price oracles,
 This course emphasizes hands-on implementation with real code examples, API interactions, and troubleshooting guidance for production deployments.
 
 # The Taproot Asset Protocol 
-<partId>c3e63fd4-a5e6-5449-bc03-f65c01a289fe</partId>
+<partId>d7f9e2c4-3a5b-4f8e-9c1d-2b6a8e5f3d17</partId>
 ## Taproot Assets: A New Protocol for Multi-Asset Bitcoin and Lightning
-<chapterId>4731ef2b-3cd7-512c-880f-dcb3144d5f1f</chapterId>
+<chapterId>b3c8d5f2-7e4a-4b9c-a6f1-5d9e2c3b8f16</chapterId>
 
 ![video](https://www.youtube.com/watch?v=-yiTtO_p3Cw)
 
@@ -82,7 +82,7 @@ Universe services play a crucial supporting role by providing information about 
 
 
 ## Taproot Assets Demo
-<chapterId>5baeb5aa-0034-537a-b1d5-89085a9ebaba</chapterId>
+<chapterId>e6f3a8d1-9c2b-4e7f-b5a8-3d1c6f9e8b27</chapterId>
 
 ![video](https://www.youtube.com/watch?v=xtklaJHfKIY)
 
@@ -117,7 +117,7 @@ The transfer process involves coordination between sender and recipient, where t
 For continued learning and more detailed information about Taro's capabilities, the comprehensive documentation available at [docs.lightning.engineering](https://docs.lightning.engineering/) provides extensive resources, tutorials, and technical specifications. As Taro continues to evolve and mature, staying connected with the official documentation and community resources will ensure you remain current with the latest developments and best practices in the Taro ecosystem.
 
 ## Tap into the Universe
-<chapterId>88370fbe-0c65-5a5f-ac3d-83825e9fe27e</chapterId>
+<chapterId>c9b7e4f3-5d8a-4c2e-9f6b-8a3d5e7c2b19</chapterId>
 
 ![video](https://www.youtube.com/watch?v=8Qi7VOvKe5o)
 
@@ -153,10 +153,10 @@ The REST API provides practical access to universe functionality through standar
 
 
 # Initial Installation and Configuration
-<partId>9025deff-2223-59b4-9024-dd35a527094b</partId>
+<partId>f2d8c5e9-6b3a-4e7c-8d9f-1a5c3b7e9f28</partId>
 
 ## Install from Source
-<chapterId>5fd4d827-5ae7-5814-9984-e7a3a1d8a01a</chapterId>
+<chapterId>a8e9f3b2-7c5d-4f1e-b6a9-2d8c5e3f7a31</chapterId>
 ![video](https://www.youtube.com/watch?v=Z7KLo-pGBJA)
 
 ### Installing TAPD: A Complete Setup Guide
@@ -190,7 +190,7 @@ Alternative approaches may be more suitable for specific use cases. Binary insta
 The most frequent installation problems relate to Go version compatibility, incorrect file paths, or permission issues. Comprehensive documentation is available at docs.lightning.engineering, providing detailed information about configuration options, API usage, and troubleshooting procedures. For real-time assistance, the Lightning Labs Slack community provides direct access to developers and experienced users who can offer guidance and support.
 
 ## Prototype with Polar
-<chapterId>c9219d04-538c-57bc-be83-144e7666c304</chapterId>
+<chapterId>d5c7f8e3-9a2b-4e6c-8f1d-3b9e5a7c4d32</chapterId>
 ![video](https://www.youtube.com/watch?v=pYh-4EfdZaM)
 
 ### Setting Up TAPD with Polar Development Environment
@@ -220,7 +220,7 @@ Following successful asset minting and blockchain confirmation, developers can v
 Effective TAPD development using Polar follows a structured workflow that begins with network setup and progresses through increasingly complex operations. Troubleshooting and support resources play a crucial role in the development process, with the Polar project repository serving as a primary resource for resolving common issues and configuration challenges. The Lightning Labs community, accessible through various channels including Slack, provides additional support and collaboration opportunities for developers working with TAPD and related technologies.
 
 ## Launch with Litd
-<chapterId>dd0a5315-f6ad-5bf4-b487-1afdc5e335d7</chapterId>
+<chapterId>b7f9a2c5-8e3d-4b7a-9c6f-5d2e8a3b1f43</chapterId>
 
 ![video](https://www.youtube.com/watch?v=EaPZ3EbTWhE)
 
@@ -249,7 +249,7 @@ For production deployments, proper system integration through SystemD ensures re
 The final verification step involves testing TAPD's connectivity to universe servers, which are essential for asset discovery and verification. Testing universe connectivity confirms that TAPD can properly communicate with external services and participate in the broader Taproot Assets ecosystem. This involves listing connected universes and potentially adding new ones to verify the networking and protocol implementation. The successful completion of these tests indicates that the installation is complete and ready for use in minting, transferring, and managing Taproot Assets.
 
 ## Join a Universe Federation
-<chapterId>f4382e26-bab7-5ad1-b7d2-a689ba9d3f27</chapterId>
+<chapterId>e3d8b6f4-7c9a-4e2b-8f5c-9a1d3e6b7c54</chapterId>
 ![video](https://www.youtube.com/watch?v=o6U812eSE_Q)
 
 ### Dicovering Universe Concepts
@@ -285,7 +285,7 @@ Best practices include maintaining a curated federation serving specific needs r
 The combination of CLI and API access provides operational flexibility - CLI commands for manual administration and testing, API integration for automated workflows and applications. Understanding both approaches ensures choosing the most appropriate method for each universe management task while maintaining consistent operational practices across your taproot asset infrastructure.
 
 # First Mints and Transactions
-<partId>b9cee471-85be-5718-8b1f-be4f6706514b</partId>
+<partId>c8a5f7d2-9e3b-4d6c-7f8a-2b5c9e1d3a65</partId>
 
 ### Introduction to Asset Minting
 
@@ -331,7 +331,7 @@ The finalization process for additional rounds follows the identical procedure. 
 
 
 ## Mint from the CLI
-<chapterId>f6a287f8-4fdc-57d3-86cf-be929e76a115</chapterId>
+<chapterId>f5b9c3e7-8d2a-4f7e-9b6c-3a8d5e2c1f76</chapterId>
 
 ![video](https://www.youtube.com/watch?v=FccI6j0mxuE)
 
@@ -378,7 +378,7 @@ Users should expect brief delays between transfer execution and balance updates 
 The transfer system exemplifies sophisticated engineering underlying the Taproot Assets Protocol, combining Bitcoin's security with efficient asset management. By abstracting complex cryptographic operations behind simple CLI commands, the system makes advanced functionality accessible while maintaining fundamental security and decentralization principles.
 
 ## Mint from the API
-<chapterId>bb2bccd2-d462-575d-b325-fcac9ccae81b</chapterId>
+<chapterId>a9d7e5f8-3c6b-4e9a-8f2d-6b1c3a9e5d87</chapterId>
 
 ![video](https://www.youtube.com/watch?v=IL4ojWyFPSk)
 
@@ -419,7 +419,7 @@ After sufficient on-chain confirmations, the receiving node updates its asset ba
 When implementing API-based asset transfers in production applications, error handling should account for network failures, authentication issues, and blockchain-related delays. Security considerations include proper macaroon and certificate management, secure communication channels, and appropriate access controls for API endpoints. Production deployments should implement monitoring and logging to track transfer operations and diagnose issues. The API-based approach enables sophisticated asset management workflows, including automated transfers, batch operations, and integration with existing financial systems.
 
 ## Send from the CLI
-<chapterId>e484324d-5d0e-5243-9f92-92cca48e9cf4</chapterId>
+<chapterId>d2c8f6b3-7e5a-4b9d-8c3f-9a6e2d5b1c98</chapterId>
 
 ![video](https://www.youtube.com/watch?v=o30AiqbsYhw)
 
@@ -466,7 +466,7 @@ Users should expect brief delays between transfer execution and balance updates 
 The transfer system exemplifies sophisticated engineering underlying the Taproot Assets Protocol, combining Bitcoin's security with efficient asset management. By abstracting complex cryptographic operations behind simple CLI commands, the system makes advanced functionality accessible while maintaining fundamental security and decentralization principles.
 
 ## Send from the API
-<chapterId>b6fc3598-1e2d-5c28-82d1-b058802a8538</chapterId>
+<chapterId>b6f3d9a8-5c2e-4d7b-9f8a-1e3c6b8a7d19</chapterId>
 
 ![video](https://www.youtube.com/watch?v=UEaNXu8me24)
 
@@ -500,7 +500,7 @@ The asset transfer execution involves the sending node constructing and broadcas
 
 
 ## Burn from the CLI
-<chapterId>04545b41-c2f5-51d5-8cad-d8833d7cffc9</chapterId>
+<chapterId>e8a9b5c2-4f7d-4e3a-8b6c-7d2f9e1a3b21</chapterId>
 ![video](https://www.youtube.com/watch?v=qBTGxSHpyDo)
 
 ### Asset Burning via CLI
@@ -536,7 +536,7 @@ After receiving on-chain confirmation, users can verify the success of their bur
 Once confirmed on the blockchain, burned assets cannot be recovered or restored through any means. The burning process represents a permanent destruction of digital value, making the verification step crucial for ensuring that the operation achieved its intended purpose. The finality of burning operations underscores the importance of careful planning and verification before executing these commands. Users should always double-check their asset IDs, quantities, and intentions before confirming burn operations, as the permanent nature of these transactions makes them powerful tools for supply management but requires responsible use to avoid unintended consequences.
 
 ## Burn from the API
-<chapterId>b8ee3461-e23b-5f91-bb52-7b243968de3e</chapterId>
+<chapterId>c7d5e8f9-3b6a-4e2c-9f7d-8a1b5c3e6d32</chapterId>
 
 ![video](https://www.youtube.com/watch?v=hYUBA-AxrtE)
 
@@ -577,10 +577,10 @@ The verification process serves multiple purposes: providing a clear audit trail
 
 
 # Diving deeper into Taproot Assets 
-<partId>1dd5432a-516a-53bd-92a7-ef816d29a4e3</partId>
+<partId>f9c3a7d5-8e2b-4d6f-7a9c-3b5e8d1f2c43</partId>
 
 ## Update Tapd
-<chapterId>99d5c2d5-721d-5363-b2e8-f5e23a9cdabd</chapterId>
+<chapterId>a5b8f9c3-6d7e-4a2b-8c9f-2e3d7b1a5f54</chapterId>
 ![video](https://www.youtube.com/watch?v=0nvkrWfxW3k)
 
 ### Introduction to TAPD Updates
@@ -630,7 +630,7 @@ Before performing any update, ensure current backups of critical data, including
 The update process for TAPD nodes varies significantly depending on installation method, but following proper procedures ensures smooth transitions to newer versions while preserving valuable node data and configurations. Regular updates keep your node secure, performant, and compatible with the evolving Lightning Network ecosystem.
 
 ## Building a Node from Scratch
-<chapterId>8f3752bb-815f-5e48-bfbf-f6b5d6f0ffad</chapterId>
+<chapterId>d8e6c2f7-9b3a-4d5e-7f8b-1c6a9e3d2b65</chapterId>
 
 ![video](https://www.youtube.com/watch?v=lopHP_nF0tE)
 
@@ -671,7 +671,7 @@ After successful installation, LITD requires initial configuration and wallet cr
 The initial LITD startup requires manual intervention to create and unlock the wallet. Users start LITD in one terminal session, which will pause waiting for wallet creation. In a separate terminal session, users execute wallet creation commands that establish the Lightning Network wallet and generate the seed phrase for backup. The wallet creation proces
 
 ## Running a Taproot Assets Price Oracle
-<chapterId>daff6e65-2a0b-54b3-8409-e49a6ed87d95</chapterId>
+<chapterId>b3f7d9a5-8c2e-4b6d-9a7f-5e1c3d8b6a76</chapterId>
 ![video](https://www.youtube.com/watch?v=m0BSUqNZT_U)
 
 ### Setting Up Price Oracles for Edge Networks
@@ -720,14 +720,14 @@ The RFQ system's flexibility in supporting both individual asset IDs and group k
 
 
 # Final Section
-<partId>cd74ea84-8293-11f0-9da4-87bd4622cb73</partId>
+<partId>e7b5f8c9-4d3a-4e8b-9c6f-2a8d5b3e1c87</partId>
 
 # Evaluate this course
-<chapterId>d5758ad6-8293-11f0-b4c6-97311bec09e2</chapterId>
+<chapterId>c9a8e3d7-5b6c-4f2d-8e9a-7d3b6c1f5a98</chapterId>
 <isCourseReview>true</isCourseReview>
 
 ## Conclusion
-<chapterId>dbd7fee0-8293-11f0-b017-df3c796eed0d</chapterId>
+<chapterId>f6d3b8e5-7a9c-4e5b-8d2f-9c1e6a3b7d21</chapterId>
 <isCourseConclusion>true</isCourseConclusion>
 
 
