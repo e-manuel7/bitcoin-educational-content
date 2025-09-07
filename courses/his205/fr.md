@@ -18,7 +18,7 @@ Ce cours captivant vous emmènera explorer l'évolution fascinante de la monnaie
 # Introduction 
 <partId>05f9ec93-6f06-5190-b679-5126b66d8953</partId>
 
-## HIS 205 - Introduction à l'Histoire de la monnaie
+## Introduction à l'Histoire de la monnaie
 <chapterId>71159b01-39ff-5a7d-acdd-b353e5c2af53</chapterId>
 ![video](https://www.youtube.com/watch?v=jFK1ha2ALYE)
 
@@ -58,10 +58,10 @@ La première partie se consacre à l'émergence de la monnaie, la deuxième part
 Merci et bon visionnement !
 
 
-# Partie 1: L’émergence de la monnaie
+# L’émergence de la monnaie
 <partId>39712d4a-9eee-5078-a06b-24fe5d6e3326</partId>
 
-## HIS 205 - 1.1.1 - De l'Australopithèque à l'Homme Moderne
+## De l'Australopithèque à l'Homme Moderne
 <chapterId>80557fc3-6613-507d-980d-a070fecc22f2</chapterId>
 ![video](https://www.youtube.com/watch?v=PQylNCGF3nA)
 
@@ -120,7 +120,7 @@ Le survol de l'évolution de l'homme depuis l'Australopithèque à l'homme moder
 
 Donc, voilà ce survol historique pour nous donner une perspective de l'apparition de certaines technologies, domestication de certains animaux et de cultures, pour le mettre en contexte avec l'apparition de l'écriture et de la monnaie, qui sera le sujet de notre prochaine section.
 
-## HIS 205 - 1.1.2 - Des Chasseurs-Cueilleurs aux Agriculteurs : L'Aube de la Civilisation
+## Des Chasseurs-Cueilleurs aux Agriculteurs : L'Aube de la Civilisation
 <chapterId>b061d3c4-15aa-50a9-a651-589e81a6a74a</chapterId>
 ![video](https://www.youtube.com/watch?v=y6KPqmcv6os)
 
@@ -153,7 +153,7 @@ Dans la culture natoufienne, jusqu'à une centaine d'individus vivaient ensemble
 Une autre théorie propose que les villages eux-mêmes ont créé le problème résolu par la domestication. La chasse et la cueillette intensives auraient déstabilisé l'environnement naturel. Selon une hypothèse, les Natoufiens auraient connu un tel succès démographique qu'ils seraient devenus trop nombreux pour leur environnement immédiat. Donc, les marécages, les zones où il y avait des cultures naturelles sont devenues peut-être pas assez productives pour le nombre de population du village. L'environnement immédiat n'était pas capable de subvenir aux besoins de tous. Ils auraient alors commencé à cultiver directement sur place et augmenter leur approvisionnement en nourriture.
 
 
-## HIS 205 - 1.1.2D - Les échanges au néolithique [Feat Ulrich]
+## Les échanges au néolithique
 <chapterId>8203cb8e-81e9-5f85-9f8a-028e64cda4bc</chapterId>
 ![video](https://www.youtube.com/watch?v=e_HIT0QWF8A)
 
@@ -198,7 +198,7 @@ Ces biens se distinguent par leur **capacité à être demandés par autrui**, q
 
 Le néolithique établit ainsi les bases de l'économie moderne : spécialisation du travail, propriété privée, accumulation de richesses, hiérarchisation sociale et émergence de systèmes d'échange sophistiqués qui transcendent les liens de parenté et de voisinage direct.
 
-## HIS 205 - 1.1.3 - La formation des premières cités et l'émergence de l'écriture
+##La formation des premières cités et l'émergence de l'écriture
 <chapterId>66eecf84-3e65-52b2-9661-3ab2ce8f7fc9</chapterId>
 ![video](https://www.youtube.com/watch?v=rPuDJ4893cg)
 
@@ -252,7 +252,7 @@ On peut citer ici l’exemple de **l'Épique de Gilgamesh**, possiblement un **r
 
 Cette écriture, à la fois outil de gestion économique et vecteur culturel, perdura jusqu'au Ier siècle de notre ère, avant de disparaître définitivement, laissant derrière elle un témoignage précieux de la civilisation qui l'avait vue naître.
 
-## HIS 205 - 1.1.4 - Le rôles des tablettes sumériennes
+## Le rôles des tablettes sumériennes
 <chapterId>fe481149-3333-5a58-959b-337d6e0e7fa2</chapterId>
 ![video](https://www.youtube.com/watch?v=yZbmrToK7X8)
 
@@ -282,7 +282,7 @@ Cette lettre adressée à son partenaire, semble indiquer qu’il était parti f
 Ainsi, les documents mésopotamiens qui nous sont parvenus reflètent principalement des échanges économiques, puisqu'ils étaient rédigés exclusivement lors de transferts de biens ayant une valeur reconnue : argent, grain, marchandises diverses, biens immobiliers, paiement de taxes au temple. Ces archives révèlent non seulement l'efficacité et la précision administrative de cette civilisation antique, mais également sa capacité à gérer des échanges économiques complexes sur une très longue période.
 
 
-## HIS 205 - 1.1.4D - Le contrôle des élites sur les tablettes sumériennes [Feat Ulrich ]
+## Le contrôle des élites sur les tablettes sumériennes
 <chapterId>83de78b2-ed2a-5cdf-ad6f-1eec61145a31</chapterId>
 ![video](https://www.youtube.com/watch?v=SumG3wpjl5k)
 
@@ -327,7 +327,7 @@ L'expérience mésopotamienne établit des precedents durables pour l'évolution
 Cette période fondatrice révèle également les enjeux de pouvoir inhérents à toute innovation monétaire : qui contrôle la technologie, qui définit les règles, et comment s'articulent systèmes formels et pratiques populaires. Ces questions traversent l'histoire économique jusqu'aux débats contemporains sur les monnaies numériques et les cryptomonnaies.
 
 
-## HIS 205 - 1.2.0 - Les grandes civilisations de l’âge du Bronze
+## Les grandes civilisations de l’âge du Bronze
 <chapterId>0c7a6e73-3520-586e-a003-1929ae18e62d</chapterId>
 ![video](https://www.youtube.com/watch?v=WaqFNZwyrRA)
 
@@ -361,7 +361,7 @@ Et deux cités pour conclure cette section. On a Assur, qui était la capitale d
 Mais on n'a pas de traces à Babylone de ces fameux jardins suspendus. Tandis qu'à Ninive, on a vraiment des preuves archéologiques qu'il y avait des jardins sur des étages. Il est possible qu’il existait une confusion entre Ninive et Babylone chez les historiens grecs qui en font mention, comme Hérodote. Lorsqu'ils visitaient des villes en Mésopotamie, peut-être qu'ils y référaient en tant que Babylone. On a trouvé des traces de fameux jardins suspendus à Ninive et les savants se demandent peut-être que Ninive est ce fameux endroit où il y avait ces jardins auxquels on réfère en tant que jardins suspendus de Babylone.
 
 
-## HIS 205 - 1.2.1 - Organisation économique en Mésopotamie
+## Organisation économique en Mésopotamie
 <chapterId>168eddce-3ff3-59a1-b955-d96c0b8b3048</chapterId>
 ![video](https://www.youtube.com/watch?v=raatMwCHSp8)
 
@@ -414,7 +414,7 @@ C'est ce qui conclut cette section sur l'organisation économique en Mésopotami
 Dans les prochaines sections, nous allons faire le même travail pour l'Égypte et la Chine.
 
 
-## HIS 205 - 1.2.2 - Organisation économique et monétaire en Égypte ancienne
+## Organisation économique et monétaire en Égypte ancienne
 <chapterId>621f600c-8d88-5e5d-b80b-c4a7eecf9a64</chapterId>
 ![video](https://www.youtube.com/watch?v=L28eSCdUW_c)
 
@@ -503,7 +503,7 @@ Donc, déjà à ces époques archaïques, l'auteur propose que les pièces de mo
 
 L'auteur nous propose que dès les premières utilisations de pièces de monnaie, au-delà de simplement certifier le poids, de faciliter et de fluidifier les échanges, on abusait déjà du pouvoir de battre monnaie pour en augmenter la quantité émise, possiblement pour appliquer une certaine forme de planification économique.
 
-## HIS 205 - 1.2.3 - La monnaie signe et l’organisation économique et monétaire en Chine antique
+## La monnaie signe et l’organisation économique et monétaire en Chine antique
 <chapterId>480b0330-5996-5f40-a155-1881619f842c</chapterId>
 ![video](https://www.youtube.com/watch?v=r_Crf3bgic8)
 
@@ -566,7 +566,7 @@ La Chine est également pionnière dans l'émission de formes précoces de monna
 Ainsi, l’expérience chinoise se caractérise par une conception profondément fiduciaire de la monnaie, une flexibilité remarquable du système monétaire et une utilisation précoce des monnaies papier, fondées sur la confiance entre les acteurs économiques plutôt que sur la valeur intrinsèque des supports utilisés.
 
 
-## HIS 205 - 1.2.D - Organisation sociétale et économique durant l’antiquité [Feat Ulrich]
+## Organisation sociétale et économique durant l’antiquité [Feat Ulrich]
 <chapterId>00a048c7-13fc-5fc2-9c4e-f32e55667a70</chapterId>
 ![video](https://www.youtube.com/watch?v=E0eRh2afwNA)
 
@@ -628,7 +628,7 @@ Cette fragilité structurelle des systèmes anti-monétaires face aux sociétés
 
 L'analyse de ces modèles historiques révèle que la monnaie, au-delà de sa fonction d'échange, constitue un marqueur et un facilitateur de complexité sociale, permettant aux civilisations de dépasser les limites imposées par les relations interpersonnelles directes.
 
-## HIS 205 - 1.3.0 - L’émergence des pièces de monnaie
+## L’émergence des pièces de monnaie
 <chapterId>3b51fa9a-29ba-597c-ae8d-a3be3e87deb1</chapterId>
 ![video](https://www.youtube.com/watch?v=g6brlSyqCao)
 
@@ -657,7 +657,7 @@ Je trouve intéressant de mentionner ici qu’en Égypte ils ont continué de pe
 Pour illustrer cette époque, voici un pièce de la région de l'Indes, une pièces de la région Bactriane qui est un peu à l'Ouest de la péninsule indienne, proche de l'Afghanistan dans cette zone-là, on retrouvait des pièces qui étaient probablement inspirées des pièces grecques où figure une de leur personnalité royale.
 
 
-## HIS 205 - 1.3.1 - Les Lydiens et les Perses
+## Les Lydiens et les Perses
 <chapterId>d0eb8546-8542-5705-9a04-739d3351c613</chapterId>
 ![video](https://www.youtube.com/watch?v=g1UO-Bh9Jsk)
 
@@ -701,7 +701,7 @@ Enfin, l'expansion rapide des pièces de monnaies témoigne d'une transformation
 Un point essentiel à retenir de cette section est que nous parlons spécifiquement des **pièces de monnaie** et non de la monnaie en général. L'aspect central qui ressort clairement est celui de la **confiance envers l'autorité émettrice**, directement liée aux caractéristiques techniques des pièces (poids, pureté, valeur nominale). C’est précisément cette confiance qui permet à l'État ou à l'autorité émettrice d’exercer un certain contrôle ou même de manipuler la valeur et la circulation de ces monnaies dès leur origine. 
 
 
-## HIS 205 - 1.3.1D - L’intervention institutionnelle et les premières pièces de monnaie [Feat Ulrich]
+## L’intervention institutionnelle et les premières pièces de monnaie 
 <chapterId>b0dec4f7-853f-5171-be72-860e8e89fd0a</chapterId>
 
 ![video](https://www.youtube.com/watch?v=oalzITZkY9I)
@@ -738,7 +738,7 @@ Les deux méthodes mesurent le même phénomène fondamental : la dilution de la
 
 Cette manipulation, observable dès les premières pièces lydiennes, suggère que le contrôle monétaire a toujours été un enjeu de pouvoir. La monnaie frappée représente ainsi une innovation technique remarquable doublée d'un instrument de contrôle économique - une dualité qui traverse toute l'histoire monétaire jusqu'à nos systèmes contemporains.
 
-## HIS 205 - 1.3.2 - La fabrication des pièces
+## La fabrication des pièces
 <chapterId>ec3397e2-371f-5625-b5db-7bd86591f8a8</chapterId>
 
 ![video](https://www.youtube.com/watch?v=gKh7dyNgza8)
@@ -772,7 +772,7 @@ Donc cette notion de frappe au balancier a aidé avec ce phénomène d'écrêtag
 <partId>a84de505-1e81-5bf4-b611-2f27e92ab7d3</partId>
 
 
-## HIS 205 - 2.0.0 - Théories sur l’émergence de la monnaie et ses différentes définitions
+## Théories sur l’émergence de la monnaie et ses différentes définitions
 <chapterId>5209db0e-6e80-5e55-b531-56d4bc79cc08</chapterId>
 ![video](https://www.youtube.com/watch?v=ia3AlOnbxS8)
 
@@ -786,7 +786,7 @@ Pour le troc, certaines théories proposent qu’il aurait principalement été 
 
 C'est donc le travail qu'on va faire dans cette partie. On va faire une sorte d'enquête pour présenter les différentes théories sur l'émergence de la monnaie et les différentes définitions de ce qu'est la monnaie. On va autant présenter et critiquer  les thèses des économistes classiques que les thèses des anthropologues. J'aurai même la chance d'avoir Ulrich Fromy avec moi, qui va nous présenter l'angle d'un économiste autrichien sur ces différents sujets.
 
-## HIS 205 - 2.1.1 - L’émergence de la monnaie pour les économistes classiques
+## L’émergence de la monnaie pour les économistes classiques
 <chapterId>2726a00e-912d-5c1b-b760-c01a1c4c84c5</chapterId>
 
 ![video](https://www.youtube.com/watch?v=JAP8V5CYEpQ)
@@ -817,7 +817,7 @@ Les pièces de monnaie, comme elles sont émises par une autorité, on peut peut
 En conclusion, je pense qu'on peut dire que les pièces de monnaie émanent nécessairement de l'autorité puisqu'elles ont été estampées par ladite autorité. Par contre, je ne pense pas qu'on puisse affirmer qu'il est erroné de dire que la monnaie (celle qui précède les pièces de monnaie), n'ait pas pu émerger pour faciliter les échanges. Je pense que dans tout ce qu'on a vu précédemment, les exemples en ce sens abondent.
 
 
-## HIS 205 - 2.1.2 - Le mythe du troc
+## Le mythe du troc
 <chapterId>fa364241-beed-5657-99c8-dc08376d9fe6</chapterId>
 ![video](https://www.youtube.com/watch?v=BUh0NKt0KMA)
 
@@ -845,7 +845,7 @@ Notons ici deux extraits de *Aux origines de la monnaie* à ce sujet:
 Donc, comme on l’a vu précédemment dans la section de l'Égypte et même de la Mésopotamie et même de la Chine, on voit que même ces civilisations anciennes, mais pas primitives, de par la présence d’un état, utilisaient à mon avis des systèmes monétaires. Je pense qu'on l'a amplement démontré dans la première section de ce cours. Et donc, cette notion de dons-contre-dons, de crédits différés, ne s'applique pas à ces grandes civilisations. Les raisons précises de l'émergence de la monnaie restent donc un mystère. On ne sait pas si ça émane du besoin des marchands de commercer avec l'extérieur ou si ça a été imposé par le temple dans ces périodes anciennes.
 
 
-## HIS 205 - 2.1.3 - L'émergence de la monnaie par la monnaie-dette
+## L'émergence de la monnaie par la monnaie-dette
 <chapterId>905db1e8-1a39-5e0d-8919-a0b7c3eb53b6</chapterId>
 
 ![video](https://www.youtube.com/watch?v=VHr5Tccq8Fo)
@@ -869,11 +869,9 @@ Cette vision moins contraignante de cette théorie permet notamment d’explique
 
 Posséder un jeton monétaire n’est pas une “créance” sur la société, c’est plutôt une espérance que ce jeton sera accepté, plus tard, à une valeur comparable.
 
-## HIS 205 - 2.1.D - L’émergence de la monnaie [Feat Ulrich]
+## L’émergence spontanée de la monnaie 
 <chapterId>8b493aa2-b968-5a2e-a164-8b257eb1e669</chapterId>
 ![video](https://www.youtube.com/watch?v=HZKkwWp4L3o)
-
-### L'émergence spontanée de la monnaie 
 
 Pour l'école autrichienne d'économie, initiée par Carl Menger, la monnaie émerge naturellement d'une économie de troc confrontée au problème de la double coïncidence des besoins. Dans cette vision, les individus convergent spontanément vers des biens intermédiaires qui facilitent les échanges - non pas des biens directement consommés, mais des marchandises reconnues pour leur capacité à être largement demandées.
 
@@ -907,7 +905,7 @@ La monnaie représente fondamentalement la convergence des préférences individ
 
 Le débat entre émergence spontanée et institution consciente reste ouvert, les preuves historiques étant fragmentaires. Mais l'analyse autrichienne offre une explication cohérente : la monnaie naît des besoins pratiques du commerce, les autorités ne faisant qu'institutionnaliser des pratiques déjà établies par l'usage marchand.
 
-## HIS 205 - 2.2.0 - La vision anthropologique de l’émergence de la monnaie
+## La vision anthropologique de l’émergence de la monnaie
 <chapterId>2698c1d0-f6af-52e7-8382-c7218d6aecf5</chapterId>
 ![video](https://www.youtube.com/watch?v=T6PyNnEkTpY)
 
@@ -959,7 +957,7 @@ Ainsi, loin de n'être qu’un modeste outil facilitant les échanges économiqu
 
 Ici, on se rend compte qu'au final, dans nos sociétés modernes, la finalité même des échanges économiques, c'est de posséder de la monnaie, alors qu'à l'époque, ce n’était pas du tout ça. La finalité même d'un échange économique, c'était de posséder un bien ou des denrées pour être consommé. Et aujourd'hui, en introduisant l'innovation de la monnaie, le but des échanges économiques, c'est d'accumuler cette monnaie, puisqu'elle nous permet à terme de l'échanger contre le bien, comme elle est généralement acceptée. On peut l'échanger contre le bien dont on a besoin au moment voulu.
 
-## HIS 205 - 2.3.1 - L’unification par le registre (Lyn Alden)
+## L’unification par le registre 
 <chapterId>cf7843f3-215a-56c3-b9bf-d0f5dd4ebe31</chapterId>
 ![video](https://www.youtube.com/watch?v=8hXI9GLTrxQ)
 
@@ -1002,7 +1000,7 @@ Donc ça c'est encore une fois extrêmement bien décrit dans l'Étalon Bitcoin 
 
 D'un côté on a la nature qui gère l'expansion de la masse monétaire. Donc, si on prend l'or, comme c'est assez rare, c'est difficile d'en miner. Il y a une forme de limite au nombre de monnaies d'or qu'on peut extraire. Donc la rareté est gérée par la nature. Et le registre, il est tenu par le concept de possession. Le registre est comme décentralisé. La possession est prouvée par le fait qu'on possède une pièce d'or ou cette pépite d'or. Et dans le cas de la monnaie crédit, la rareté est gérée par la capacité des gens à obtenir du crédit. Ou dans le cas d'une monnaie fiat, la rareté est gérée par l'autorité. C'est eux qui décident s'il faut en imprimer plus ou pas pour éviter les catastrophes d'inflation. Donc, le registre peut aussi, dans certains cas, être géré, quand il s'agit de monnaie de papier, par le possesseur du jeton. C'est ça qui fait qu'il est inscrit dans le registre, en guillemets, dématérialisé. Bien en fait, matérialisé, mais virtuel. Il possède ce fameux jeton, c'est ce qui prouve la possession. Et ça peut tout simplement aussi être dans un vrai registre, comme avec la monnaie scripturale, dans une banque, où c'est vraiment la banque des humains qui gère qui possède quoi face au registre.
 
-## HIS 205 - 2.3.2 - L’unification par la prime monétaire
+## L’unification par la prime monétaire
 <chapterId>de1e2871-5356-50d5-b4f5-fbce149609a3</chapterId>
 ![video](https://www.youtube.com/watch?v=jznqwJ4mpbE)
 
@@ -1028,7 +1026,7 @@ Et pourquoi cette proposition de prime monétaire peut être qualifiée d'unific
 
 Par contre, c'est certain qu'**au niveau de l'émergence, selon le théorème de régression de Mises, on peut proposer que cet usage-là crée une demande à l'origine et initie cette le processus qui devient monnaie.** Tandis qu'au sujet, au niveau de la monnaie dette, c'est plus une imposition d'une autorité, donc la source, l'initiation de l'émergence et des concepts complètement différents. **Mais je pense qu'au niveau de la valeur, comment expliquer la valeur de la monnaie, avec la prime monétaire, on peut autant expliquer pourquoi la monnaie fiat a cette valeur qu'on lui attribue et pourquoi la monnaie marchandise a cette valeur** qu'on lui attribue. Pour moi, c'est le même processus et ça s'appelle la prime monétaire.
 
-## HIS 205 - 2.4.1 - Money vs currency vs monnaie vs argent vs devise
+## Money vs currency vs monnaie vs argent vs devise
 <chapterId>bbd3ac23-b554-5c1e-b062-ec0d22c5c473</chapterId>
 ![video](https://www.youtube.com/watch?v=rxzqKRZFdcQ)
 
@@ -1055,7 +1053,7 @@ Une devise est nécessairement la monnaie d'un autre pays, sinon on dit juste mo
 Souvent, les gens qui n'ont pas creusé ces problèmes de sémantique, dans la traduction de ces termes, seront portés souvent à parler de devise quand c'est écrit currency, mais non, currency, c'est monnaie quand c'est la monnaie de votre pays, et c'est devise lorsqu'on parle d'autres monnaies. Et donc, la problématique ici que je vois souvent, c'est que en anglais, il y a deux mots, il y a “money” qui est un concept et il y a “currency” qui est vraiment l'unité d'un pays qui est utilisé pour faire les échanges. Donc, on peut parler juste du concept de monnaie, c'est facile, c'est le concept du mot *money*, c'est la monnaie en général et *currency*, c'est très simple à équivaloir à la monnaie d'un pays. Tandis qu'en français, malheureusement, souvent, les gens vont dire oui, «mais ce n'est pas une monnaie» en parlant de bitcoin parce que ce n'est pas la monnaie d'un pays, mais souvent, je crois qu'ils font référence aux termes plutôt currency. C'est faux d'un côté parce depuis le El Salvador bitcoin est bien la monnaie d'un État. Il reste que souvent, les gens vont dire: *mais non, ce n'est pas la monnaie d'un état, ça ne peut pas être de la monnaie*. Mais en fait, si on fait référence aux mots plus larges, le concept de *money* en anglais, bitcoin rentre dans cette définition parfaitement à mon avis. Et donc, on peut tout à fait dire que bitcoin est une monnaie, c'est simplement  qu'en français, nous n'avons pas deux mots pour séparer ces deux concepts. On pourrait dire qu'on a le mot argent qui fait plutôt référence à monnaie, mais malheureusement, ce n'est pas sa définition précise. *Argent*, c'est plutôt la richesse ou les billets. On ne peut pas vraiment faire une équivalence avec le mot *money*. *Money* c'est vraiment le concept de monnaie.
 
 
-## HIS 205 - 2.4.2 - La définition de Saifedean Ammous 
+## La définition de Saifedean Ammous 
 <chapterId>3a061459-2a5e-53d4-9c12-5ad14e20e046</chapterId>
 ![video](https://www.youtube.com/watch?v=KfvBzNWuWdM)
 
@@ -1073,7 +1071,7 @@ Donc ça, c'est la définition que Saifedean mentionne dans l'Étalon Bitcoin. M
 À ça, je pense qu'il faut définitivement ajouter que le bien monétaire doit être assez rare pour que la prime monétaire puisse subsister. C'est très important. **Si un bien émerge pour être utilisé comme monnaie et qu'on voit que son prix monte, normalement, si le bien n'est pas assez rare, les gens vont vouloir en produire plus pour profiter de ce gain de valeur quand le prix monte**. Et donc, c'est ce qui fait que la plupart des marchandises sur les marchés ont un prix relativement fixe. Quand le prix monte, la production a tendance à augmenter. Quand le prix baisse, la production baisse. Il y a une espèce d'ajustement par le marché. **Et quand un bien est assez rare, comme l'or, le mécanisme du marché ne va pas compenser cette demande accrue pour l'usage monétaire**. **Donc, c'est la variable qui change, c'est le prix. Comme avec Bitcoin**. Quand le prix de Bitcoin monte, on ne produit pas plus de Bitcoin. Donc, ce qui s'ajuste, c'est le prix. Et c'est pourquoi on voit, depuis des années, le prix de Bitcoin monter à mesure que la demande pour Bitcoin augmente. Puisqu'il n'y a personne sur Terre qui peut changer l'algorithme et dire « il y a plus de demandes, le prix monte, on va en produire plus, **l'offre de nouveaux Bitcoins est programmée à l'avance, et connue à l'avance**. Donc, c'est ce que je disais, c'est que le bien monétaire doit être assez rare pour que la prime monétaire puisse subsister, donc ne pas être rattrapée par les mécanismes de marché, pour prévenir l'ajustement de l'offre face à cette nouvelle demande monétaire.
 
 
-## HIS 205 - 2.4.3 - Moyen de paiement / valeur libératoire
+## Moyen de paiement et valeur libératoire
 <chapterId>1a38e656-ac6c-5e01-a588-954c11abca5f</chapterId>
 ![video](https://www.youtube.com/watch?v=ZzeSvb13Ozk)
 
@@ -1102,7 +1100,7 @@ Donc, tu as commis un crime, un meurtre par exemple, à l'époque tu payes le ve
 Je pense que dans cette discussion, on peut voir que le wergeld est un des bons exemples pour définir un paiement. En fait, clairement, on ne reçoit pas de bien en contrepartie.
 
 
-## HIS 205 - 2.4.4 - La monnaie est toujours de la dette vs la monnaie est toujours une marchandise
+## Monnaie dette vs monnaie marchandise
 <chapterId>6f10f825-3b0b-53e3-8274-8b07ad49dd38</chapterId>
 ![video](https://www.youtube.com/watch?v=X94tt6WQAfY)
 
@@ -1173,7 +1171,7 @@ De l'autre côté, la théorie de la monnaie-marchandise considère la monnaie c
 Ce paradoxe montre clairement l'écart entre ces deux conceptions monétaires : pour la première, l'or n'est plus une monnaie ; pour la seconde, il demeure au contraire la seule véritable monnaie existante.
 
 
-## HIS 205 - 2.4.5 - La MMT
+## La Théorie Monétaire Moderne
 <chapterId>881959a7-e81f-520e-ade0-126cf718afe9</chapterId>
 ![video](https://www.youtube.com/watch?v=rr-9ex80jt0)
 
@@ -1217,7 +1215,7 @@ Aussi, cette théorie nécessite un certain niveau de planification centralisée
 # La chute et la renaissance de la monnaie
 <partId>22523b20-093a-55ab-a657-653b8a3807ef</partId>
 
-## HIS 205 - 3.1 - Les monnaies grecques
+## Les monnaies grecques
 <chapterId>84181056-112a-58ce-96be-f3fadc3bdd02</chapterId>
 ![video](https://www.youtube.com/watch?v=PgVBJR0eaJQ)
 
@@ -1329,7 +1327,7 @@ La monnaie grecque eut aussi un rôle culturel important, chaque cité cherchant
 Enfin, malgré leur variété et leurs fluctuations régionales, les monnaies grecques classiques et hellénistiques marquèrent durablement l’histoire économique et culturelle du monde méditerranéen, influençant profondément les systèmes monétaires ultérieurs jusqu’à Rome, qui adopta progressivement et développa les concepts économiques grecs pour structurer sa propre économie impériale.
 
 
-## HIS 205 - 3.1D - Les monnaies grecques [Feat Ulrich]
+## L'impact de la monnaie en Grèce
 <chapterId>c67b9950-5174-5ae6-8d51-dc43d3cc3ffe</chapterId>
 ![video](https://www.youtube.com/watch?v=z3kkaX5D1x0)
 
@@ -1368,7 +1366,7 @@ L'opposition Athènes-Sparte illustre deux approches fondamentales de l'organisa
 Ces deux systèmes révèlent que l'adoption de la monnaie dépend étroitement du modèle politique et économique choisi. Pour une puissance maritime et commerciale comme Athènes, la monnaie devient indispensable. Pour une société guerrière fermée comme Sparte, elle représente une menace à l'ordre social. Cette dichotomie antique éclaire encore aujourd'hui les débats sur le rôle de la monnaie dans l'organisation des sociétés.
 
 
-## HIS 205 - 3.2 - La République romaine
+## La République romaine
 <chapterId>876a8094-bd17-5ddf-9e7b-d7a79e31d30b</chapterId>
 ![video](https://www.youtube.com/watch?v=HWvtelD7Pmk)
 
@@ -1447,7 +1445,7 @@ Avec l'expansion de Rome, le caractère des monnaies évolua aussi : initialemen
 
 Enfin, si Rome domina économiquement le monde méditerranéen, elle conserva une certaine simplicité dans ses moyens de paiement : aucune véritable forme de transfert monétaire autre que l’échange direct de pièces ne fut développée, à l’exception des transferts d’impôts et des crédits privés réservés à l’élite.
 
-## HIS 205 - 3.3 - L'Empire Romain
+## L'Empire Romain
 <chapterId>04a989cf-8940-5633-8628-5327e3b2fb32</chapterId>
 ![video](https://www.youtube.com/watch?v=ehEW5SVCjzY)
 
@@ -1559,7 +1557,7 @@ Pour conclure, j’aimerais vous partager cette citation de l’ouvrage *A Histo
 *En plus du pain et du vin distribués gratuitement ou à bas prix, des libéralités impériales (« congiaria »), sous la forme d’allocations monétaires, furent distribuées de temps en temps, particulièrement sous Trajan (98–117 apr. J.-C.) et encore davantage sous Hadrien (117–138 apr. J.-C.) et ses successeurs. Ce que l'empereur et les citoyens avaient initialement considéré comme un privilège exceptionnel était devenu, dès le début du IIe siècle, une attente coutumière. Ces distributions « constituaient un lourd fardeau pour le trésor public et contribuèrent à leur manière à la faillite de l’État ».*
 
 
-## HIS 205 - 3.4 - Liens entre dilution monétaire et inflation : des causes aux conséquences
+## Liens entre dilution monétaire et inflation : des causes aux conséquences
 <chapterId>216b01ef-1760-5893-90aa-647a7aff9f49</chapterId>
 ![video](https://www.youtube.com/watch?v=3h4ykXxjFV4)
 
@@ -1604,7 +1602,7 @@ Comme on vient de le mentionner, ce phénomène est particulièrement évident �
 Ainsi, on observe un lien clair entre la dilution monétaire romaine et l’inflation, dont les causes sont essentiellement liées aux déficits fiscaux chroniques, aux dépenses militaires incessantes et à une mauvaise gestion économique étatique.
 
 
-## HIS 205 - 3.4D - La chute de l’Empire Romain avec Ulrich
+## La chute de l’Empire Romain
 <chapterId>c7924dfc-60d4-5db9-8b4c-0a6e034057f6</chapterId>
 ![video](https://www.youtube.com/watch?v=x9glWpea1FE)
 
@@ -1646,7 +1644,7 @@ Les propriétaires terriens ayant préservé leur richesse en or deviennent les 
 
 Cette transformation révèle la fragilité des civilisations complexes. La division du travail, permettant à Rome de nourrir un million d'habitants, dépend entièrement de la confiance monétaire. Une fois cette confiance brisée, l'édifice s'effondre, ramenant l'Europe à des formes économiques primitives pour près d'un millénaire.
 
-## HIS 205 - 3.5 - L’âge des ténèbres et le Moyen Âge
+## L’âge des ténèbres et le Moyen Âge
 <chapterId>11b81f0c-bf3e-510f-bac3-d62e84c257f9</chapterId>
 ![video](https://www.youtube.com/watch?v=hcHscrzYGAM)
 
@@ -1694,7 +1692,7 @@ Et une fois que le Parlement a pu saisir une partie de ce pouvoir de création m
 Au moment où la création de dette est faite par le Parlement, ça fait émerger le concept de la dette souveraine qui est, elle est potentiellement illimitée sur la durée. Tant que l'État existe, tant que le Parlement existe, cette dette existe et il fallait qu'ils trouvent toutes sortes de moyens de la refinancer et de l’étaler dans le temps. C'est un changement de paradigme important où ce n'était plus le roi, la royauté, qui garantissait ou qui avait le poids de ces dettes, c’était maintenant le Parlement et donc ses citoyens.
 
 
-## HIS 205 - 4 - La renaissance
+## La renaissance
 <chapterId>1889e97f-f271-5f7e-87f0-094850768da0</chapterId>
 ![video](https://www.youtube.com/watch?v=I0FTZz9KVDU)
 
@@ -1742,10 +1740,10 @@ La Renaissance marque aussi une évolution artistique majeure dans la frappe mon
 Enfin, la Renaissance financière amorce la transition vers la modernité économique avec le développement de la banque, du crédit, des marchés financiers, et l’émergence des premières formes de capitalisme moderne dans les grandes villes commerciales d’Amsterdam, Londres et Stockholm, posant ainsi les bases du système financier international tel qu'on le connaît aujourd’hui. Et ce sera justement le sujet de notre prochaine vidéo.
 
 
-#  La saisie de la monnaie par l’État
+# La saisie de la monnaie par l’État
 <partId>d14c9d50-fcaf-5071-aab5-6e63e8dcdf09</partId>
  
-## HIS 205 - 5.1 - L'évolution des monnaies de réserve mondiales
+## L'évolution des monnaies de réserve mondiales
 <chapterId>977cd682-123f-57ed-b1bf-ddf64f920acc</chapterId>
 ![video](https://www.youtube.com/watch?v=Kg7oBu9dj1c)
 
@@ -1851,7 +1849,7 @@ Et ça, les souverains, c'était une pièce monétaire qui est une pièce d'or q
 ![](./assets/fr/5_2_sovereign.webp)
 ![](./assets/fr/5_1_Guinea.webp)
 
-## HIS 205 - 5.2 - L'émergence des banques centrales
+## L'émergence des banques centrales
 <chapterId>8ebc72cb-312d-5cc0-bcd8-7ea4f8930751</chapterId>
 
 ![video](https://www.youtube.com/watch?v=zWqZHZ2i5cc)
@@ -1921,7 +1919,7 @@ Et le fait le plus important ici, c'est qu'**on est passé d'une dette qui pouva
 
 
 
-## HIS 205 - 8.1 - La route vers le système fiat
+## La route vers le système fiat
 <chapterId>b66a2fbb-4626-5d45-8983-14d0fad20011</chapterId>
 ![video](https://www.youtube.com/watch?v=jQxuvdkErmQ)
 
@@ -2003,7 +2001,7 @@ Je vous remercie pour votre attention.
 
 
 
-## HIS 205 - 7 - Monnaie et violence
+## Monnaie et violence
 <chapterId>07c6e39a-cd10-5b49-9c76-6e2147f36075</chapterId>
 ![video](https://www.youtube.com/watch?v=N8Fd5AiLU7A)
 
@@ -2038,7 +2036,7 @@ Alors voilà, c'est la petite liste très rapide de faits qu'on a vu pendant, la
 Merci !
 
 
-## HIS 205 - 7.0D - Les conséquences économiques de la violence organisée [Feat Théo]
+## Les conséquences économiques de la violence organisée [Feat Théo]
 <chapterId>2cfa3b5d-ce7e-5cb6-9895-2b8406df8335</chapterId>
 ![video](https://www.youtube.com/watch?v=PnkMqfPoHSI)
 
@@ -2082,7 +2080,7 @@ Cette fuite des cerveaux crée une spirale : moins de contributeurs nets, servic
 
 L'histoire nous enseigne que ces transitions durent des générations. Mais la séparation monnaie-État opérée par Bitcoin pourrait accélérer le processus. L'individu vote désormais avec ses pieds et son portefeuille cryptographique, redessinant la carte du pouvoir mondial selon des lignes que nous commençons seulement à percevoir.
 
-## HIS 205 - 8.2 - Une très courte histoire de la finance
+## Une très courte histoire de la finance
 <chapterId>d060705f-02b8-5e12-bc63-fd1303cea0ce</chapterId>
 ![video](https://www.youtube.com/watch?v=q2aX9xwn0BE)
 
@@ -2126,5 +2124,28 @@ C'est bien mieux s'il y a une grosse institution en arrière qui distribue le ri
 À la fin, l'État décide qu'il s'occupe de tout, donc cette technologie financière qui a été créée pour la première fois en Écosse pour répondre à un problème spécifique nous amène à terme à cette État-providence qui utilise ses principes financiers d'actuariat pour offrir des services à sa population qui ont des besoins, mais je pense qu'on peut s'entendre qu'il y a la notion de monopole qui en découle amène toutes sortes de problèmes que l'on vit en ce moment au Canada, qu'on vit en France, et je pense qu'il existe des modèles différents à proposer, par exemple la Suisse.
 
 Il faut simplement réaliser que ce concept d'État-providence émane de la finance et qu'il y a probablement d'autres voies qu'on peut explorer que les fameux monopoles d'État, et j'appliquerais même ce raisonnement au concept de prêteur dernier recours des banques centrales, mais ça c'est un autre sujet.
+
+
+# Section finale
+
+<partId>0a02456c-8be7-11f0-aa7f-9b91e52f6d0d</partId>
+
+## Évaluer ce cours
+
+<chapterId>ffc4bb20-8be6-11f0-8a70-435067ccd209</chapterId>
+
+<isCourseReview>true</isCourseReview>
+
+
+## Conclusion
+
+<chapterId>fb093ac0-8be6-11f0-a9ec-6bda5323e6c2</chapterId>
+
+<isCourseConclusion>true</isCourseConclusion>
+
+
+
+
+
 
 
