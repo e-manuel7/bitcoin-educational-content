@@ -5,16 +5,12 @@ description: PayJoin kwenye Bitcoin ni nini?
 ![Payjoin thumbnail - steganography](assets/cover.webp)
 
 
-***TAZAMA:** Kufuatia kukamatwa kwa waanzilishi wa Samourai Wallet na kukamatwa kwa seva zao tarehe 24 Aprili, Payjoins Stowaway kwenye Samourai Wallet hufanya kazi pekee kwa kubadilishana PSBT kati ya pande zinazohusika, mradi tu watumiaji wote wawili wameunganishwa kwenye Dojo yao wenyewe. Kuhusu Sparrow, Payjoins kupitia BIP78 bado inafanya kazi. Hata hivyo, inawezekana kwamba zana hizi zitazinduliwa tena katika wiki zijazo. Kwa sasa, bado unaweza kusoma makala haya ili kuelewa utendakazi wa kinadharia wa viungo vya malipo.*
 
 
-_Tunafuatilia kwa karibu maendeleo ya kesi hii pamoja na maendeleo kuhusu zana zinazohusiana. Uwe na uhakika kwamba tutasasisha mafunzo haya kadiri habari mpya zinavyopatikana._
 
 
-_Mafunzo haya yametolewa kwa madhumuni ya elimu na habari pekee. Hatuidhinishi au kuhimiza matumizi ya zana hizi kwa madhumuni ya uhalifu. Ni wajibu wa kila mtumiaji kutii sheria katika eneo la mamlaka yake._
 
 
----
 ## Kuelewa Miamala ya PayJoin kwenye Bitcoin
 
 
@@ -69,16 +65,16 @@ Ufafanuzi huu ni wazi sio sahihi kwa sababu, kama unavyojua tayari, UTXO mbili z
 Ikiwa ungependa kuchambua muamala halisi wa PayJoin, hapa kuna ule niliofanya kwenye Testnet: [8dba6657ab9bb44824b3317c8cc3f333c2f465d3668c678691a091cdd6e5984c](https://Mempool.s pace/fr/Testnet/tx/8dba6657ab9bb44824b3317c8cc3f333c2f465d3668c678691a091cdd6e5984c)
 
 
-[**-> Gundua mafunzo yetu kuhusu jinsi ya kutengeneza PayJoin ukitumia Samourai Wallet**](https://planb.network/tutorials/privacy/on-chain/payjoin-samourai-wallet-48a5c711-ee3d-44db-b812-c55913080eab)
 
 
-[**-> Gundua mafunzo yetu kuhusu jinsi ya kutengeneza PayJoin ukitumia Sparrow Wallet**](https://planb.network/tutorials/privacy/on-chain/payjoin-sparrow-wallet-087a0e49-61cd-41f5-8440-ac7b157bdd62)
 
 
 
 **Nyenzo za nje:**
 
-
-- https://docs.samourai.io/en/spend-tools#stowaway;
 - https://gist.githubusercontent.com/LaurentMT/e758767ca4038ac40aaf/raw/c8125f6a3c3d0e90246dc96d3b603690ab6f1dcc/gistfile1.txt;
 - https://github.com/Bitcoin/bips/blob/master/bip-0078.mediawiki.
+- https://payjoin.org/
+https://planb.network/courses/65c138b0-4161-4958-bbe3-c12916bc959c
+
+
