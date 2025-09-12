@@ -1,20 +1,20 @@
 ---
-name: Mjumbe
+name: Envoy
 description: Kuanzisha na kutumia Pasipoti na programu ya Mjumbe
 ---
 ![cover](assets/cover.webp)
 
 
-Mjumbe ni programu ya usimamizi ya Bitcoin Wallet iliyotengenezwa na Foundation. Imeundwa mahususi kwa matumizi na Pasipoti Hardware Wallet.
+Mjumbe ni programu ya usimamizi ya Bitcoin Wallet iliyotengenezwa na Foundation. Imeundwa mahususi kwa matumizi na passport Hardware Wallet.
 
 
-Pasipoti "*Kundi la 2*" lililowasilishwa katika mafunzo haya na programu ya Mjumbe ni mrithi wa "*Toleo la Mwanzilishi*". Inatofautishwa na muundo wake wa hali ya juu, skrini ya rangi yenye ubora wa juu, na kibodi halisi ya ergonomic. Inafanya kazi katika hali ya "*Air-Gap*", kuhakikisha kwamba funguo zako za faragha za Wallet zinasalia kutengwa kabisa, na mawasiliano yanawezekana kupitia kadi ya MicroSD au misimbo ya QR. Kifaa kina vifaa vya betri ya Nokia BL-5C inayoweza kutolewa, inayoweza kuchajiwa na uwezo wa 1200 mAh. Betri hii isiyo ya umiliki inaweza kubadilishwa kwa urahisi, kwani mfano wa BL-5C unapatikana sana katika maduka.
+passport "*Kundi la 2*" lililowasilishwa katika mafunzo haya na programu ya Mjumbe ni mrithi wa "*Toleo la Mwanzilishi*". Inatofautishwa na muundo wake wa hali ya juu, skrini ya rangi yenye ubora wa juu, na kibodi halisi ya ergonomic. Inafanya kazi katika hali ya "*Air-Gap*", kuhakikisha kwamba funguo zako za faragha za Wallet zinasalia kutengwa kabisa, na mawasiliano yanawezekana kupitia kadi ya MicroSD au misimbo ya QR. Kifaa kina vifaa vya betri ya Nokia BL-5C inayoweza kutolewa, inayoweza kuchajiwa na uwezo wa 1200 mAh. Betri hii isiyo ya umiliki inaweza kubadilishwa kwa urahisi, kwani mfano wa BL-5C unapatikana sana katika maduka.
 
 
 Kuhusu muunganisho, Pasipoti ina mlango wa MicroSD, mlango wa USB-C wa kuchaji, na kamera ya nyuma ya kuchanganua misimbo ya QR.
 
 
-Kwa upande wa usalama, Pasipoti hujumuisha kipengele salama, na msimbo wa chanzo wa kifaa ni wazi kabisa. Inatoa vipengele vyote vinavyotarajiwa vya Bitcoin Hardware Wallet nzuri. Kumbuka kuwa Pasipoti bado haitumii hati ndogo, lakini kipengele hiki kimepangwa kwa robo ya pili ya 2025.
+Kwa upande wa usalama, Passport ina kipengele salama, na msimbo wa chanzo wa kifaa ni wazi kabisa. Inatoa vipengele vyote vinavyotarajiwa kutoka kwenye Bitcoin Hardware Wallet bora. Kumbuka kwamba Passport bado haitumii hati ndogo, lakini kipengele hiki kimepangwa kutekelezwa katika robo ya pili ya mwaka 2025.
 
 
 Kwa bei ya $199, Pasipoti iko katika nafasi ya juu ya Hardware Wallet, ikishindana na Coldcard Q, Jade Plus, Tezor Safe 5 na modeli za juu zaidi za Ledger.
@@ -29,7 +29,7 @@ Ili kudhibiti Wallet yako salama kwenye Pasipoti, una chaguo kadhaa. Hardware Wa
 Katika mafunzo haya, ambayo yanalenga wanaoanza na watumiaji wa kati, tutagundua jinsi ya kutumia programu ya Mjumbe na Pasipoti yako. Ndiyo njia rahisi ya kupata manufaa zaidi kutoka kwa Hardware Wallet yako.
 
 
-Iwapo wewe ni mtumiaji wa hali ya juu na unataka kuchunguza vipengele ngumu zaidi, ninapendekeza uangalie mafunzo haya mengine ambapo tunasanidi Pasipoti na Sparrow Wallet :
+Iwapo wewe ni mtumiaji wa hali ya juu na unataka kuchunguza vipengele ngumu zaidi, ninapendekeza uangalie mafunzo haya mengine ambapo tunasanidi Passport na Sparrow Wallet:
 
 
 https://planb.network/tutorials/wallet/hardware/passport-74e53858-3fa2-43f9-b866-573297546236
@@ -111,7 +111,7 @@ Chagua ikiwa ungependa kuwezesha muunganisho wa Tor ili kuimarisha usiri, kisha 
 ![Image](assets/fr/53.webp)
 
 
-Chagua "*Unganisha Pasipoti iliyopo*" ikiwa Pasipoti yako tayari imesanidiwa, au "*Weka Pasipoti mpya*" ikiwa unaanzisha Hardware Wallet yako kwa mara ya kwanza.
+Chagua "*Unganisha passport iliyopo*" ikiwa Pasipoti yako tayari imesanidiwa, au "*Weka Pasipoti mpya*" ikiwa unaanzisha Hardware Wallet yako kwa mara ya kwanza.
 
 
 ![Image](assets/fr/54.webp)
@@ -123,7 +123,7 @@ Kubali masharti ya matumizi.
 ![Image](assets/fr/55.webp)
 
 
-Kisha utaulizwa kuthibitisha uhalisi wa Pasipoti. Bonyeza "*Next*".
+Kisha utaulizwa kuthibitisha uhalisi wa passport. Bonyeza "*Next*".
 
 
 ![Image](assets/fr/56.webp)
@@ -356,7 +356,7 @@ Ikiwa MicroSD imeingizwa, chelezo iliyosimbwa kwa njia fiche ya Wallet yako imeh
 Pasipoti yako itaonyesha maneno yako ya Mnemonic yenye maneno 12. Mnemonic hii inakupa ufikiaji kamili, usio na kikomo kwa bitcoins zako zote. Mtu yeyote aliye na kifungu hiki cha maneno anaweza kuiba pesa zako, hata bila ufikiaji wa kibinafsi wa Pasipoti yako.
 
 
-Kifungu cha maneno 12 kinarejesha ufikiaji wa bitcoins zako katika tukio la kupoteza, kuibiwa au kuvunjika kwa Pasipoti yako. Kwa hiyo ni muhimu sana kuihifadhi kwa uangalifu na kuihifadhi mahali salama.
+Kifungu cha maneno 12 kinarejesha ufikiaji wa bitcoins zako katika tukio la kupoteza, kuibiwa au kuvunjika kwa Passport yako. Kwa hiyo ni muhimu sana kuihifadhi kwa uangalifu na kuiweka mahali salama.
 
 
 Unaweza kuiandika kwenye kadibodi iliyotolewa kwenye kisanduku, au kwa usalama ulioongezwa, ninapendekeza kuiweka kwenye msingi wa chuma cha pua ili kuilinda kutokana na moto, mafuriko au kuanguka.
@@ -373,7 +373,7 @@ Kwa maelezo zaidi kuhusu njia sahihi ya kuhifadhi na kudhibiti maneno yako ya Mn
 
 https://planb.network/tutorials/wallet/backup/backup-mnemonic-22c0ddfa-fb9f-4e3a-96f9-46e2a7954270
 
-bila shaka, hupaswi kamwe kushiriki maneno haya kwenye Mtandao, kama ninavyofanya katika mafunzo haya. Sampuli hii ya Wallet itatumika kwenye Testnet pekee na itafutwa mwishoni mwa mafunzo.**_
+**bila shaka, hupaswi kamwe kushiriki maneno haya kwenye Mtandao, kama ninavyofanya katika mafunzo haya. Sampuli hii ya Wallet itatumika kwenye Testnet pekee na itafutwa mwishoni mwa mafunzo.**_
 
 
 Weka nakala halisi ya sentensi hii.
@@ -435,9 +435,9 @@ Pasipoti yako Interface ina menyu kuu tatu:
 
 
 
-- "*Akaunti*";
-- "*Zaidi*";
-- "*Mipangilio*".
+- "*Account*";
+- "*More*";
+- "*Settings*".
 
 
 Ili kusogeza kati ya menyu hizi, tumia vishale vya kushoto na kulia kwenye pedi ya mwelekeo.
@@ -446,13 +446,13 @@ Ili kusogeza kati ya menyu hizi, tumia vishale vya kushoto na kulia kwenye pedi 
 ### *Akaunti*" menyu
 
 
-Katika menyu ya "*Akaunti*", utapata vipengele vikuu vya Bitcoin Wallet yako. Unaweza kusaini muamala kupitia kamera au kupitia bandari ya MicroSD.
+Katika menyu ya "*Account*", utapata vipengele vikuu vya Bitcoin Wallet yako. Unaweza kusaini muamala kupitia kamera au kupitia bandari ya MicroSD.
 
 
 ![Image](assets/fr/37.webp)
 
 
-Menyu ndogo ya "*Zana za Akaunti*" inatoa chaguo kama vile kuthibitisha Address, kusaini ujumbe, au kushauriana na anwani katika Wallet yako.
+Menyu ndogo ya "*Account Tools*" inatoa chaguo kama vile kuthibitisha Address, kusaini ujumbe, au kushauriana na anwani katika Wallet yako.
 
 
 ![Image](assets/fr/38.webp)
@@ -467,7 +467,7 @@ Katika menyu ndogo ya "*Dhibiti Akaunti*", unaweza kuunganisha Bitcoin Wallet ya
 ### Menyu" zaidi
 
 
-Katika menyu ya "*Zaidi*", unaweza kuunda akaunti mpya katika Wallet yako, iliyounganishwa na maneno sawa ya Mnemonic.
+Katika menyu ya "*More*", unaweza kuunda akaunti mpya katika Wallet yako, iliyounganishwa na maneno sawa ya Mnemonic.
 
 
 ![Image](assets/fr/40.webp)
@@ -482,7 +482,7 @@ Unaweza pia kuingiza BIP39 passphrase au kutumia seed ya muda.
 ### Menyu ya Mipangilio
 
 
-Katika menyu ya "*Mipangilio*", utapata Wallet yako yote na mipangilio ya kifaa.
+Katika menyu ya "*Settings*", utapata Wallet yako yote na mipangilio ya kifaa.
 
 
 ![Image](assets/fr/42.webp)
