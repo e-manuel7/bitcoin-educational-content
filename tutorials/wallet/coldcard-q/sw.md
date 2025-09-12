@@ -14,10 +14,10 @@ Kusudi kuu la Hardware Wallet ni kupunguza utendakazi wa kifaa iwezekanavyo ili 
 Inashauriwa kutumia Hardware Wallet kulinda bitcoins zako, hasa ikiwa unashikilia kiasi kikubwa, ama kwa thamani kamili au kama sehemu ya jumla ya mali yako.
 
 
-Pochi za vifaa hutumiwa kwa kushirikiana na programu ya usimamizi wa Wallet kwenye kompyuta au smartphone. Mwisho hudhibiti uundaji wa miamala, lakini saini ya kriptografia inayohitajika kufanya miamala hii kuwa halali inafanywa ndani ya Hardware Wallet pekee. Hii ina maana kwamba funguo za faragha haziwahi kamwe kwenye mazingira ambayo yanaweza kuwa hatarini.
+Hardware Wallet hutumiwa kwa kushirikiana na programu ya usimamizi wa Wallet kwenye kompyuta au smartphone. Mwisho hudhibiti uundaji wa miamala, lakini saini ya kriptografia inayohitajika kufanya miamala hii kuwa halali inafanywa ndani ya Hardware Wallet pekee. Hii ina maana kwamba funguo za faragha haziwahi kamwe kwenye mazingira ambayo yanaweza kuwa hatarini.
 
 
-Pochi za vifaa hutoa ulinzi mara mbili kwa mtumiaji: kwa upande mmoja, hulinda bitcoins zako dhidi ya mashambulizi ya mbali kwa kuweka funguo za faragha nje ya mtandao, na kwa upande mwingine, kwa ujumla hutoa upinzani mkubwa wa kimwili kwa majaribio ya kutoa funguo. Na ni kwa vigezo hivi viwili vya usalama ambapo tunaweza kuhukumu na kuainisha miundo tofauti kwenye soko.
+Hardware Wallet hutoa ulinzi mara mbili kwa mtumiaji: kwa upande mmoja, hulinda bitcoins zako dhidi ya mashambulizi ya mbali kwa kuweka funguo za faragha nje ya mtandao, na kwa upande mwingine, kwa ujumla hutoa upinzani mkubwa wa kimwili kwa majaribio ya kutoa funguo. Na ni kwa vigezo hivi viwili vya usalama ambapo tunaweza kuhukumu na kuainisha miundo tofauti kwenye soko.
 
 
 Katika somo hili, ningependa kukujulisha kwa suluhisho mojawapo kama hili: **COLDCARD Q**.
@@ -61,7 +61,7 @@ Kwa upande wa programu, COLDCARD Q ina vifaa vile vile kama vifaa vingine vya Co
 
 
 
-- Piga Kete hadi generate kishazi chako cha urejeshi;
+- Piga kete hadi upate recovery phrase yako;
 - Msimbo wa PIN;
 - Siku iliyosalia hadi kufunga PIN ya mwisho;
 - BIP39 passphrase;
@@ -80,7 +80,7 @@ COLDCARD Q inapatikana kwa kuuzwa [kwenye tovuti rasmi ya Coinkite](https://stor
 ## Kutayarisha mafunzo
 
 
-Mara tu unapopokea COLDCARD yako, hatua ya kwanza ni kukagua kifungashio ili kuhakikisha kuwa hakijafunguliwa. Ikiwa ufungaji umeharibiwa, hii inaweza kuonyesha kuwa Hardware Wallet imeathiriwa na inaweza kuwa si ya kweli.
+Mara tu unapopokea COLDCARD yako, hatua ya kwanza ni kukagua kifungashio ili kuhakikisha kuwa hakijafunguliwa. Ikiwa kifungashio kimeharibiwa, hii inaweza kuonyesha kuwa Hardware Wallet imeathiriwa na inaweza kuwa si halisi.
 
 
 ![CCQ](assets/fr/002.webp)
@@ -130,13 +130,13 @@ Bonyeza kitufe cha "*ENTER*" ili ukubali sheria na masharti.
 ![CCQ](assets/fr/007.webp)
 
 
-Kisha COLDCARD Q yako itaonyesha nambari kwenye sehemu ya juu ya skrini. Hakikisha nambari hii inalingana na ile iliyo kwenye mfuko uliofungwa na kwenye kipande cha plastiki ndani ya mfuko. Hii inahakikisha kwamba kifurushi chako hakijafunguliwa kati ya muda kilipowekwa na Coinkite na wakati ulipokifungua. Bonyeza "*ENTER*" ili kuendelea.
+Kisha COLDCARD Q yako itaonyesha nambari kwenye sehemu ya juu ya skrini. Hakikisha nambari hii inalingana na ile iliyo kwenye mfuko uliofungwa na kwenye kipande cha plastiki ndani ya mfuko. Hii inahakikisha kwamba kifurushi chako hakijafunguliwa kati ya muda kilipowekwa na Coinkite na wakati ulipokifungua. Bonyeza "ENTER" ili kuendelea.
 
 
 ![CCQ](assets/fr/008.webp)
 
 
-Nenda kwenye menyu ya "*Chagua Msimbo wa PIN*" na uthibitishe kwa kitufe cha "*INGIA*".
+Nenda kwenye menyu ya "Choose PIN Code" na uthibitishe kwa kitufe cha "ENTER".
 
 
 ![CCQ](assets/fr/009.webp)
@@ -145,7 +145,7 @@ Nenda kwenye menyu ya "*Chagua Msimbo wa PIN*" na uthibitishe kwa kitufe cha "*I
 Msimbo huu wa PIN hutumiwa kufungua COLDCARD yako. Kwa hiyo ni ulinzi dhidi ya upatikanaji wa kimwili usioidhinishwa. Msimbo huu wa PIN hauhusiki katika upataji wa vitufe vya kriptografia vya Wallet yako. Kwa hivyo, hata bila ufikiaji wa nambari hii ya PIN, umiliki wa maneno yako ya Mnemonic utakuwezesha kupata tena ufikiaji wa bitcoins zako.
 
 
-Nambari za siri za COLDCARD zimegawanywa katika sehemu mbili: kiambishi awali na kiambishi, ambayo kila moja inaweza kuwa na tarakimu kati ya 2 na 6, kwa jumla ya tarakimu 4 hadi 12. Unapofungua COLDCARD yako, utahitaji kwanza kuingiza kiambishi awali, kisha kifaa kitakuonyesha maneno 2. Kisha ingiza kiambishi. Maneno haya mawili utapewa wakati wa hatua hii ya usanidi, na yanapaswa kuhifadhiwa kwa uangalifu, kwani utayahitaji kila wakati unapofungua COLDCARD yako. Ikiwa maneno mawili yanayoonyeshwa wakati wa kufungua yanalingana na yale uliyohifadhi wakati wa usanidi, hii itathibitisha kuwa kifaa chako hakijaathiriwa tangu kilipotumiwa mara ya mwisho.
+Nambari za siri za COLDCARD zimegawanywa katika sehemu mbili: kiambishi awali na kiambishi, ambapo kila moja inaweza kuwa na tarakimu kati ya 2 na 6, kwa jumla ya tarakimu 4 hadi 12. Unapofungua COLDCARD yako, utahitaji kwanza kuingiza kiambishi awali, kisha kifaa kitakuonyesha maneno 2. Kisha ingiza kiambishi. Maneno haya mawili utapewa wakati wa hatua hii ya usanidi, na yanapaswa kuhifadhiwa kwa uangalifu, kwani utayahitaji kila wakati unapofungua COLDCARD yako. Ikiwa maneno mawili yanayoonyeshwa wakati wa kufungua yanalingana na yale uliyohifadhi wakati wa usanidi, hii itathibitisha kuwa kifaa chako hakijaathiriwa tangu kilipotumiwa mara ya mwisho.
 
 
 Bofya tena kwenye "*Chagua PIN*"
@@ -163,7 +163,7 @@ Thibitisha kuwa umesoma maonyo.
 Sasa utachagua PIN yako. Tunapendekeza PIN ndefu, nasibu. Hakikisha umeweka msimbo huu mahali tofauti na mahali ambapo COLDCARD yako imehifadhiwa. Unaweza kutumia kadi iliyotolewa kwenye kifurushi chako kurekodi msimbo huu.
 
 
-Weka kiambishi awali cha chaguo lako, kisha ubonyeze kitufe cha "*INGIA*" ili kuthibitisha sehemu ya kwanza ya msimbo wa PIN.
+Weka kiambishi awali cha chaguo lako, kisha ubonyeze kitufe cha "ENTER" ili kuthibitisha sehemu ya kwanza ya msimbo wa PIN.
 
 
 ![CCQ](assets/fr/012.webp)
@@ -202,13 +202,13 @@ Unapotumia kifaa chako kwa mara ya kwanza, ni muhimu kuangalia na kusasisha firm
 **Muhimu:** Ikiwa unapanga kupata toleo jipya la programu yako ya kompyuta na hii si mara yako ya kwanza kutumia COLDCARD (yaani, tayari una Wallet iliyoundwa kwenye COLDCARD), hakikisha kuwa una kirai chako cha Mnemonic na kwamba kinafanya kazi (pamoja na passphrase ya hiari, ikitumika). Hii ni muhimu ili kuepuka kupoteza bitcoins zako katika tukio la tatizo wakati wa kusasisha kifaa.
 
 
-Chagua "* Boresha Firmware*".
+Chagua "Upgrade Firmware".
 
 
 ![CCQ](assets/fr/017.webp)
 
 
-Chagua "*Onyesha Toleo*".
+Chagua "Show Version".
 
 
 ![CCQ](assets/fr/018.webp)
@@ -240,7 +240,7 @@ Chukua kadi ya microSD na uhamishe faili ya programu dhibiti (hati katika `.dfu`
 ![CCQ](assets/fr/021.webp)
 
 
-Kisha, katika orodha ya sasisho la firmware, chagua "*Kutoka MicroSD*".
+Kisha, katika orodha ya sasisho la firmware, chagua "From MicroSD".
 
 
 ![CCQ](assets/fr/022.webp)
@@ -276,7 +276,7 @@ Firmware yako sasa imesasishwa.
 ## Vigezo vya COLDCARD Q
 
 
-Ukipenda, unaweza kuchunguza mipangilio ya COLDCARD yako kwa kufikia menyu ya "*Mipangilio*".
+Ukipenda, unaweza kuchunguza mipangilio ya COLDCARD yako kwa kufikia menyu ya "Settings".
 
 
 ![CCQ](assets/fr/027.webp)
@@ -296,26 +296,26 @@ https://planb.network/tutorials/wallet/hardware/coldcard-q-advanced-b8cc3f29-eea
 ## Kutengeneza Bitcoin Wallet
 
 
-Sasa ni wakati wa generate mpya Bitcoin Wallet! Ili kufanya hivyo, unahitaji kuunda maneno ya Mnemonic. Kwenye Coldcard, una njia tatu za kuunda kifungu hiki cha maneno:
+Sasa ni wakati wa kuzalisha Bitcoin Wallet mpya! Ili kufanya hivyo, unahitaji kuunda maneno ya "Mnemonic". Kwenye COLDCARD, una njia tatu za kuunda kifungu hiki cha maneno:
 
 
 
 
-- Tumia jenereta ya nambari ya nasibu ya ndani pekee (TRNG);
+- Tumia generator ya nambari ya nasibu ya ndani pekee (TRNG);
 - Tumia mchanganyiko wa TRNG na uzungushaji kete ili kuongeza entropy;
 - Tumia roll za kete pekee.
 
 
-**Kwa wanaoanza na watumiaji wa kati, tunapendekeza utumie tu jenereta ya nambari nasibu ya ndani ya COLDCARD**
+**Kwa wanaoanza na watumiaji wa kati, tunapendekeza utumie tu generator ya nambari nasibu ya ndani ya COLDCARD**
 
 
 Sipendekezi chaguo la kete pekee, kwa kuwa utekelezaji duni unaweza kusababisha sentensi yenye entropy isiyotosha, na kuhatarisha usalama wa Wallet yako.
 
 
-Hata hivyo, chaguo bora ni hakika ya pili, ambayo inachanganya matumizi ya TRNG na chanzo cha nje cha entropy. Njia hii inahakikisha entropy ya chini sawa na ile ya TRNG pekee, na inaongeza kiwango cha ziada cha usalama katika tukio la kushindwa kwa jenereta ya ndani (kwa hiari au la). Kwa kuchagua chaguo hili, ambalo linachanganya TRNG na kupiga kete, unafaidika kutokana na udhibiti mkubwa juu ya kizazi cha hukumu, bila kuongeza hatari katika tukio la utekelezaji mbaya kwa upande wako.
+Hata hivyo, chaguo bora ni hakika cha pili, ambacho kinachanganya matumizi ya TRNG na chanzo cha nje cha entropy. Njia hii inahakikisha entropy ya chini sawa na ile ya TRNG pekee, na inaongeza kiwango cha ziada cha usalama katika tukio la kushindwa kwa jenereta ya ndani (kwa hiari au la). Kwa kuchagua chaguo hili, ambalo linachanganya TRNG na kupiga kete, unafaidika kutokana na udhibiti mkubwa juu ya kizazi cha kifungu, bila kuongeza hatari katika tukio la utekelezaji mbaya kwa upande wako.
 
 
-Bofya kwenye "*Maneno mapya ya seed*".
+Bofya kwenye "New Seed Words".
 
 
 ![CCQ](assets/fr/029.webp)
@@ -381,13 +381,13 @@ Sasa unafikia menyu kuu ya COLDCARD yako.
 ## Kuanzisha Wallet mpya kwenye Sparrow
 
 
-Kuna chaguo kadhaa za kuanzisha mawasiliano kati ya programu ya Sparrow Wallet na COLDCARD yako. Moja kwa moja zaidi ni kutumia kebo ya USB-C. Hata hivyo, kwa chaguomsingi, COLDCARD yako imezimwa kebo na mawasiliano ya NFC. Ili kuziwasha tena, nenda kwenye "*Mipangilio*", kisha "*Kifaa Kimewashwa/Kimezimwa*", na uwashe chaguo la mawasiliano unayotaka.
+Kuna chaguo kadhaa za kuanzisha mawasiliano kati ya programu ya Sparrow Wallet na COLDCARD yako. Moja kwa moja zaidi ni kutumia kebo ya USB-C. Hata hivyo, kwa chaguomsingi, COLDCARD yako imezimwa kebo na mawasiliano ya NFC. Ili kuziwasha tena, nenda kwenye "Settings", kisha "Enable/Disable Hardware", na uwashe chaguo la mawasiliano unalotaka.
 
 
 ![CCQ](assets/fr/037.webp)
 
 
-Ikiwa ungependa kuweka COLDCARD yako ikiwa imetengwa kabisa na kompyuta yako, unaweza kuchagua mawasiliano ya "hewa-pengo" isiyo ya moja kwa moja, kwa kutumia misimbo ya QR au kadi ya microSD. Hii ndiyo njia ambayo tutakuwa tukitumia katika somo hili.
+Ikiwa ungependa kuweka COLDCARD yako ikiwa imetengwa kabisa na kompyuta yako, unaweza kuchagua mawasiliano ya "air-gap" yasiyo ya moja kwa moja, kwa kutumia misimbo ya QR au kadi ya microSD. Hii ndiyo njia ambayo tutakuwa tukitumia katika somo hili.
 
 
 Nenda kwa "*Advanced/Tools*".
@@ -408,7 +408,7 @@ Kisha chagua "* Sparrow Wallet *".
 ![CCQ](assets/fr/040.webp)
 
 
-Bonyeza "*ENTER*" ili generate faili ya usanidi.
+Bonyeza "*ENTER*" ili kuzalisha faili ya usanidi.
 
 
 ![CCQ](assets/fr/041.webp)
@@ -420,28 +420,28 @@ Kisha chagua jinsi ya kutuma faili hii kwa Sparrow. Katika mfano huu, nimeingiza
 ![CCQ](assets/fr/042.webp)
 
 
-Zindua Sparrow Wallet na uruke kurasa za utangulizi ili kufikia skrini kuu. Hakikisha umeunganishwa kwa usahihi kwenye nodi kwa kuangalia swichi iliyo chini kulia mwa skrini.
+Zindua Sparrow Wallet na uruke kurasa za utangulizi ili kufikia skrini kuu. Hakikisha umeunganishwa kwa usahihi kwenye nodi kwa kuangalia switch iliyo chini kulia mwa skrini.
 
 
 ![CCQ](assets/fr/043.webp)
 
 
-Inapendekezwa sana utumie nodi yako ya Bitcoin. Kwa mafunzo haya, ninatumia nodi ya umma (njano), kwani niko kwenye Testnet, lakini kwa matumizi ya uzalishaji, ni bora kutumia Bitcoin Core ndani ya nchi (Green) au seva ya Electrum kwenye nodi ya mbali (bluu).
+Inapendekezwa sana utumie node yako ya Bitcoin. Kwa mafunzo haya, ninatumia node ya umma (njano), kwani niko kwenye Testnet, lakini kwa matumizi ya uzalishaji, ni bora kutumia Bitcoin Core ya ndani (kijani) au seva ya Electrum kwenye node ya mbali (bluu).
 
 
-Fikia menyu ya "*Faili*" na uchague "*Mpya Wallet*".
+Fikia menyu ya "File" na uchague "New Wallet".
 
 
 ![CCQ](assets/fr/044.webp)
 
 
-Taja Wallet yako na ubofye "*Unda Wallet*".
+Taja Wallet yako na ubofye "Create Wallet".
 
 
 ![CCQ](assets/fr/045.webp)
 
 
-Katika menyu kunjuzi ya "*Aina ya Hati*", chagua aina ya hati ambayo italinda bitcoins zako.
+Katika menyu kunjuzi ya "Script Type", chagua aina ya hati ambayo italinda bitcoins zako.
 
 
 ![CCQ](assets/fr/046.webp)
@@ -453,19 +453,19 @@ Bofya kwenye "*Airgapped Hardware Wallet*".
 ![CCQ](assets/fr/047.webp)
 
 
-Chini ya kichupo cha "*Kadi Baridi*", bofya "*Changanua...*" ikiwa unapanga kuchanganua msimbo wa QR unaoonyeshwa kwenye COLDCARD yako, au "*Leta Faili...*" ili kuleta faili kutoka kwa microSD (hii ndiyo faili ya `.json`).
+Chini ya kichupo cha "Coldcard", bofya "Scan..." ikiwa unapanga kuchanganua msimbo wa QR unaoonyeshwa kwenye COLDCARD yako, au "Import File..." ili kuleta faili kutoka kwa microSD (hii ndiyo faili ya .json).
 
 
 ![CCQ](assets/fr/048.webp)
 
 
-Baada ya kuagiza, hakikisha kuwa "*Alama kuu ya vidole*" inayoonyeshwa kwenye Sparrow inalingana na ile inayoonyeshwa kwenye COLDCARD yako. Thibitisha uumbaji kwa kubofya "* Tumia *".
+Baada ya kuagiza, hakikisha kuwa "Master fingerprint" inayoonyeshwa kwenye Sparrow inalingana na ile inayoonyeshwa kwenye COLDCARD yako. Thibitisha uumbaji kwa kubofya "Apply".
 
 
 ![CCQ](assets/fr/049.webp)
 
 
-Weka nenosiri dhabiti ili kupata ufikiaji salama wa Sparrow Wallet yako. Nenosiri hili litalinda funguo zako za umma, anwani, lebo na historia ya muamala dhidi ya ufikiaji ambao haujaidhinishwa.
+Weka nenosiri dhabiti ili kupata ufikiaji salama wa Sparrow Wallet yako. Nenosiri hili litalinda funguo zako za umma, address, lebo na historia ya muamala dhidi ya ufikiaji ambao haujaidhinishwa.
 
 
 Ni vyema kuhifadhi nenosiri hili ili usilisahau (k.m. katika kidhibiti cha nenosiri).
@@ -480,7 +480,7 @@ Wallet yako sasa imewekwa kwenye Sparrow Wallet.
 ![CCQ](assets/fr/051.webp)
 
 
-Kabla ya kupokea bitcoins zako za kwanza kwenye Wallet yako, **Ninakushauri sana ufanye jaribio tupu la uokoaji **. Andika maelezo fulani ya marejeleo, kama vile xpub yako, kisha uweke upya COLDCARD Q yako huku Wallet ingali tupu. Kisha jaribu kurejesha Wallet yako kwenye COLDCARD kwa kutumia nakala zako za karatasi. Hakikisha kuwa xpub iliyotengenezwa baada ya urejeshaji inalingana na ile uliyoandika hapo awali. Ikiwa inafanya hivyo, unaweza kuwa na uhakika kwamba nakala zako za karatasi ni za kuaminika.
+Kabla ya kupokea bitcoins zako za kwanza kwenye Wallet yako, ninakushauri sana ufanye jaribio tupu la uokoaji. Andika maelezo fulani ya marejeleo, kama vile xpub yako, kisha uweke upya COLDCARD Q yako huku Wallet ingali tupu. Kisha jaribu kurejesha Wallet yako kwenye COLDCARD kwa kutumia nakala zako za karatasi. Hakikisha kuwa xpub iliyotengenezwa baada ya urejeshaji inalingana na ile uliyoandika hapo awali. Ikiwa inalingana, unaweza kuwa na uhakika kwamba nakala zako za karatasi ni za kuaminika.
 
 
 Ili kupata maelezo zaidi kuhusu jinsi ya kufanya jaribio la urejeshi, ninapendekeza upate mafunzo haya mengine:
@@ -497,7 +497,7 @@ Ili kupokea bitcoins zako za kwanza, anza kwa kuwasha na kufungua COLDCARD yako.
 ![CCQ](assets/fr/052.webp)
 
 
-Kwenye Sparrow Wallet, bofya kwenye kichupo cha "*Pokea*".
+Kwenye Sparrow Wallet, bofya kwenye kichupo cha "*receive*".
 
 
 ![CCQ](assets/fr/053.webp)
@@ -518,7 +518,7 @@ Chagua aina ya hati unayotumia kwenye Sparrow. Katika kesi yangu, ni SegWit P2WP
 ![CCQ](assets/fr/055.webp)
 
 
-Kisha unaweza kuona anwani zako tofauti zinazotolewa kwa mpangilio.
+Kisha unaweza kuona address zako tofauti zinazotolewa kwa mpangilio.
 
 
 ![CCQ](assets/fr/056.webp)
@@ -554,7 +554,7 @@ Kwa hivyo Address imethibitishwa kwa mafanikio.
 ![CCQ](assets/fr/061.webp)
 
 
-Sasa unaweza kuongeza "*Lebo*" ili kuelezea chanzo cha bitcoins ambacho kitalindwa na Address hii. Hii ni mazoezi mazuri ambayo hukuruhusu kudhibiti UTXO zako vyema.
+Sasa unaweza kuongeza "Label" ili kuelezea chanzo cha bitcoins ambacho kitalindwa na Address hii. Hii ni mazoezi mazuri ambayo hukuruhusu kudhibiti UTXO zako vyema.
 
 
 ![CCQ](assets/fr/062.webp)
@@ -583,19 +583,19 @@ Kama kawaida, anza kwa kuwasha na kufungua COLDCARD Q yako, kisha ufungue Sparro
 ![CCQ](assets/fr/064.webp)
 
 
-Ikiwa ungependa "udhibiti wa sarafu", yaani, chagua UTXO za kutumia katika muamala, nenda kwenye kichupo cha "*UTXOs*". Chagua UTXO unazotaka kutumia, kisha ubofye "*Tuma Zilizochaguliwa*". Utaelekezwa kwenye skrini sawa kwenye kichupo cha "*Tuma*", lakini UTXO zako zikiwa tayari zimechaguliwa kwa shughuli hiyo.
+Ikiwa ungependa "coin control", yaani, kuchagua UTXO za kutumia katika muamala, nenda kwenye kichupo cha "UTXOs". Chagua UTXO unazotaka kutumia, kisha ubofye "Send Selected". Utaelekezwa kwenye skrini sawa kwenye kichupo cha "Send", lakini UTXO zako zitakuwa tayari zimechaguliwa kwa muamala huo.
 
 
 ![CCQ](assets/fr/065.webp)
 
 
-Ingiza unakoenda Address. Unaweza pia kuingiza anwani nyingi kwa kubofya kitufe cha "+ Ongeza*".
+Ingiza Address inayopokea. Unaweza pia kuingiza anwani nyingi kwa kubofya kitufe cha "+Add".
 
 
 ![CCQ](assets/fr/066.webp)
 
 
-Andika "*Lebo*" ili kukumbuka madhumuni ya gharama hii.
+Andika "*label*" ili kukumbuka madhumuni ya gharama hii.
 
 
 ![CCQ](assets/fr/067.webp)
@@ -613,31 +613,31 @@ Rekebisha kiwango cha ada ya muamala wako kulingana na soko la sasa.
 ![CCQ](assets/fr/069.webp)
 
 
-Hakikisha kuwa vigezo vyako vyote vya muamala ni sahihi, kisha ubofye "*Unda Muamala*".
+Hakikisha kuwa vigezo vyako vyote vya muamala ni sahihi, kisha ubofye "Create Transaction".
 
 
 ![CCQ](assets/fr/070.webp)
 
 
-Ikiwa kila kitu kimekuridhisha, bofya "*Kamilisha Muamala kwa Kutia Sahihi*".
+Ikiwa kila kitu kimekuridhisha, bofya "Finalize Transaction for Signing".
 
 
 ![CCQ](assets/fr/071.webp)
 
 
-Baada ya kuunda muamala wako katika Sparrow, ni wakati wa kutia saini ukitumia COLDCARD yako. Ili kusambaza PSBT (muamala ambao haujasainiwa) kwa kifaa chako, una chaguo kadhaa. Ikiwa utumaji data wa waya umewashwa, unaweza kutuma muamala moja kwa moja kupitia muunganisho wa USB-C, kama vile ungefanya na Hardware Wallet nyingine yoyote. Katika kesi hii, kwenye Sparrow, itabidi ubofye kitufe cha "*Sign*" kwenye kona ya chini kulia. Katika mfano wangu, kifungo hiki kimezuiwa kwa sababu COLDCARD haijaunganishwa na cable.
+Baada ya kuunda muamala wako katika Sparrow, ni wakati wa kutia saini ukitumia COLDCARD yako. Ili kusambaza PSBT (muamala ambao haujasainiwa) kwa kifaa chako, una chaguo kadhaa. Ikiwa utumaji data wa waya umewashwa, unaweza kutuma muamala moja kwa moja kupitia muunganisho wa USB-C, kama vile ungefanya na Hardware Wallet nyingine yoyote. Katika kesi hii, kwenye Sparrow, itabidi ubofye kitufe cha "Sign" kwenye kona ya chini kulia. Katika mfano wangu, kitufe hiki kimezuiwa kwa sababu COLDCARD haijaunganishwa na cable.
 
 
 ![CCQ](assets/fr/072.webp)
 
 
-Ikiwa ungependa kudumisha muunganisho wa "hewa-pengo" bila mawasiliano ya moja kwa moja kati ya Hardware Wallet na kompyuta yako, una chaguo 2. Ya kwanza, na ngumu zaidi, ni kutumia kadi ya microSD. Ingiza kadi ya microSD kwenye kompyuta yako, rekodi muamala kupitia kitufe cha "*Hifadhi Muamala*" kwenye Sparrow, kisha uhamishe kadi hii kwenye mlango kwenye COLDCARD yako.
+Ikiwa ungependa kudumisha muunganisho wa "air-gap" bila mawasiliano ya moja kwa moja kati ya Hardware Wallet na kompyuta yako, una chaguo 2. Ya kwanza, na ngumu zaidi, ni kutumia kadi ya microSD. Ingiza kadi ya microSD kwenye kompyuta yako, rekodi muamala kupitia kitufe cha "Save Transaction" kwenye Sparrow, kisha uhamishe kadi hii kwenye mlango wa COLDCARD yako.
 
 
 ![CCQ](assets/fr/073.webp)
 
 
-Kisha fikia menyu ya "*Tayari Kusaini*".
+Kisha fikia menyu ya "Ready To Sign".
 
 
 ![CCQ](assets/fr/074.webp)
@@ -655,19 +655,19 @@ Ikiwa kila kitu kiko sawa, bonyeza kitufe cha "*INGIA*" ili kutia sahihi muamala
 ![CCQ](assets/fr/076.webp)
 
 
-Kisha rudisha microSD kwenye kompyuta yako na kwenye Sparrow, bofya "*Pakia Muamala*" ili kupakia muamala uliotiwa saini kutoka kwa microSD. Kisha utaweza kufanya ukaguzi wa mwisho kabla ya kuipakia kwenye mtandao wa Bitcoin.
+Kisha rudisha microSD kwenye kompyuta yako na kwenye Sparrow, bofya "Load Transaction" ili kupakia muamala uliotiwa saini kutoka kwa microSD. Kisha utaweza kufanya ukaguzi wa mwisho kabla ya kuupakia kwenye mtandao wa Bitcoin.
 
 
 ![CCQ](assets/fr/077.webp)
 
 
-Mbinu ya pili ya kutia sahihi na COLDCARD yako katika Air-Gap, ambayo ni rahisi zaidi kuliko mbinu ya microSD, ni kuchanganua PSBT moja kwa moja kupitia kamera ya kifaa. Kwenye Sparrow, chagua "*Onyesha QR*".
+Mbinu ya pili ya kutia sahihi na COLDCARD yako katika Air-Gap, ambayo ni rahisi zaidi kuliko mbinu ya microSD, ni kuchanganua PSBT moja kwa moja kupitia kamera ya kifaa. Kwenye Sparrow, chagua "Show QR".
 
 
 ![CCQ](assets/fr/078.webp)
 
 
-Kwenye COLDCARD, chagua "*Changanua Msimbo Wowote wa QR*". Unaweza pia kutumia kitufe cha "*QR*" kwenye kibodi.
+Kwenye COLDCARD, chagua "Scan Any QR Code". Unaweza pia kutumia kitufe cha "QR" kwenye kibodi.
 
 
 ![CCQ](assets/fr/079.webp)
