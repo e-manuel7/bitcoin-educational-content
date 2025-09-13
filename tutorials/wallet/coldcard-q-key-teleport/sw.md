@@ -1,5 +1,5 @@
 ---
-name: COLDCARD Q - Muhimu Teleport
+name: Coldcard-q-key-teleport
 description: Teleport muhimu ni nini na ninaitumiaje?
 ---
 
@@ -17,11 +17,11 @@ description: Teleport muhimu ni nini na ninaitumiaje?
 
 
 
-Je, ni kipengele cha **Muhimu Teleport** kinachotolewa na Coinkite iliyo na kifaa chake kikuu cha ColdCardQ?
+Je, ni kipengele cha muhimu Teleport kinachotolewa na Coinkite iliyo na kifaa chake kikuu cha ColdCardQ?
 
 
 
-**Muhimu Teleport** hukuwezesha kuhamisha kwa usalama data ya siri kati ya 2 ColdCardQs. Njia ya usambazaji haihitaji hata kusimbwa kwa njia fiche, na inaweza kuwa ya umma.
+Key Teleport hukuwezesha kuhamisha kwa usalama data ya siri kati ya ColdCard Q mbili. Njia ya usambazaji haihitaji hata kusimbwa kwa njia fiche, na inaweza kuwa ya umma.
 
 
 
@@ -31,10 +31,10 @@ Hii inaweza kutumika kuhamisha:
 
 
 
-- Vifungu vya maneno vya gW-0** (Nyimbo kuu ya seed ya ColdCard Q au siri zilizohifadhiwa katika [seed Vault] ya ColdCardQ)(https://coldcard.com/docs/temporary-seeds/#seed-vault).
-- madokezo ya siri na manenosiri**: hii inaweza kuwa siri yoyote au saraka nzima ya [Vidokezo Salama na Manenosiri] (https://coldcard.com/docs/secure_notes/) kwenye ColdCardQ yako.
-- chelezo ya ColdCardQ yako yote**: ColdCardQ inayopokea nakala hii lazima isiwe na seed Master ili hii ifanye kazi.
-- gW-3 (*Miamala ya Bitcoin Iliyotiwa Saini kwa Kiasi*) kama sehemu ya mpango wa sahihi nyingi**.
+- **Vifungu vya maneno vya gW-0** (Nyimbo kuu ya seed ya ColdCard Q au siri zilizohifadhiwa katika [seed Vault] ya ColdCardQ)(https://coldcard.com/docs/temporary-seeds/#seed-vault).
+- **madokezo ya siri na  password**: hii inaweza kuwa siri yoyote au saraka nzima ya [Vidokezo Salama na Manenosiri] (https://coldcard.com/docs/secure_notes/) kwenye ColdCardQ yako.
+- **chelezo ya ColdCardQ yako yote**: ColdCardQ inayopokea nakala hii lazima isiwe na seed Master ili hii ifanye kazi.
+- **gW-3 (*Miamala ya Bitcoin Iliyotiwa Saini kwa Kiasi*) kama sehemu ya mpango wa sahihi nyingi**.
 
 
 
@@ -61,7 +61,7 @@ Hapa, tutaangalia uhamisho wa sentensi za seed, madokezo, manenosiri, au uhamish
 Katika menyu **"Zana/Zana**" kwenye ColdCardQ yako, chagua **"Ufunguo wa Teleport (anza) "**.
 
 
-Kwenye skrini inayofuata, nenosiri la tarakimu 8 linapendekezwa, hapa "20420219". Utahitaji kuwasiliana nenosiri hili kwa mtumaji. Tumia sms, kwa mfano, kutuma nenosiri hili, au mfumo wako salama wa ujumbe, au hata simu ya sauti.
+Kwenye skrini inayofuata, password la tarakimu 8 linapendekezwa, hapa "20420219". Utahitaji kuwasiliana nenosiri hili kwa mtumaji. Tumia sms, kwa mfano, kutuma nenosiri hili, au mfumo wako salama wa ujumbe, au hata simu ya sauti.
 
 
 
@@ -79,7 +79,7 @@ Msimbo wa QR unatolewa kwenye skrini. Kwa mara nyingine tena, utahitaji kuwasili
 
 
 
-**USITUMIE MSIMBO HII WA QR KUPITIA KITUO ILE kile kile ILICHOTUMIA KUTUMA NENOSIRI ILIYOPITA YENYE TATU 8**.
+**USITUMIE MSIMBO HUU WA QR KUPITIA KITUO ILE kile kile ILICHOTUMIA KUTUMA NENOSIRI ILIYOPITA YENYE TATU 8**.
 
 
 
@@ -129,15 +129,15 @@ Kutoka kwenye kifaa kinachotuma, bofya kitufe cha **"QR "** ili kuchanganua msim
 
 
 
-- tuliingiza data iliyosimbwa kwa kuchanganua msimbo wa QR kwenye kifaa kinachopokea*.
-- kisha tukasimbua kwa kutumia nenosiri la tarakimu 8 lililotumwa kwetu kupitia kituo cha pili*.
-- kwa hivyo tunamiliki ufunguo wa umma (Ka) uliotolewa na mpokeaji mwanzoni.*
-- Kisha tunagenerate jozi mpya ya vitufe vya muda mfupi (Kb/kb, na Kb=G.kb) kwenye kifaa cha kutuma, ambacho tunatumia kutumia ECDH kwa Ka. Kwa hivyo tunafanya operesheni kb.Ka=Ks , ambapo Ks inaitwa **"Ufunguo wa Kipindi "**.*
+- *tuliingiza data iliyosimbwa kwa kuchanganua msimbo wa QR kwenye kifaa kinachopokea*.
+- *kisha tukasimbua kwa kutumia nenosiri la tarakimu 8 lililotumwa kwetu kupitia kituo cha pili*.
+- *kwa hivyo tunamiliki ufunguo wa umma (Ka) uliotolewa na mpokeaji mwanzoni.*
+- *Kisha tunagenerate jozi mpya ya vitufe vya muda mfupi (Kb/kb, na Kb=G.kb) kwenye kifaa cha kutuma, ambacho tunatumia kutumia ECDH kwa Ka. Kwa hivyo tunafanya operesheni kb.Ka=Ks , ambapo Ks inaitwa **"Ufunguo wa Kipindi "**.*
 
 
 
 
-Sasa unaombwa kuchagua asili ya siri zitakazotumwa kati ya 2 ColdCardQs (maelezo ya siri, nenosiri, chelezo kamili, mbegu zilizo kwenye kuba yako, bwana wa kifaa cha seed).
+Sasa unaombwa kuchagua Secret Origin ya siri zitakazotumwa kati ya ColdCard Q mbili (maelezo ya siri, nenosiri, full backup, seed zilizohifadhiwa kwenye vault yako, au device master seed).
 
 
 
@@ -169,8 +169,8 @@ Bonyeza **"ENTER "** na utawasilishwa na msimbo mpya wa QR. Ichanganue na kifaa 
 
 
 
-- baada ya kuchagua siri za kutumwa, tuna generate nenosiri jipya la random linaloitwa **"Nenosiri la Teleport "***.
-- kisha tunasimba siri kupitia AES-256-CTR kwa kutumia **"Ufunguo wa Kipindi "**, "Ks", uliotolewa katika hatua ya awali.*
+- *baada ya kuchagua siri za kutumwa, tuna generate nenosiri jipya la random linaloitwa **"Nenosiri la Teleport "***.
+- *kisha tunasimba siri kupitia AES-256-CTR kwa kutumia **"Ufunguo wa Kipindi "**, "Ks", uliotolewa katika hatua ya awali.*
 - tunaweka kiambishi awali pakiti ambayo tayari imesimbwa kwa njia fiche kwa **"Ufunguo wa Kipindi "** kwa ufunguo wetu wa umma wa Kb, kisha uongeze usimbaji zaidi wa Layer wa AES-256-CTR kwa **"Nenosiri la Simu "**. Jambo zima basi limesimbwa kama msimbo wa QR
 
 
@@ -203,7 +203,7 @@ Kisha data hutambulishwa na kufanywa ieleweke kwa kifaa kinachopokea. Ujumbe uli
 
 
 
-- tumesimbua data inayotumwa na mtumaji kwa kutumia **"Nenosiri la Simu "**.*
+- *tumesimbua data inayotumwa na mtumaji kwa kutumia **"Nenosiri la Simu "**.*
 - kwa hivyo tuna ufunguo wa umma Kb na ujumbe wetu wa siri uliosimbwa kwa njia fiche na **"Ufunguo wa Kipindi "**, "Ks". Lakini tunawezaje kufanya hivi kwani, kama mpokeaji, hatujui Ks, ambayo iliundwa na mtumaji?
 - Tunahitaji kutumia ufunguo wetu wa faragha "ka" kutoka hatua ya awali **"Andaa kifaa kitakachopokea data "** kwa ufunguo wa umma Kb.*
 - Kwa kweli, kwa kuhesabu ka.Kb = ka.kb.G=kb.ka.G=kb.Ka=Ks, tunapata Ks. Ambayo hatimaye inatumiwa kufafanua ujumbe wa siri.*
