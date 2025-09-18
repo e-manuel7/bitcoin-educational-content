@@ -1,5 +1,5 @@
 ---
-name: Sentinel Watch-only 
+name: Sentinel
 description: Watch-only wallet ni nini na jinsi ya kuitumia?
 ---
 

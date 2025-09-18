@@ -1,5 +1,5 @@
 ---
-name: Bitcoin core (لینوکس)
+name: Bitcoin Core (Linux)
 description: اجرای نود خود با Bitcoin core روی لینوکس
 ---
 

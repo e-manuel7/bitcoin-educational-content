@@ -1,5 +1,5 @@
 ---
-name: Trezor-shamir-backup 
+name: Trezor Shamir Backup
 description: Vifungu vya kushiriki mara moja na vya kushiriki vingi vya Mnemonic kwenye Trezor
 ---
 ![cover](assets/cover.webp)

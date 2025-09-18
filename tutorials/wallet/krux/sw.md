@@ -1,5 +1,5 @@
 ---
-name: Krux - single sign na Multi sogn
+name: Krux
 description: kusanidi kifaa cha kusaini maunzi cha Krux DIY Bitcoin, kuangaza firmware yake, na kuitumia kwa pochi za sig moja na Multisig.
 ---
 
