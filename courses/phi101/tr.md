@@ -1,28 +1,18 @@
 ---
 name: Özgürlüğün Felsefi Tarihi
 goal: Antik filozoflardan modern meydan okumalara kadar özgürlüğün çağlar boyunca geçirdiği evrimi keşfedin.
-objectives: 
-
-  - Özgürlük ve güce ilişkin siyasi felsefeleri analiz edebilecektir.
-  - Antik Çağ'dan Orta Çağ'a kadar özgürlüğün tarihsel kökenlerinin izini sürün.
-  - Özgürlüğün 19. yüzyıldan 20. yüzyıla yükselişini ve düşüşünü inceleyin.
-
+objectives:
+- Özgürlük ve iktidarın siyasi felsefelerini analiz edin.
+- Özgürlüğün tarihsel kökenlerini Antik Çağ'dan Orta Çağ'a kadar izleyin.
+- 19. yüzyıldan 20. yüzyıla özgürlüğün yükselişini ve düşüşünü inceleyin.
+- Politik ve ekonomik özgürlük arasındaki ilişkiyi analiz edin.
 ---
+# Özgürlüğün Felsefi Tarihi Boyunca Bir Yolculuk
 
-# Özgürlüğün Felsefi Tarihinde Bir Yolculuk
+Bu ders, iki rakip siyasi felsefeyi analiz ederek tarihteki özgürlüğü inceler: özgürlük ve iktidar. Frédéric Bastiat, Lord Acton, Karl Marx ve Murray Rothbard gibi etkili düşünürleri ve bunların üretim, yağma, sınıf mücadelesi ve Devletin rolü hakkındaki zıt görüşlerini inceleyeceksiniz.
 
-
-Özgürlüğün Felsefi Tarihi tarih boyunca özgürlüğü araştırıyor. Damien Theillier iki siyasi felsefeyi inceliyor: özgürlük ve iktidar. Frédéric Bastiat, Lord Acton, Karl Marx ve Murray Rothbard gibi düşünürleri analiz ederek onların üretim, yağma, sınıf mücadelesi ve Devlet hakkındaki görüşlerine ışık tutuyor.
-
-
-Ders, Yunanlılar ve Romalılara odaklanarak Antik Çağ'da özgürlüğün kökenlerini izler ve insan özgürlüğünün hem dini hem de siyasi bağlamlarda araştırıldığı Orta Çağ boyunca devam eder. İtalyan şehirlerinde üniversitelerin ve kapitalizmin ilk biçimlerinin ortaya çıkışıyla birlikte özgürlük fikirlerinin nasıl geliştiğini göstermektedir.
-
-
-Bu ders, Rönesans'tan Aydınlanma'ya, dini hoşgörü ve ekonomik bağımsızlığın damgasını vurduğu, 1776'da Philadelphia Kongresi gibi önemli olaylarla doruğa ulaşan özgürlüğün yükselişini incelemektedir. Kapitalizm eleştirileri ve kolektivizmin tehlikeleri ile karşı karşıya kalan 19. ve 20. yüzyıllar özgürlüğün zirvesine ve düşüşüne tanıklık etmiş, özgürlüğe yönelik çağdaş zorlukları bir perspektife oturtmuştur.
-
-
+Antik Çağ'dan Aydınlanma'ya kadar, toplumlar hoşgörüyü ve ekonomik bağımsızlığı benimsedikçe özgürlük yükseldi. Ancak 19. ve 20. yüzyıllar, kapitalizm eleştiriyle karşılaşırken ve kolektivizm yükselirken gerileme getirdi. Bu değişimlerin günümüzün özgürlüğe yönelik tehditlerini nasıl aydınlattığını keşfedin ve özgürlük ile iktidar arasındaki mücadeleyi anlamak için hemen başlayın.
 +++
-
 # Giriş
 
 

@@ -1,28 +1,18 @@
 ---
 name: Een filosofische geschiedenis van vrijheid
 goal: Ontdek de evolutie van vrijheid door de eeuwen heen, van oude filosofen tot moderne uitdagingen.
-objectives: 
-
-  - Analyseer de politieke filosofieën over vrijheid en macht.
-  - Volg de historische oorsprong van vrijheid van de Oudheid tot de Middeleeuwen.
-  - Onderzoek de opkomst en het verval van vrijheid van de 19e tot de 20e eeuw.
-
+objectives:
+- Analyseer de politieke filosofieën van vrijheid en macht.
+- Traceer de historische oorsprong van vrijheid van de Oudheid tot de Middeleeuwen.
+- Onderzoek de opkomst en neergang van vrijheid van de 19e tot de 20e eeuw.
+- Analyseer de relatie tussen politieke en economische vrijheid.
 ---
-
 # Een reis door de filosofische geschiedenis van vrijheid
 
+Deze cursus onderzoekt vrijheid door de geschiedenis heen door twee concurrerende politieke filosofieën te analyseren: vrijheid en macht. Je bestudeert invloedrijke denkers zoals Frédéric Bastiat, Lord Acton, Karl Marx en Murray Rothbard, en hun contrasterende visies op productie, plundering, klassenstrijd en de rol van de staat.
 
-Een filosofische geschiedenis van vrijheid onderzoekt vrijheid door de geschiedenis heen. Damien Theillier onderzoekt twee politieke filosofieën: vrijheid en macht. Hij analyseert denkers als Frédéric Bastiat, Lord Acton, Karl Marx en Murray Rothbard en belicht hun opvattingen over productie, plundering, klassenstrijd en de staat.
-
-
-De cursus traceert de oorsprong van vrijheid in de Oudheid, met een focus op de Grieken en Romeinen, en gaat verder met de Middeleeuwen, waar de menselijke vrijheid wordt onderzocht in zowel een religieuze als politieke context. Het illustreert hoe ideeën over vrijheid evolueerden samen met de opkomst van universiteiten en de eerste vormen van kapitalisme in Italiaanse steden.
-
-
-Van de Renaissance tot de Verlichting onderzoekt de cursus de opkomst van vrijheid, gekenmerkt door religieuze tolerantie en economische onafhankelijkheid, met als hoogtepunt 1776 met belangrijke gebeurtenissen zoals het Congres van Philadelphia. De 19e en 20e eeuw waren getuige van het hoogtepunt en het verval van de vrijheid, geconfronteerd met kritiek op het kapitalisme en de gevaren van collectivisme, waardoor de hedendaagse uitdagingen voor de vrijheid in perspectief worden geplaatst.
-
-
+Vanaf de Oudheid tot de Verlichting steeg de vrijheid op naarmate samenlevingen tolerantie en economische onafhankelijkheid omarmden. Toch brachten de 19e en 20e eeuw achteruitgang, toen het kapitalisme kritiek kreeg en het collectivisme opkwam. Ontdek hoe deze verschuivingen de hedendaagse bedreigingen voor de vrijheid belichten en begin nu met het begrijpen van de strijd tussen vrijheid en macht.
 +++
-
 # Inleiding
 
 

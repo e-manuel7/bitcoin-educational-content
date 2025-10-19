@@ -2,18 +2,17 @@
 name: Sejarah Filosofis Kebebasan
 goal: Menemukan evolusi kebebasan sepanjang zaman, dari filsuf kuno hingga tantangan modern.
 objectives:
-  - Menganalisis filosofi politik tentang kebebasan dan kekuasaan.
-  - Melacak asal-usul historis kebebasan dari Zaman Kuno hingga Abad Pertengahan.
-  - Mengkaji kebangkitan dan kemunduran kebebasan dari abad ke-19 hingga abad ke-20.
+- Menganalisis filosofi politik tentang kebebasan dan kekuasaan.
+- Menelusuri asal-usul historis kebebasan dari Zaman Kuno hingga Abad Pertengahan.
+- Memeriksa kebangkitan dan kemunduran kebebasan dari abad ke-19 hingga abad ke-20.
+- Menganalisis hubungan antara kebebasan politik dan ekonomi.
 ---
+# Sebuah Perjalanan Melalui Sejarah Filosofis Kebebasan
 
-# Perjalanan Melalui Sejarah Filosofis Kebebasan
+Kursus ini mengkaji kebebasan melalui sejarah dengan menganalisis dua filosofi politik yang bersaing: kebebasan dan kekuasaan. Anda akan mempelajari pemikir-pemikir berpengaruh, seperti Frédéric Bastiat, Lord Acton, Karl Marx, dan Murray Rothbard, serta pandangan mereka yang kontras tentang produksi, perampasan, perjuangan kelas, dan peran Negara.
 
-Sejarah Filosofis Kebebasan mengeksplorasi kebebasan sepanjang sejarah. Damien Theillier mengkaji dua filosofi politik: kebebasan dan kekuasaan. Dia menganalisis pemikiran dari tokoh-tokoh seperti Frédéric Bastiat, Lord Acton, Karl Marx, dan Murray Rothbard, menyoroti pandangan mereka tentang produksi, penjarahan, perjuangan kelas, dan Negara.
-Kursus ini kembali ke asal-usul kebebasan di Zaman Kuno, dengan bangsa Yunani dan Romawi, melalui Abad Pertengahan, di mana kebebasan manusia dibahas dalam konteks agama dan politik. Ini menunjukkan bagaimana gagasan kebebasan berkembang dengan lahirnya universitas dan bentuk-bentuk awal kapitalisme di kota-kota Italia.
-Dari masa Renaisans hingga Pencerahan, kursus ini mengkaji kebangkitan kebebasan, yang ditandai dengan toleransi beragama dan kebebasan ekonomi, yang mencapai puncaknya pada tahun 1776 dengan peristiwa-peristiwa besar seperti Kongres Philadelphia. Abad ke-19 dan ke-20 menyaksikan puncak dan kemunduran kebebasan, menghadapi kritik terhadap kapitalisme dan bahaya kolektivisme, yang memberikan perspektif tentang tantangan kontemporer bagi kebebasan.
+Dari Zaman Kuno hingga Pencerahan, kebebasan meningkat seiring masyarakat merangkul toleransi dan kemandirian ekonomi. Namun abad ke-19 dan ke-20 membawa kemunduran, karena kapitalisme menghadapi kritik dan kolektivisme meningkat. Jelajahi bagaimana pergeseran ini menerangi ancaman terhadap kebebasan saat ini dan mulai sekarang untuk memahami pertempuran antara kebebasan dan kekuasaan.
 +++
-
 # Pengantar
 
 <partId>6edada19-3af3-411b-8483-3fe45cfe1c54</partId>

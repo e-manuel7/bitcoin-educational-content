@@ -2,21 +2,17 @@
 name: Eine philosophische Geschichte der Freiheit
 goal: Entdecken Sie die Entwicklung der Freiheit durch die Zeitalter, von antiken Philosophen bis hin zu modernen Herausforderungen.
 objectives:
-  - Analysieren Sie die politischen Philosophien von Freiheit und Macht.
-  - Verfolgen Sie die historischen Ursprünge der Freiheit von der Antike bis ins Mittelalter.
-  - Untersuchen Sie den Aufstieg und Niedergang der Freiheit vom 19. bis zum 20. Jahrhundert.
+- Analysieren Sie die politischen Philosophien von Freiheit und Macht.
+- Verfolgen Sie die historischen Ursprünge der Freiheit von der Antike bis zum Mittelalter.
+- Untersuchen Sie den Aufstieg und Niedergang der Freiheit vom 19. bis zum 20. Jahrhundert.
+- Analysieren Sie die Beziehung zwischen politischer und wirtschaftlicher Freiheit.
 ---
-
 # Eine Reise durch die philosophische Geschichte der Freiheit
 
-Eine philosophische Geschichte der Freiheit erforscht die Freiheit durch die Geschichte hindurch. Damien Theillier untersucht zwei politische Philosophien: Freiheit und Macht. Er analysiert Denker wie Frédéric Bastiat, Lord Acton, Karl Marx und Murray Rothbard und beleuchtet ihre Ansichten über Produktion, Plünderung, Klassenkampf und den Staat.
+Dieser Kurs untersucht Freiheit im Laufe der Geschichte durch die Analyse zweier konkurrierender politischer Philosophien: Freiheit und Macht. Sie werden einflussreiche Denker wie Frédéric Bastiat, Lord Acton, Karl Marx und Murray Rothbard studieren sowie deren gegensätzliche Ansichten über Produktion, Plünderung, Klassenkampf und die Rolle des Staates.
 
-Der Kurs geht zurück zu den Ursprüngen der Freiheit in der Antike, bei den Griechen und Römern, durch das Mittelalter, wo die menschliche Freiheit in religiösen und politischen Kontexten diskutiert wird. Er zeigt, wie sich die Ideen der Freiheit mit der Geburt der Universitäten und den ersten Formen des Kapitalismus in italienischen Städten entwickelten.
-
-Von der Renaissance bis zur Aufklärung untersucht der Kurs den Aufstieg der Freiheit, gekennzeichnet durch religiöse Toleranz und wirtschaftliche Freiheit, gipfelnd in 1776 mit bedeutenden Ereignissen wie dem Philadelphia-Kongress. Die 19. und 20. Jahrhunderte erleben den Höhepunkt und Niedergang der Freiheit, konfrontiert mit Kritik am Kapitalismus und den Gefahren des Kollektivismus, und setzen die zeitgenössischen Herausforderungen für die Freiheit in Perspektive.
-
+Von der Antike bis zur Aufklärung stieg die Freiheit auf, als Gesellschaften Toleranz und wirtschaftliche Unabhängigkeit annahmen. Doch das 19. und 20. Jahrhundert brachten einen Niedergang, als der Kapitalismus Kritik erfuhr und der Kollektivismus aufstieg. Erforschen Sie, wie diese Veränderungen die heutigen Bedrohungen der Freiheit beleuchten, und beginnen Sie jetzt, den Kampf zwischen Freiheit und Macht zu verstehen.
 +++
-
 # Einführung
 
 <partId>6edada19-3af3-411b-8483-3fe45cfe1c54</partId>

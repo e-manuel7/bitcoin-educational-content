@@ -2,21 +2,17 @@
 name: A Philosophical History of Freedom
 goal: Discover the evolution of freedom through the ages, from ancient philosophers to modern challenges.
 objectives:
-  - Analyze the political philosophies of freedom and power.
-  - Trace the historical origins of freedom from Antiquity to the Middle Ages.
-  - Examine the rise and decline of freedom from the 19th to the 20th century.
+- Analyze the political philosophies of freedom and power.
+- Trace the historical origins of freedom from Antiquity to the Middle Ages.
+- Examine the rise and decline of freedom from the 19th to the 20th century.
+- Analyze the relationship between political and economic freedom.
 ---
-
 # A Journey Through the Philosophical History of Freedom
 
-A Philosophical History of Freedom explores freedom throughout history. Damien Theillier examines two political philosophies: liberty and power. He analyzes thinkers such as Frédéric Bastiat, Lord Acton, Karl Marx, and Murray Rothbard, shedding light on their views on production, plunder, class struggle, and the State.
+This course examines freedom through history by analyzing two competing political philosophies: liberty and power. You will study influential thinkers, such as Frédéric Bastiat, Lord Acton, Karl Marx, and Murray Rothbard, and their contrasting views on production, plunder, class struggle, and the role of the State. 
 
-The course traces the origins of freedom in Antiquity, with a focus on the Greeks and Romans, and continues through the Middle Ages, where human freedom is explored in both religious and political contexts. It illustrates how ideas of freedom evolved alongside the emergence of universities and the first forms of capitalism in Italian cities.
-
-From the Renaissance to the Enlightenment, the course examines the rise of freedom, marked by religious tolerance and economic independence, culminating in 1776 with significant events such as the Philadelphia Congress. The 19th and 20th centuries witnessed the peak and decline of freedom, facing criticisms of capitalism and the dangers of collectivism, putting into perspective the contemporary challenges to liberty.
-
+From Antiquity through the Enlightenment, freedom ascended as societies embraced tolerance and economic independence. Yet the 19th and 20th centuries brought decline, as capitalism faced critique and collectivism rose. Explore how these shifts illuminate today's threats to liberty and start now to understand the battle between freedom and power.
 +++
-
 # Introduction
 
 <partId>6edada19-3af3-411b-8483-3fe45cfe1c54</partId>

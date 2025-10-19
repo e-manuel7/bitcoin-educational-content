@@ -1,28 +1,18 @@
 ---
 name: Filozoficzna historia wolności
 goal: Odkryj ewolucję wolności na przestrzeni wieków, od starożytnych filozofów po współczesne wyzwania.
-objectives: 
-
-  - Analiza politycznych filozofii wolności i władzy.
-  - Prześledź historyczne początki wolności od starożytności do średniowiecza.
-  - Zbadanie wzrostu i upadku wolności od XIX do XX wieku.
-
+objectives:
+- Przeanalizuj filozofie polityczne wolności i władzy.
+- Prześledzić historyczne źródła wolności od starożytności do średniowiecza.
+- Zbadać wzrost i upadek wolności od XIX do XX wieku.
+- Przeanalizuj związek między wolnością polityczną i ekonomiczną.
 ---
-
 # Podróż przez filozoficzną historię wolności
 
+Ten kurs bada wolność poprzez historię, analizując dwie konkurujące ze sobą filozofie polityczne: wolność i władzę. Będziesz studiować wpływowych myślicieli, takich jak Frédéric Bastiat, Lord Acton, Karol Marks i Murray Rothbard, oraz ich kontrastujące poglądy na produkcję, grabież, walkę klas i rolę państwa.
 
-Filozoficzna historia wolności bada wolność na przestrzeni dziejów. Damien Theillier bada dwie filozofie polityczne: wolność i władzę. Analizuje myślicieli takich jak Frédéric Bastiat, Lord Acton, Karol Marks i Murray Rothbard, rzucając światło na ich poglądy na produkcję, grabież, walkę klas i państwo.
-
-
-Kurs sięga do początków wolności w starożytności, z Grekami i Rzymianami, przez średniowiecze, gdzie wolność człowieka jest omawiana w kontekście religijnym i politycznym. Pokazuje, jak idee wolności ewoluowały wraz z narodzinami uniwersytetów i pierwszych form kapitalizmu we włoskich miastach.
-
-
-Od renesansu do oświecenia, kurs analizuje wzrost wolności, naznaczony tolerancją religijną i wolnością gospodarczą, którego kulminacją były ważne wydarzenia, takie jak Kongres Filadelfijski w 1776 roku. Wieki XIX i XX są świadkami szczytu i upadku wolności, w obliczu krytyki kapitalizmu i niebezpieczeństw kolektywizmu, stawiając w perspektywie współczesne wyzwania dla wolności.
-
-
+Od starożytności przez oświecenie wolność wzrastała, gdy społeczeństwa przyjmowały tolerancję i niezależność ekonomiczną. Jednak XIX i XX wiek przyniosły upadek, gdy kapitalizm spotkał się z krytyką, a kolektywizm zyskał na znaczeniu. Odkryj, jak te zmiany rzucają światło na dzisiejsze zagrożenia dla wolności i zacznij teraz rozumieć walkę między wolnością a władzą.
 +++
-
 # Wprowadzenie
 
 

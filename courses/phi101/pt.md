@@ -2,21 +2,17 @@
 name: Uma História Filosófica da Liberdade
 goal: Descobrir a evolução da liberdade ao longo dos tempos, desde filósofos antigos até desafios modernos.
 objectives:
-  - Analisar as filosofias políticas de liberdade e poder.
-  - Traçar as origens históricas da liberdade desde a Antiguidade até a Idade Média.
-  - Examinar o surgimento e declínio da liberdade do século 19 ao século 20.
+- Analisar as filosofias políticas da liberdade e do poder.
+- Rastrear as origens históricas da liberdade desde a Antiguidade até a Idade Média.
+- Examinar a ascensão e o declínio da liberdade do século XIX ao século XX.
+- Analisar a relação entre liberdade política e econômica.
 ---
+# Uma jornada pela história filosófica da liberdade
 
-# Uma Jornada Pela História Filosófica da Liberdade
+Este curso examina a liberdade através da história, analisando duas filosofias políticas concorrentes: liberdade e poder. Você estudará pensadores influentes, como Frédéric Bastiat, Lord Acton, Karl Marx e Murray Rothbard, e suas visões contrastantes sobre produção, pilhagem, luta de classes e o papel do Estado.
 
-Uma História Filosófica da Liberdade explora a liberdade ao longo da história. Damien Theillier examina duas filosofias políticas: liberdade e poder. Ele analisa pensadores como Frédéric Bastiat, Lord Acton, Karl Marx e Murray Rothbard, lançando luz sobre suas visões sobre produção, pilhagem, luta de classes e o Estado.
-
-O curso volta às origens da liberdade na Antiguidade, com os gregos e romanos, passando pela Idade Média, onde a liberdade humana é discutida em contextos religiosos e políticos. Mostra como as ideias de liberdade evoluíram com o nascimento das universidades e as primeiras formas de capitalismo nas cidades italianas.
-
-Da Renascença ao Iluminismo, o curso examina o surgimento da liberdade, marcado pela tolerância religiosa e liberdade econômica, culminando em 1776 com eventos importantes como o Congresso da Filadélfia. Os séculos 19 e 20 testemunham o auge e declínio da liberdade, enfrentando críticas ao capitalismo e os perigos do coletivismo, colocando em perspectiva os desafios contemporâneos para a liberdade.
-
+Desde a Antiguidade até o Iluminismo, a liberdade ascendeu à medida que as sociedades abraçaram a tolerância e a independência econômica. No entanto, os séculos XIX e XX trouxeram declínio, quando o capitalismo enfrentou críticas e o coletivismo cresceu. Explore como essas mudanças iluminam as ameaças atuais à liberdade e comece agora a entender a batalha entre liberdade e poder.
 +++
-
 # Introdução
 
 <partId>6edada19-3af3-411b-8483-3fe45cfe1c54</partId>

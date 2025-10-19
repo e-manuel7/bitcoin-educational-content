@@ -2,21 +2,17 @@
 name: Lịch sử triết học về tự do
 goal: Khám phá sự phát triển của tự do qua các thời đại, từ các triết gia cổ đại đến những thách thức đương đại.
 objectives:
-  - Phân tích các triết lý chính trị về tự do và quyền lực.
-  - Truy vết nguồn gốc lịch sử của tự do từ thời Cổ đại đến thời Trung Cổ.
-  - Xem xét sự phát triển và suy thoái của tự do từ thế kỷ 19 đến thế kỷ 20.
+- Phân tích các triết lý chính trị về tự do và quyền lực.
+- Truy tìm nguồn gốc lịch sử của tự do từ thời Cổ đại đến thời Trung cổ.
+- Xem xét sự trỗi dậy và suy tàn của tự do từ thế kỷ 19 đến thế kỷ 20.
+- Phân tích mối quan hệ giữa tự do chính trị và kinh tế.
 ---
+# Hành Trình Qua Lịch Sử Triết Học Của Tự Do
 
-# Hành hình xuyên qua lịch sử triết học của tự do
+Khóa học này xem xét tự do qua lịch sử bằng cách phân tích hai triết lý chính trị cạnh tranh: tự do và quyền lực. Bạn sẽ nghiên cứu các nhà tư tưởng có ảnh hưởng, chẳng hạn như Frédéric Bastiat, Lord Acton, Karl Marx và Murray Rothbard, cùng quan điểm đối lập của họ về sản xuất, cướp bóc, đấu tranh giai cấp và vai trò của Nhà nước.
 
-Lịch sử triết học về tự do khám phá khái niệm tự do xuyên suốt lịch sử. Damien Theillier nghiên cứu hai triết lý chính trị: tự do và quyền lực. Ông phân tích các nhà tư tưởng như Frédéric Bastiat, Lord Acton, Karl Mác, và Murray Rothbard, làm sáng tỏ quan điểm của họ về sản xuất, cướp bóc, đấu tranh giai cấp, và Nhà nước.
-
-Khóa học quay trở lại với nguồn gốc của tự do từ thời Cổ đại, với người Hy Lạp và La Mã, qua thời Trung Cổ, nơi tự do của con người được thảo luận trong các bối cảnh tôn giáo và chính trị. Nó chỉ ra cách mà các ý tưởng về tự do đã phát triển cùng với sự ra đời của các trường đại học và các hình thức đầu tiên của Chủ nghĩa Tư bản ở các thành phố của Ý.
-
-Từ Phục Hưng đến thời kỳ Khai Sáng, khóa học xem xét sự nổi lên của tự do, được đánh dấu bởi lòng khoan dung tôn giáo và tự do kinh tế, đạt đến đỉnh cao vào năm 1776 với các sự kiện quan trọng như Đại hội Philadelphia. Thế kỷ 19 và 20 chứng kiến sự thăng hoa và suy tàn của tự do, đối mặt với những chỉ trích về Chủ nghĩa Tư bản và những mối đe doạ của chủ nghĩa tập thể, đặt trong bối cảnh những thách thức đương đại đối với tự do.
-
+Từ thời Cổ đại qua thời Khai sáng, tự do đã vươn lên khi các xã hội chấp nhận sự kh관dung và độc lập kinh tế. Tuy nhiên, thế kỷ 19 và 20 mang đến sự suy thoái, khi chủ nghĩa tư bản đối mặt với chỉ trích và chủ nghĩa tập thể gia tăng. Khám phá cách những thay đổi này làm sáng tỏ các mối đe dọa đối với tự do ngày nay và bắt đầu ngay bây giờ để hiểu cuộc chiến giữa tự do và quyền lực.
 +++
-
 # Giới thiệu
 
 <partId>6edada19-3af3-411b-8483-3fe45cfe1c54</partId>

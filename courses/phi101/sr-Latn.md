@@ -1,28 +1,18 @@
 ---
 name: Filozofska istorija slobode
 goal: Otkrijte evoluciju slobode kroz vekove, od drevnih filozofa do modernih izazova.
-objectives: 
-
-  - Analizirajte političke filozofije slobode i moći.
-  - Pratite istorijske izvore slobode od Antike do Srednjeg veka.
-  - Ispitajte uspon i pad slobode od 19. do 20. veka.
-
+objectives:
+- Analizirajte političke filozofije slobode i moći.
+- Pratite istorijsko poreklo slobode od antike do srednjeg veka.
+- Ispitajte uspon i pad slobode od 19. do 20. veka.
+- Analizirajte odnos između političke i ekonomske slobode.
 ---
-
 # Putovanje kroz filozofsku istoriju slobode
 
+Ovaj kurs ispituje slobodu kroz istoriju analizirajući dve suprotstavljene političke filozofije: slobodu i moć. Proučavaćete uticajne mislioce, kao što su Frédéric Bastiat, Lord Acton, Karl Marx i Murray Rothbard, i njihove suprotstavljene poglede na proizvodnju, pljačku, klasnu borbu i ulogu države.
 
-Filozofska istorija slobode istražuje slobodu kroz istoriju. Damien Theillier ispituje dve političke filozofije: slobodu i moć. Analizira mislioce kao što su Frédéric Bastiat, Lord Acton, Karl Marx i Murray Rothbard, osvetljavajući njihove stavove o proizvodnji, pljački, klasnoj borbi i državi.
-
-
-Kurs se vraća na poreklo slobode u Antici, sa Grcima i Rimljanima, kroz Srednji vek, gde se ljudska sloboda razmatra u religijskim i političkim kontekstima. Pokazuje kako su se ideje slobode razvijale sa rađanjem univerziteta i prvim oblicima kapitalizma u italijanskim gradovima.
-
-
-Od renesanse do prosvetiteljstva, kurs ispituje uspon slobode, obeležen verskom tolerancijom i ekonomskom slobodom, kulminirajući 1776. godine sa velikim događajima poput Filadelfijskog kongresa. 19. i 20. vek svedoče o vrhuncu i padu slobode, suočavajući se sa kritikama kapitalizma i opasnostima kolektivizma, stavljajući u perspektivu savremene izazove za slobodu.
-
-
+Od antike kroz prosvetiteljstvo, sloboda je napredovala kako su društva prihvatala toleranciju i ekonomsku nezavisnost. Ipak, 19. i 20. vek doneli su nazadovanje, jer je kapitalizam suočen sa kritikom, a kolektivizam je rastao. Istražite kako ove promene osvetljavaju današnje pretnje slobodi i počnite odmah da razumete bitku između slobode i moći.
 +++
-
 # Uvod
 
 

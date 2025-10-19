@@ -2,21 +2,17 @@
 name: Une histoire philosophique de la liberté
 goal: Découvrez l'évolution de la liberté à travers les âges, des philosophes antiques aux défis modernes.
 objectives:
-  - Analyser les philosophies politiques de la liberté et du pouvoir.
-  - Tracer les origines historiques de la liberté depuis l'Antiquité jusqu'au Moyen age.
-  - Examiner l'essor et le déclin de la liberté du XIXe au XXe siècle.
+- Analyser les philosophies politiques de la liberté et du pouvoir.
+- Retracer les origines historiques de la liberté de l'Antiquité au Moyen Âge.
+- Examiner l'essor et le déclin de la liberté du XIXe au XXe siècle.
+- Analyser la relation entre la liberté politique et économique.
 ---
+# Un voyage à travers l'histoire philosophique de la liberté
 
-# Un voyage dans l'histoire philosophique de la liberté
+Ce cours examine la liberté à travers l'histoire en analysant deux philosophies politiques concurrentes : la liberté et le pouvoir. Vous étudierez des penseurs influents, tels que Frédéric Bastiat, Lord Acton, Karl Marx et Murray Rothbard, ainsi que leurs points de vue contrastés sur la production, le pillage, la lutte des classes et le rôle de l'État.
 
-Une histoire philosophique de la liberté explore la liberté à travers l'histoire. Damien Theillier examine deux philosophies politiques : la liberté et le pouvoir. Il analyse des penseurs comme Frédéric Bastiat, Lord Acton, Karl Marx et Murray Rothbard, mettant en lumière leurs visions sur la production, la spoliation, la lutte des classes, et l'État.
-
-Le cours remonte aux origines de la liberté dans l'Antiquité, avec les Grecs et les Romains, en passant par le Moyen-Age, où la liberté humaine est discutée dans les contextes religieux et politiques. Il montre comment les idées de liberté ont évolué avec la naissance des universités et les premières formes de capitalisme dans les villes italiennes.
-
-De la Renaissance aux Lumières, le cours examine la montée de la liberté, marquée par la tolérance religieuse et la liberté économique, culminant en 1776 avec des événements majeurs comme le Congrès de Philadelphie. Le XIXe et XXe siècles voient l'apogée et le déclin de la liberté, face aux critiques du capitalisme et aux dangers du collectivisme, mettant en perspective les défis contemporains pour la liberté.
-
+De l'Antiquité aux Lumières, la liberté s'est élevée à mesure que les sociétés embrassaient la tolérance et l'indépendance économique. Pourtant, les XIXe et XXe siècles ont apporté un déclin, alors que le capitalisme faisait face à la critique et que le collectivisme montait. Explorez comment ces changements éclairent les menaces actuelles pesant sur la liberté et commencez dès maintenant à comprendre la bataille entre la liberté et le pouvoir.
 +++
-
 # Introduction
 
 <partId>6edada19-3af3-411b-8483-3fe45cfe1c54</partId>

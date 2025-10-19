@@ -2,21 +2,17 @@
 name: Vabaduse filosoofiline ajalugu
 goal: Avastada vabaduse evolutsiooni läbi aegade, alates iidsetest filosoofidest kuni tänapäeva väljakutseteni.
 objectives:
-  - Analüüsida poliitilisi filosoofiaid vabaduse ja võimu teemal.
-  - Jälgida vabaduse ajaloolisi algusi antiikajast keskajani.
-  - Uurida vabaduse tõusu ja langust 19. sajandist 20. sajandini.
+- Analüüsige vabaduse ja võimu poliitilisi filosoofiaid.
+- Jälgige vabaduse ajaloolisi algupärasid antiikajast keskajani.
+- Uurige vabaduse tõusu ja langust 19. sajandist 20. sajandini.
+- Analüüsige poliitiline ja majandusliku vabaduse vahelist seost.
 ---
-
 # Teekond läbi vabaduse filosoofilise ajaloo
 
-Vabaduse filosoofiline ajalugu uurib vabadust läbi ajaloo. Damien Theillier vaatleb kahte poliitilist filosoofiat: vabadust ja võimu. Ta analüüsib mõtlejaid nagu Frédéric Bastiat, Lord Acton, Karl Marx ja Murray Rothbard, tuues esile nende vaateid tootmisele, röövimisele, klassivõitlusele ja riigile.
+See kursus uurib vabadust läbi ajaloo, analüüsides kahte konkureerivat poliitilist filosoofiat: vabadust ja võimu. Õpite mõjukaid mõtlejaid, nagu Frédéric Bastiat, Lord Acton, Karl Marx ja Murray Rothbard, ning nende vastandlikke vaateid tootmisele, rüüstamisele, klassivõitlusele ja riigi rollile.
 
-Kursus naaseb vabaduse alguste juurde antiikajal, kreeklased ja roomlased, läbi keskaja, kus inimvabadust arutatakse religioosses ja poliitilises kontekstis. See näitab, kuidas vabaduse ideed arenesid koos ülikoolide sünni ja kapitalismi esimeste vormidega Itaalia linnades.
-
-Renessansist valgustusajastuni uurib kursus vabaduse tõusu, mida iseloomustab religioosne sallivus ja majandusvabadus, kulmineerudes 1776. aastal suurte sündmustega nagu Philadelphia Kongress. 19. ja 20. sajand tunnistavad vabaduse tipphetke ja langust, silmitsi kapitalismi kriitikaga ja kollektivismi ohtudega, pannes perspektiivi tänapäeva väljakutsed vabadusele.
-
+Alates antiikajast kuni valgustusajastuni tõusis vabadus, kui ühiskonnad võtsid omaks sallivuse ja majandusliku sõltumatuse. Ometi tõid 19. ja 20. sajand kaasa languse, kui kapitalism seisis silmitsi kriitikaga ja kollektivism tõusis. Uurige, kuidas need muutused valgुstavad tänaseid ohte vabadusele, ja alustage kohe vabaduse ja võimu vahelise võitluse mõistmist.
 +++
-
 # Sissejuhatus
 
 <partId>6edada19-3af3-411b-8483-3fe45cfe1c54</partId>

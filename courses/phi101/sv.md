@@ -1,28 +1,18 @@
 ---
 name: En filosofisk historia om frihet
 goal: Upptäck frihetens utveckling genom tiderna, från antika filosofer till moderna utmaningar.
-objectives: 
-
-  - Analysera de politiska filosofierna om frihet och makt.
-  - Spåra frihetens historiska ursprung från antiken till medeltiden.
-  - Undersöka frihetens uppgång och fall från 1800- till 1900-talet.
-
+objectives:
+- Analysera de politiska filosofierna om frihet och makt.
+- Spåra frihetens historiska ursprung från antiken till medeltiden.
+- Undersök frihetens uppgång och nedgång från 1800-talet till 1900-talet.
+- Analysera förhållandet mellan politisk och ekonomisk frihet.
 ---
-
 # En resa genom frihetens filosofiska historia
 
+Denna kurs undersöker frihet genom historien genom att analysera två konkurrerande politiska filosofier: frihet och makt. Du kommer att studera inflytelserika tänkare, såsom Frédéric Bastiat, Lord Acton, Karl Marx och Murray Rothbard, och deras motsatta åsikter om produktion, plundring, klasskamp och statens roll.
 
-A Philosophical History of Freedom utforskar friheten genom historien. Damien Theillier undersöker två politiska filosofier: frihet och makt. Han analyserar tänkare som Frédéric Bastiat, Lord Acton, Karl Marx och Murray Rothbard och belyser deras syn på produktion, plundring, klasskamp och staten.
-
-
-Kursen följer frihetens ursprung i antiken, med fokus på grekerna och romarna, och fortsätter genom medeltiden, där människans frihet utforskas i både religiösa och politiska sammanhang. Kursen illustrerar hur idéer om frihet utvecklades i takt med att universiteten och de första formerna av kapitalism växte fram i italienska städer.
-
-
-Från renässansen till upplysningen undersöker kursen frihetens framväxt, präglad av religiös tolerans och ekonomiskt oberoende, som kulminerade 1776 med viktiga händelser som Philadelphiakongressen. Under 1800- och 1900-talen nådde friheten sin höjdpunkt och sin nedgång, med kritik mot kapitalismen och farorna med kollektivism, vilket sätter dagens utmaningar för friheten i perspektiv.
-
-
+Från antiken genom upplysningstiden steg friheten när samhällen omfamnade tolerans och ekonomiskt oberoende. Ändå förde 1800- och 1900-talen nedgång, när kapitalismen mötte kritik och kollektivismen växte. Utforska hur dessa förändringar belyser dagens hot mot friheten och börja nu att förstå kampen mellan frihet och makt.
 +++
-
 # Inledning
 
 

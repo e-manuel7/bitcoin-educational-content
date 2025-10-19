@@ -2,21 +2,17 @@
 name: Filozofická historie svobody
 goal: Objevte vývoj svobody napříč věky, od starověkých filozofů po moderní výzvy.
 objectives:
-  - Analyzovat politické filozofie svobody a moci.
-  - Vystopovat historické počátky svobody od antiky po středověk.
-  - Prozkoumat vzestup a úpadek svobody od 19. do 20. století.
+- Analyzujte politické filozofie svobody a moci.
+- Vysledujte historické původy svobody od antiky po středověk.
+- Prozkoumejte vzestup a úpadek svobody od 19. do 20. století.
+- Analyzujte vztah mezi politickou a ekonomickou svobodou.
 ---
+# Cesta filosofickou historií svobody
 
-# Cesta filozofickou historií svobody
+Tento kurz zkoumá svobodu v průběhu dějin analýzou dvou konkurenčních politických filosofií: liberty a moci. Budete studovat vlivné myslitele, jako jsou Frédéric Bastiat, Lord Acton, Karl Marx a Murray Rothbard, a jejich protichůdné názory na produkci, drancování, třídní boj a roli státu.
 
-Filozofická historie svobody prozkoumává svobodu v průběhu historie. Damien Theillier zkoumá dvě politické filozofie: svobodu a moc. Analyzuje myslitele jako jsou Frédéric Bastiat, Lord Acton, Karl Marx a Murray Rothbard, a osvětluje jejich pohledy na produkci, loupež, třídní boj a stát.
-
-Kurz se vrací k počátkům svobody v antice, u Řeků a Římanů, přes středověk, kde je lidská svoboda diskutována v náboženských a politických kontextech. Ukazuje, jak se myšlenky svobody vyvíjely s narozením univerzit a prvními formami kapitalismu v italských městech.
-
-Od renesance po osvícenství kurz zkoumá vzestup svobody, označený náboženskou tolerancí a ekonomickou svobodou, vyvrcholivší v roce 1776 hlavními událostmi jako je Filadelfský kongres. 19. a 20. století svědčí o vrcholu a úpadku svobody, čelící kritice kapitalismu a nebezpečím kolektivismu, což dává do perspektivy současné výzvy pro svobodu.
-
+Od antiky přes osvícenství svoboda vzkvétala, jak společnosti přijímaly toleranci a ekonomickou nezávislost. Avšak 19. a 20. století přineslo úpadek, když kapitalismus čelil kritice a kolektivismus sílil. Prozkoumejte, jak tyto změny osvětlují dnešní hrozby pro svobodu, a začněte nyní chápat boj mezi svobodou a mocí.
 +++
-
 # Úvod
 
 <partId>6edada19-3af3-411b-8483-3fe45cfe1c54</partId>

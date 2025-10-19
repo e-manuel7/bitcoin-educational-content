@@ -1,28 +1,18 @@
 ---
 name: Amateka ya filozofiya y'umwidegemvyo
 goal: Tora ukuntu umwidegemvyo wateye imbere mu bihe vyose, kuva ku bafilozofe ba kera gushika ku ngorane zo muri iki gihe.
-objectives: 
-
-  - Sesangura filozofiya za politike z’umwidegemvyo n’ububasha.
-  - Gukurikirana inkomoko y’umwidegemvyo kuva kera gushika mu kinjana ca mbere.
-  - Suzuma ukuntu umwidegemvyo wateye imbere n’ukuntu wagabanuka kuva mu kinjana ca 19 gushika mu ca 20.
-
+objectives:
+- Gusesengura filozofiya ya politiki y'ubwigenge n'ububasha.
+- Gukurikirana inkomoko y'amateka y'ubwigenge kuva kera kugeza mu gihe c'hagati.
+- Gusuzuma izamuka n'ugusenyuka kw'ubwigenge kuva mu kinyejana cya 19 kugeza mu cya 20.
+- Gusesengura umubano hagati y'ubwigenge bwa politiki n'ubukungu.
 ---
+# Urugendo mu mateka ya filozofiya y'ubwigenge
 
-# Urugendo rwo mu mateka ya filozofiya y'umwidegemvyo
+Iyi nshingano isuzuma ubwigenge mu mateka ishingiye ku isesengura ya filozofiya ebyiri z'ivyiyumviro vya politiki zirwanira: ubwigenge n'ububasha. Uziga abategetsi b'ibitekerezo bakomeye, nk'abantu nka Frédéric Bastiat, Lord Acton, Karl Marx, na Murray Rothbard, n'ibitekerezo vyabo bitandukanye ku vyerekeye umusaruro, ubujiji, urugamba rw'amashirahamwe, n'uruhare rw'Igihugu.
 
-
-Amateka ya filozofiya y’umwidegemvyo aratohoza umwidegemvyo mu mateka yose. Damien Theillier asuzuma ubuhinga bubiri bwa politike: umwidegemvyo n’ububasha. Arasuzuma abanyabwenge nka Frédéric Bastiat, Lord Acton, Karl Marx na Murray Rothbard, agatanga umuco ku vyiyumviro vyabo ku bijanye n’uguhingura, gusahura, urugamba rw’imigwi n’Igihugu.
-
-
-Iryo shure rikurikirana inkomoko y’umwidegemvyo mu bihe vya kera, ryibanda ku Bagiriki n’Abaroma, rikabandanya gushika mu kinjana ca mbere, aho umwidegemvyo w’umuntu usuzumwa mu vy’idini no mu vya politike. Birerekana ingene ivyiyumviro vy’umwidegemvyo vyateye imbere hamwe n’uguseruka kwa kaminuza be n’uburyo bwa mbere bw’ubu kapitalizimu mu bisagara vy’Ubutaliyano.
-
-
-Kuva mu gihe c’Ivugurura gushika mu gihe c’Umuco, iyo nyigisho irasuzuma ukuntu umwidegemvyo wateye imbere, ukaba wararanzwe n’ukwihanganira idini n’ukwigenga mu vy’ubutunzi, ukaba warashitse ku mpera mu 1776 n’ibintu bihambaye nk’Ikoraniro ry’i Philadelphie. Ikinjana ca 19 n’ica 20 ni vyo vyabonye igihe umwidegemvyo wari ugeze ku rwego rwo hejuru n’ugusubira inyuma, bihanganye n’ugunegurwa kw’ubu kapitalizimu be n’akaga k’ubumwe bw’abantu bose, bikaba vyarashize mu ngiro ingorane zo muri ico gihe zijanye n’umwidegemvyo.
-
-
+Kuva mu bihe vya kera ukwinjira mu gihe c'uburambe, ubwigenge bwarazamutse uko imibereho yemerera ubwumvikane n'ubwigenge mu bukungu. Ariko ikinyejana ca 19 n'ica 20 byazanye ukugabanuka, aho capitalism yahuye n'abanenza kandi collectivism irakura. Suzuma uko ivyo guhinduka bishimangira ingorane z'uyu munsi ku bwigenge kandi tangura none kugira ngo wumve urugamba hagati y'ubwigenge n'ububasha.
 +++
-
 # Imenyekanisha
 
 

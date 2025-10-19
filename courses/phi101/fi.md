@@ -2,21 +2,17 @@
 name: Vapauden filosofinen historia
 goal: Tutustu vapauden kehitykseen aikojen saatossa, muinaisista filosofeista nykypäivän haasteisiin.
 objectives:
-  - Analysoi vapauden ja vallan poliittisia filosofioita.
-  - Jäljitä vapauden historialliset alkuperät antiikista keskiajalle.
-  - Tutki vapauden nousua ja laskua 1800-luvulta 1900-luvulle.
+- Analysoi vapauden ja vallan poliittisia filosofioita.
+- Jäljitä vapauden historialliset alkuperät antiikista keskiajalle.
+- Tarkastele vapauden nousua ja laskua 1800-luvulta 1900-luvulle.
+- Analysoi poliittisen ja taloudellisen vapauden välistä suhdetta.
 ---
+# Matka vapauden filosofisen historian läpi
 
-# Matka vapauden filosofiseen historiaan
+Tämä kurssi tarkastelee vapautta historian kautta analysoimalla kahta kilpailevaa poliittista filosofiaa: vapautta ja valtaa. Tutustut vaikutusvaltaisiin ajattelijoihin, kuten Frédéric Bastiat, Lord Acton, Karl Marx ja Murray Rothbard, sekä heidän vastakkaisiin näkemyksiinsä tuotannosta, ryöstöstä, luokkataistelusta ja valtion roolista.
 
-Vapauden filosofinen historia tutkii vapautta historian saatossa. Damien Theillier tarkastelee kahta poliittista filosofiaa: vapautta ja valtaa. Hän analysoi ajattelijoita, kuten Frédéric Bastiat, Lord Acton, Karl Marx ja Murray Rothbard, valottaen heidän näkemyksiään tuotannosta, ryöstelystä, luokkataistelusta ja valtiosta.
-
-Kurssi palaa vapauden alkuperiin antiikissa, kreikkalaisten ja roomalaisten aikaan, keskiajan kautta, jossa ihmisen vapautta käsitellään uskonnollisissa ja poliittisissa konteksteissa. Se näyttää, kuinka vapauden ideat kehittyivät yliopistojen syntyessä ja Italian kaupungeissa alkaneiden kapitalismin ensimmäisten muotojen myötä.
-
-Renessanssista valistukseen kurssi tutkii vapauden nousua, jota leimasivat uskonnollinen suvaitsevaisuus ja taloudellinen vapaus, huipentuen 1776 merkittäviin tapahtumiin, kuten Philadelphiaan kokoontuneeseen kongressiin. 1800- ja 1900-luvut todistavat vapauden huippua ja laskua, kohtaen kapitalismin kritiikkiä ja kollektivismin vaaroja, asettaen nykypäivän vapauden haasteet perspektiiviin.
-
+Antiikin ajoista valistuksen aikakauteen vapaus nousi, kun yhteiskunnat omaksuivat suvaitsevaisuuden ja taloudellisen riippumattomuuden. Kuitenkin 1800- ja 1900-luvut toivat taantuman, kun kapitalismi kohtasi kritiikkiä ja kollektivismi nousi. Tutki, miten nämä muutokset valaisevat nykypäivän uhkia vapaudelle, ja aloita nyt ymmärtääksesi taistelun vapauden ja vallan välillä.
 +++
-
 # Johdanto
 
 <partId>6edada19-3af3-411b-8483-3fe45cfe1c54</partId>

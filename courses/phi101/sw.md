@@ -1,21 +1,17 @@
 ---
 name: Historia ya Falsafa ya Uhuru
 goal: Gundua mageuzi ya uhuru kupitia enzi, kutoka kwa wanafalsafa wa zamani hadi changamoto za kisasa.
-objectives: 
-
-  - Chambua falsafa za kisiasa za uhuru na madaraka.
-  - Fuatilia asili ya kihistoria ya uhuru kutoka Kale hadi Enzi za Kati.
-  - Chunguza kuongezeka na kupungua kwa uhuru kutoka karne ya 19 hadi 20.
-
+objectives:
+- Changanua falsafa za kisiasa za uhuru na nguvu.
+- Fuatilia asili za kihistoria za uhuru kutoka Enzi za Kale hadi Zama za Kati.
+- Chunguza kuongezeka na kushuka kwa uhuru kutoka karne ya 19 hadi karne ya 20.
+- Changanua uhusiano kati ya uhuru wa kisiasa na kiuchumi.
 ---
-# Safari Kupitia Historia ya Falsafa ya Uhuru
+# Safari Katika Historia ya Kifilozofia ya Uhuru
 
-Historia ya Falsafa ya Uhuru inachunguza uhuru katika historia. Damien Theillier anachunguza falsafa mbili za kisiasa: uhuru na nguvu. Anachanganua wanafikra kama vile Frédéric Bastiat, Lord Acton, Karl Marx, na Murray Rothbard, akitoa mwanga kuhusu maoni yao kuhusu uzalishaji, uporaji, mapambano ya kitabaka na Serikali.
+Kozi hii inachunguza uhuru kupitia historia kwa kuchanganua falsafa mbili za kisiasa zinazoshindana: uhuru na nguvu. Utasoma wafikiri wenye ushawishi, kama vile Frédéric Bastiat, Lord Acton, Karl Marx, na Murray Rothbard, na mitazamo yao tofauti kuhusu uzalishaji, unyang'anyi, mapambano ya tabaka, na jukumu la Serikali.
 
-Kozi hii inarudi kwenye chimbuko la uhuru katika Zama za Kale, na Wagiriki na Warumi, kupitia Enzi za Kati, ambapo uhuru wa mwanadamu unajadiliwa katika muktadha wa kidini na kisiasa. Inaonyesha jinsi mawazo ya uhuru yalivyoibuka na kuzaliwa kwa vyuo vikuu na aina za kwanza za ubepari katika miji ya Italia.
-
-Kuanzia Renaissance hadi Mwangaza, kozi hii inachunguza kuongezeka kwa uhuru, unaoangaziwa na uvumilivu wa kidini na uhuru wa kiuchumi, uliofikia kilele mnamo 1776 na hafla kuu kama Kongamano la Philadelphia. Karne za 19 na 20 zinashuhudia kilele na kupungua kwa uhuru, kukabiliwa na ukosoaji wa ubepari na hatari za umoja, kuweka katika mtazamo changamoto za kisasa za uhuru.
-
+Kutoka Enzi za Kale kupitia Enzi ya Mwangaza, uhuru ulipanda juu kadiri jamii zilivyokubali uvumilivu na uhuru wa kiuchumi. Hata hivyo karne ya 19 na 20 zilizileta kushuka, kwani ubepari ulikabiliwa na ukosoaji na ujamaa uliongezeka. Gundua jinsi mabadiliko haya yanavyoangazia vitisho vya leo kwa uhuru na anza sasa kuelewa vita kati ya uhuru na nguvu.
 +++
 # Utangulizi
 

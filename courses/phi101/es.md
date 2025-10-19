@@ -2,21 +2,17 @@
 name: Una Historia Filosófica de la Libertad
 goal: Descubrir la evolución de la libertad a lo largo de los tiempos, desde los filósofos antiguos hasta los desafíos modernos.
 objectives:
-  - Analizar las filosofías políticas de la libertad y el poder.
-  - Rastrear los orígenes históricos de la libertad desde la Antigüedad hasta la Edad Media.
-  - Examinar el auge y declive de la libertad desde el siglo XIX hasta el siglo XX.
+- Analizar las filosofías políticas de la libertad y el poder.
+- Rastrear los orígenes históricos de la libertad desde la Antigüedad hasta la Edad Media.
+- Examinar el auge y declive de la libertad desde el siglo XIX hasta el siglo XX.
+- Analizar la relación entre la libertad política y económica.
 ---
+# Un viaje a través de la historia filosófica de la libertad
 
-# Un Viaje A Través de la Historia Filosófica de la Libertad
+Este curso examina la libertad a través de la historia mediante el análisis de dos filosofías políticas en competencia: la libertad y el poder. Estudiará pensadores influyentes, como Frédéric Bastiat, Lord Acton, Karl Marx y Murray Rothbard, y sus puntos de vista contrastantes sobre la producción, el saqueo, la lucha de clases y el papel del Estado.
 
-Una Historia Filosófica de la Libertad explora la libertad a lo largo de la historia. Damien Theillier examina dos filosofías políticas: la libertad y el poder. Analiza a pensadores como Frédéric Bastiat, Lord Acton, Karl Marx y Murray Rothbard, arrojando luz sobre sus puntos de vista sobre la producción, el saqueo, la lucha de clases y el Estado.
-
-El curso regresa a los orígenes de la libertad en la Antigüedad, con los griegos y romanos, a través de la Edad Media, donde se discute la libertad humana en contextos religiosos y políticos. Muestra cómo las ideas de libertad evolucionaron con el nacimiento de las universidades y las primeras formas de capitalismo en las ciudades italianas.
-
-Desde el Renacimiento hasta la Ilustración, el curso examina el auge de la libertad, marcado por la tolerancia religiosa y la libertad económica, culminando en 1776 con eventos importantes como el Congreso de Filadelfia. Los siglos XIX y XX presencian el pico y declive de la libertad, enfrentando críticas al capitalismo y los peligros del colectivismo, poniendo en perspectiva los desafíos contemporáneos para la libertad.
-
+Desde la Antigüedad hasta la Ilustración, la libertad ascendió a medida que las sociedades abrazaron la tolerancia y la independencia económica. Sin embargo, los siglos XIX y XX trajeron el declive, cuando el capitalismo enfrentó críticas y el colectivismo se elevó. Explore cómo estos cambios iluminan las amenazas actuales a la libertad y comience ahora a comprender la batalla entre la libertad y el poder.
 +++
-
 # Introducción
 
 <partId>6edada19-3af3-411b-8483-3fe45cfe1c54</partId>
