@@ -239,11 +239,36 @@ def generate_html_report(all_deployments, output_file):
             max-width: 1400px;
             margin: 0 auto;
         }}
+        .header {{
+            position: relative;
+            padding: 20px 0;
+        }}
+        .back-button {{
+            display: inline-block;
+            padding: 8px 16px;
+            background-color: #f7931a;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 14px;
+            font-weight: 500;
+            transition: background-color 0.2s;
+            margin-bottom: 20px;
+        }}
+        .back-button:hover {{
+            background-color: #e08316;
+        }}
+        .back-button::before {{
+            content: '← ';
+        }}
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>🎥 Video Deployment Overview</h1>
+        <div class="header">
+            <a href="https://surfer.planb.network/translation_report/index.html" class="back-button">Back to Reports</a>
+            <h1>🎥 Video Deployment Overview</h1>
+        </div>
         <div class="stats">
             <strong>Languages analyzed:</strong> {", ".join(LANGUAGES)}<br>
             <strong>Total courses:</strong> {total_courses} |
@@ -373,9 +398,11 @@ def main():
     print("🚀 Video Deployment Overview Generator")
     print("=" * 50)
 
-    # Get script directory for output
+    # Get script directory and reports folder for output
     script_dir = Path(__file__).parent.resolve()
-    output_file = script_dir / 'video_deployment_overview.html'
+    reports_dir = script_dir.parent / 'reports'
+    reports_dir.mkdir(exist_ok=True)
+    output_file = reports_dir / 'video_deployment_overview.html'
 
     # Get courses directory
     courses_dir = get_courses_directory()

@@ -51,7 +51,7 @@ python scripts/image_translation_overview/generate_report.py
 
 ## Output
 
-The script generates `image_translation_overview.html` in the same directory. Open it in your browser to view the interactive report.
+The script generates `image_translation_overview.html` in the central `scripts/reports/` folder. Open it in your browser to view the interactive report.
 
 ## Report Structure
 

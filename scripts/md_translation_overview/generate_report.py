@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Image Translation Overview Generator
+Markdown Translation Overview Generator
 
-Analyzes image translation progress across all courses and languages.
-Generates an HTML report showing translated vs untranslated images.
+Analyzes markdown translation progress across all courses and languages.
+Generates an HTML report showing which courses have been translated.
 
 Usage:
     python generate_report.py
@@ -11,16 +11,8 @@ Usage:
 The HTML report will be saved in the same directory as this script.
 """
 
-import re
 from pathlib import Path
 from datetime import datetime
-from collections import defaultdict
-
-# Languages to check
-LANGUAGES = ['en', 'fr', 'es', 'it', 'de', 'ru', 'zh-Hant']
-
-# Regex pattern to match markdown image references
-IMAGE_PATTERN = re.compile(r'!\[.*?\]\((.*?)\)')
 
 def get_courses_directory():
     """Get the courses directory path relative to this script."""
@@ -28,100 +20,75 @@ def get_courses_directory():
     courses_dir = script_dir / '../../courses'
     return courses_dir.resolve()
 
-def extract_images_from_markdown(md_file_path):
-    """Extract all image references from a markdown file."""
-    if not md_file_path.exists():
+def get_supported_languages(courses_dir):
+    """Get all supported languages from btc101 folder."""
+    btc101_dir = courses_dir / 'btc101'
+    if not btc101_dir.exists():
         return []
+
+    # Get all .md files and extract language codes
+    languages = []
+    for md_file in sorted(btc101_dir.glob('*.md')):
+        lang = md_file.stem  # filename without extension
+        languages.append(lang)
+
+    return languages
+
+def count_md_content(md_file_path):
+    """Count lines and words in a markdown file."""
+    if not md_file_path.exists():
+        return 0, 0
 
     try:
         with open(md_file_path, 'r', encoding='utf-8') as f:
             content = f.read()
 
-        # Find all image references
-        images = IMAGE_PATTERN.findall(content)
-        return images
+        lines = len(content.splitlines())
+        words = len(content.split())
+
+        return lines, words
 
     except Exception as e:
-        print(f"⚠️  Error reading {md_file_path}: {e}")
-        return []
+        return 0, 0
 
-def analyze_course_images(course_path):
-    """Analyze image translation status for a course."""
+def analyze_course_translations(course_path, languages):
+    """Analyze translation status for a course."""
     course_id = course_path.name
-
-    # Check if course has markdown files
-    md_files = list(course_path.glob('*.md'))
-    if not md_files:
-        return None
 
     analysis = {
         'course_id': course_id,
         'languages': {}
     }
 
-    for lang in LANGUAGES:
+    for lang in languages:
         md_file = course_path / f'{lang}.md'
-
-        if not md_file.exists():
-            analysis['languages'][lang] = {
-                'total_images': 0,
-                'translated_images': 0,
-                'percentage': 0,
-                'exists': False
-            }
-            continue
-
-        # Extract images from the markdown file
-        images = extract_images_from_markdown(md_file)
-
-        if not images:
-            analysis['languages'][lang] = {
-                'total_images': 0,
-                'translated_images': 0,
-                'percentage': 0,
-                'exists': True
-            }
-            continue
-
-        # Count translated images (those with language code in path)
-        translated_count = 0
-        for img_path in images:
-            # Check if the image path contains the language code
-            # Patterns: assets/en/, /en/, -en-, _en_, etc.
-            if f'/{lang}/' in img_path or f'-{lang}-' in img_path or f'_{lang}_' in img_path:
-                translated_count += 1
-
-        percentage = (translated_count / len(images) * 100) if len(images) > 0 else 0
+        lines, words = count_md_content(md_file)
 
         analysis['languages'][lang] = {
-            'total_images': len(images),
-            'translated_images': translated_count,
-            'percentage': percentage,
-            'exists': True
+            'exists': md_file.exists(),
+            'lines': lines,
+            'words': words
         }
 
     return analysis
 
-def generate_html_report(all_analyses, output_file):
+def generate_html_report(all_analyses, languages, output_file):
     """Generate HTML report with color-coded table."""
 
     # Calculate summary statistics
     total_courses = len(all_analyses)
-    total_images = sum(
-        sum(data['total_images'] for data in analysis['languages'].values())
+    total_translations = sum(
+        sum(1 for data in analysis['languages'].values() if data['exists'])
         for analysis in all_analyses
     )
-    total_translated = sum(
-        sum(data['translated_images'] for data in analysis['languages'].values())
-        for analysis in all_analyses
-    )
+    total_possible = total_courses * len(languages)
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Translation Overview</title>
+    <title>Markdown Translation Overview</title>
     <style>
         body {{
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -138,7 +105,7 @@ def generate_html_report(all_analyses, output_file):
             text-align: center;
             font-size: 14px;
             color: #666;
-            max-width: 800px;
+            max-width: 1200px;
         }}
         .stats strong {{
             color: #333;
@@ -152,11 +119,12 @@ def generate_html_report(all_analyses, output_file):
         }}
         th, td {{
             border: 1px solid #ddd;
-            padding: 12px;
+            padding: 8px;
             text-align: center;
+            font-size: 11px;
         }}
         th {{
-            background-color: #9C27B0;
+            background-color: #2196F3;
             color: white;
             font-weight: bold;
             position: sticky;
@@ -164,41 +132,26 @@ def generate_html_report(all_analyses, output_file):
             z-index: 10;
         }}
         th.course-header {{
-            background-color: #673AB7;
+            background-color: #1976D2;
             text-align: left;
+            min-width: 100px;
         }}
         tr:hover {{
             background-color: #f5f5f5;
         }}
-        .translation-cell {{
-            position: relative;
-            min-width: 120px;
-        }}
-        .translation-complete {{
+        .translation-exists {{
             background-color: #4CAF50;
             color: white;
             font-weight: bold;
         }}
-        .translation-partial {{
-            background-color: #FFC107;
-            color: black;
-        }}
-        .translation-low {{
-            background-color: #FF9800;
-            color: white;
-        }}
-        .translation-none {{
+        .translation-missing {{
             background-color: #f44336;
             color: white;
         }}
-        .translation-na {{
-            background-color: #9E9E9E;
-            color: white;
-        }}
         .translation-info {{
-            font-size: 12px;
+            font-size: 9px;
             display: block;
-            margin-top: 4px;
+            margin-top: 2px;
         }}
         .legend {{
             margin: 20px auto;
@@ -232,7 +185,7 @@ def generate_html_report(all_analyses, output_file):
             padding: 20px;
         }}
         .container {{
-            max-width: 1400px;
+            max-width: 1800px;
             margin: 0 auto;
         }}
         .header {{
@@ -257,42 +210,35 @@ def generate_html_report(all_analyses, output_file):
         .back-button::before {{
             content: '← ';
         }}
+        .lang-header {{
+            writing-mode: vertical-rl;
+            text-orientation: mixed;
+            min-width: 30px;
+            padding: 8px 4px !important;
+        }}
     </style>
 </head>
 <body>
     <div class="container">
         <div class="header">
             <a href="https://surfer.planb.network/translation_report/index.html" class="back-button">Back to Reports</a>
-            <h1>🖼️ Image Translation Overview</h1>
+            <h1>📝 Markdown Translation Overview</h1>
         </div>
         <div class="stats">
-            <strong>Languages analyzed:</strong> {", ".join(LANGUAGES)}<br>
+            <strong>Languages analyzed:</strong> {len(languages)} languages<br>
             <strong>Total courses:</strong> {total_courses} |
-            <strong>Total images:</strong> {total_images} |
-            <strong>Translated:</strong> {total_translated} ({(total_translated/total_images*100):.1f}% overall)
+            <strong>Translations:</strong> {total_translations}/{total_possible} ({(total_translations/total_possible*100):.1f}% overall)
         </div>
 
         <div class="legend">
             <h3>Legend</h3>
             <div class="legend-item">
                 <span class="legend-color" style="background-color: #4CAF50;"></span>
-                <span>Complete (100%)</span>
-            </div>
-            <div class="legend-item">
-                <span class="legend-color" style="background-color: #FFC107;"></span>
-                <span>Partial (50-99%)</span>
-            </div>
-            <div class="legend-item">
-                <span class="legend-color" style="background-color: #FF9800;"></span>
-                <span>Low (1-49%)</span>
+                <span>✓ Translated (file exists)</span>
             </div>
             <div class="legend-item">
                 <span class="legend-color" style="background-color: #f44336;"></span>
-                <span>None (0%)</span>
-            </div>
-            <div class="legend-item">
-                <span class="legend-color" style="background-color: #9E9E9E;"></span>
-                <span>N/A (No content)</span>
+                <span>✗ Missing (no file)</span>
             </div>
         </div>
 
@@ -302,8 +248,8 @@ def generate_html_report(all_analyses, output_file):
                     <th class="course-header">Course</th>
 """
 
-    for lang in LANGUAGES:
-        html += f"                    <th>{lang.upper()}</th>\n"
+    for lang in languages:
+        html += f"                    <th class='lang-header'>{lang.upper()}</th>\n"
 
     html += """                </tr>
             </thead>
@@ -319,47 +265,21 @@ def generate_html_report(all_analyses, output_file):
         html += f"                <tr>\n"
         html += f"                    <td style='text-align: left; font-weight: bold;'>{course_id}</td>\n"
 
-        for lang in LANGUAGES:
+        for lang in languages:
             lang_data = analysis['languages'][lang]
 
-            if not lang_data['exists']:
-                # Language file doesn't exist
-                html += f"                    <td class='translation-cell translation-na'>\n"
-                html += f"                        <strong>N/A</strong>\n"
-                html += f"                        <span class='translation-info'>No content</span>\n"
+            if lang_data['exists']:
+                words = lang_data['words']
+                lines = lang_data['lines']
+
+                html += f"                    <td class='translation-exists'>\n"
+                html += f"                        <strong>✓</strong>\n"
+                html += f"                        <span class='translation-info'>{words:,}w</span>\n"
                 html += f"                    </td>\n"
-                continue
-
-            total_images = lang_data['total_images']
-            translated_images = lang_data['translated_images']
-            percentage = lang_data['percentage']
-
-            # Determine color class
-            if total_images == 0:
-                color_class = 'translation-na'
-                display_text = 'N/A'
-                info_text = 'No images'
-            elif percentage == 100:
-                color_class = 'translation-complete'
-                display_text = f'{translated_images}/{total_images}'
-                info_text = '100%'
-            elif percentage >= 50:
-                color_class = 'translation-partial'
-                display_text = f'{translated_images}/{total_images}'
-                info_text = f'{percentage:.0f}%'
-            elif percentage > 0:
-                color_class = 'translation-low'
-                display_text = f'{translated_images}/{total_images}'
-                info_text = f'{percentage:.0f}%'
             else:
-                color_class = 'translation-none'
-                display_text = f'{translated_images}/{total_images}'
-                info_text = '0%'
-
-            html += f"                    <td class='translation-cell {color_class}'>\n"
-            html += f"                        <strong>{display_text}</strong>\n"
-            html += f"                        <span class='translation-info'>{info_text}</span>\n"
-            html += f"                    </td>\n"
+                html += f"                    <td class='translation-missing'>\n"
+                html += f"                        <strong>✗</strong>\n"
+                html += f"                    </td>\n"
 
         html += "                </tr>\n"
 
@@ -370,7 +290,7 @@ def generate_html_report(all_analyses, output_file):
             📅 Generated on {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}<br>
             🔄 Run <code>python generate_report.py</code> to update this report<br>
             <br>
-            <small>Note: Images are considered translated when their path contains the language code (e.g., /en/, /fr/, etc.)</small>
+            <small>Note: Numbers shown are word counts (w = words). Supported languages detected from btc101 folder.</small>
         </div>
     </div>
 </body>
@@ -384,14 +304,14 @@ def generate_html_report(all_analyses, output_file):
 
 def main():
     """Main execution function."""
-    print("🚀 Image Translation Overview Generator")
+    print("🚀 Markdown Translation Overview Generator")
     print("=" * 50)
 
     # Get script directory and reports folder for output
     script_dir = Path(__file__).parent.resolve()
     reports_dir = script_dir.parent / 'reports'
     reports_dir.mkdir(exist_ok=True)
-    output_file = reports_dir / 'image_translation_overview.html'
+    output_file = reports_dir / 'md_translation_overview.html'
 
     # Get courses directory
     courses_dir = get_courses_directory()
@@ -402,6 +322,16 @@ def main():
 
     print(f"📂 Courses directory: {courses_dir}")
     print(f"📄 Output file: {output_file}")
+    print()
+
+    # Get supported languages from btc101
+    languages = get_supported_languages(courses_dir)
+    if not languages:
+        print("❌ Error: Could not detect supported languages from btc101 folder")
+        return 1
+
+    print(f"🌍 Detected {len(languages)} supported languages:")
+    print(f"   {', '.join(languages)}")
     print()
 
     # Find all course directories
@@ -415,16 +345,15 @@ def main():
 
     for course_dir in sorted(course_dirs):
         print(f"🔍 Analyzing {course_dir.name}...")
-        analysis = analyze_course_images(course_dir)
-        if analysis:
-            all_analyses.append(analysis)
+        analysis = analyze_course_translations(course_dir, languages)
+        all_analyses.append(analysis)
 
     print()
     print(f"✅ Successfully analyzed {len(all_analyses)} courses")
     print()
 
     # Generate HTML report
-    generate_html_report(all_analyses, output_file)
+    generate_html_report(all_analyses, languages, output_file)
 
     print()
     print(f"🎉 Done! Open the following file in your browser:")

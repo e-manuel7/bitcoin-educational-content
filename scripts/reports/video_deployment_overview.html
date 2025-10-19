@@ -133,15 +133,40 @@
             max-width: 1400px;
             margin: 0 auto;
         }
+        .header {
+            position: relative;
+            padding: 20px 0;
+        }
+        .back-button {
+            display: inline-block;
+            padding: 8px 16px;
+            background-color: #f7931a;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 14px;
+            font-weight: 500;
+            transition: background-color 0.2s;
+            margin-bottom: 20px;
+        }
+        .back-button:hover {
+            background-color: #e08316;
+        }
+        .back-button::before {
+            content: '← ';
+        }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>🎥 Video Deployment Overview</h1>
+        <div class="header">
+            <a href="https://surfer.planb.network/translation_report/index.html" class="back-button">Back to Reports</a>
+            <h1>🎥 Video Deployment Overview</h1>
+        </div>
         <div class="stats">
             <strong>Languages analyzed:</strong> en, fr, es, it, de, ru, zh-Hant<br>
             <strong>Total courses:</strong> 25 |
-            <strong>Total videos:</strong> 447
+            <strong>Total videos:</strong> 422
         </div>
 
         <div class="legend">
@@ -934,40 +959,40 @@
                     </td>
                 </tr>
                 <tr>
-                    <td style='text-align: left; font-weight: bold;'>phi201</td>
-                    <td>50</td>
-                    <td class='coverage-cell coverage-partial'>
-                        <strong>25/50</strong>
-                        <span class='coverage-info'>50%</span>
+                    <td style='text-align: left; font-weight: bold;'>phi101</td>
+                    <td>25</td>
+                    <td class='coverage-cell coverage-complete'>
+                        <strong>25/25</strong>
+                        <span class='coverage-info'>100%</span>
                         <div style='margin-top: 5px;'><span class="provider-badge peertube-badge">P:25</span></div>
                     </td>
                     <td class='coverage-cell coverage-complete'>
-                        <strong>50/50</strong>
+                        <strong>25/25</strong>
                         <span class='coverage-info'>100%</span>
-                        <div style='margin-top: 5px;'><span class="provider-badge youtube-badge">Y:25</span> <span class="provider-badge both-badge">B:25</span></div>
+                        <div style='margin-top: 5px;'><span class="provider-badge both-badge">B:25</span></div>
                     </td>
-                    <td class='coverage-cell coverage-partial'>
-                        <strong>25/50</strong>
-                        <span class='coverage-info'>50%</span>
+                    <td class='coverage-cell coverage-complete'>
+                        <strong>25/25</strong>
+                        <span class='coverage-info'>100%</span>
                         <div style='margin-top: 5px;'><span class="provider-badge peertube-badge">P:25</span></div>
                     </td>
                     <td class='coverage-cell coverage-none'>
-                        <strong>0/50</strong>
+                        <strong>0/25</strong>
                         <span class='coverage-info'>0%</span>
                         <div style='margin-top: 5px;'>-</div>
                     </td>
                     <td class='coverage-cell coverage-none'>
-                        <strong>0/50</strong>
+                        <strong>0/25</strong>
                         <span class='coverage-info'>0%</span>
                         <div style='margin-top: 5px;'>-</div>
                     </td>
                     <td class='coverage-cell coverage-none'>
-                        <strong>0/50</strong>
+                        <strong>0/25</strong>
                         <span class='coverage-info'>0%</span>
                         <div style='margin-top: 5px;'>-</div>
                     </td>
                     <td class='coverage-cell coverage-none'>
-                        <strong>0/50</strong>
+                        <strong>0/25</strong>
                         <span class='coverage-info'>0%</span>
                         <div style='margin-top: 5px;'>-</div>
                     </td>
@@ -1171,7 +1196,7 @@
         </table>
 
         <div class="footer">
-            📅 Generated on 2025-10-18 21:53:33<br>
+            📅 Generated on 2025-10-19 13:16:21<br>
             🔄 Run <code>python generate_report.py</code> to update this report
         </div>
     </div>

@@ -117,11 +117,36 @@
             max-width: 1400px;
             margin: 0 auto;
         }
+        .header {
+            position: relative;
+            padding: 20px 0;
+        }
+        .back-button {
+            display: inline-block;
+            padding: 8px 16px;
+            background-color: #f7931a;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 14px;
+            font-weight: 500;
+            transition: background-color 0.2s;
+            margin-bottom: 20px;
+        }
+        .back-button:hover {
+            background-color: #e08316;
+        }
+        .back-button::before {
+            content: '← ';
+        }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>🖼️ Image Translation Overview</h1>
+        <div class="header">
+            <a href="https://surfer.planb.network/translation_report/index.html" class="back-button">Back to Reports</a>
+            <h1>🖼️ Image Translation Overview</h1>
+        </div>
         <div class="stats">
             <strong>Languages analyzed:</strong> en, fr, es, it, de, ru, zh-Hant<br>
             <strong>Total courses:</strong> 34 |
@@ -974,7 +999,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td style='text-align: left; font-weight: bold;'>phi201</td>
+                    <td style='text-align: left; font-weight: bold;'>phi101</td>
                     <td class='translation-cell translation-complete'>
                         <strong>102/102</strong>
                         <span class='translation-info'>100%</span>
@@ -1225,7 +1250,7 @@
         </table>
 
         <div class="footer">
-            📅 Generated on 2025-10-18 22:06:54<br>
+            📅 Generated on 2025-10-19 13:16:21<br>
             🔄 Run <code>python generate_report.py</code> to update this report<br>
             <br>
             <small>Note: Images are considered translated when their path contains the language code (e.g., /en/, /fr/, etc.)</small>
