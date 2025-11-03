@@ -673,11 +673,18 @@ def generate_html(data):
             border-radius: 4px;
             padding: 1rem;
             transition: all 0.2s;
+            display: flex;
+            gap: 1rem;
+            align-items: center;
         }}
 
         .contribution-item:hover {{
             border-color: var(--color-primary);
             box-shadow: 0 2px 8px rgba(52, 152, 219, 0.2);
+        }}
+
+        .contribution-content {{
+            flex: 1;
         }}
 
         .contribution-header {{
@@ -1652,15 +1659,21 @@ def generate_html(data):
                 const div = document.createElement('div');
                 div.className = 'contribution-item';
                 div.innerHTML = `
-                    <div class="contribution-header">
-                        <div class="contribution-title">${{contribution.content_name}} (${{contribution.content_id}})</div>
-                        <span class="status-badge status-${{contribution.status}}">${{statusText}}</span>
-                    </div>
-                    <div class="contribution-details">
-                        <span>👤 <strong>${{contribution.contributor}}</strong></span>
-                        <span>🌐 ${{languageName}} (${{contribution.language.toUpperCase()}})</span>
-                        <span>📝 ${{contribution.content_type}}</span>
-                        <span>📅 ${{formattedDate}}</span>
+                    <img class="avatar"
+                         src="https://github.com/${{contribution.contributor}}.png"
+                         alt="${{contribution.contributor}}"
+                         onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Crect fill=%22%23ddd%22 width=%22100%22 height=%22100%22/%3E%3Ctext x=%2250%22 y=%2250%22 fill=%22%23999%22 text-anchor=%22middle%22 dy=%22.3em%22 font-family=%22sans-serif%22 font-size=%2240%22%3E?%3C/text%3E%3C/svg%3E'">
+                    <div class="contribution-content">
+                        <div class="contribution-header">
+                            <div class="contribution-title">${{contribution.content_name}} (${{contribution.content_id}})</div>
+                            <span class="status-badge status-${{contribution.status}}">${{statusText}}</span>
+                        </div>
+                        <div class="contribution-details">
+                            <span>👤 <strong><a href="https://github.com/${{contribution.contributor}}" target="_blank">${{contribution.contributor}}</a></strong></span>
+                            <span>🌐 ${{languageName}} (${{contribution.language.toUpperCase()}})</span>
+                            <span>📝 ${{contribution.content_type}}</span>
+                            <span>📅 ${{formattedDate}}</span>
+                        </div>
                     </div>
                 `;
 
