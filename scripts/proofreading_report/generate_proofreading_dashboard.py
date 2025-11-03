@@ -454,6 +454,85 @@ def generate_html(data):
             border-color: var(--color-primary);
         }}
 
+        /* Language Multi-Select */
+        .language-selector {{
+            position: relative;
+        }}
+
+        .language-dropdown-button {{
+            width: 100%;
+            padding: 0.5rem;
+            border: 1px solid var(--color-border);
+            border-radius: 4px;
+            font-size: 0.9rem;
+            background: white;
+            cursor: pointer;
+            text-align: left;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }}
+
+        .language-dropdown-button:hover {{
+            border-color: var(--color-primary);
+        }}
+
+        .language-dropdown-content {{
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            max-height: 300px;
+            overflow-y: auto;
+            background: white;
+            border: 1px solid var(--color-border);
+            border-radius: 4px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            z-index: 100;
+            margin-top: 0.25rem;
+        }}
+
+        .language-dropdown-content.show {{
+            display: block;
+        }}
+
+        .language-option {{
+            padding: 0.5rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }}
+
+        .language-option:hover {{
+            background: var(--color-hover);
+        }}
+
+        .language-option input[type="checkbox"] {{
+            cursor: pointer;
+        }}
+
+        .language-option label {{
+            cursor: pointer;
+            flex: 1;
+            margin: 0;
+        }}
+
+        .select-all-languages {{
+            padding: 0.5rem;
+            border-bottom: 2px solid var(--color-border);
+            font-weight: 600;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }}
+
+        .select-all-languages:hover {{
+            background: var(--color-hover);
+        }}
+
         /* Matrix Table */
         .matrix-container {{
             overflow-x: auto;
@@ -860,6 +939,23 @@ def generate_html(data):
 
             <div class="filters">
                 <div class="filter-group">
+                    <label for="matrix-languages">Languages:</label>
+                    <div class="language-selector">
+                        <button type="button" class="language-dropdown-button" id="language-dropdown-button">
+                            <span id="selected-languages-text">All Languages (26)</span>
+                            <span>▼</span>
+                        </button>
+                        <div class="language-dropdown-content" id="language-dropdown-content">
+                            <div class="select-all-languages" id="select-all-languages">
+                                <input type="checkbox" id="select-all-checkbox" checked>
+                                <label for="select-all-checkbox">Select All</label>
+                            </div>
+                            <div id="language-options"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="filter-group">
                     <label for="matrix-topic">Topic/Category:</label>
                     <select id="matrix-topic">
                         <option value="all">All Topics</option>
@@ -991,6 +1087,7 @@ def generate_html(data):
         // Global state
         let currentContentType = 'course';
         let currentMatrixData = [];
+        let selectedLanguages = new Set();
 
         // Initialize dashboard
         function init() {{
@@ -1047,6 +1144,21 @@ def generate_html(data):
         function populateFilters() {{
             const {{ languages, topics, categories }} = PROOFREADING_DATA;
 
+            // Initialize all languages as selected
+            languages.forEach(lang => selectedLanguages.add(lang.code));
+
+            // Populate language multi-select
+            const languageOptionsDiv = document.getElementById('language-options');
+            languages.forEach(lang => {{
+                const div = document.createElement('div');
+                div.className = 'language-option';
+                div.innerHTML = `
+                    <input type="checkbox" id="lang-${{lang.code}}" value="${{lang.code}}" checked>
+                    <label for="lang-${{lang.code}}">${{lang.name}} (${{lang.code.toUpperCase()}})</label>
+                `;
+                languageOptionsDiv.appendChild(div);
+            }});
+
             // Contribution finder language filter
             const contribLang = document.getElementById('contrib-language');
             languages.forEach(lang => {{
@@ -1058,6 +1170,64 @@ def generate_html(data):
 
             // Initialize topic filters
             updateTopicFilter();
+        }}
+
+        function updateSelectedLanguagesText() {{
+            const {{ languages }} = PROOFREADING_DATA;
+            const text = document.getElementById('selected-languages-text');
+            const count = selectedLanguages.size;
+            const total = languages.length;
+
+            if (count === total) {{
+                text.textContent = `All Languages (${{total}})`;
+            }} else if (count === 0) {{
+                text.textContent = 'No Languages Selected';
+            }} else if (count === 1) {{
+                const langCode = Array.from(selectedLanguages)[0];
+                const lang = languages.find(l => l.code === langCode);
+                text.textContent = lang ? `${{lang.name}}` : '1 Language';
+            }} else {{
+                text.textContent = `${{count}} Languages Selected`;
+            }}
+        }}
+
+        function toggleLanguageDropdown() {{
+            const dropdown = document.getElementById('language-dropdown-content');
+            dropdown.classList.toggle('show');
+        }}
+
+        function handleLanguageChange(langCode, checked) {{
+            if (checked) {{
+                selectedLanguages.add(langCode);
+            }} else {{
+                selectedLanguages.delete(langCode);
+            }}
+
+            // Update select all checkbox
+            const {{ languages }} = PROOFREADING_DATA;
+            const selectAllCheckbox = document.getElementById('select-all-checkbox');
+            selectAllCheckbox.checked = selectedLanguages.size === languages.length;
+
+            updateSelectedLanguagesText();
+            renderMatrix();
+        }}
+
+        function handleSelectAll(checked) {{
+            const {{ languages }} = PROOFREADING_DATA;
+
+            if (checked) {{
+                languages.forEach(lang => selectedLanguages.add(lang.code));
+            }} else {{
+                selectedLanguages.clear();
+            }}
+
+            // Update all checkboxes
+            document.querySelectorAll('#language-options input[type="checkbox"]').forEach(cb => {{
+                cb.checked = checked;
+            }});
+
+            updateSelectedLanguagesText();
+            renderMatrix();
         }}
 
         function renderLanguageStats() {{
@@ -1144,10 +1314,13 @@ def generate_html(data):
             const data = filterMatrixData();
             const {{ languages }} = PROOFREADING_DATA;
 
+            // Filter languages based on selection
+            const filteredLanguages = languages.filter(lang => selectedLanguages.has(lang.code));
+
             // Render header
             const header = document.getElementById('matrix-header');
             header.innerHTML = '<th>Content</th>';
-            languages.forEach(lang => {{
+            filteredLanguages.forEach(lang => {{
                 const th = document.createElement('th');
                 th.textContent = lang.code.toUpperCase();
                 th.title = lang.name;
@@ -1160,7 +1333,14 @@ def generate_html(data):
 
             if (data.length === 0) {{
                 const tr = document.createElement('tr');
-                tr.innerHTML = `<td colspan="${{languages.length + 1}}" class="empty-state">No content found</td>`;
+                tr.innerHTML = `<td colspan="${{filteredLanguages.length + 1}}" class="empty-state">No content found</td>`;
+                tbody.appendChild(tr);
+                return;
+            }}
+
+            if (filteredLanguages.length === 0) {{
+                const tr = document.createElement('tr');
+                tr.innerHTML = `<td colspan="1" class="empty-state">Please select at least one language</td>`;
                 tbody.appendChild(tr);
                 return;
             }}
@@ -1174,8 +1354,8 @@ def generate_html(data):
                 nameTd.title = item.name;
                 tr.appendChild(nameTd);
 
-                // Language cells
-                languages.forEach(lang => {{
+                // Language cells (only for selected languages)
+                filteredLanguages.forEach(lang => {{
                     const td = document.createElement('td');
                     const pr = item.proofreading.find(p => p.language === lang.code);
 
@@ -1398,6 +1578,33 @@ def generate_html(data):
         }}
 
         function setupEventListeners() {{
+            // Language dropdown toggle
+            document.getElementById('language-dropdown-button').addEventListener('click', (e) => {{
+                e.stopPropagation();
+                toggleLanguageDropdown();
+            }});
+
+            // Close dropdown when clicking outside
+            document.addEventListener('click', (e) => {{
+                const dropdown = document.getElementById('language-dropdown-content');
+                const button = document.getElementById('language-dropdown-button');
+                if (!dropdown.contains(e.target) && !button.contains(e.target)) {{
+                    dropdown.classList.remove('show');
+                }}
+            }});
+
+            // Select all checkbox
+            document.getElementById('select-all-checkbox').addEventListener('change', (e) => {{
+                handleSelectAll(e.target.checked);
+            }});
+
+            // Individual language checkboxes
+            document.querySelectorAll('#language-options input[type="checkbox"]').forEach(checkbox => {{
+                checkbox.addEventListener('change', (e) => {{
+                    handleLanguageChange(e.target.value, e.target.checked);
+                }});
+            }});
+
             // Content type selector
             document.querySelectorAll('input[name="content-type"]').forEach(radio => {{
                 radio.addEventListener('change', (e) => {{
