@@ -1,5 +1,5 @@
 ---
-name: Azul Wallet
+name: Blue Wallet
 
 description: Bitcoin Cartera radicalmente sencilla y potente
 ---
@@ -11,11 +11,10 @@ Empezar a utilizar Bitcoin parece ser un gran reto para las personas escépticas
 
 
 
-En este tutorial vamos a echar un vistazo a Blue Wallet, una Bitcoin Wallet sencilla pero muy eficaz que te permite gestionar tus bitcoins personalmente y también crear cooperativas de gestión basadas en [Multisig](https://planb.network/resources/glossary/Multisig) (no te preocupes, volveremos a ello).
+En este tutorial vamos a echar un vistazo a Blue Wallet, una Bitcoin Wallet sencilla pero muy eficaz que te permite gestionar tus bitcoins personalmente y también crear cooperativas de gestión basadas en [Multisig](https://planb.academy/resources/glossary/multisig) (no te preocupes, volveremos a ello).
 
 
 
-![Vidéo tutoriel Blue Wallet](https://www.youtube.com/watch?v=UCAtFgkdJtM)
 
 
 
@@ -39,7 +38,7 @@ Una vez instalado, puedes crear un nuevo Wallet y guardar las 12 palabras de rec
 
 
 
-https://planb.network/tutorials/wallet/backup/backup-mnemonic-22c0ddfa-fb9f-4e3a-96f9-46e2a7954270
+https://planb.academy/tutorials/wallet/backup/backup-mnemonic-22c0ddfa-fb9f-4e3a-96f9-46e2a7954270
 
 Con Blue Wallet puede crear carteras Bitcoin separadas y dedicadas. Por ejemplo, puedes tener una Wallet para tus ahorros y otra para tus gastos diarios, todo en la misma aplicación.
 
@@ -65,10 +64,10 @@ Si está acostumbrado a otras carteras Bitcoin como Phoenix o Aqua, no desentona
 
 
 
-https://planb.network/tutorials/wallet/mobile/phoenix-0f681345-abff-4bdc-819c-4ae800129cdf
+https://planb.academy/tutorials/wallet/mobile/phoenix-0f681345-abff-4bdc-819c-4ae800129cdf
 
 
-https://planb.network/tutorials/wallet/mobile/aqua-8e6d7dd3-8c03-45cc-90dd-fe3899a7d125
+https://planb.academy/tutorials/wallet/mobile/aqua-8e6d7dd3-8c03-45cc-90dd-fe3899a7d125
 
 Bitcoin de Blue Wallet Wallet representa el Wallet estándar en el ecosistema Bitcoin. Puedes gastar bitcoins siempre que estés en posesión de las palabras de recuperación que proporcionarán una firma válida en la red para autenticar que eres el propietario de los bitcoins.
 
@@ -122,7 +121,7 @@ Por lo tanto, puede seleccionar el ratio de tarifa de transacción que más le c
 
 
 
-https://planb.network/tutorials/privacy/analysis/mempool-space-f3e468a1-92f1-43ce-b2e4-c3298fa0e02f
+https://planb.academy/tutorials/privacy/explorer/mempool-space-f3e468a1-92f1-43ce-b2e4-c3298fa0e02f
 
 ![feerate](assets/fr/06.webp)
 
@@ -152,7 +151,7 @@ Puede eliminar uno o todos los destinatarios haciendo clic en **Eliminar destina
 
 
 
-- Inflar las comisiones**: ¿Has realizado una transacción que está tardando mucho en confirmarse? Activando la inflación de tasas puedes añadir tasas adicionales a tu transacción pendiente para acelerar su confirmación.
+- **Inflar las comisiones**: ¿Has realizado una transacción que está tardando mucho en confirmarse? Activando la inflación de tasas puedes añadir tasas adicionales a tu transacción pendiente para acelerar su confirmación.
 
 
 
@@ -220,7 +219,7 @@ Siga las mejores prácticas seleccionando el formato P2WSH.
 
 
 
-❗ **[P2WSH](https://planb.network/resources/glossary/p2wsh) o Pay to Witness Script Hash** es un método de bloqueo que bloquea los bitcoins salientes de tu transacción (Salidas) al Hash de un script personalizado que Blue Wallet configura. La principal ventaja de este tipo de bloqueo es que reduce el tamaño de los datos de la transacción e implícitamente le permite pagar tarifas de transacción más bajas.
+❗ **[P2WSH](https://planb.academy/resources/glossary/p2wsh) o Pay to Witness Script Hash** es un método de bloqueo que bloquea los bitcoins salientes de tu transacción (Salidas) al Hash de un script personalizado que Blue Wallet configura. La principal ventaja de este tipo de bloqueo es que reduce el tamaño de los datos de la transacción e implícitamente le permite pagar tarifas de transacción más bajas.
 
 
 
@@ -248,7 +247,7 @@ Recibir bitcoins en una Wallet multifirma es el mismo proceso que cuando se est�
 
 
 
-- Enviar bitcoins** :
+- **Enviar bitcoins**:
 
 
 
@@ -264,7 +263,7 @@ Al validar tu transacción, necesitarás una segunda firma para aprobar el gasto
 
 
 
-El segundo firmante de Wallet, si también es usuario, puede firmar la transacción aunque esté fuera de Internet (sin Wi-Fi ni datos móviles) escaneando el código QR de la [transacción parcialmente firmada](https://planb.network/resources/glossary/PSBT) que acaba de crear.
+El segundo firmante de Wallet, si también es usuario, puede firmar la transacción aunque esté fuera de Internet (sin Wi-Fi ni datos móviles) escaneando el código QR de la [transacción parcialmente firmada](https://planb.academy/resources/glossary/psbt) que acaba de crear.
 
 
 
@@ -274,7 +273,7 @@ El segundo firmante de Wallet, si también es usuario, puede firmar la transacci
 
 
 
-- Vaya más allá con la cartera Multi firma**:
+- Vaya más allá con la **cartera Multi firma**:
 
 
 
@@ -330,12 +329,12 @@ En Configuración > **Configuración Lightning**, puede asociar manualmente su W
 
 
 
-https://planb.network/tutorials/node/lightning-network/umbrel-lnd-b12e0b5b-12ff-45f1-978e-62f4b4a8ba16
+https://planb.academy/tutorials/node/lightning-network/umbrel-lnd-b12e0b5b-12ff-45f1-978e-62f4b4a8ba16
 
-https://planb.network/tutorials/node/lightning-network/lightning-network-daemon-linux-59d777e9-72c8-4b32-8c50-e86cdae8f2f9
+https://planb.academy/tutorials/node/lightning-network/lightning-network-daemon-linux-59d777e9-72c8-4b32-8c50-e86cdae8f2f9
 
 Ya has completado el recorrido Blue Wallet, listo para utilizar Bitcoin en toda su sencillez y potencia. Te recomendamos que des el siguiente paso, y descubras cómo puedes aceptar pagos con Bitcoin en tus comercios, gracias a la potencia de Lightning.
 
 
 
-https://planb.network/tutorials/wallet/mobile/breez-46a6867b-c74b-45e7-869c-10a4e0263c06
+https://planb.academy/tutorials/wallet/mobile/breez-46a6867b-c74b-45e7-869c-10a4e0263c06

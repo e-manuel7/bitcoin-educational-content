@@ -1,0 +1,9 @@
+question: Koja je glavna prednost pokretanja aplikacija u sandbox-u ili virtuelnoj mašini?
+answer: Ograničeni uticaj u slučaju kompromitovanja
+wrong_answers:
+  - Ubrzano izvršavanje programa
+  - Smanjenje potrošnje RAM-a
+  - Povećanja brzine mrežne veze
+explanation: |
+  Sandboxing i virtualizacija se prvenstveno koriste za izolaciju aplikacija ili sistema od potencijalnih napada.
+reviewed: true

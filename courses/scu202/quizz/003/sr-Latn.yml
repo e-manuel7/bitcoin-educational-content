@@ -1,0 +1,9 @@
+question: Šta treba izbegavati raditi sa USB fleš drajvovima?
+answer: Povezivanje nepoznatih USB stikova
+wrong_answers:
+  - Korišćenje USB stikova formatiranih u NTFS-u
+  - Šifrovanje sopstvenih USB stikova
+  - Korišćenje novih USB fleš diskova
+explanation: |
+  Uključivanje nepoznatog USB stika može zaraziti računar malware-om ili ukrasti osetljive podatke.
+reviewed: true

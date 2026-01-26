@@ -28,6 +28,8 @@ Bli med oss for å endre din bruk av Bitcoin og bli en informert bruker, som er 
 
 <chapterId>08ba1933-f393-4fb5-8279-777d874caedb</chapterId>
 
+:::video id=687fe126-56db-4fe2-aaac-e481bbb5d838:::
+
 Velkommen til BTC204-kurset!
 
 I en verden der konfidensialiteten til finansielle transaksjoner gradvis blir en luksus, er det viktig å forstå og beherske prinsippene for personvern ved bruk av Bitcoin. Dette kurset gir deg alle nøklene, både teoretiske og praktiske, for å oppnå dette på egen hånd.
@@ -50,42 +52,44 @@ Målet med dette kurset er ikke å gjøre deg helt anonym i din bruk av Bitcoin,
 
 Til å begynne med skal vi gå gjennom de grunnleggende prinsippene som styrer driften av Bitcoin, slik at vi deretter kan gå rolig i gang med begrepene knyttet til konfidensialitet. Det er viktig å beherske noen grunnleggende begreper, som UTXO, mottaksadresser og skripting, før du fullt ut kan forstå begrepene vi tar for oss i de følgende avsnittene. Vi vil også introdusere Bitcoins generelle konfidensialitetsmodell, slik Satoshi Nakamoto forestilte seg den, slik at vi kan forstå hva som står på spill og hvilke risikoer som er forbundet med den.
 
-![BTC204](assets/fr/001.webp)
+![BTC204](assets/nb-NO/001.webp)
 
 **Del 2: Forståelse og beskyttelse mot kjedeanalyse**
 
 I den andre delen ser vi på teknikkene som brukes av blokkjedeanalyseselskaper for å spore aktiviteten din på Bitcoin. Å forstå disse metodene er avgjørende for å styrke personvernet ditt. Målet med denne delen er å undersøke angripernes strategier for å få en bedre forståelse av risikoen og forberede grunnen for teknikkene vi skal studere i de neste delene. Vi vil analysere transaksjonsmønstre, interne og eksterne heuristikker og sannsynlige tolkninger av disse mønstrene. I tillegg til teori lærer vi hvordan vi kan bruke en blokkutforsker til kjedeanalyse, gjennom praktiske eksempler og øvelser.
 
-![BTC204](assets/fr/002.webp)
+![BTC204](assets/nb-NO/002.webp)
 
 **Del 3: Beherske beste praksis for å beskytte personvernet ditt**
 
 I den tredje delen av kurset vårt går vi til det helt konkrete: praksis! Målet er å mestre alle de essensielle beste praksisene som bør bli naturlige reflekser for enhver Bitcoin-bruker. Vi går gjennom bruk av blanke adresser, tagging, konsolidering, bruk av komplette noder, samt KYC og anskaffelsesmetoder. Målet er å gi deg en omfattende oversikt over fallgruvene du bør unngå for å etablere et solid grunnlag i arbeidet med å beskytte personvernet. For noen av disse metodene vil du bli veiledet til en spesifikk veiledning om hvordan du implementerer dem.
 
-![BTC204](assets/fr/003.webp)
+![BTC204](assets/nb-NO/003.webp)
 
-**Del 4: Forståelse av coinjoin-transaksjoner**
+**Del 4: Forståelse av [coinjoin](https://planb.academy/resources/glossary/coinjoin)-transaksjoner**
 
 Hvordan kan vi snakke om personvern på Bitcoin uten å nevne coinjoins? I del 4 finner du ut alt du trenger å vite om denne blandingsmetoden. Du vil lære hva coinjoins er, deres historie og mål, samt de forskjellige typene coinjoins som finnes. Til slutt, for den mer erfarne brukeren, tar vi en titt på hva anonsets og entropi er, og hvordan du beregner dem.
 
-![BTC204](assets/fr/004.webp)
+![BTC204](assets/nb-NO/004.webp)
 
 **Del 5: Forstå utfordringene med andre avanserte konfidensialitetsteknikker**
 
-I den femte delen tar vi en titt på alle de andre teknikkene som er tilgjengelige for å beskytte personvernet ditt på Bitcoin, bortsett fra coinjoin. Gjennom årene har utviklere vist bemerkelsesverdig kreativitet i utformingen av verktøy dedikert til personvern. Vi ser på alle disse metodene, som payjoin, samarbeidstransaksjoner, Coin Swap og Atomic Swap, og beskriver hvordan de fungerer, deres mål og eventuelle svakheter.
+I den femte delen tar vi en titt på alle de andre teknikkene som er tilgjengelige for å beskytte personvernet ditt på Bitcoin, bortsett fra coinjoin. Gjennom årene har utviklere vist bemerkelsesverdig kreativitet i utformingen av verktøy dedikert til personvern. Vi ser på alle disse metodene, som [payjoin](https://planb.academy/resources/glossary/payjoin), samarbeidstransaksjoner, Coin Swap og Atomic Swap, og beskriver hvordan de fungerer, deres mål og eventuelle svakheter.
 
 Vi ser også på personvern på nettverksnivå med noder og transaksjonsformidling. Vi diskuterer også de ulike protokollene som har blitt foreslått opp gjennom årene for å forbedre brukernes personvern på Bitcoin, inkludert statiske adresseprotokoller.
 
-![BTC204](assets/fr/005.webp)
+![BTC204](assets/nb-NO/005.webp)
 Klar til å utforske de intrikate aspektene ved personvern på Bitcoin? La oss gå!
 
 # Definisjoner og nøkkelbegreper
 
 <partId>b9bbbde3-34c0-4851-83e8-e2ffb029cf31</partId>
 
-## Bitcoins UTXO-modell
+## Bitcoins [UTXO](https://planb.academy/resources/glossary/utxo)-modell
 
 <chapterId>8d6b50c5-bf74-44f4-922b-25204991cb75</chapterId>
+
+:::video id=60e8f3fa-9607-47ae-ac4f-5aa747d9b6d4:::
 
 
 Bitcoin er først og fremst en valuta, men vet du egentlig hvordan BTC er representert på protokollen?
@@ -96,11 +100,11 @@ Bitcoin-protokollen er basert på UTXO-modellen, som står for "Unspent Transact
 
 Denne modellen skiller seg vesentlig fra tradisjonelle banksystemer, som baserer seg på en mekanisme med kontoer og saldoer for å spore finansielle strømmer. I banksystemet opprettholdes individuelle saldoer på kontoer som er knyttet til en identitet. Når du for eksempel kjøper en baguette av en baker, trekker banken din ganske enkelt kjøpesummen fra din konto, noe som reduserer saldoen din, mens bakerens konto krediteres med det samme beløpet, noe som øker saldoen. I dette systemet er det ingen sammenheng mellom pengene som går inn på kontoen din og pengene som går ut av den, bortsett fra transaksjonsregistreringer.
 
-![BTC204](assets/fr/006.webp)
+![BTC204](assets/nb-NO/006.webp)
 
 Bitcoin fungerer annerledes. Konseptet med en konto eksisterer ikke, og monetære enheter administreres ikke via saldoer, men gjennom UTXOer. En UTXO representerer en bestemt mengde bitcoins som ennå ikke er brukt, og danner dermed et "stykke bitcoin", som kan være stort eller lite. For eksempel kan en UTXO være verdt 500 BTC eller bare 700 SATS.
 
-**> Satoshien, ofte forkortet til sat, er Bitcoins minste enhet, som kan sammenlignes med centimeteren i fiat-valutaer.
+**Minne:** Satoshien, ofte forkortet til sat, er Bitcoins minste enhet, som kan sammenlignes med centimeteren i fiat-valutaer.
 
 ```plaintext
 1 BTC = 100 000 000 SATS
@@ -108,17 +112,17 @@ Bitcoin fungerer annerledes. Konseptet med en konto eksisterer ikke, og monetær
 
 Teoretisk sett kan en UTXO representere en hvilken som helst verdi i bitcoins, alt fra en sat til et teoretisk maksimum på rundt 21 millioner BTC. Det er imidlertid logisk umulig å eie alle 21 millioner bitcoins, og det finnes en nedre økonomisk terskel som kalles "dust", under hvilken en UTXO anses som økonomisk ulønnsom å bruke.
 
-**> Den største UTXO som noensinne er opprettet på Bitcoin hadde en verdi på `500,000 BTC`. Den ble opprettet av MtGox-plattformen under en konsolideringsoperasjon i november 2011: [29a3efd3ef04f9153d47a990bd7b048a4b2d213daaa5fb8ed670fb85f13bdbcf](https://mempool.space/fr/tx/29a3efd3ef04f9153d47a990bd7b048a4b2d213daaa5fb8ed670fb85f13bdbcf)
+**Visste du?** Den største UTXO som noensinne er opprettet på Bitcoin hadde en verdi på `500,000 BTC`. Den ble opprettet av MtGox-plattformen under en konsolideringsoperasjon i november 2011: [29a3efd3ef04f9153d47a990bd7b048a4b2d213daaa5fb8ed670fb85f13bdbcf](https://mempool.space/fr/tx/29a3efd3ef04f9153d47a990bd7b048a4b2d213daaa5fb8ed670fb85f13bdbcf)
 
 ### UTXOer og utgiftsbetingelser
 
 UTXO-er er utvekslingsinstrumentene på Bitcoin. Hver transaksjon resulterer i forbruk av UTXO-er som input og opprettelse av nye UTXO-er som output. Når en transaksjon er fullført, anses UTXOene som ble brukt som input, som "brukt", og nye UTXOer genereres og allokeres til mottakerne som er angitt i transaksjonsoutputen. En UTXO representerer dermed ganske enkelt en ubrukt transaksjonsutgang, og dermed en mengde bitcoins som tilhører en bruker på et gitt tidspunkt.
 
-![BTC204](assets/fr/007.webp)
+![BTC204](assets/nb-NO/007.webp)
 
 Alle UTXO-er er sikret av skript som definerer betingelsene for hvordan de kan brukes. For å bruke en UTXO må en bruker vise nettverket at han eller hun oppfyller vilkårene som er fastsatt i skriptet som sikrer UTXO-en. UTXO-er er vanligvis beskyttet av en offentlig nøkkel (eller en mottakeradresse som representerer denne offentlige nøkkelen). For å bruke en UTXO som er knyttet til denne offentlige nøkkelen, må brukeren bevise at han eller hun har den tilsvarende private nøkkelen, ved å levere en digital signatur laget med denne nøkkelen. Det er derfor vi sier at Bitcoin-lommeboken din faktisk ikke inneholder bitcoins, men lagrer de private nøklene dine, som i sin tur gir deg tilgang til UTXO-ene dine og, i forlengelsen av dette, til bitcoinsene de representerer.
 
-![BTC204](assets/fr/008.webp)
+![BTC204](assets/nb-NO/008.webp)
 
 Siden det ikke finnes noe kontokonsept i Bitcoin, er en lommeboks saldo ganske enkelt summen av verdiene til alle UTXO-ene den kan bruke. For eksempel, hvis Bitcoin-lommeboken din kan bruke følgende 4 UTXOer:
 
@@ -131,28 +135,30 @@ Siden det ikke finnes noe kontokonsept i Bitcoin, er en lommeboks saldo ganske e
 
 Den totale saldoen på porteføljen din vil være `17 BTC`.
 
-![BTC204](assets/fr/009.webp)
+![BTC204](assets/nb-NO/009.webp)
 
 ## Strukturen til Bitcoin-transaksjoner
 
 <chapterId>29d3aaab-de2e-4746-ab40-c9748898850c</chapterId>
+
+:::video id=c79d651d-ff4a-4a75-bc2b-a48a00c17326:::
 
 
 ### Transaksjonsinnganger og -utganger
 
 En Bitcoin-transaksjon er en operasjon registrert i blokkjeden som overfører eierskap av bitcoins fra en person til en annen. Mer presist, siden vi er på en UTXO-modell og det ikke er noen kontoer, tilfredsstiller transaksjonen utgiftsbetingelsene som sikret en eller flere UTXO-er, forbruker dem og tilsvarende skaper nye UTXO-er med nye utgiftsbetingelser. Kort sagt flytter en transaksjon bitcoins fra et tilfredsstillende skript til et nytt skript som er utformet for å sikre dem.
 
-![BTC204](assets/fr/010.webp)
+![BTC204](assets/nb-NO/010.webp)
 
 Hver Bitcoin-transaksjon består derfor av én eller flere innganger og én eller flere utganger. Inputs er UTXO-er som forbrukes av transaksjonen for å generere outputs. Utganger er nye UTXO-er som kan brukes som innganger for fremtidige transaksjoner.
 
-![BTC204](assets/fr/011.webp)
+![BTC204](assets/nb-NO/011.webp)
 
-**> Teoretisk sett kan en bitcoin-transaksjon ha et uendelig antall innganger og utganger. Den eneste grensen er den maksimale blokkstørrelsen.
+**Visste du?** Teoretisk sett kan en bitcoin-transaksjon ha et uendelig antall innganger og utganger. Den eneste grensen er den maksimale blokkstørrelsen.
 
 Hver input i en Bitcoin-transaksjon refererer til en tidligere ubrukt UTXO. For å bruke en UTXO som input, må innehaveren demonstrere at han/hun er den rettmessige eieren ved å validere det tilknyttede skriptet, dvs. ved å oppfylle utgiftsbetingelsen som er pålagt. Generelt sett betyr dette å levere en digital signatur produsert med den private nøkkelen som tilsvarer den offentlige nøkkelen som opprinnelig sikret denne UTXO-en. Skriptet består derfor i å verifisere at signaturen samsvarer med den offentlige nøkkelen som ble brukt da midlene ble mottatt.
 
-![BTC204](assets/fr/012.webp)
+![BTC204](assets/nb-NO/012.webp)
 
 Hver utgang spesifiserer i sin tur mengden bitcoins som skal overføres, samt mottakeren. Sistnevnte er definert av et nytt skript, som vanligvis blokkerer den nyopprettede UTXO-en med en mottakeradresse eller en ny offentlig nøkkel.
 
@@ -166,11 +172,11 @@ Denne mekanismen ligner på den som gjelder for en gullmynt. La oss si at du eie
 
 Bitcoin fungerer på en lignende måte. La oss tenke oss at Alice har en UTXO på 10 000 SATS` og ønsker å kjøpe en baguette til 4 000 SATS`. Alice vil foreta en transaksjon med 1 UTXO på 10 000 SATS` som input, som hun vil forbruke i sin helhet, og 2 UTXOer på henholdsvis 4 000 SATS` og 6 000 SATS` som output. UTXO-en på 4 000 SATS` sendes til bakeren som betaling for baguetten, mens UTXO-en på 6 000 SATS` kommer tilbake til Alice i form av vekslepenger. Denne UTXO-en, som går tilbake til den opprinnelige utstederen av transaksjonen, kalles "exchange" i Bitcoin-sjargongen.
 
-![BTC204](assets/fr/013.webp)
+![BTC204](assets/nb-NO/013.webp)
 
 La oss nå tenke oss at Alice ikke har én UTXO med 10 000 SATS, men to UTXOer med 3 000 SATS hver. I denne situasjonen er ingen av UTXO-ene hver for seg tilstrekkelig til å stille inn stavens `4 000 SATS`. Alice må derfor bruke de to UTXO-ene på 3 000 SATS` samtidig som input til transaksjonen. På denne måten vil den totale mengden input komme opp i 6 000 SATS`, slik at hun kan oppfylle betalingen på 4 000 SATS` til bakeren. Denne metoden, der flere UTXO-er grupperes sammen som innsatsfaktorer i en transaksjon, kalles ofte "sammenslåing".
 
-![BTC204](assets/fr/014.webp)
+![BTC204](assets/nb-NO/014.webp)
 
 ### Transaksjonsgebyrer
 
@@ -182,7 +188,7 @@ Frais = total inputs - total outputs
 
 La oss ta et eksempel med Alice, som har en UTXO på 10 000 SATS og ønsker å kjøpe en baguette til 4 000 SATS. Alice oppretter en transaksjon med UTXO på 10 000 SATS som input. Deretter genererer hun et output på 4 000 SATS til bakeren for å betale for baguetten. For å oppmuntre utvinnerne til å integrere transaksjonen hennes i en blokk, tildeler Alice 200 SATS i gebyrer. Deretter lager hun en ny output, vekslingen, som vil bli returnert til henne, og som beløper seg til 5800 SATS.
 
-![BTC204](assets/fr/015.webp)
+![BTC204](assets/nb-NO/015.webp)
 
 Ved å bruke avgiftsformelen ser vi at det faktisk er `200 SATS` igjen for mindreårige:
 
@@ -205,13 +211,13 @@ Coinbase er en bestemt type Bitcoin-transaksjon, som er unik for hver blokk og a
 
 Coinbase-transaksjonen er unik ved at den er den eneste som er i stand til å skape bitcoins ex nihilo, uten behov for å forbruke input for å generere output. Disse nyopprettede bitcoinsene er det vi kan kalle "originale UTXO-er".
 
-![BTC204](assets/fr/016.webp)
+![BTC204](assets/nb-NO/016.webp)
 
 Blokk-subsidierte bitcoins er nye BTC-er som opprettes fra bunnen av, i henhold til en forhåndsbestemt utstedelsesplan i konsensusreglene. Blokktilskuddet halveres hver 210 000. blokk, dvs. omtrent hvert fjerde år, i en prosess som kalles "halvering". Opprinnelig ble det opprettet 50 bitcoins for hvert tilskudd, men dette beløpet har gradvis blitt redusert, og i dag er det 3,125 bitcoins per blokk.
 
 Selv om transaksjonsgebyrene også representerer nyopprettede BTC, må de ikke overstige differansen mellom den totale inn- og utgangen av alle transaksjonene i en blokk. Vi så tidligere at disse avgiftene representerer den delen av input som ikke brukes i transaksjonsoutput. Denne delen er teknisk sett "tapt" under transaksjonen, og utvinneren har rett til å gjenskape denne verdien i form av en eller flere nye UTXO-er. Dette er en verdioverføring mellom utstederen av transaksjonen og utvinneren som legger den til i blokkjeden.
 
-**> Bitcoins generert av en coinbase-transaksjon er underlagt en forfallsperiode på 100 blokker, der de ikke kan brukes av gruvearbeideren. Denne regelen er utformet for å unngå komplikasjoner knyttet til bruk av nyopprettede bitcoins i en kjede som senere kan bli foreldet.
+**Visste du?** Bitcoins generert av en coinbase-transaksjon er underlagt en forfallsperiode på 100 blokker, der de ikke kan brukes av gruvearbeideren. Denne regelen er utformet for å unngå komplikasjoner knyttet til bruk av nyopprettede bitcoins i en kjede som senere kan bli foreldet.
 
 ### Konsekvensene av UTXO-modellen
 
@@ -223,22 +229,22 @@ For det andre, som nevnt i de foregående avsnittene, er Bitcoin-mynter i hoveds
 
 <chapterId>769d8963-3ed5-4094-b21d-9203c7d9e465</chapterId>
 
+:::video id=f83d8e7a-ff4d-4c05-a8ff-0e601c49a508:::
+
 
 ### Penger: autentisitet, integritet og dobbeltforbruk
 
 En av pengenes funksjoner er å løse problemet med dobbelt sammenfall av behov. I et system basert på byttehandel krever fullføringen av et bytte ikke bare at man finner en person som gir fra seg en vare som dekker mitt behov, men også at man gir ham en vare av tilsvarende verdi som tilfredsstiller hans eget behov. Å finne denne balansen er en kompleks sak.
 
-![BTC204](assets/fr/017.webp)
+![BTC204](assets/nb-NO/017.webp)
 
 Det er derfor vi bruker penger til å flytte verdier i både tid og rom.
 
-![BTC204](assets/fr/018.webp)
+![BTC204](assets/nb-NO/018.webp)
 
 For at mynter skal kunne løse dette problemet, er det avgjørende at den som tilbyr en vare eller tjeneste, er overbevist om at han eller hun er i stand til å bruke beløpet på et senere tidspunkt. Ethvert rasjonelt individ som ønsker å akseptere en mynt, enten den er digital eller fysisk, vil derfor sørge for at den oppfyller to grunnleggende kriterier:
-
-
-- Verket må ha integritet og autentisitet ;**
-- og må ikke brukes dobbelt.**
+- **Verket må ha integritet og autentisitet ;**
+- **og må ikke brukes dobbelt.**
 
 Hvis du bruker fysisk valuta, er det den første egenskapen som er mest kompleks å fastslå. I ulike perioder i historien har metallmyntenes integritet ofte blitt påvirket av praksiser som trimming eller piercing. I antikkens Roma var det for eksempel vanlig praksis at borgerne skrapte kantene på gullmyntene for å samle litt edelt metall, samtidig som de sparte dem til fremtidige transaksjoner. På denne måten ble myntenes egenverdi redusert, men den nominelle verdien forble den samme. Dette er en av grunnene til at kanten på mynten senere ble riflet.
 
@@ -246,23 +252,23 @@ Autentisitet er også en egenskap som er vanskelig å verifisere på et fysisk p
 
 På den annen side er dobbeltbruk ikke noe problem for fysiske valutaer på grunn av deres natur. Hvis jeg gir deg en 10-euroseddel, forlater den ugjenkallelig min besittelse og går over i din, noe som naturligvis utelukker enhver mulighet for dobbeltbruk av pengeenhetene den representerer. Kort sagt vil jeg ikke kunne bruke denne 10-euroseddelen igjen.
 
-![BTC204](assets/fr/019.webp)
+![BTC204](assets/nb-NO/019.webp)
 
 For digital valuta er det annerledes. Det er ofte enklere å sikre en mynts autentisitet og integritet. Som vi så i forrige avsnitt, gjør Bitcoins UTXO-modell det mulig å spore en mynt tilbake til dens opprinnelse, og dermed verifisere at den faktisk ble skapt av en utvinner i samsvar med konsensusreglene.
 
 På den annen side er det mer komplisert å sikre at det ikke forekommer dobbeltbruk, siden alle digitale varer i bunn og grunn er informasjon. I motsetning til fysiske varer deles ikke informasjon opp når den utveksles, men spres ved at den multipliseres. Hvis jeg for eksempel sender deg et dokument på e-post, blir det duplisert. Du kan ikke være sikker på at jeg har slettet originaldokumentet.
 
-![BTC204](assets/fr/020.webp)
+![BTC204](assets/nb-NO/020.webp)
 
 ### Forhindre dobbeltbruk av Bitcoin
 
 Den eneste måten å unngå denne dupliseringen av en digital eiendel på, er å være klar over alle utvekslinger i systemet. På denne måten kan vi vite hvem som eier hva, og oppdatere hver persons beholdning i henhold til de transaksjonene som er utført. Det er dette som for eksempel skjer med skriftens penger i banksystemet. Når du betaler 10 euro til en kjøpmann med kredittkort, registrerer banken byttet og oppdaterer kontoboken.
 
-![BTC204](assets/fr/021.webp)
+![BTC204](assets/nb-NO/021.webp)
 
 På Bitcoin forhindres dobbeltbruk på samme måte. Vi forsøker å bekrefte at det ikke finnes en transaksjon som allerede har brukt de aktuelle myntene. Hvis myntene aldri har blitt brukt, kan vi være sikre på at det ikke vil forekomme dobbeltbruk. Dette prinsippet ble beskrevet av Satoshi Nakamoto i hvitboken med den berømte setningen:
 
-**Den eneste måten å bekrefte fraværet av en transaksjon på, er å være klar over alle transaksjoner
+**Den eneste måten å bekrefte fraværet av en transaksjon på, er å være klar over alle transaksjoner**
 
 Men i motsetning til bankmodellen ønsker vi ikke å måtte stole på en sentral enhet på Bitcoin. Derfor må alle brukere kunne bekrefte at det ikke forekommer dobbeltbruk, uten å måtte stole på en tredjepart. Derfor må alle være klar over alle Bitcoin-transaksjoner. Dette er grunnen til at Bitcoin-transaksjoner kringkastes offentlig på alle nettverksnoder og registreres i klartekst på blokkjeden.
 
@@ -272,19 +278,19 @@ Det er nettopp denne offentlige spredningen av informasjon som gjør det vanskel
 
 I det tradisjonelle systemet er bankkontoen din knyttet til identiteten din. Bankmannen vet hvilken bankkonto som tilhører hvilken kunde, og hvilke transaksjoner som er knyttet til den. Denne informasjonsflyten er imidlertid avskåret mellom banken og offentligheten. Det er med andre ord umulig å kjenne til saldo og transaksjoner på en bankkonto som tilhører en annen person. Det er bare banken som har tilgang til denne informasjonen.
 
-![BTC204](assets/fr/022.webp)
+![BTC204](assets/nb-NO/022.webp)
 
 For eksempel vet bankmannen din at du kjøper baguetten din hver morgen hos den lokale bakeren, men naboen din har ingen kjennskap til denne transaksjonen. På denne måten er informasjonsflyten tilgjengelig for de berørte partene, særlig banken, men forblir utilgjengelig for utenforstående.
 
-![BTC204](assets/fr/023.webp)
+![BTC204](assets/nb-NO/023.webp)
 
 På grunn av begrensningen med offentlig formidling av transaksjoner som vi så i forrige avsnitt, kan ikke Bitcoins konfidensialitetsmodell følge modellen til banksystemet. I Bitcoins tilfelle, siden informasjonsflyten ikke kan brytes mellom transaksjonene og det offentlige domenet, er **konfidensialitetsmodellen avhengig av separasjonen mellom brukerens identitet og selve transaksjonene**.
 
-![BTC204](assets/fr/024.webp)
+![BTC204](assets/nb-NO/024.webp)
 
 Hvis du for eksempel kjøper en baguette av bakeren og betaler i BTC, kan naboen din, som har sin egen komplette node, se transaksjonen din gå gjennom, akkurat som han kan se alle andre transaksjoner i systemet. Men hvis konfidensialitetsprinsippene respekteres, skal han ikke kunne knytte denne spesifikke transaksjonen til din identitet.
 
-![BTC204](assets/fr/025.webp)
+![BTC204](assets/nb-NO/025.webp)
 
 Men siden Bitcoin-transaksjoner offentliggjøres, er det likevel mulig å etablere koblinger mellom dem for å utlede informasjon om de involverte partene. Denne aktiviteten utgjør til og med en egen spesialitet, kjent som "blokkjedeanalyse". I neste del av kurset inviterer jeg deg til å utforske det grunnleggende i blokkjedeanalyse, slik at du kan forstå hvordan bitcoinsene dine spores og bedre forsvare deg mot dem.
 
@@ -296,34 +302,33 @@ Men siden Bitcoin-transaksjoner offentliggjøres, er det likevel mulig å etable
 
 <chapterId>7d198ba6-4af2-4f24-86cb-3c79cb25627e</chapterId>
 
+:::video id=3d27ea95-599b-44cc-a24c-a628c2e6a64a:::
+
 
 ### Definisjon og drift
 
 Blokkjedeanalyse er praksisen med å spore strømmen av bitcoins på blokkjeden. Generelt sett er kjedeanalyse basert på observasjon av karakteristikker i eksempler på tidligere transaksjoner. Deretter går det ut på å identifisere de samme kjennetegnene i en transaksjon som vi ønsker å analysere, og utlede plausible tolkninger fra dem. Denne problemløsningsmetoden, som er basert på en praktisk tilnærming til å finne en god nok løsning, kalles en "heuristikk".
 
 Enkelt sagt er det tre hovedfaser i en kjedeanalyse:
+1. **Observering av blokkjeden**
+2. **Identifisering av kjente funksjoner**
+3. **Fradrag av forutsetninger**
 
-1. **Observering av blokkjeden
+![BTC204](assets/nb-NO/026.webp)
 
-2. **Identifisering av kjente funksjoner
-
-3. **Fradrag av forutsetninger **
-
-![BTC204](assets/fr/026.webp)
-
-Blokkjedeanalyse kan utføres av hvem som helst. Alt du trenger er tilgang til blokkjedens offentlige informasjon via en komplett node for å observere transaksjonsbevegelser og lage hypoteser. Det finnes også gratis verktøy som gjør denne analysen enklere, for eksempel [OXT.me] (https://oxt.me/), som vi skal se nærmere på i de to siste kapitlene i denne delen. Den største risikoen for konfidensialitet kommer imidlertid fra selskaper som spesialiserer seg på strenganalyse. Disse selskapene har tatt blokkjedeanalyse til industriell skala og selger tjenestene sine til finansinstitusjoner og myndigheter. Blant disse selskapene er Chainalysis helt klart det mest kjente.
+Blokkjedeanalyse kan utføres av hvem som helst. Alt du trenger er tilgang til blokkjedens offentlige informasjon via en komplett node for å observere transaksjonsbevegelser og lage hypoteser. Det finnes også gratis verktøy som gjør denne analysen enklere, for eksempel [OXT.me](https://oxt.me/), som vi skal se nærmere på i de to siste kapitlene i denne delen. Den største risikoen for konfidensialitet kommer imidlertid fra selskaper som spesialiserer seg på strenganalyse. Disse selskapene har tatt blokkjedeanalyse til industriell skala og selger tjenestene sine til finansinstitusjoner og myndigheter. Blant disse selskapene er Chainalysis helt klart det mest kjente.
 
 ### Kjedeanalysens mål
 
 Et av målene med blokkjedeanalyse er å gruppere ulike aktiviteter på Bitcoin for å finne ut hvem som har utført dem. Deretter vil det være mulig å forsøke å knytte denne klyngen av aktiviteter til en reell identitet.
 
-![BTC204](assets/fr/027.webp)
+![BTC204](assets/nb-NO/027.webp)
 
 Tenk tilbake til forrige kapittel. Jeg forklarte hvorfor Bitcoins personvernmodell opprinnelig var basert på separasjon av brukeridentitet fra transaksjoner. Det ville derfor være fristende å tro at blokkjedeanalyse er ubrukelig, for selv om vi klarer å aggregere aktiviteter i blokkjeden, kan vi ikke knytte dem til en ekte identitet.
 
 Teoretisk sett er denne påstanden korrekt. I første del av dette kurset så vi at kryptografiske nøkkelpar brukes til å etablere betingelser på UTXO. I bunn og grunn avslører disse nøkkelparene ingen informasjon om identiteten til innehaverne. Så selv om vi klarer å gruppere aktivitetene som er knyttet til ulike nøkkelpar, forteller dette oss ingenting om enheten som står bak disse aktivitetene.
 
-![BTC204](assets/fr/028.webp)
+![BTC204](assets/nb-NO/028.webp)
 
 Den praktiske virkeligheten er imidlertid langt mer kompleks. Det finnes en rekke atferdsmønstre som kan knytte en ekte identitet til aktivitet i kjeden. I analyse kalles dette et inngangspunkt, og det finnes et mangfold av dem.
 
@@ -331,19 +336,19 @@ Det vanligste er KYC (*Know Your Customer*). Hvis du tar ut Bitcoins fra en regu
 
 Disse inngangspunktene er så godt som uunngåelige når man bruker Bitcoin. Selv om vi kan forsøke å begrense omfanget av dem, vil de alltid være til stede. Derfor er det avgjørende å kombinere metoder som tar sikte på å bevare personvernet ditt. Selv om det å opprettholde et skille mellom din virkelige identitet og transaksjonene dine er en interessant tilnærming, er det fortsatt utilstrekkelig i dag. Hvis alle aktivitetene dine i kjeden kan grupperes sammen, vil selv det minste inngangspunktet sannsynligvis kompromittere det eneste laget av konfidensialitet du har etablert.
 
-![BTC204](assets/fr/029.webp)
+![BTC204](assets/nb-NO/029.webp)
 
 ### Forsvar deg mot kjedeanalyse
 
 Derfor må vi også kunne håndtere blokkjedeanalyse i vår bruk av Bitcoin. På denne måten kan vi minimere aggregeringen av aktivitetene våre og begrense innvirkningen av et inngangspunkt på personvernet vårt.
 
-![BTC204](assets/fr/030.webp)
+![BTC204](assets/nb-NO/030.webp)
 
 Hvilken bedre måte å motvirke blockchain-analyse på enn å lære om metodene som brukes i den? Hvis du vil vite hvordan du kan forbedre personvernet ditt på Bitcoin, må du forstå disse metodene. Dette vil gi deg en bedre forståelse av teknikker som coinjoin eller payjoin (teknikker vi vil se på i de siste delene av kurset), og redusere feilene du kan gjøre.
 
-https://planb.network/tutorials/privacy/on-chain/coinjoin-samourai-wallet-e566803d-ab3f-4d98-9136-5462009262ef
+https://planb.academy/tutorials/privacy/on-chain/ashigaru-whirlpool-e566803d-ab3f-4d98-9136-5462009262ef
 
-https://planb.network/tutorials/privacy/on-chain/payjoin-848b6a23-deb2-4c5f-a27e-93e2f842140f
+https://planb.academy/tutorials/privacy/on-chain/payjoin-848b6a23-deb2-4c5f-a27e-93e2f842140f
 
 Her kan vi trekke en analogi til kryptografi og kryptoanalyse. En god kryptograf er først og fremst en god kryptoanalytiker. For å utvikle en ny krypteringsalgoritme må du vite hvilke angrep den vil bli utsatt for, og du må også studere hvorfor tidligere algoritmer har blitt brutt. Det samme prinsippet gjelder for Bitcoin-personvern. Å forstå blokkjedeanalysemetoder er nøkkelen til å beskytte seg mot dem. Derfor har jeg inkludert en hel seksjon om kjedeanalyse i dette kurset.
 
@@ -356,9 +361,9 @@ Hele poenget med kjedeanalyse ligger nettopp i aggregeringen av ulike heuristikk
 Disse berømte heuristikkene kan grupperes i ulike kategorier, som vi vil beskrive i detalj nedenfor:
 
 
-- Transaksjonsmønstre ;**
+- Transaksjonsmønstre;
 - Transaksjonsintern heuristikk ;**
-- Heuristikk utenfor transaksjonen**
+- **Heuristikk utenfor transaksjonen**
 
 ### Satoshi Nakamoto og kjedeanalyse
 
@@ -368,7 +373,7 @@ De to første heuristikkene for kjedeanalyse ble oppdaget av Satoshi Nakamoto se
 - cIOH (*Common Input Ownership Heuristic*);
 - og gjenbruk av adresser.
 
-![BTC204](assets/fr/031.webp)
+![BTC204](assets/nb-NO/031.webp)
 
 Kilde: S. Nakamoto: S. Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System", https://bitcoin.org/bitcoin.pdf, 2009.
 
@@ -378,12 +383,14 @@ Vi skal se hva de er i de neste kapitlene, men allerede nå er det interessant �
 
 <chapterId>d365a101-2d37-46a5-bfb9-3c51e37bf96b</chapterId>
 
+:::video id=4bd4c9d4-7997-487c-8760-98c74ae1589e:::
+
 
 Et transaksjonsmønster er ganske enkelt en overordnet modell eller struktur for en typisk transaksjon som finnes i blokkjeden, og som man vet hvordan kan tolkes. Når vi studerer mønstre, fokuserer vi på én enkelt transaksjon og analyserer den på et høyt nivå.
 
 Vi skal med andre ord bare se på antall UTXO i innganger og antall UTXO i utganger, uten å gå inn på de mer spesifikke detaljene eller miljøet rundt transaksjonen. Basert på det observerte mønsteret kan vi tolke transaksjonens natur. Vi vil deretter se etter kjennetegn ved strukturen og utlede en tolkning.
 
-![BTC204](assets/fr/032.webp)
+![BTC204](assets/nb-NO/032.webp)
 
 I dette avsnittet skal vi sammen se på de viktigste transaksjonsmodellene i kjedeanalyse, og for hver modell skal jeg gi deg en sannsynlig tolkning av denne strukturen, samt et konkret eksempel.
 
@@ -391,7 +398,7 @@ I dette avsnittet skal vi sammen se på de viktigste transaksjonsmodellene i kje
 
 La oss starte med et veldig vanlig mønster, siden det er det som dukker opp på de fleste bitcoinbetalinger. Den enkle betalingsmodellen kjennetegnes av forbruk av en eller flere UTXO-er som input og produksjon av 2 UTXO-er som output. Denne modellen ser derfor slik ut:
 
-![BTC204](assets/fr/033.webp)
+![BTC204](assets/nb-NO/033.webp)
 
 Når vi ser denne transaksjonsstrukturen på blokkjeden, kan vi allerede trekke en tolkning. Som navnet antyder, indikerer denne modellen at vi er i nærvær av en sende- eller betalingstransaksjon. Brukeren har brukt sin egen UTXO som input for å tilfredsstille en UTXO for betaling og en UTXO for utveksling (penger som returneres til samme bruker) som output.
 
@@ -405,7 +412,7 @@ Her er for eksempel en Bitcoin-transaksjon som bruker det enkle sendemønsteret:
 b6cc79f45fd2d7669ff94db5cb14c45f1f879ea0ba4c6e3d16ad53a18c34b769
 ```
 
-![BTC204](assets/fr/034.webp)
+![BTC204](assets/nb-NO/034.webp)
 
 Source : [Mempool.space](https://mempool.space/fr/tx/b6cc79f45fd2d7669ff94db5cb14c45f1f879ea0ba4c6e3d16ad53a18c34b769)
 
@@ -417,7 +424,7 @@ Nå som du har forstått hva et mønster er, kan vi gå videre til de andre eksi
 
 Denne andre modellen kjennetegnes av forbruk av én enkelt UTXO som input og produksjon av én enkelt UTXO som output.
 
-![BTC204](assets/fr/035.webp)
+![BTC204](assets/nb-NO/035.webp)
 
 Tolkningen av denne modellen er at vi er i nærvær av en selvoverføring. Brukeren har overført sine bitcoins til seg selv, til en annen adresse som tilhører ham. Siden det ikke er noen utveksling på transaksjonen, er det svært usannsynlig at vi er i nærvær av en betaling. Når en betaling utføres, er det faktisk nesten umulig for betaleren å ha en UTXO som tilsvarer nøyaktig beløpet som kreves av selgeren, pluss transaksjonsgebyret. Generelt er betaleren derfor forpliktet til å produsere en utvekslingseffekt.
 
@@ -429,7 +436,7 @@ Her er for eksempel en Bitcoin-transaksjon som følger sveipemønsteret:
 35f1072a0fda5ae106efb4fda871ab40e1f8023c6c47f396441ad4b995ea693d
 ```
 
-![BTC204](assets/fr/036.webp)
+![BTC204](assets/nb-NO/036.webp)
 
 Source : [Mempool.space](https://mempool.space/fr/tx/35f1072a0fda5ae106efb4fda871ab40e1f8023c6c47f396441ad4b995ea693d)
 
@@ -441,7 +448,7 @@ La oss ta Alices eksempel igjen: Hvis skanningen fører til en adresse som er kj
 
 Denne modellen kjennetegnes ved at det forbrukes flere UTXO-er ved inngangen og produseres én UTXO ved utgangen.
 
-![BTC204](assets/fr/037.webp)
+![BTC204](assets/nb-NO/037.webp)
 
 Tolkningen av dette mønsteret er at vi er i nærvær av konsolidering. Dette er en vanlig praksis blant Bitcoin-brukere, som har som mål å slå sammen flere UTXO-er i påvente av en mulig økning i transaksjonsgebyrene. Ved å utføre denne operasjonen i en periode hvor avgiftene er lave, er det mulig å spare på fremtidige avgifter. Vi skal snakke mer om denne praksisen i kapittel 4.3.
 
@@ -455,19 +462,19 @@ Her er for eksempel en Bitcoin-transaksjon som følger konsolideringsmønsteret:
 77c16914211e237a9bd51a7ce0b1a7368631caed515fe51b081d220590589e94
 ```
 
-![BTC204](assets/fr/038.webp)
+![BTC204](assets/nb-NO/038.webp)
 
 Source : [Mempool.space](https://mempool.space/fr/tx/77c16914211e237a9bd51a7ce0b1a7368631caed515fe51b081d220590589e94)
 
 I en kjedeanalyse kan denne modellen avsløre mye informasjon. Hvis vi for eksempel vet at en av inndataene tilhører Alice, kan vi anta at alle de andre inndataene og utdataene fra denne transaksjonen også tilhører henne. Denne antakelsen gjør det mulig å gå tilbake i kjeden av tidligere transaksjoner for å finne og analysere andre transaksjoner som sannsynligvis kan knyttes til Alice.
 
-![BTC204](assets/fr/039.webp)
+![BTC204](assets/nb-NO/039.webp)
 
 ### Grupperte utgifter
 
 Denne modellen kjennetegnes av forbruk av noen få UTXO-er som input (ofte bare én) og produksjon av mange UTXO-er som output.
 
-![BTC204](assets/fr/040.webp)
+![BTC204](assets/nb-NO/040.webp)
 
 Tolkningen av denne modellen er at vi er i nærvær av grupperte utgifter. Det er en praksis som sannsynligvis avslører en svært stor økonomisk aktivitet, for eksempel en utvekslingsplattform. Grupperte utgifter gjør det mulig for disse enhetene å spare kostnader ved å kombinere utgiftene sine i én enkelt transaksjon.
 
@@ -479,7 +486,7 @@ Her er for eksempel en Bitcoin-transaksjon som bruker det samlede utgiftsmønste
 8a7288758b6e5d550897beedd13c70bcbaba8709af01a7dbcc1f574b89176b43
 ```
 
-![BTC204](assets/fr/041.webp)
+![BTC204](assets/nb-NO/041.webp)
 
 Source : [Mempool.space](https://mempool.space/fr/tx/8a7288758b6e5d550897beedd13c70bcbaba8709af01a7dbcc1f574b89176b43)
 
@@ -487,7 +494,7 @@ Source : [Mempool.space](https://mempool.space/fr/tx/8a7288758b6e5d550897beedd13
 
 Blant transaksjonsmønstrene kan vi også identifisere dem som avslører bruk av en bestemt protokoll. For eksempel vil Whirlpool coinjoins (omtalt i del 5) ha en lett identifiserbar struktur som skiller dem fra andre, mer konvensjonelle transaksjoner.
 
-![BTC204](assets/fr/042.webp)
+![BTC204](assets/nb-NO/042.webp)
 
 En analyse av dette mønsteret tyder på at vi sannsynligvis er i nærheten av en samarbeidstransaksjon. Det er også mulig å observere en coinjoin. Hvis sistnevnte hypotese viser seg å stemme, kan antallet exits gi oss et grovt estimat av antall deltakere i coinjoin.
 
@@ -497,7 +504,7 @@ Her er for eksempel en Bitcoin-transaksjon som bruker det samarbeidende transaks
 00601af905bede31086d9b1b79ee8399bd60c97e9c5bba197bdebeee028b9bea
 ```
 
-![BTC204](assets/fr/043.webp)
+![BTC204](assets/nb-NO/043.webp)
 
 Source : [Mempool.space](https://mempool.space/fr/tx/00601af905bede31086d9b1b79ee8399bd60c97e9c5bba197bdebeee028b9bea)
 
@@ -509,6 +516,8 @@ Takket være disse transaksjonsmønstrene kan vi allerede tolke en viss mengde i
 
 <chapterId>c54b5abe-872f-40f4-a0d0-c59faff228ba</chapterId>
 
+:::video id=bbc145cc-5232-41e4-a7f8-1af4e422635a:::
+
 
 En intern heuristikk er en spesifikk egenskap som vi identifiserer i selve transaksjonen, uten at vi trenger å undersøke omgivelsene, og som gjør det mulig for oss å trekke slutninger. I motsetning til mønstre, som fokuserer på den overordnede strukturen i transaksjonen på et overordnet nivå, er interne heuristikker basert på et sett med data som kan hentes ut. Dette inkluderer
 
@@ -518,7 +527,7 @@ En intern heuristikk er en spesifikk egenskap som vi identifiserer i selve trans
 
 Generelt sett vil denne typen heuristikk gjøre oss i stand til å identifisere utvekslingen i en spesifikk transaksjon. På den måten kan vi fortsette sporingen av en enhet over flere forskjellige transaksjoner. Hvis vi identifiserer en UTXO som tilhører en bruker vi ønsker å spore, er det avgjørende å finne ut hvilken utgang som har blitt overført til en annen bruker, og hvilken utgang som representerer utvekslingen, og som dermed forblir i brukerens besittelse, når han utfører en transaksjon.
 
-![BTC204](assets/fr/044.webp)
+![BTC204](assets/nb-NO/044.webp)
 
 La meg igjen minne om at disse heuristikkene ikke er helt presise. Hver for seg gjør de oss bare i stand til å identifisere sannsynlige scenarier. Det er akkumuleringen av flere heuristikker som bidrar til å redusere usikkerheten, uten at vi noen gang kan eliminere den helt.
 
@@ -528,7 +537,7 @@ Denne heuristikken går ut på å studere likheter mellom inndata og utdata i en
 
 Den mest åpenbare funksjonen er gjenbruk av en mottakeradresse i samme transaksjon.
 
-![BTC204](assets/fr/045.webp)
+![BTC204](assets/nb-NO/045.webp)
 
 Denne heuristikken gir lite rom for tvil. Med mindre den private nøkkelen hans er blitt hacket, avslører den samme mottakeradressen nødvendigvis aktiviteten til én enkelt bruker. Tolkningen er at transaksjonsutvekslingen er utgangen med samme adresse som inngangen. Vi kan deretter fortsette å spore personen fra denne utvekslingen.
 
@@ -538,13 +547,13 @@ Her er for eksempel en transaksjon som denne heuristikken sannsynligvis kan bruk
 54364146665bfc453a55eae4bfb8fdf7c721d02cb96aadc480c8b16bdeb8d6d0
 ```
 
-![BTC204](assets/fr/046.webp)
+![BTC204](assets/nb-NO/046.webp)
 
 Source : [Mempool.space](https://mempool.space/tx/54364146665bfc453a55eae4bfb8fdf7c721d02cb96aadc480c8b16bdeb8d6d0)
 
 Disse likhetene mellom inn- og utdata stopper ikke ved gjenbruk av adresser. Enhver likhet i bruken av skript kan brukes til å anvende en heuristikk. For eksempel kan vi noen ganger observere samme versjonering mellom inndata og en av transaksjonsutdataene.
 
-![BTC204](assets/fr/047.webp)
+![BTC204](assets/nb-NO/047.webp)
 
 På dette diagrammet kan vi se at inngang nr. 0 låser opp et P2WPKH-skript (SegWit V0 som starter med `bc1q`). Utgang nr. 0 bruker samme type skript. Utgang nr. 1, derimot, bruker et P2TR-skript (SegWit V1 som begynner med `bc1p`). Tolkningen av denne funksjonen er at det er sannsynlig at adressen med samme versjonering som inndataadressen er utvekslingsadressen. Den vil derfor alltid tilhøre den samme brukeren.
 
@@ -554,19 +563,19 @@ Her er en transaksjon som denne heuristikken sannsynligvis kan brukes på:
 db07516288771ce5d0a06b275962ec4af1b74500739f168e5800cbcb0e9dd578
 ```
 
-![BTC204](assets/fr/048.webp)
+![BTC204](assets/nb-NO/048.webp)
 
 Source : [Mempool.space](https://mempool.space/tx/db07516288771ce5d0a06b275962ec4af1b74500739f168e5800cbcb0e9dd578)
 
 På sistnevnte kan vi se at inngang nr. 0 og utgang nr. 1 bruker P2WPKH-skript (SegWit V0), mens utgang nr. 0 bruker et annet P2PKH-skript (Legacy).
 
-På begynnelsen av 2010-tallet var denne heuristikken basert på skriptversjonering relativt lite nyttig på grunn av de begrensede skripttypene som var tilgjengelige. Etter hvert som Bitcoin har blitt oppdatert, har det imidlertid blitt introdusert et økende mangfold av skripttyper. Denne heuristikken blir derfor stadig mer relevant, ettersom brukerne deler seg inn i mindre grupper med et større utvalg av skripttyper, noe som øker sjansene for å bruke denne interne heuristikken for gjenbruk av versjonering. Av denne grunn er det, kun ut fra et konfidensialitetsperspektiv, tilrådelig å velge den vanligste typen skript. I skrivende stund er for eksempel Taproot-skript (`bc1p`) mindre brukt enn SegWit V0-skript (`bc1q`). Selv om førstnevnte gir økonomiske og konfidensialitetsmessige fordeler i visse spesifikke sammenhenger, kan det for mer tradisjonell bruk med én signatur være fornuftig å holde seg til en eldre standard av konfidensialitetshensyn, inntil den nye standarden er tatt i bruk i større utstrekning.
+På begynnelsen av 2010-tallet var denne heuristikken basert på skriptversjonering relativt lite nyttig på grunn av de begrensede skripttypene som var tilgjengelige. Etter hvert som Bitcoin har blitt oppdatert, har det imidlertid blitt introdusert et økende mangfold av skripttyper. Denne heuristikken blir derfor stadig mer relevant, ettersom brukerne deler seg inn i mindre grupper med et større utvalg av skripttyper, noe som øker sjansene for å bruke denne interne heuristikken for gjenbruk av versjonering. Av denne grunn er det, kun ut fra et konfidensialitetsperspektiv, tilrådelig å velge den vanligste typen skript. I skrivende stund er for eksempel [Taproot](https://planb.academy/resources/glossary/taproot)-skript (`bc1p`) mindre brukt enn SegWit V0-skript (`bc1q`). Selv om førstnevnte gir økonomiske og konfidensialitetsmessige fordeler i visse spesifikke sammenhenger, kan det for mer tradisjonell bruk med én signatur være fornuftig å holde seg til en eldre standard av konfidensialitetshensyn, inntil den nye standarden er tatt i bruk i større utstrekning.
 
 ### Betalinger med runde tall
 
 En annen intern heuristikk som kan hjelpe oss med å identifisere utvekslingen, er rundetallheuristikken. Generelt sett er det slik at når man står overfor et enkelt betalingsmønster (1 inngang og 2 utganger), vil det være betalingen hvis en av utgangene bruker et rundt beløp.
 
-![BTC204](assets/fr/049.webp)
+![BTC204](assets/nb-NO/049.webp)
 
 Ved eliminering, hvis den ene utgangen representerer betaling, representerer den andre utvekslingen. Det kan derfor tolkes som sannsynlig at inputbrukeren alltid er i besittelse av den outputen som er identifisert som bytte.
 
@@ -581,7 +590,7 @@ En analytiker kan likevel prøve å gjøre denne omregningen ved å ta hensyn ti
 
 Når transaksjonen er konvertert til fiat-valuta, kan den brukes til å anvende heuristikken for betaling med runde beløp. Utbetalingen på 20 euro har sannsynligvis gått til en forhandler, eller i det minste skiftet eier. Ut fra dette er det sannsynlig at utbetalingene på 41,27 euro forble i den opprinnelige brukerens besittelse.
 
-![BTC204](assets/fr/050.webp)
+![BTC204](assets/nb-NO/050.webp)
 
 Hvis bitcoin en dag blir den foretrukne regningsenheten på børsene våre, kan denne heuristikken bli enda mer nyttig for analyse.
 
@@ -591,7 +600,7 @@ Her er for eksempel en transaksjon som denne heuristikken sannsynligvis kan bruk
 2bcb42fab7fba17ac1b176060e7d7d7730a7b807d470815f5034d52e96d2828a
 ```
 
-![BTC204](assets/fr/051.webp)
+![BTC204](assets/nb-NO/051.webp)
 
 Source : [Mempool.space](https://mempool.space/tx/2bcb42fab7fba17ac1b176060e7d7d7730a7b807d470815f5034d52e96d2828a)
 
@@ -599,7 +608,7 @@ Source : [Mempool.space](https://mempool.space/tx/2bcb42fab7fba17ac1b176060e7d7d
 
 Når vi identifiserer et tilstrekkelig stort gap mellom to transaksjonsoutput i en enkel betalingsmodell, kan vi anslå at det største outputtet sannsynligvis er valuta.
 
-![BTC204](assets/fr/052.webp)
+![BTC204](assets/nb-NO/052.webp)
 
 Denne heuristikken for størst produksjon er helt klart den mest upresise av alle. I seg selv er den ganske svak. Men denne funksjonen kan kombineres med andre heuristikker for å redusere usikkerheten i tolkningen vår.
 
@@ -611,13 +620,15 @@ Her er for eksempel en transaksjon som denne heuristikken sannsynligvis kan bruk
 b79d8f8e4756d34bbb26c659ab88314c220834c7a8b781c047a3916b56d14dcf
 ```
 
-![BTC204](assets/fr/053.webp)
+![BTC204](assets/nb-NO/053.webp)
 
 Source : [Mempool.space](https://mempool.space/tx/b79d8f8e4756d34bbb26c659ab88314c220834c7a8b781c047a3916b56d14dcf)
 
 ## Ekstern heuristikk
 
 <chapterId>4a170e3b-200d-431a-8285-18a23ff617ba</chapterId>
+
+:::video id=f83c94a1-4f60-4dc7-855d-aa6710064575:::
 
 
 Studiet av eksterne heuristikker innebærer å analysere likheter, mønstre og egenskaper ved visse elementer som ikke er spesifikke for selve transaksjonen. Med andre ord: Mens vi tidligere begrenset oss til å utnytte elementer som var iboende i transaksjonen med interne heuristikker, utvider vi nå analysefeltet til å omfatte transaksjonens omgivelser, takket være eksterne heuristikker.
@@ -630,13 +641,13 @@ Dermed er det mulig å utnytte gjenbruk av adresser innenfor samme transaksjon s
 
 Tolkningen av gjenbruk av en adresse er at alle UTXO-er som er blokkert på den adressen, tilhører (eller har tilhørt) samme enhet. Denne heuristikken gir lite rom for usikkerhet. Når den først er identifisert, er det sannsynlig at tolkningen som blir resultatet, samsvarer med virkeligheten. Den gjør det derfor mulig å gruppere ulike aktiviteter i kjeden.
 
-![BTC204](assets/fr/054.webp)
+![BTC204](assets/nb-NO/054.webp)
 
 Som forklart i innledningen til del 3, ble denne heuristikken oppdaget av Satoshi Nakamoto selv. I hvitboken nevner han en løsning for å hjelpe brukerne med å unngå å generere den, nemlig å bruke en tom adresse for hver nye transaksjon:
 
 "_Som en ekstra brannmur kan et nytt nøkkelpar brukes for hver transaksjon, slik at de ikke knyttes til en felles eier."
 
-![BTC204](assets/fr/055.webp)
+![BTC204](assets/nb-NO/055.webp)
 
 Kilde: S. Nakamoto: S. Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System", https://bitcoin.org/bitcoin.pdf, 2009.
 
@@ -646,9 +657,9 @@ Her er for eksempel en adresse som gjenbrukes i flere transaksjoner:
 bc1qqtmeu0eyvem9a85l3sghuhral8tk0ar7m4a0a0
 ```
 
-![BTC204](assets/fr/056.webp)
+![BTC204](assets/nb-NO/056.webp)
 
-Kilde: [Mempool.space] (https://mempool.space/address/bc1qqtmeu0eyvem9a85l3sghuhral8tk0ar7m4a0a0)
+Kilde: [Mempool.space](https://mempool.space/address/bc1qqtmeu0eyvem9a85l3sghuhral8tk0ar7m4a0a0)
 
 ### Skriptlikhet og lommebokavtrykk
 
@@ -660,9 +671,9 @@ Mer generelt kan en analytiker også fokusere på de karakteristiske fingeravtry
 
 For eksempel vil vi kunne identifisere at den sporede brukeren systematisk sender endringene sine til P2TR-adresser (`bc1p...`). Hvis denne prosessen gjentas, kan vi bruke den som en heuristikk for resten av analysen. Vi kan også bruke andre fingeravtrykk, for eksempel rekkefølgen på UTXO-er, plasseringen av endringen i utdataene, RBF-signalering (Replace-by-Fee), eller versjonsnummeret, `nSequence`-feltet og `nLockTime`-feltet.
 
-![BTC204](assets/fr/057.webp)
+![BTC204](assets/nb-NO/057.webp)
 
-Som [@LaurentMT] (https://twitter.com/LaurentMT) påpeker i [Space Kek #19] (https://podcasters.spotify.com/pod/show/decouvrebitcoin/episodes/SpaceKek-19---Analyse-de-chane--anonsets-et-entropie-e1vfuji) (en franskspråklig podkast), øker nytten av porteføljefingeravtrykk i kjedeanalyse betydelig over tid. Det økende antallet skripttyper og porteføljeprogramvarenes stadig mer progressive bruk av disse nye funksjonene forsterker forskjellene. I noen tilfeller er det til og med mulig å identifisere den eksakte programvaren som brukes av enheten som spores. Det er derfor viktig å forstå at studiet av porteføljefotavtrykk er spesielt relevant for nyere transaksjoner, snarere enn for dem som ble initiert tidlig på 2010-tallet.
+Som [@LaurentMT](https://twitter.com/LaurentMT) påpeker i [Space Kek #19](https://podcasters.spotify.com/pod/show/decouvrebitcoin/episodes/SpaceKek-19---Analyse-de-chane--anonsets-et-entropie-e1vfuji) (en franskspråklig podkast), øker nytten av porteføljefingeravtrykk i kjedeanalyse betydelig over tid. Det økende antallet skripttyper og porteføljeprogramvarenes stadig mer progressive bruk av disse nye funksjonene forsterker forskjellene. I noen tilfeller er det til og med mulig å identifisere den eksakte programvaren som brukes av enheten som spores. Det er derfor viktig å forstå at studiet av porteføljefotavtrykk er spesielt relevant for nyere transaksjoner, snarere enn for dem som ble initiert tidlig på 2010-tallet.
 
 For å oppsummere kan et fotavtrykk være en hvilken som helst spesifikk praksis, utført automatisk av lommeboken eller manuelt av brukeren, som vi kan finne på andre transaksjoner for å hjelpe oss i analysen vår.
 
@@ -670,21 +681,21 @@ For å oppsummere kan et fotavtrykk være en hvilken som helst spesifikk praksis
 
 Common Input Ownership Heuristic (CIOH) er en heuristikk som sier at når en transaksjon har flere inndata, er det sannsynlig at de alle stammer fra én og samme enhet. Følgelig er eierskapet til dem felles.
 
-![BTC204](assets/fr/058.webp)
+![BTC204](assets/nb-NO/058.webp)
 
 For å anvende CIOH observerer vi først en transaksjon med flere inndata. Det kan være to innganger eller 30 innganger. Når denne karakteristikken er identifisert, sjekker vi om transaksjonen passer inn i en kjent transaksjonsmodell. Hvis det for eksempel er fem innganger med omtrent samme beløp og fem utganger med nøyaktig samme beløp, vet vi at dette er strukturen til en coinjoin. Vi vil ikke kunne bruke CIOH.
 
-![BTC204](assets/fr/059.webp)
+![BTC204](assets/nb-NO/059.webp)
 
 Hvis transaksjonen derimot ikke passer inn i noen kjent samarbeidende transaksjonsmodell, kan vi tolke det slik at alle inndataene sannsynligvis kommer fra samme enhet. Dette kan være svært nyttig for å utvide en allerede kjent klynge eller fortsette et spor.
 
-![BTC204](assets/fr/060.webp)
+![BTC204](assets/nb-NO/060.webp)
 
 CIOH ble oppdaget av Satoshi Nakamoto. Han snakker om det i del 10 av hvitboken:
 
 "_[...] kobling er uunngåelig ved transaksjoner med flere poster, som nødvendigvis avslører at postene har samme eier. Risikoen er at hvis eieren av en nøkkel blir avslørt, kan koblingene avsløre andre transaksjoner som tilhørte samme eier."
 
-![BTC204](assets/fr/061.webp)
+![BTC204](assets/nb-NO/061.webp)
 
 Det er spesielt fascinerende å merke seg at Satoshi Nakamoto, allerede før den offisielle lanseringen av Bitcoin, hadde identifisert de to viktigste sårbarhetene for brukernes personvern, nemlig CIOH og gjenbruk av adresser. En slik framsynthet er ganske bemerkelsesverdig, ettersom disse to heuristikkene fortsatt i dag er de mest nyttige i blokkjedeanalyse.
 
@@ -694,7 +705,7 @@ Her er et eksempel på en transaksjon som vi sannsynligvis kan bruke CIOH på:
 20618e63b6eed056263fa52a2282c8897ab2ee71604c7faccfe748e1a202d712
 ```
 
-![BTC204](assets/fr/062.webp)
+![BTC204](assets/nb-NO/062.webp)
 
 Source : [Mempool.space](https://mempool.space/tx/20618e63b6eed056263fa52a2282c8897ab2ee71604c7faccfe748e1a202d712)
 
@@ -710,7 +721,7 @@ På samme måte kan du utføre en analyse ved eliminering. Hvis du for eksempel 
 
 Kanalanalysen omfatter også en litt mer generell OSINT-komponent (*Open Source Intelligence*), som innebærer søk på internett. Derfor fraråder vi å publisere adresser direkte på sosiale nettverk eller på en nettside, uansett om de er pseudonyme eller ikke.
 
-![BTC204](assets/fr/063.webp)
+![BTC204](assets/nb-NO/063.webp)
 
 ### Temporale modeller
 
@@ -732,7 +743,7 @@ På den flerbruksadressen jeg nevnte tidligere, kan vi for eksempel se at transa
 bc1qqtmeu0eyvem9a85l3sghuhral8tk0ar7m4a0a0
 ```
 
-![BTC204](assets/fr/064.webp)
+![BTC204](assets/nb-NO/064.webp)
 
 Kilde: OXT.me
 
@@ -746,7 +757,7 @@ På en annen måte førte en tidsanalyse av denne typen også til hypotesen om a
 
 I dette siste kapittelet skal vi sette konseptene vi har studert så langt ut i praksis. Jeg skal vise deg eksempler på ekte Bitcoin-transaksjoner, og du må selv hente ut informasjonen jeg ber deg om.
 
-Ideelt sett, for å utføre disse øvelsene, ville bruk av et profesjonelt kjedeanalyseverktøy være å foretrekke. Siden arrestasjonen av skaperne av Samourai Wallet er imidlertid det eneste gratis analyseverktøyet OXT.me ikke lenger tilgjengelig. Vi velger derfor en klassisk blokkutforsker for disse øvelsene. Jeg anbefaler å bruke [Mempool.space] (https://mempool.space/) på grunn av de mange funksjonene og utvalget av kjedeanalyseverktøy, men du kan også velge en annen utforsker, for eksempel [Bitcoin Explorer] (https://bitcoinexplorer.org/).
+Ideelt sett, for å utføre disse øvelsene, ville bruk av et profesjonelt kjedeanalyseverktøy være å foretrekke. Siden arrestasjonen av skaperne av Samourai Wallet er imidlertid det eneste gratis analyseverktøyet OXT.me ikke lenger tilgjengelig. Vi velger derfor en klassisk blokkutforsker for disse øvelsene. Jeg anbefaler å bruke [Mempool.space](https://mempool.space/) på grunn av de mange funksjonene og utvalget av kjedeanalyseverktøy, men du kan også velge en annen utforsker, for eksempel [Bitcoin Explorer](https://bitcoinexplorer.org/).
 
 Til å begynne med vil jeg introdusere deg for oppgavene. Bruk blokkutforskeren til å fullføre dem, og skriv ned svarene dine på et ark. På slutten av dette kapittelet får du svarene, slik at du kan kontrollere og korrigere resultatene dine.
 
@@ -800,7 +811,7 @@ Etter å ha identifisert modellen ved hjelp av transaksjonens interne heuristikk
 
 La oss forestille oss at Loïc har lagt ut en av sine Bitcoin-mottaksadresser på det sosiale nettverket Twitter :
 
-![BTC204](assets/fr/065.webp)
+![BTC204](assets/nb-NO/065.webp)
 
 ```plaintext
 bc1qja0hycrv7g9ww00jcqanhfpqmzx7luqalum3vu
@@ -824,7 +835,7 @@ Denne transaksjonen er den aller første som sender penger til Loïcs adresse. H
 
 Etter øvelse 5 har du, takket være heuristikken for gjenbruk av adresser, vært i stand til å identifisere flere Bitcoin-transaksjoner der Loïc ser ut til å være involvert. Nå ønsker du å finne ut hvor Loïc kom fra. Basert på transaksjonene du har funnet, utfører du en tidsanalyse for å finne tidssonen som mest sannsynlig ble brukt av Loïc. Ut fra denne tidssonen kan du finne ut hvor Loïc ser ut til å bo (land, stat/region, by...).
 
-![BTC204](assets/fr/066.webp)
+![BTC204](assets/nb-NO/066.webp)
 
 ### Øvelse 8
 
@@ -997,7 +1008,7 @@ En analyse av disse tidsskjemaene viser at UTC-7 og UTC-8 stemmer overens med en
 21:55 UTC > 13:55 UTC-8
 ```
 
-![BTC204](assets/fr/066.webp)
+![BTC204](assets/nb-NO/067.webp)
 
 UTC-7-tidssonen er spesielt relevant om sommeren, ettersom den omfatter stater og regioner som :
 
@@ -1019,10 +1030,10 @@ ___
 *For å skrive denne del 3 om kjedeanalyse har jeg benyttet meg av følgende ressurser:*
 
 
-- Serien med fire artikler med tittelen: [Understanding Bitcoin Privacy with OXT] (https://medium.com/oxt-research/understanding-bitcoin-privacy-with-oxt-part-1-4-8177a40a5923), produsert av Samourai Wallet i 2021 ;*
-- De ulike rapportene fra [OXT Research] (https://medium.com/oxt-research), samt deres gratis blockchain-analyseverktøy (ikke lenger tilgjengelig for øyeblikket etter arrestasjonen av grunnleggerne av Samourai Wallet) ;*
-- Mer generelt kommer kunnskapen min fra ulike tweets og innhold fra [@LaurentMT] (https://twitter.com/LaurentMT) og [@ErgoBTC] (https://twitter.com/ErgoBTC) ;*
-- [Space Kek #19] (https://podcasters.spotify.com/pod/show/decouvrebitcoin/episodes/SpaceKek-19---Analyse-de-chane--anonsets-et-entropie-e1vfuji), der jeg deltok i selskap med [@louneskmt] (https://twitter.com/louneskmt), [@TheoPantamis] (https://twitter.com/TheoPantamis), [@Sosthene___] (https://twitter.com/Sosthene___) og [@LaurentMT] (https://twitter.com/LaurentMT)
+- Serien med fire artikler med tittelen: [Understanding Bitcoin Privacy with OXT](https://medium.com/oxt-research/understanding-bitcoin-privacy-with-oxt-part-1-4-8177a40a5923), produsert av Samourai Wallet i 2021;
+- De ulike rapportene fra [OXT Research](https://medium.com/oxt-research), samt deres gratis blockchain-analyseverktøy (ikke lenger tilgjengelig for øyeblikket etter arrestasjonen av grunnleggerne av Samourai Wallet);
+- Mer generelt kommer kunnskapen min fra ulike tweets og innhold fra [@LaurentMT](https://twitter.com/LaurentMT) og [@ErgoBTC](https://twitter.com/ErgoBTC);
+- [Space Kek #19](https://podcasters.spotify.com/pod/show/decouvrebitcoin/episodes/SpaceKek-19---Analyse-de-chane--anonsets-et-entropie-e1vfuji), der jeg deltok i selskap med [@louneskmt](https://twitter.com/louneskmt), [@TheoPantamis](https://twitter.com/TheoPantamis), [@Sosthene___](https://twitter.com/Sosthene___) og [@LaurentMT](https://twitter.com/LaurentMT)
 
 *Jeg vil gjerne takke forfatterne, utviklerne og produsentene. Takk også til korrekturleserne som omhyggelig korrigerte artikkelen som denne del 3 er basert på, og som ga meg sine ekspertråd :*
 
@@ -1038,6 +1049,8 @@ ___
 
 <chapterId>f3e97645-3df3-41bc-a4ed-d2c740113d96</chapterId>
 
+:::video id=5392183e-e317-499f-9757-b69e9d7cda11:::
+
 
 Etter å ha studert teknikkene som kan bryte konfidensialiteten din på Bitcoin, vil vi i denne tredje delen nå se på de beste fremgangsmåtene du kan ta i bruk for å beskytte deg selv. Målet med denne delen er ikke å utforske metoder for å forbedre konfidensialiteten, et emne som vil bli behandlet senere, men heller å forstå hvordan man kan samhandle riktig med Bitcoin for å beholde den konfidensialiteten den naturlig tilbyr, uten å ty til ytterligere teknikker.
 
@@ -1050,9 +1063,9 @@ En Bitcoin-mottaksadresse er en streng eller identifikator som brukes til å mot
 Teknisk sett "mottar" ikke en Bitcoin-mottakeradresse bitcoins i bokstavelig forstand, men tjener heller til å definere betingelsene for hvordan bitcoins kan brukes. Konkret, når en betaling sendes til deg, oppretter avsenderens transaksjon en ny UTXO for deg som en output fra UTXOene den har brukt som input. På denne outputen legger den til et skript som definerer hvordan denne UTXO-en kan brukes på et senere tidspunkt. Dette skriptet kalles "*ScriptPubKey*" eller "*Locking Script*". Mottaksadressen din, eller mer presist nyttelasten, er integrert i dette skriptet. Enkelt sagt sier dette skriptet i utgangspunktet:
 
 > "*For å bruke denne nye UTXO-en må du oppgi en digital signatur ved hjelp av den private nøkkelen som er knyttet til denne mottakeradressen*."
-![BTC204](assets/fr/067.webp)
+![BTC204](assets/nb-NO/068.webp)
 
-Bitcoin-adresser kommer i forskjellige typer, avhengig av hvilken skriptmodell som brukes. De første modellene, kjent som "Legacy*", inkluderer `P2PKH` (*Pay-to-PubKey-Hash*) og `P2SH` (*Pay-to-Script-Hash*) adresser. P2PKH-adresser begynner alltid med `1`, og P2SH med `3`. Selv om disse formatene fortsatt er sikre, er de nå foreldet, ettersom de medfører høyere transaksjonskostnader og gir mindre konfidensialitet enn de nye standardene.
+Bitcoin-adresser kommer i forskjellige typer, avhengig av hvilken skriptmodell som brukes. De første modellene, kjent som **Legacy**, inkluderer `P2PKH` (*Pay-to-PubKey-Hash*) og `P2SH` (*Pay-to-Script-Hash*) adresser. P2PKH-adresser begynner alltid med `1`, og P2SH med `3`. Selv om disse formatene fortsatt er sikre, er de nå foreldet, ettersom de medfører høyere transaksjonskostnader og gir mindre konfidensialitet enn de nye standardene.
 
 SegWit V0-adresser (`P2WPKH` og `P2WSH`) og Taproot/SegWit V1-adresser (`P2TR`) representerer moderne formater. SegWit-adresser starter med `bc1q` og Taproot-adresser, som ble introdusert i 2021, starter med `bc1p`.
 
@@ -1089,7 +1102,7 @@ Hvordan mottaksadressene konstrueres, avhenger også av hvilken skriptmodell som
 - For `P2SH`- og `P2WSH`-adresser representerer nyttelasten hashen til en ;
 - Når det gjelder P2TR-adresser, er nyttelasten en justert offentlig nøkkel. P2TR-adresser kombinerer aspekter av _Pay-to-PubKey_ og _Pay-to-Script_. Den justerte offentlige nøkkelen er resultatet av å legge til en klassisk offentlig nøkkel med en "tweak", avledet fra Merkle-roten til et sett med skript som også kan brukes til å bruke bitcoins.
 
-![BTC204](assets/fr/068.webp)
+![BTC204](assets/nb-NO/069.webp)
 
 Adresser som vises i porteføljeprogramvaren, inneholder også en HRP (*Human-Readable Part*), vanligvis `bc` for post-SegWit-adresser, et `1`-skilletegn og et versjonsnummer `q` for SegWit V0 og `p` for Taproot/SegWit V1. Det legges også til en kontrollsum for å garantere adressens integritet og gyldighet under overføring.
 
@@ -1127,7 +1140,7 @@ Når forskjellige ScriptPubKeys inneholder den samme mottakeradressen, kalles de
 Siden blokkjeden er offentlig, er det enkelt å se hvilke adresser som låser hvilke UTXO og hvor mange bitcoins. Hvis samme adresse brukes til flere transaksjoner, er det mulig å utlede at alle bitcoins som er knyttet til denne adressen, tilhører samme person. Denne praksisen går på bekostning av brukernes personvern ved å gjøre det mulig å etablere deterministiske koblinger mellom ulike transaksjoner og spore bitcoins i blokkjeden. Satoshi Nakamoto selv fremhevet dette problemet allerede i Bitcoins hvitbok:
 
 > *Som en ekstra brannmur kan det brukes et nytt nøkkelpar for hver transaksjon, slik at de ikke knyttes til en felles eier*
-![BTC204](assets/fr/055.webp)
+![BTC204](assets/nb-NO/070.webp)
 
 Kilde: S. Nakamoto: S. Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System", https://bitcoin.org/bitcoin.pdf, 2009.
 
@@ -1135,7 +1148,7 @@ Satoshis intensjon med denne setningen var å skape en ekstra brannmur i tilfell
 
 Når du gjenbruker en adresse, lager du en nesten ubestridelig kobling mellom alle transaksjonene som er knyttet til denne adressen. Selv om dette ikke direkte truer pengene dine, ettersom elliptisk kurvekryptografi garanterer sikkerheten til de private nøklene dine, gjør det det lettere å overvåke aktivitetene dine. Alle som har en node, kan observere transaksjonene og saldoen til adressene, noe som går helt på bekostning av anonymiteten din.
 
-![BTC204](assets/fr/054.webp)
+![BTC204](assets/nb-NO/071.webp)
 
 For å illustrere dette poenget kan vi ta et eksempel med Bob, en bruker som regelmessig kjøper bitcoins i små mengder i DCA og alltid sender dem til samme adresse. Etter to år inneholder denne adressen en betydelig mengde bitcoins. Hvis Bob bruker denne adressen til å betale til en lokal forhandler, vil sistnevnte kunne se alle de tilknyttede midlene og utlede Bobs formue. Dette kan føre til risiko for personsikkerheten, for eksempel forsøk på tyveri eller utpressing. Hvis Bob hadde brukt en blank adresse til å motta hvert periodiske kjøp, ville han ha avslørt uendelig mye mindre informasjon til selgeren.
 
@@ -1149,11 +1162,11 @@ Den første er når en adresse gjenbrukes i flere forskjellige Bitcoin-transaksj
 
 Intern gjenbruk av adresser forekommer ikke når gjenbruk skjer over flere transaksjoner, men når det skjer innenfor én enkelt transaksjon. Hvis den samme adressen som brukes til å låse en inngang, brukes som utgang i en transaksjon, kan vi utlede at denne utgangen fortsatt tilhører den samme brukeren (børsen), og at den andre utgangen representerer den faktiske betalingen. Denne andre heuristikken gjør det mulig å forevige et pengespor over flere transaksjoner.
 
-![BTC204](assets/fr/045.webp)
+![BTC204](assets/nb-NO/072.webp)
 
 Gjenbruk av adresser er en reell svøpe på Bitcoin. Ifølge nettstedet OXT.me (for øyeblikket utilgjengelig) var den totale gjenbruksraten for adresser på Bitcoin rundt 52 % i 2022:
 
-![BTC204](assets/fr/069.webp)
+![BTC204](assets/nb-NO/073.webp)
 
 Dette er en enorm andel, men den kommer i overveldende grad fra utvekslingsplattformer snarere enn fra individuelle brukere.
 
@@ -1163,7 +1176,7 @@ Det er ganske enkelt å unngå gjenbruk av adresser: **Bruk ganske enkelt en ny,
 
 Takket være BIP32 er moderne porteføljer nå deterministiske og hierarkiske. Det betyr at en bruker kan generere et stort antall adresser ut fra én enkelt innledende opplysning: seed. Ved å lagre denne ene informasjonen er det mulig å gjenopprette alle de private nøklene i porteføljen, slik at man får tilgang til midlene som er sikret av de tilsvarende adressene.
 
-![BTC204](assets/fr/070.webp)
+![BTC204](assets/nb-NO/074.webp)
 
 Dette er grunnen til at når du trykker på "*mottak*"-knappen i lommebokprogramvaren din, foreslås en ubrukt mottaksadresse hver gang. Etter å ha mottatt bitcoins på denne adressen, foreslår programvaren automatisk en ny.
 
@@ -1173,6 +1186,8 @@ Hvis du trenger en statisk identifikator for å motta betalinger, for eksempel d
 ## Merking og kontroll av deler
 
 <chapterId>fbdb07cd-c025-48f2-97b0-bd1bc21c68a8</chapterId>
+
+:::video id=4c411c97-ebb2-483d-b4fa-03109cf5d5d7:::
 
 
 Som vi oppdaget i avsnittet om strenganalyse, finnes det en rekke heuristikker og mønstre som kan brukes til å utlede informasjon om en transaksjon. Som bruker er det viktig å være klar over disse teknikkene for å kunne beskytte seg bedre mot dem.
@@ -1195,7 +1210,7 @@ Den aktive bruken av merking blir enda mer interessant når den kombineres med e
 
 Myntkontroll er en funksjon som finnes i god Bitcoin-lommebokprogramvare, og som gir deg muligheten til å manuelt velge spesifikke UTXO-er som skal brukes som input for å fullføre en transaksjon. For å tilfredsstille en utgangsbetaling må du faktisk forbruke en UTXO i retur. Av flere grunner, som vi skal se nærmere på senere, kan det være lurt å velge nøyaktig hvilke deler som skal brukes som input for å utføre en gitt betaling. Det er nettopp dette du kan gjøre med myntkontroll. For å gi deg en analogi, kan denne funksjonen sammenlignes med å velge en bestemt mynt fra lommeboken din når du betaler for baguetten din.
 
-![BTC204](assets/fr/071.webp)
+![BTC204](assets/nb-NO/075.webp)
 
 Bruk av porteføljeprogramvare med myntkontroll, kombinert med UTXO-merking, gjør det mulig for brukerne å både skille ut og velge UTXO-er for transaksjonene sine på en nøyaktig måte.
 
@@ -1213,7 +1228,7 @@ Det viktigste å notere på etiketten er kilden til UTXO. Du bør ganske enkelt 
 - kjøp P2P Charles` ;
 - "Endre kjøp av sofa
 
-![BTC204](assets/fr/072.webp)
+![BTC204](assets/nb-NO/076.webp)
 
 For å finjustere UTXO-forvaltningen og respektere fondssegregeringsstrategiene i porteføljen din, kan du berike etikettene dine med en ekstra indikator som gjenspeiler disse skillene. Hvis porteføljen din inneholder to kategorier UTXO som du er opptatt av å ikke blande, kan du innlemme en markør i etikettene dine for å skille disse gruppene tydelig fra hverandre. Disse skillemarkørene vil avhenge av dine egne kriterier, for eksempel å skille mellom UTXO-er som er et resultat av en oppkjøpsprosess som involverer KYC, eller mellom profesjonelle og personlige fond. Hvis vi tar etiketteksemplene som er nevnt ovenfor, kan dette oversettes til:
 
@@ -1223,7 +1238,7 @@ For å finjustere UTXO-forvaltningen og respektere fondssegregeringsstrategiene 
 - `NO KYC - Kjøp P2P Charles` ;
 - `NO KYC - Bytte sofakjøp`
 
-![BTC204](assets/fr/073.webp)
+![BTC204](assets/nb-NO/077.webp)
 
 Det anbefales også å videreføre merkingen av en del i løpet av transaksjonene. For eksempel, når du konsoliderer UTXO no-KYC, må du sørge for å merke den resulterende UTXO-en ikke bare som `konsolidering`, men spesifikt som `konsolidering no-KYC` for å holde en klar oversikt over hvor myntene kom fra.
 
@@ -1239,7 +1254,7 @@ Når du utfører en transaksjon, kan du med myntkontrollen spesifikt velge hvilk
 
 La oss ta et konkret eksempel for å illustrere det første poenget. Anta at du kjøper en baguette i bitcoins fra bakeren din. Du bruker en eller flere UTXO-er som du har som input for å betale minst prisen på baguetten i output, samt transaksjonsgebyrene. Bakeren din kan da potensielt knytte ansiktet ditt, eller en hvilken som helst annen del av identiteten din som han kjenner til, til myntene som brukes som input. Når du vet at denne koblingen eksisterer, foretrekker du kanskje å velge en bestemt UTXO fremfor en annen når du skal betale.
 
-![BTC204](assets/fr/074.webp)
+![BTC204](assets/nb-NO/078.webp)
 
 Hvis for eksempel en av UTXOene dine kommer fra en utvekslingsplattform, og du helst ikke vil at bakeren skal vite om kontoen din på den plattformen, vil du unngå å bruke den UTXOen til betaling. Hvis du har en UTXO med høy verdi som avslører en betydelig mengde bitcoins, kan du også velge å ikke bruke den for å unngå at bakeren blir klar over BTC-formuen din.
 
@@ -1247,15 +1262,15 @@ Hvis for eksempel en av UTXOene dine kommer fra en utvekslingsplattform, og du h
 
 Utover informasjonen som potensielt avsløres for mottakeren, påvirker valget av inndata også hva du avslører for alle observatører av blokkjeden. Ved å bruke flere UTXO-er som input i transaksjonen avslører du faktisk at de eies av samme enhet, i henhold til CIOH-heuristikken (_Common Input Ownership Heuristic_).
 
-![BTC204](assets/fr/075.webp)
+![BTC204](assets/nb-NO/079.webp)
 
 Når du velger deler, må du derfor være klar over at transaksjonen du skal sende, vil skape en kobling mellom alle UTXO-ene som brukes. Denne koblingen kan være problematisk for personvernet ditt, spesielt hvis UTXO-ene kommer fra forskjellige kilder.
 
-![BTC204](assets/fr/076.webp)
+![BTC204](assets/nb-NO/080.webp)
 
 La oss ta eksemplet med min UTXO uten KYC fra Bisq; jeg vil unngå å kombinere den med en UTXO fra for eksempel en regulert børsplattform som kjenner identiteten min. Hvis jeg noen gang bruker disse to UTXO-ene som input i samme transaksjon, vil den regulerte plattformen kunne koble identiteten min til UTXO-en jeg kjøpte på Bisq, som ikke tidligere var knyttet til identiteten min.
 
-![BTC204](assets/fr/077.webp)
+![BTC204](assets/nb-NO/081.webp)
 
 Til slutt, når du velger hvilke UTXO-er som skal brukes som input til en transaksjon, er det viktigste å unngå å bruke flere UTXO-er. Når du kan, velger du høyst en enkelt mynt som er stor nok til å tilfredsstille betalingen. På denne måten unngår du helt risikoen forbundet med CIOH. Men hvis ingen enkelt UTXO er tilstrekkelig for betaling og du må bruke flere, må du sørge for at de kommer fra lignende kilder for å minimere risikoen for uønskede koblinger. Husk også at mottakeren kan knytte informasjonen de har om deg til historikken til myntene som brukes i inndata.
 
@@ -1275,11 +1290,13 @@ Alle disse metodene for automatisk UTXO-valg kan være effektive når det gjelde
 
 Hvis du vil finne ut hvordan du merker UTXO-ene dine, har vi laget en omfattende veiledning om den viktigste Bitcoin-lommebokprogramvaren der ute:
 
-https://planb.network/tutorials/privacy/on-chain/utxo-labelling-d997f80f-8a96-45b5-8a4e-a3e1b7788c52
+https://planb.academy/tutorials/privacy/on-chain/utxo-labelling-d997f80f-8a96-45b5-8a4e-a3e1b7788c52
 
 ## KYC og nøkkelidentifikasjon
 
 <chapterId>cec6b9d9-0eed-4f85-bc4e-1e9aa59ca605</chapterId>
+
+:::video id=ecf888fe-906f-4293-91b5-1e5ae7b2fde1:::
 
 
 KYC står for "Know Your Customer". Det er en regulatorisk prosedyre som implementeres av visse selskaper som opererer i Bitcoin-sektoren. Formålet med denne prosedyren er å verifisere og registrere identiteten til kundene deres, med det uttalte målet å bekjempe hvitvasking av penger og finansiering av terrorisme.
@@ -1294,13 +1311,13 @@ Denne prosedyren er ikke uten risiko for brukernes personvern og sikkerhet. I de
 
 Den første risikoen forbundet med KYC er at det gir et privilegert inngangspunkt for blokkjedeanalyse. Som vi så i forrige avsnitt, kan analytikere gruppere og spore aktivitet i blokkjeden ved hjelp av transaksjonsmønstre og heuristikk. Når de har lykkes med å gruppere en brukers aktivitet i blokkjeden, trenger de bare å finne et enkelt inngangspunkt blant alle transaksjonene og nøklene hans for å kompromittere konfidensialiteten hans fullt ut.
 
-![BTC204](assets/fr/078.webp)
+![BTC204](assets/nb-NO/082.webp)
 
 Når du utfører en KYC, gir du et inngangspunkt av høy kvalitet for blokkjedeanalyse, ettersom du knytter mottaksadressene dine som brukes når du tar ut bitcoins fra en utvekslingsplattform, til din fulle, bekreftede identitet. I teorien er denne informasjonen kun kjent for selskapet du har oppgitt den til, men som vi skal se nedenfor, er risikoen for datalekkasje reell. I tillegg kan bare det faktum at et selskap har denne informasjonen være problematisk, selv om de ikke deler den.
 
 Så hvis du ikke tar andre skritt for å begrense aggregeringen av aktivitetene dine i blokkjeden, kan hvem som helst med kunnskap om dette KYC-punktet potensielt koble all aktiviteten din på Bitcoin til identiteten din. Fra dette selskapets synspunkt mister din bruk av Bitcoin all konfidensialitet.
 
-![BTC204](assets/fr/079.webp)
+![BTC204](assets/nb-NO/083.webp)
 
 For å illustrere dette med en sammenligning, kan vi tenke oss at bankmannen din i *Bank X* ikke bare har tilgang til alle transaksjonene dine med *Bank X*, men også kan observere transaksjonene dine med *Bank Y* og alle kontanttransaksjonene dine.
 
@@ -1342,7 +1359,7 @@ Det er viktig å dekonstruere noen av de forutinntatte ideene om KYC som vi ofte
 
 Først og fremst er det unøyaktig å tro at det er meningsløst å beskytte personvernet ditt for Bitcoins ervervet via KYC. Personvernverktøy og -metoder på Bitcoin er varierte og tjener forskjellige formål. Å bruke coinjoin-transaksjoner på Bitcoins ervervet via KYC, for eksempel, er ikke en dårlig idé. Selvfølgelig må du være forsiktig med regulerte utvekslingsplattformer for å unngå at kontoen din blir frosset eller utestengt, men fra et strengt teknisk synspunkt er ikke disse metodene uforenlige. Coinjoin har den effekten at en mynts historikk brytes, og hjelper deg dermed med å motvirke visse kjedeanalyserisikoer forbundet med KYC. Selv om det ikke eliminerer alle risikoer, representerer det en betydelig fordel.
 
-![BTC204](assets/fr/080.webp)
+![BTC204](assets/nb-NO/084.webp)
 
 Konfidensialitet på Bitcoin bør ikke ses på på en binær måte, som et skille mellom "anonyme" bitcoins og andre som ikke er det. Å eie Bitcoins ervervet via KYC betyr ikke at alt er tapt; tvert imot kan bruk av konfidensialitetsverktøy vise seg å være enda mer fordelaktig.
 
@@ -1366,21 +1383,23 @@ KYC refererer spesifikt til en regulatorisk prosedyre som er implementert av vis
 
 Hvis du for eksempel kjøper bitcoins på en regulert plattform i Sveits, er det ikke nødvendig med KYC. Nøklene dine kan imidlertid bli identifisert, ettersom kjøpet ble gjort via bankkontoen din. Det er her de to første risikoene forbundet med KYC - tilrettelegging for sporing i kjeden og eksponering for statlig overvåkning - også kan manifestere seg i en børs uten KYC. Hvis den sveitsiske enheten rapporterer mistenkelige transaksjoner til myndighetene i landet ditt, kan de ganske enkelt sjekke bankkontoen som ble brukt til kjøpet for å finne identiteten din. Så kjøp uten KYC på regulerte plattformer ligger ganske høyt på risikoskalaen for nøkkelidentifikasjon.
 
-![BTC204](assets/fr/081.webp)
+![BTC204](assets/nb-NO/085.webp)
 
 Å unngå regulerte plattformer og velge P2P-kjøpsmetoder eliminerer imidlertid ikke risikoen for nøkkelidentifikasjon helt, men reduserer den bare. La oss ta et eksempel på et kjøp på Bisq eller en annen P2P-plattform. For å betale motparten bruker du sannsynligvis bankkontoen din. Hvis myndighetene stiller spørsmål ved personen du har handlet med, og ber om navnet ditt, er vi tilbake til risiko 1 og 2. Selv om disse risikoene er mye lavere enn ved kjøp på en plattform uten KYC, og enda lavere enn ved kjøp med KYC, er de fortsatt til stede i mindre grad.
 
-![BTC204](assets/fr/082.webp)
+![BTC204](assets/nb-NO/086.webp)
 
 Selv om du skaffer deg bitcoins gjennom en fysisk veksling mot kontanter, er du ikke helt anonym. Personen du byttet med har sett ansiktet ditt, som er en del av identiteten din. Selv om muligheten for nøkkelidentifikasjon er minimal i dette eksemplet, er den fortsatt til stede.
 
-![BTC204](assets/fr/083.webp)
+![BTC204](assets/nb-NO/087.webp)
 
 Når bitcoins byttes mot andre eiendeler, enten det er et kjøp i statlig valuta eller et salg mot en ekte vare, er det alltid en eller annen form for nøkkelidentifikasjon. Avhengig av hvilken vekslingsmetode som velges, kan denne identifikasjonen variere i intensitet. Det er viktig å ikke forveksle denne identifikasjonen med KYC, som er en veldefinert regulatorisk prosess. Det er imidlertid en kobling mellom KYC og identifikasjonsspekteret, siden KYC ligger i den øvre enden av spekteret, ettersom det systematisk legger til rette for at myndighetene kan identifisere brukernøkler.
 
 ## Salgs- og anskaffelsesmetoder
 
 <chapterId>756598af-95aa-4c77-ac48-243c7ad89530</chapterId>
+
+:::video id=9fd3d90f-32f4-48a2-a740-3597249551db:::
 
 
 Etter å ha lest forrige kapittel lurer du kanskje på hvordan du kan kjøpe eller selge bitcoin uten å måtte gjennomgå en identitetsverifisering, for å unngå risikoen forbundet med KYC. Det finnes flere måter å handle bitcoin på.
@@ -1389,13 +1408,13 @@ Etter å ha lest forrige kapittel lurer du kanskje på hvordan du kan kjøpe ell
 
 Som vi har sett, er den beste metoden når det gjelder konfidensialitet fortsatt P2P-utveksling (person-til-person) med kontantoppgjør. Denne metoden gjør det mulig å minimere sporene som etterlates, og reduserer muligheten for nøkkelidentifikasjon betraktelig, enten du kjøper eller selger.
 
-![BTC204](assets/fr/084.webp)
+![BTC204](assets/nb-NO/088.webp)
 
 Likevel er det risiko for personlig sikkerhet. Den største faren ligger i det faktum at motparten under utvekslingen vil vite at du holder en stor sum penger, enten i kontanter eller i bitcoins. Denne informasjonen kan tiltrekke seg oppmerksomheten til ondsinnede personer. Det anbefales derfor generelt å være diskret om bitcoinbeholdningen din. Dette rådet kan også brukes på kontanter. Ved personlig veksling er det imidlertid uunngåelig å avsløre at du eier bitcoins, og dette kan tiltrekke seg uønsket oppmerksomhet.
 
-![BTC204](assets/fr/085.webp)
+![BTC204](assets/nb-NO/089.webp)
 
-For å begrense denne risikoen vil jeg råde deg til å foretrekke kontanttransaksjoner med personer du stoler på, for eksempel familiemedlemmer eller nære venner. Alternativt kan du også vurdere å handle på [lokale Bitcoin-møter] (https://btcmap.org/communities/map), etter å ha deltatt noen ganger. Dette vil tillate deg å bli bedre kjent med de andre deltakerne og ikke være alene når du fysisk bytter. Det er imidlertid viktig å være klar over at P2P-kontantbørser i seg selv innebærer en risiko for din personlige sikkerhet som ikke eksisterer når du kjøper via en regulert plattform og bankkontoen din.
+For å begrense denne risikoen vil jeg råde deg til å foretrekke kontanttransaksjoner med personer du stoler på, for eksempel familiemedlemmer eller nære venner. Alternativt kan du også vurdere å handle på [lokale Bitcoin-møter](https://btcmap.org/communities/map), etter å ha deltatt noen ganger. Dette vil tillate deg å bli bedre kjent med de andre deltakerne og ikke være alene når du fysisk bytter. Det er imidlertid viktig å være klar over at P2P-kontantbørser i seg selv innebærer en risiko for din personlige sikkerhet som ikke eksisterer når du kjøper via en regulert plattform og bankkontoen din.
 
 Avhengig av hvor du bor, kan det dessuten være risikabelt å transportere og oppbevare store pengesummer, enten det er bitcoin eller kontanter.
 
@@ -1403,69 +1422,69 @@ Utveksling av kontanter kan også utgjøre en juridisk risiko i tilfelle politik
 
 En annen ulempe med P2P-kjøp er at prisen ofte er høyere enn på regulerte plattformer. Selgerne tar ofte et påslag på alt fra 1 % til noen ganger mer enn 10 %. Det er flere grunner til denne prisforskjellen. For det første er dette en vanlig praksis blant P2P-selgere som har blitt etablert over tid. For det andre har selgerne gebyrer knyttet til transaksjonen for å sende pengene til kjøperen. Det er også en økt risiko for tyveri ved P2P-salg sammenlignet med plattformtransaksjoner, noe som rettferdiggjør en kompensasjon for den risikoen som tas. Endelig kan merkostnaden være knyttet til etterspørselen etter og kvaliteten på utvekslingen når det gjelder konfidensialitet. Som kjøper har gevinsten ved konfidensialitet en pris som gjenspeiles i påslaget som selgeren tar. Noen bitcoinere mener også at påslagsprisen på BTC kjøpt på P2P gjenspeiler den reelle prisen, og hevder at de lavere prisene på regulerte plattformer er et resultat av at man går på akkord med konfidensialiteten til personopplysningene sine.
 
-![BTC204](assets/fr/086.webp)
+![BTC204](assets/nb-NO/090.webp)
 
 ### P2P-utveksling via en matchmaking-plattform
 
 Et mindre risikofylt alternativ når det gjelder personlig sikkerhet, er å utføre P2P-utvekslinger utelukkende på nettet, via elektroniske betalingsmetoder som PayPal, bankoverføringer eller Revolut.
 
-![BTC204](assets/fr/087.webp)
+![BTC204](assets/nb-NO/091.webp)
 
 På denne måten unngår man mange av de risikoene som er forbundet med kontanttransaksjoner. Risikoen for at motparten misligholder sine forpliktelser er imidlertid større på en nettbasert børs. I en fysisk veksling kan du umiddelbart stille ham til ansvar hvis du overleverer penger til selgeren som ikke sender deg bitcoins i retur, siden han står foran deg. På nettet, derimot, er det ofte umulig å spore opp noen som har stjålet fra deg.
 
-![BTC204](assets/fr/088.webp)
+![BTC204](assets/nb-NO/092.webp)
 
 For å redusere denne risikoen er det mulig å bruke spesialiserte plattformer for P2P-utveksling. Disse plattformene bruker konfliktløsningsmekanismer for å beskytte fornærmede brukere. De tilbyr vanligvis et escrow-system, der bitcoins oppbevares inntil betalingen i fiat-valuta er bekreftet av selgeren.
 
-![BTC204](assets/fr/089.webp)
+![BTC204](assets/nb-NO/093.webp)
 
 Når det gjelder personlig sikkerhet, er denne kjøpsmetoden betydelig tryggere enn en fysisk kontantutveksling. Som nevnt ovenfor etterlater imidlertid P2P-børser på nettet flere spor enn en fysisk utveksling, noe som kan være skadelig for personvernet på Bitcoin. Ved å bruke en fiat-betalingsmetode på nettet, for eksempel en bank, eksponerer du mer informasjon som kan gjøre det lettere å identifisere nøkkelpersoner.
 
-![BTC204](assets/fr/090.webp)
+![BTC204](assets/nb-NO/094.webp)
 
 Nok en gang vil jeg ikke anbefale å gjøre for mange store handler i én enkelt transaksjon på disse plattformene. Ved å dele opp transaksjonene dine sprer du risikoen for motpartstyveri.
 
 En annen ulempe med P2P-kjøp er at prisen ofte er høyere enn på regulerte plattformer. Selgerne tar ofte et påslag på alt fra 1 % til noen ganger mer enn 10 %. Det er flere grunner til denne prisforskjellen. For det første er dette en vanlig praksis blant P2P-selgere som har blitt etablert over tid. For det andre har selgerne gebyrer knyttet til transaksjonen for å sende pengene til kjøperen. Det er også en økt risiko for tyveri ved P2P-salg sammenlignet med plattformtransaksjoner, noe som rettferdiggjør en kompensasjon for den risikoen som tas. Endelig kan merkostnaden være knyttet til etterspørselen etter og kvaliteten på utvekslingen når det gjelder konfidensialitet. Som kjøper har gevinsten ved konfidensialitet en pris som gjenspeiles i påslaget som selgeren tar. Noen bitcoinere mener også at påslagsprisen på BTC kjøpt på P2P gjenspeiler den reelle prisen, og hevder at de lavere prisene på regulerte plattformer er et resultat av at man går på akkord med konfidensialiteten til personopplysningene sine.
 
-![BTC204](assets/fr/086.webp)
+![BTC204](assets/nb-NO/095.webp)
 
-Når det gjelder løsninger, har jeg personlig alltid brukt [Bisq] (https://bisq.network/), og jeg er veldig fornøyd med det. Systemet deres er velprøvd og virker pålitelig. Bisq er imidlertid bare tilgjengelig på PC, og grensesnittet kan være for komplisert for nybegynnere. En annen ulempe er at Bisq kun opererer med onchain-transaksjoner, noe som kan bli kostbart i perioder med høye Bitcoin-transaksjonsgebyrer.
+Når det gjelder løsninger, har jeg personlig alltid brukt [Bisq](https://bisq.network/), og jeg er veldig fornøyd med det. Systemet deres er velprøvd og virker pålitelig. Bisq er imidlertid bare tilgjengelig på PC, og grensesnittet kan være for komplisert for nybegynnere. En annen ulempe er at Bisq kun opererer med onchain-transaksjoner, noe som kan bli kostbart i perioder med høye Bitcoin-transaksjonsgebyrer.
 
 -> Se vår Bisq-veiledning.
 
-https://planb.network/tutorials/exchange/peer-to-peer/bisq-fe244bfa-dcc4-4522-8ec7-92223373ed04
+https://planb.academy/tutorials/exchange/peer-to-peer/bisq-fe244bfa-dcc4-4522-8ec7-92223373ed04
 
-For et enklere alternativ kan du prøve [Peach] (https://peachbitcoin.com/), en mobilapp som kobler sammen kjøpere og selgere med et innebygd konfliktløsningssystem. Prosessen er mer intuitiv enn Bisqs.
+For et enklere alternativ kan du prøve [Peach](https://peachbitcoin.com/), en mobilapp som kobler sammen kjøpere og selgere med et innebygd konfliktløsningssystem. Prosessen er mer intuitiv enn Bisqs.
 
 -> Se vår Peach-veiledning.
 
-https://planb.network/tutorials/exchange/peer-to-peer/peach-c6143241-d900-4047-9b73-1caba5e1f874
+https://planb.academy/tutorials/exchange/peer-to-peer/peach-c6143241-d900-4047-9b73-1caba5e1f874
 
-Et annet online-alternativ er [HodlHodl] (https://hodlhodl.com/), en veletablert plattform som tilbyr god likviditet, selv om jeg ikke har testet den personlig.
+Et annet online-alternativ er [HodlHodl](https://hodlhodl.com/), en veletablert plattform som tilbyr god likviditet, selv om jeg ikke har testet den personlig.
 
 -> Se vår HodlHodl-veiledning.
 
-https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f5-8e78-2574a93a3879
+https://planb.academy/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f5-8e78-2574a93a3879
 
-For Lightning Network-baserte løsninger kan du prøve [RoboSats] (https://learn.robosats.com/) og [LNP2PBot] (https://lnp2pbot.com/). RoboSats er tilgjengelig via en nettside og er relativt enkel å bruke. LNP2PBot er mer atypisk, ettersom den fungerer via et utvekslingssystem på Telegram-meldingsapplikasjonen.
+For Lightning Network-baserte løsninger kan du prøve [RoboSats](https://learn.robosats.com/) og [LNP2PBot](https://lnp2pbot.com/). RoboSats er tilgjengelig via en nettside og er relativt enkel å bruke. LNP2PBot er mer atypisk, ettersom den fungerer via et utvekslingssystem på Telegram-meldingsapplikasjonen.
 
 -> Se vår RoboSats-veiledning.
 
 -> Se vår LNP2PBot-veiledning.
 
-https://planb.network/tutorials/exchange/peer-to-peer/robosats-b60e4f7c-533a-4295-9f6d-5368152e8c06
+https://planb.academy/tutorials/exchange/peer-to-peer/robosats-b60e4f7c-533a-4295-9f6d-5368152e8c06
 
-https://planb.network/tutorials/exchange/peer-to-peer/lnp2pbot-v2-e6bcb210-610b-487d-970c-7cce85273e3c
+https://planb.academy/tutorials/exchange/peer-to-peer/lnp2pbot-v2-e6bcb210-610b-487d-970c-7cce85273e3c
 
-![BTC204](assets/fr/091.webp)
+![BTC204](assets/nb-NO/096.webp)
 
 ### Regulerte plattformer uten KYC
 
-Avhengig av hvilket land du bor i, kan du ha tilgang til regulerte plattformer som ikke krever KYC-prosedyrer for å kjøpe eller selge bitcoins. I Sveits kan du for eksempel bruke plattformer som [Relai] (https://relai.app/) og [MtPelerin] (https://www.mtpelerin.com/).
+Avhengig av hvilket land du bor i, kan du ha tilgang til regulerte plattformer som ikke krever KYC-prosedyrer for å kjøpe eller selge bitcoins. I Sveits kan du for eksempel bruke plattformer som [Relai](https://relai.app/) og [MtPelerin](https://www.mtpelerin.com/).
 
 -> Se vår veiledning om Relai.
 
-https://planb.network/tutorials/exchange/centralized/relai-v2-30a9671d-e407-459d-9203-4c3eae15b30e
+https://planb.academy/tutorials/exchange/centralized/relai-v2-30a9671d-e407-459d-9203-4c3eae15b30e
 
 Som vi så i forrige kapittel, sparer denne typen plattformer deg for risikoen forbundet med KYC-prosedyrer, men de utgjør en høyere risiko for nøkkelidentifikasjon. Når det gjelder Bitcoin-konfidensialitet, tilbyr disse plattformene bedre beskyttelse enn kjøpsmetoder med KYC, men de er fortsatt mindre attraktive enn P2P-børser.
 
@@ -1475,7 +1494,7 @@ Når det gjelder personlig sikkerhet, er det imidlertid langt mindre risikabelt 
 
 Et annet alternativ for å kjøpe eller selge bitcoins uten KYC er minibanker for kryptovaluta. Personlig har jeg aldri hatt muligheten til å teste denne løsningen, ettersom det ikke finnes noen i mitt land. Men denne metoden kan være veldig interessant, avhengig av hvor du bor.
 
-![BTC204](assets/fr/092.webp)
+![BTC204](assets/nb-NO/097.webp)
 
 Problemet med minibanker er at de enten er forbudt i noen land, eller sterkt regulert i andre. Hvis en minibank krever en prosedyre for identitetsbekreftelse, er den utsatt for samme risiko som de KYC-regulerte plattformene. Hvis minibanken derimot tillater transaksjoner uten identitetsbekreftelse for små beløp, kan den tilby et konfidensialitetsnivå som kan sammenlignes med en P2P-kontantutveksling, samtidig som man unngår de fleste av risikoene som er forbundet med denne typen utveksling.
 
@@ -1487,11 +1506,11 @@ Til slutt vil jeg også introdusere deg for en løsning som fungerer godt for de
 
 Den beste måten å bruke BTC på er selvfølgelig å bruke Bitcoin eller Lightning Network direkte til å kjøpe en vare eller tjeneste. I mange land er det imidlertid fortsatt begrenset hvor mange forretninger som aksepterer Bitcoin. Et praktisk alternativ er å bruke gavekort.
 
-Flere plattformer som ikke krever KYC-prosedyrer, tilbyr muligheten til å veksle bitcoins til gavekort som kan brukes hos store forhandlere. Disse inkluderer [CoinsBee] (https://www.coinsbee.com/), [The Bitcoin Company] (https://thebitcoincompany.com/) og [Bitrefill] (https://www.bitrefill.com/). Disse plattformene gjør det mye enklere å bruke bitcoinsene dine på daglig basis, og gir deg tilgang til et bredt spekter av produkter og tjenester uten å måtte konvertere dem til fiat-valuta.
+Flere plattformer som ikke krever KYC-prosedyrer, tilbyr muligheten til å veksle bitcoins til gavekort som kan brukes hos store forhandlere. Disse inkluderer [CoinsBee](https://www.coinsbee.com/), [The Bitcoin Company](https://thebitcoincompany.com/) og [Bitrefill](https://www.bitrefill.com/). Disse plattformene gjør det mye enklere å bruke bitcoinsene dine på daglig basis, og gir deg tilgang til et bredt spekter av produkter og tjenester uten å måtte konvertere dem til fiat-valuta.
 
-https://planb.network/tutorials/exchange/centralized/bitrefill-8c588412-1bfc-465b-9bca-e647a647fbc1
+https://planb.academy/tutorials/exchange/centralized/bitrefill-8c588412-1bfc-465b-9bca-e647a647fbc1
 
-![BTC204](assets/fr/093.webp)
+![BTC204](assets/nb-NO/098.webp)
 
 ### Andre anskaffelsesmetoder
 
@@ -1499,11 +1518,13 @@ Andre måter å anskaffe bitcoins på, samtidig som du beskytter personvernet di
 
 En annen metode er å jobbe i bytte mot bitcoins. Denne anskaffelsesmetoden kan være interessant, men graden av identifikasjon som kreves varierer betydelig avhengig av omstendighetene.
 
-*For å skrive dette kapittelet brukte jeg BTC205-kurset som ble gitt av [@pivi___] (https://x.com/pivi___) på Plan ₿ Network (foreløpig bare tilgjengelig på fransk)
+*For å skrive dette kapittelet brukte jeg BTC205-kurset som ble gitt av [@pivi___](https://x.com/pivi___) på Plan ₿ Academy (foreløpig bare tilgjengelig på fransk)*
 
 ## Konsolidering, UTXO-ledelse og CIOH
 
 <chapterId>d0486c8f-332d-402b-ae2e-949416752b9c</chapterId>
+
+:::video id=9e5841a2-4ff5-460e-a161-0e0af57f95d8:::
 
 
 Et av de mest kompliserte aspektene ved å drive en portefølje med egen forvaltning er konsolidering. Bør du konsolidere? Hva er poenget? Hvor stor UTXO bør man respektere? Hva er kompromissene når det gjelder konfidensialitet? Det er dette vi skal se nærmere på i denne delen.
@@ -1520,7 +1541,7 @@ Ikke alle Bitcoin-transaksjoner har samme vekt. De med flere innganger og utgang
 - Transaksjon A består av 1 inngang og 1 utgang. Den allokerer 1 994 satser med avgifter og har en vekt på 141 vB ;
 - Transaksjon B, en mer kompleks transaksjon med to innganger og to utganger, allokerer 2640 satser i avgifter med en vekt på 220 vB.
 
-![BTC204](assets/fr/094.webp)
+![BTC204](assets/nb-NO/099.webp)
 
 I dette eksempelet vil utvinnere foretrekke transaksjon A, selv om transaksjon B gir en høyere totalavgift, ettersom den gir et bedre forhold mellom avgift og vekt. Her er beregningen for hver transaksjon, uttrykt i sats per virtuell byte (sat/vB):
 
@@ -1531,13 +1552,13 @@ TXB : 2640 / 220 = 12 sats / vB
 
 Det betyr at for hver vektenhet gir transaksjon A høyere kostnader enn transaksjon B, selv om transaksjon B gir høyere kostnader i absolutte termer.
 
-![BTC204](assets/fr/095.webp)
+![BTC204](assets/nb-NO/100.webp)
 
 Det er derfor alltid mer interessant for brukeren å forbruke så lite input som mulig i sine transaksjoner. Du må imidlertid forbruke tilstrekkelige mengder for å kunne tilfredsstille utbetalingen. Når du forvalter porteføljen din, må du ha tilstrekkelig store UTXO-er.
 
 Konsolideringsprinsippet går nettopp ut på å utnytte perioder med lave gebyrer på Bitcoin til å slå sammen de mindre UTXOene til én større. På denne måten, når avgiftene stiger på Bitcoin, vil du kunne gjøre transaksjoner med et minimum av innganger, og derfor bruke mindre på avgifter i absolutte termer. Målet er derfor å forutse de obligatoriske transaksjonene som skal utføres i perioder med høye gebyrer.
 
-![BTC204](assets/fr/096.webp)
+![BTC204](assets/nb-NO/101.webp)
 
 I tillegg til å spare transaksjonskostnader bidrar konsolidering av UTXO-er til å forhindre dannelsen av "støv". Med "støv" menes UTXOer som har så lav verdi i sats at den ikke er tilstrekkelig til å dekke transaksjonskostnadene som kreves for å bruke dem. Dette gjør det økonomisk irrasjonelt å bruke disse UTXO-ene så lenge transaksjonskostnadene forblir høye. Ved å samle UTXO-ene dine proaktivt, forhindrer du at de blir til støv, og sørger for at alle midlene dine forblir brukbare.
 
@@ -1569,11 +1590,11 @@ I dette eksempelet vil det derfor være klokt å beholde en minimumsverdi på 94
 
 En av de mest brukte heuristikkene i blokkjedeanalyse er CIOH (*Common Input Ownership Heuristic*), som antar at alle inndata til en Bitcoin-transaksjon tilhører samme enhet. Selve prinsippet med konsolidering er å konsumere flere UTXO-er som input og skape én enkelt UTXO som output. Konsolidering gjør det dermed mulig å bruke ICOH.
 
-![BTC204](assets/fr/097.webp)
+![BTC204](assets/nb-NO/102.webp)
 
 I praksis betyr dette at en utenforstående observatør kan utlede at alle de konsoliderte UTXO-ene sannsynligvis tilhører samme person, og at den unike utdataen som genereres, også tilhører ham eller henne. Denne situasjonen kan sette konfidensialiteten i fare ved at ulike transaksjonshistorikker knyttes sammen. La oss for eksempel si at jeg konsoliderer tre UTXO-er som er anskaffet via P2P, med én UTXO som er anskaffet via en plattform som krever KYC:
 
-![BTC204](assets/fr/098.webp)
+![BTC204](assets/nb-NO/103.webp)
 
 Ved å gjøre dette vil enhver enhet med tilgang til børsplattformens data, potensielt inkludert offentlige etater, kunne identifisere at jeg eier andre mengder BTC. Tidligere var ikke disse UTXO-ene direkte knyttet til identiteten min; nå er de det. I tillegg avslører det for alle kilder at jeg er i besittelse av en viss mengde bitcoins.
 
@@ -1589,6 +1610,8 @@ Uansett må du ikke glemme at enhver konsolidering uunngåelig medfører tap av 
 
 <chapterId>b5216965-7d13-4ea1-9b7c-e292966a487b</chapterId>
 
+:::video id=5fc4ce39-6a0b-419a-baa9-f6da75427987:::
+
 
 La oss ta en titt på noen andre beste fremgangsmåter for å optimalisere personvernet ditt på Bitcoin.
 
@@ -1597,19 +1620,19 @@ La oss ta en titt på noen andre beste fremgangsmåter for å optimalisere perso
 Å eie dine bitcoins i egen forvaring er flott, men å bruke din egen komplette node er enda bedre! Her er hvorfor det å ha din egen node er avgjørende for å kunne bruke Bitcoin helt suverent:
 
 
-- Motstand mot sensur**: Transaksjonene dine kan ikke blokkeres av noen;
-- Uavhengighet fra tredjeparter**: Du er ikke lenger avhengig av noen ekstern tjeneste for å verifisere blokkjededata;
-- Aktiv deltakelse**: Du kan definere dine egne valideringsregler og delta direkte i konsensusprosessen;
-- Bidrag til nettverket**: Ved å drive en node bidrar du til å styrke og distribuere Bitcoin-nettverket;
-- Teknisk utdannelse**: Å administrere en komplett node er en flott måte å utdype din tekniske kunnskap om Bitcoin på.
+- **Motstand mot sensur**: Transaksjonene dine kan ikke blokkeres av noen;
+- **Uavhengighet fra tredjeparter**: Du er ikke lenger avhengig av noen ekstern tjeneste for å verifisere blokkjededata;
+- **Aktiv deltakelse**: Du kan definere dine egne valideringsregler og delta direkte i konsensusprosessen;
+- **Bidrag til nettverket**: Ved å drive en node bidrar du til å styrke og distribuere Bitcoin-nettverket;
+- **Teknisk utdannelse**: Å administrere en komplett node er en flott måte å utdype din tekniske kunnskap om Bitcoin på.
 
 I tillegg til disse fordelene gir bruk av en komplett node også bedre konfidensialitet når du sender transaksjonene dine. Når du utsteder en transaksjon, blir den først opprettet og signert via lommeboken din. For å kringkaste den i Bitcoin-nettverket må den være kjent av minst én node. Ved å bruke din egen node har du direkte kontroll over denne distribusjonen, noe som styrker konfidensialiteten din og begrenser risikoen for datalekkasje.
 
-![BTC204](assets/fr/099.webp)
+![BTC204](assets/nb-NO/104.webp)
 
 Hvis du ikke har din egen Bitcoin-node, må du bruke en tredjepartsnode, for eksempel den som tilbys av leverandøren av lommebokprogramvaren din. I tillegg til å kringkaste transaksjoner, trenger lommeboken din tilgang til diverse informasjon, for eksempel ventende transaksjoner, saldoer knyttet til adressene dine og antall bekreftelser for transaksjonene dine. For å få tilgang til alle disse dataene må du forespørre en node.
 
-![BTC204](assets/fr/100.webp)
+![BTC204](assets/nb-NO/105.webp)
 
 Den største risikoen når du ikke bruker din egen Bitcoin-node, er at operatøren av tredjepartsnoden kan observere aktivitetene dine på blokkjeden, eller til og med dele denne informasjonen med andre enheter. For å begrense denne risikoen er en mellomløsning å bruke lommebokprogramvare som maskerer forbindelsene dine via Tor. Dette kan redusere eksponeringen av dataene dine. Den optimale løsningen er imidlertid å ha din egen Bitcoin-node og bruke den til å kringkaste transaksjonene dine. Du må selvfølgelig også være forsiktig så du ikke lekker informasjon gjennom noden din, men det er et annet tema vi skal se nærmere på i senere avsnitt.
 
@@ -1625,13 +1648,13 @@ Det første rådet jeg kan gi er å blande seg med den tetteste mengden. På Bit
 
 Generelt sett er det klokere å velge den nyeste skriptstandarden, forutsatt at den har blitt tilstrekkelig tatt i bruk. Så hvis jeg i 2022 ville ha frarådet å bruke P2TR (Taproot) på grunn av den lave adopsjonen, vil jeg i 2024 anbefale å velge denne typen skript i stedet, eller hvis ikke, SegWit V0-skript, ettersom antallet transaksjoner som bruker P2TR begynner å utgjøre en veldig betydelig andel.
 
-![BTC204](assets/fr/101.webp)
+![BTC204](assets/nb-NO/106.webp)
 
-Kilde: [txstats.com] (https://txstats.com/d/000000054/utxo-set-repartition-by-output-type)
+Kilde: [txstats.com](https://txstats.com/d/000000054/utxo-set-repartition-by-output-type)
 
 Et annet tips for å bevare konfidensialiteten er å prøve å omgå interne transaksjonsheuristikker. Når du for eksempel foretar en betaling, kan du prøve å unngå å opprette en utdata med et rundt beløp, da dette kan signalisere at den andre utdataen representerer utenlandsk valuta. Hvis du skal sende 100 000 sats til en venn, kan du vurdere å overføre et litt høyere beløp for å unngå denne heuristikken. På samme måte bør du prøve å unngå å opprette valutautganger som er uforholdsmessig høye i forhold til betalingen, da dette også kan avsløre hvilken av utgangene som representerer utenlandsk valuta.
 
-![BTC204](assets/fr/102.webp)
+![BTC204](assets/nb-NO/107.webp)
 
 Til slutt, hvis du utfører Bitcoin-transaksjoner regelmessig, må du sørge for at du ikke alltid sender dem på samme tidspunkter. Ved å spre utsendelsen av transaksjonene dine utover dagen og uken, unngår du å gi utenforstående observatører muligheten til å oppdage et tidssone-basert tidsmønster som kan forsterke analysen deres.
 
@@ -1645,6 +1668,8 @@ I tillegg til alle disse gode praksisene som skal tas i bruk på daglig basis, f
 
 <chapterId>0862bc6b-1c48-4aa4-b76d-4f547b469008</chapterId>
 
+:::video id=37f23334-4b52-43db-8d82-bd84310af86c:::
+
 
 Etter å ha studert det grunnleggende om personvern, skal vi nå se på mer sofistikerte teknikker som tar sikte på å aktivt forsvare konfidensialiteten din, spesielt ved å skille ut bitcoin-historikken din. I neste del skal vi se på en rekke små teknikker, men først vil jeg gjerne fortelle deg om coinjoin.
 
@@ -1656,7 +1681,7 @@ Coinjoin er en teknikk for å bryte bitcoin-sporing på blokkjeden. Den er baser
 
 Som vi så i de første delene av dette kurset, er Bitcoin-transaksjoner kjent for alle brukere via noden deres. Det er derfor enkelt å sjekke den elektroniske signaturkjeden til hver enkelt mynt og observere dens historikk. Dette betyr at alle brukere kan forsøke å analysere transaksjonene til andre brukere. Dermed er anonymitet på transaksjonsnivå umulig. Anonymiteten er imidlertid ivaretatt på individnivå. I motsetning til det konvensjonelle banksystemet, der hver konto er knyttet til en personlig identitet, er midler i Bitcoin knyttet til kryptografiske nøkkelpar (eller skript), noe som gir brukerne en form for pseudonymitet bak kryptografiske identifikatorer.
 
-![BTC204](assets/fr/103.webp)
+![BTC204](assets/nb-NO/108.webp)
 
 Bitcoins konfidensialitet undergraves når utenforstående observatører kan knytte spesifikke UTXO-er til identifiserte brukere. Når denne tilknytningen er etablert, blir det mulig å spore transaksjonene deres og analysere Bitcoin-historikken deres. Coinjoin er nettopp en teknikk som er utviklet for å bryte sporbarheten til UTXO-er, for å tilby Bitcoin-brukere et visst lag med konfidensialitet på transaksjonsnivå.
 
@@ -1664,39 +1689,39 @@ Coinjoins styrker Bitcoin-brukernes konfidensialitet ved å gjøre kjedeanalysen
 
 Det er viktig å forstå at målet med en coinjoin-transaksjon er å bryte historikken til en mynt. Denne teknikken gir ikke permanent anonymitet eller blokkerer definitivt sporing av bitcoin, i motsetning til hva du kanskje tror. Coinjoin har kun som mål å bryte historikken på det punktet der coinjoin-transaksjonen utføres. Før og etter denne operasjonen er mynten imidlertid fortsatt utsatt for den samme risikoen når det gjelder konfidensialitet.
 
-![BTC204](assets/fr/104.webp)
+![BTC204](assets/nb-NO/109.webp)
 
 ### Hvordan fungerer coinjoins?
 
 Coinjoin-prinsippet er basert på en samarbeidstilnærming: Flere brukere som ønsker å blande bitcoinsene sine, setter inn identiske beløp som input i samme transaksjon. Disse beløpene blir deretter omfordelt i utganger med lik verdi til hver bruker.
 
-![BTC204](assets/fr/105.webp)
+![BTC204](assets/nb-NO/110.webp)
 
 På slutten av transaksjonen blir det umulig å knytte en spesifikk utgang til en bruker som er kjent som en inngang. Det er ingen direkte kobling mellom innganger og utganger, noe som bryter forbindelsen mellom brukere og deres UTXO-er, samt historikken til hver del.
 
-![BTC204](assets/fr/106.webp)
+![BTC204](assets/nb-NO/111.webp)
 
 La oss ta Alices eksempel. Hun ønsker å sende rundt 100 000 sats til søsteren Eve i bursdagsgave. Alice vil imidlertid ikke at Eve skal kunne spore transaksjonshistorikken hennes, ettersom hun ikke ønsker å avsløre hvor mange bitcoins hun har eller hvordan hun fikk tak i dem. Derfor bestemmer Alice seg for å bryte UTXO-historikken sin med en coinjoin-transaksjon. Hun organiserer seg med Bob, Charles, David og Frank for å gjennomføre en samarbeidstransaksjon:
 
 
 - Alice, Bob, Charles, David og Frank forplikter seg til å bruke hver sin UTXO på 105 000 sats (med 5 000 sats til gruveavgifter) som input i transaksjonen:
 
-![BTC204](assets/fr/107.webp)
+![BTC204](assets/nb-NO/112.webp)
 
 
 - Til gjengjeld genererer hver av dem en tom adresse for å skape fem identiske utganger på 100 000 satser hver. Hver av dem henter én utgang:
 
-![BTC204](assets/fr/108.webp)
+![BTC204](assets/nb-NO/113.webp)
 
 
 - Alice sitter med en UTXO på 100 000 satser, og historikken er forvekslet. Hun bruker denne UTXO-en i en ny transaksjon for å sende beløpet til Eve på bursdagen hennes:
 
-![BTC204](assets/fr/109.webp)
+![BTC204](assets/nb-NO/114.webp)
 
 
 - Hvis Eve prøver å analysere denne transaksjonen for å hente ut informasjon, vil hun bli konfrontert med coinjoin-transaksjonen som involverer Alice, Bob, Charles, David og Frank. Siden Eve ikke kan skille mellom hvem som eier hvem på grunn av at beløpene er like, kan hun ikke spore Alices UTXO-historikk, og hun kan heller ikke finne ut hvor mange bitcoins søsteren hennes eier eller hvordan hun har skaffet seg dem:
 
-![BTC204](assets/fr/110.webp)
+![BTC204](assets/nb-NO/115.webp)
 
 I dette tilfellet har Alice brukt coinjoin-teknikken for å øke konfidensialiteten med hensyn til retrospektiv analyse. Alice beskytter seg dermed mot en mulig analyse fra Eve, som kan ta utgangspunkt i en bestemt transaksjon og arbeide seg bakover gjennom UTXO-historikken. Denne beskyttelsen mot analyse fra nåtid til fortid kalles retrospektiv anonset. Vi skal se nærmere på dette konseptet i de siste kapitlene i denne delen.
 
@@ -1705,21 +1730,21 @@ Coinjoin gir imidlertid også muligheten til å forsterke konfidensialiteten i f
 
 - Eve, Grace, Mallory, Oscar og Victor legger inn en UTXO på 98 000 sats hver som input til en Bitcoin-transaksjon:
 
-![BTC204](assets/fr/111.webp)
+![BTC204](assets/nb-NO/116.webp)
 
 
 - Til gjengjeld for å bruke disse inndataene får hver bruker en tom adresse som skal brukes til å lage fem utdata på 97 500 helt like satser. Hver bruker får én utgang:
 
-![BTC204](assets/fr/112.webp)
+![BTC204](assets/nb-NO/117.webp)
 
 
 - Eve har nå en UTXO med 97 500 satellitter, og historikken er brutt. Hun kan bruke den uten frykt til å utføre fremtidige transaksjoner. Hvis Alice prøver å spore bitcoinsene hun har sendt til Eve, vil hun bli konfrontert med en coinjoin-transaksjon. Hun vil ikke være i stand til å avgjøre hvilken utgående UTXO som tilhører Eve. Analyse blir umulig:
 
-![BTC204](assets/fr/113.webp)
+![BTC204](assets/nb-NO/118.webp)
 
 I det første eksempelet så vi hvordan coinjoin kan beskytte et roms personvern i forhold til dets fortid, og i det andre eksempelet hvordan det også kan sikre et roms historie i forhold til dets fremtid. Det var derfor jeg nevnte at coinjoin bør ses på som en engangshendelse som segmenterer en delhistorie i begge retninger:
 
-![BTC204](assets/fr/104.webp)
+![BTC204](assets/nb-NO/119.webp)
 
 ### Mixer, coinjoin, mixer... Hva er forskjellen?
 
@@ -1727,7 +1752,7 @@ Coinjoins blir noen ganger beskrevet som "mixers", et begrep som noen bitcoinere
 
 I matematikken generelt refererer blanding til egenskapen til et dynamisk system der alle deler av det opprinnelige rommet etter en viss tidsperiode teoretisk sett kan blandes med alle andre deler. Blanding innebærer at posisjonen til en partikkel eller tilstanden til et system utvikler seg på en slik måte at den fremtidige fordelingen er uavhengig av den opprinnelige fordelingen, slik at man når en tilstand der egenskapene til den opprinnelige tilstanden er jevnt fordelt i hele systemets rom. Dette er nøyaktig hva som skjer i en coinjoin med bitcoins. Så etter min mening er coinjoin virkelig en myntblandingsmetode.
 
-![BTC204](assets/fr/114.webp)
+![BTC204](assets/nb-NO/120.webp)
 
 På den annen side er det viktig å skille coinjoin fra shufflere. En shuffler er en tjeneste der brukerne sender bitcoinsene sine for å bli shufflet. Disse tjenestene var populære på 2010-tallet, men bruken av dem har gått ned på grunn av to store ulemper sammenlignet med coinjoin:
 
@@ -1735,7 +1760,7 @@ På den annen side er det viktig å skille coinjoin fra shufflere. En shuffler e
 - De krever at brukerne gir fra seg kontrollen over midlene sine under blandingsprosessen, noe som utsetter dem for tyveririsiko;
 - Det er ingen garanti for at mikseren ikke registrerer transaksjonsdetaljer, eller til og med selger denne informasjonen til kjedeanalyseselskaper.
 
-![BTC204](assets/fr/115.webp)
+![BTC204](assets/nb-NO/121.webp)
 
 Dagens brukere foretrekker derfor coinjoin, ettersom det lar dem beholde full kontroll over pengene sine gjennom hele prosessen. Coinjoin-deltakere løper ingen risiko for å få bitcoinsene sine stjålet av de andre involverte partene. La oss se nærmere på hvordan alt dette er mulig i neste kapittel.
 
@@ -1743,12 +1768,14 @@ Dagens brukere foretrekker derfor coinjoin, ettersom det lar dem beholde full ko
 
 <chapterId>326c9654-b359-4906-b23d-d6518dd5dc3e</chapterId>
 
+:::video id=7df91435-f60b-4d80-89a8-79717a14ebd3:::
+
 
 Privatlivet som en coinjoin gir, avhenger av størrelsen på gruppen som brikken vår er gjemt i. Det betyr at vi må finne så mange deltakere som mulig. Det er fullt mulig å opprette en coinjoin manuelt, med brukere vi har funnet selv, men dette er en kompleks prosess, og vil ikke gi deg noen store anonsett.
 
 Dette er grunnen til at coinjoin-koordinatorer har utviklet seg på Bitcoin. Deres rolle er å sette de ulike brukerne i kontakt med hverandre og overføre informasjonen som trengs for å fullføre samarbeidstransaksjonen.
 
-![BTC204](assets/fr/116.webp)
+![BTC204](assets/nb-NO/122.webp)
 
 Men hvordan kan vi sikre at koordinatoren aldri får tak i brukernes bitcoins, og til tross for at det er han som bygger coinjoin-transaksjonen, hvordan kan vi sikre at han ikke kan koble sammen brukernes input og output, noe som kan utgjøre en konfidensialitetslekkasje?
 
@@ -1758,7 +1785,7 @@ Moderne coinjoin-implementeringer bruker David Chaums blindsignaturer for å unn
 
 Chaums blindsignaturer er en form for digital signatur der utstederen av en signatur ikke kjenner innholdet i meldingen han signerer. Men signaturen kan deretter verifiseres mot den opprinnelige meldingen. Denne teknikken ble utviklet av kryptografen David Chaum i 1983.
 
-![BTC204](assets/fr/117.webp)
+![BTC204](assets/nb-NO/123.webp)
 
 La oss ta et eksempel med en bedrift som ønsker å autentisere et konfidensielt dokument, for eksempel en kontrakt, uten å avsløre innholdet. Bedriften bruker en maskeringsprosess som kryptografisk omdanner originaldokumentet på en reversibel måte. Det modifiserte dokumentet sendes til en sertifiseringsinstans, som påfører en blind signatur uten å kjenne til det underliggende innholdet. Etter å ha mottatt det signerte dokumentet, avmaskerer selskapet signaturen. Resultatet er et originaldokument som er autentisert med autoritetens signatur, uten at autoriteten noen gang har sett det opprinnelige innholdet.
 
@@ -1770,41 +1797,41 @@ Såkalte "Chaumian"-coinjoins kombinerer bruken av Tor og David Chaums blindsign
 
 Prosessen med å konstruere en coinjoin-transaksjon består av tre hovedfaser: registrering av input, registrering av output og transaksjonssignatur. La oss se på denne prosessen gjennom eksemplet med Alice, en av deltakerne i coinjoin. Alle de andre deltakerne følger de samme trinnene som Alice, hver for seg.
 
-**Trinn 1: Inngangsregistrering
+**Trinn 1: Inngangsregistrering**
 
 
 - Alice sender UTXO-en hun ønsker å bruke som input til transaksjonen, samt den maskerte mottaksadressen hun ønsker å bruke som output for å motta bitcoinsene sine, til koordinatoren. Koordinatoren har derfor ingen mulighet til å vite Alices adresse. Den ser bare den maskerte versjonen hennes:
 
-![BTC204](assets/fr/118.webp)
+![BTC204](assets/nb-NO/124.webp)
 
 
 - Koordinatoren sjekker gyldigheten av inndataene, og signerer deretter Alices maskerte adresse med sin private nøkkel. Han returnerer den blinde signaturen til Alice:
 
-![BTC204](assets/fr/119.webp)
+![BTC204](assets/nb-NO/125.webp)
 
 **Trinn 2: Registrering av utganger**
 
 
 - Alice kan avmaske adressen sin, som nå er signert med koordinatorens private nøkkel. Hun oppretter en ny forbindelse under en annen Tor-identitet. Koordinatoren kan ikke identifisere at det er Alice som kobler seg til under denne nye identiteten:
 
-![BTC204](assets/fr/120.webp)
+![BTC204](assets/nb-NO/126.webp)
 
 
 - Alice sender den umaskerte adressen og signaturen til koordinatoren (som fortsatt ikke vet at det er Alice):
 
-![BTC204](assets/fr/121.webp)
+![BTC204](assets/nb-NO/127.webp)
 
 **Trinn 3: Signering av transaksjonen**
 
 
 - På samme måte henter koordinatoren inn umaskerte utdata fra alle deltakerne. Takket være de tilhørende signaturene kan han kontrollere at hver anonymt innsendte output er signert med hans private nøkkel på forhånd, og dermed garantere at de er legitime. Deretter er han klar til å lage coinjoin-transaksjonen og sende den til deltakerne for signering:
 
-![BTC204](assets/fr/122.webp)
+![BTC204](assets/nb-NO/128.webp)
 
 
 - Alice, i likhet med de andre deltakerne, sjekker at hennes input og output er korrekt inkludert i transaksjonen som er konstruert av koordinatoren. Hvis alt er i orden, sender hun signaturen som låser opp inndataskriptet hennes, til koordinatoren:
 
-![BTC204](assets/fr/123.webp)
+![BTC204](assets/nb-NO/129.webp)
 
 
 - Etter å ha samlet inn signaturer fra alle coinjoin-deltakerne, kan koordinatoren kringkaste transaksjonen på Bitcoin-nettverket, slik at den kan legges til i en blokk.
@@ -1821,34 +1848,34 @@ Det er nettopp disse to offentlige og private aspektene, som muliggjøres ved br
 
 Det er vanskelig å si med sikkerhet hvem som først introduserte coinjoin-ideen til Bitcoin, og hvem som kom opp med ideen om å bruke David Chaums blindsignaturer i denne sammenhengen. Det antas ofte at det var Gregory Maxwell som først nevnte det i [en melding på BitcoinTalk i 2013](https://bitcointalk.org/index.php?topic=279249.0) :
 
-> *"Ved hjelp av Chaums blindsignaturer: Brukerne logger seg på og oppgir inndata (og utveksler adresser) samt en kryptografisk blindet versjon av adressen de ønsker å sende sine private deler til; serveren signerer symbolene og sender dem tilbake. Brukerne kobler seg anonymt til igjen, avmaskerer utdataadressene sine og sender dem tilbake til serveren. Serveren kan se at alle utdataene er signert av den, og at alle utdataene følgelig kommer fra gyldige deltakere. Senere kobler folk seg til igjen og logger seg på
+> *"Ved hjelp av Chaums blindsignaturer: Brukerne logger seg på og oppgir inndata (og utveksler adresser) samt en kryptografisk blindet versjon av adressen de ønsker å sende sine private deler til; serveren signerer symbolene og sender dem tilbake. Brukerne kobler seg anonymt til igjen, avmaskerer utdataadressene sine og sender dem tilbake til serveren. Serveren kan se at alle utdataene er signert av den, og at alle utdataene følgelig kommer fra gyldige deltakere. Senere kobler folk seg til igjen og logger seg på"*
 Maxwell, G. (2013, 22. august). *CoinJoin: Bitcoin-personvern for den virkelige verden*. BitcoinTalk Forum. https://bitcointalk.org/index.php?topic=279249.0
 
-![BTC204](assets/fr/124.webp)
+![BTC204](assets/nb-NO/130.webp)
 
 Det finnes imidlertid andre tidligere omtaler, både for Chaum-signaturer som en del av miksing, men også for coinjoins. [I juni 2011 presenterte Duncan Townsend på BitcoinTalk (https://bitcointalk.org/index.php?topic=12751.0) en mikser som bruker Chaum-signaturer på en måte som er ganske lik moderne Chaumian coinjoins.
 
-I samme tråd kan vi finne [en melding fra hashcoin som svar til Duncan Townsend] (https://bitcointalk.org/index.php?topic=12751.msg315793#msg315793) for å forbedre mikseren hans. Prosessen som beskrives i denne meldingen er nøyaktig hva coinjoins handler om. Et lignende system nevnes også i [en melding fra Alex Mizrahi i 2012] (https://gist.github.com/killerstorm/6f843e1d3ffc38191aebca67d483bd88#file-laundry), da han ga råd til skaperne av Tenebrix, en av de første altcoinsene som senere dannet grunnlaget for Litecoin. Til og med selve begrepet "coinjoin" sies ikke å ha blitt skapt av Greg Maxwell, men å ha kommet fra en idé av Peter Todd.
+I samme tråd kan vi finne [en melding fra hashcoin som svar til Duncan Townsend](https://bitcointalk.org/index.php?topic=12751.msg315793#msg315793) for å forbedre mikseren hans. Prosessen som beskrives i denne meldingen er nøyaktig hva coinjoins handler om. Et lignende system nevnes også i [en melding fra Alex Mizrahi i 2012](https://gist.github.com/killerstorm/6f843e1d3ffc38191aebca67d483bd88#file-laundry), da han ga råd til skaperne av Tenebrix, en av de første altcoinsene som senere dannet grunnlaget for Litecoin. Til og med selve begrepet "coinjoin" sies ikke å ha blitt skapt av Greg Maxwell, men å ha kommet fra en idé av Peter Todd.
 
-![BTC204](assets/fr/125.webp)
+![BTC204](assets/nb-NO/131.webp)
 
 ### Zerolink
 
-Zerolink er en omfattende blandingsprotokoll som inneholder Chaumian coinjoins og ulike strategier for å beskytte brukernes anonymitet mot flere former for kjedeanalyse, særlig ved å minimere feil i forbindelse med porteføljeforvaltning. Denne protokollen [ble introdusert av nopara73 og TDevD i 2017] (https://github.com/nopara73/ZeroLink/blob/master/README.md).
+Zerolink er en omfattende blandingsprotokoll som inneholder Chaumian coinjoins og ulike strategier for å beskytte brukernes anonymitet mot flere former for kjedeanalyse, særlig ved å minimere feil i forbindelse med porteføljeforvaltning. Denne protokollen [ble introdusert av nopara73 og TDevD i 2017](https://github.com/nopara73/ZeroLink/blob/master/README.md).
 
-![BTC204](assets/fr/126.webp)
+![BTC204](assets/nb-NO/132.webp)
 
 Som navnet antyder, er prinsippet bak Zerolink å skape coinjoin-transaksjoner som sikrer at koblingene mellom inn- og utdata ikke kan spores. Dette oppnås ved å sørge for at alle utganger har helt identiske beløp.
 
-![BTC204](assets/fr/127.webp)
+![BTC204](assets/nb-NO/133.webp)
 
 Et viktig forebyggende tiltak Zerolink har iverksatt, er å holde ublandede UTXO-er helt adskilt fra blandede UTXO-er ved å bruke separate kryptografiske nøkkelsett, eller til og med separate porteføljer. Dette skiller "*pre-mix*"-lommeboken, som er beregnet på deler før blanding, fra "*post-mix*"-lommeboken, som er reservert for deler som har blitt blandet.
 
-![BTC204](assets/fr/128.webp)
+![BTC204](assets/nb-NO/134.webp)
 
 Denne strenge separasjonen av UTXO-er tjener først og fremst til å forhindre utilsiktede koblinger mellom en blandet UTXO og en ublandet UTXO. Hvis slike koblinger oppstår, blir effekten av coinjoin på den blandede UTXO-en kansellert uten at brukeren er klar over det, og dermed kompromitteres konfidensialiteten til en UTXO hvis historikk han trodde han hadde brutt. Disse koblingene kan oppstå enten gjennom gjenbruk av adresser ved sikring av en blandet UTXO med en ublandet UTXO, eller gjennom bruk av CIOH (_Common-Input-Ownership Heuristic_), hvis brukeren bruker blandede og ublandede UTXO-er som inndata i samme transaksjon. Ved å skille porteføljene før og etter blanding unngår vi slike utilsiktede assosiasjoner og beskytter brukeren mot utilsiktede feil.
 
-![BTC204](assets/fr/129.webp)
+![BTC204](assets/nb-NO/135.webp)
 
 Dette skillet gjør det også mulig å bruke forskjellige regler for pre-mix- og post-mix-porteføljer på porteføljeprogramvarenivå. I post-mixing-porteføljen kan programvaren for eksempel forby sammenslåing av UTXO-er til inndata for å forhindre bruk av CIOH, noe som ville kompromittere brukerens anonset. Det er også mulig å standardisere bruken av skript og transaksjonsalternativer (som for eksempel RBF-rapportering) for å forhindre identifisering ved hjelp av lommebokfingeravtrykk.
 
@@ -1858,8 +1885,9 @@ Whirlpool er for øyeblikket den eneste coinjoin-implementeringen som følger Ze
 
 <chapterId>e37ed073-9498-4e4f-820b-30951e829596</chapterId>
 
+:::video id=36021102-82f3-4e86-80a9-168e3431ce7b:::
 
-*I 2024 er vi vitne til store endringer i verktøyene som er tilgjengelige for brukere som ønsker å gjøre coinjoins på Bitcoin. Vi er nå ved et vendepunkt, og coinjoin-markedet gjennomgår store omstruktureringer. Dette kapittelet vil helt sikkert bli oppdatert over tid
+
 
 For øyeblikket finnes det hovedsakelig tre ulike implementeringer av coinjoin på Bitcoin:
 
@@ -1868,21 +1896,25 @@ For øyeblikket finnes det hovedsakelig tre ulike implementeringer av coinjoin p
 - Wabisabi;
 - JoinMarket.
 
+I tillegg til disse tre historiske implementasjonene har en ny nylig dukket opp: Joinstr. Jeg vil ikke ta for meg denne i dette kapitlet, men all informasjon om den finner du i denne dedikerte veiledningen:
+
+https://planb.academy/tutorials/privacy/on-chain/joinstr-37d85631-40d3-4203-abc3-3d95a078d7c3
+
 Hver av disse implementeringene har som mål å bryte UTXO-historikken ved hjelp av coinjoin-transaksjoner. Mekanismene deres varierer imidlertid betydelig. Det er derfor viktig å forstå hvordan de fungerer, slik at du kan velge det alternativet som passer best til dine behov.
 
 ### JoinMarket
 
 JoinMarket, grunnlagt i 2015 av Adam Gibson og Chris Belcher, skiller seg klart ut fra andre coinjoin-implementeringer takket være sin unike modell for å koble sammen brukere. Systemet er basert på et P2P-byttemarked der noen brukere, "makerne", gjør bitcoinsene sine tilgjengelige for miksing, mens andre, "takerne", bruker disse kontantene til å foreta coinjoins mot et gebyr.
 
-![BTC204](assets/fr/130.webp)
+![BTC204](assets/nb-NO/136.webp)
 
 I denne modellen gjør "makers" sine bitcoins tilgjengelige for "takers" og mottar en avgift for tjenesten. De som tar bitcoins, betaler på sin side for å bruke produsentens bitcoins til å utføre sine egne coinjoin-transaksjoner. Serviceavgiftene varierer avhengig av hvilken rolle man har: "Makers" samler gebyrer for å tilby likviditet, mens "takers" betaler gebyrene. Markedet opererer fritt, uten betingelser for bruk.
 
 En av de største ulempene med JoinMarket er at det er komplekst å bruke, og det krever en viss grad av fortrolighet med terminaler for å bruke det effektivt. Selv om denne kompleksiteten ikke er et hinder for den erfarne brukeren, kan den begrense tilgangen for allmennheten. Den nylige introduksjonen av et webgrensesnitt kalt JAM har imidlertid gjort det litt enklere å bruke.
 
-![BTC204](assets/fr/131.webp)
+![BTC204](assets/nb-NO/137.webp)
 
-Kilde: [JAM] (https://github.com/joinmarket-webui/jam/blob/devel/docs/assets/screenshot-dark.webp)
+Kilde: [JAM](https://github.com/joinmarket-webui/jam/blob/devel/docs/assets/screenshot-dark.webp)
 
 Den tekniske barrieren er imidlertid fortsatt et stort hinder. I coinjoin-økosystemet, der konfidensialiteten forsterkes av antall deltakere, påvirker enhver begrensning som reduserer tilgjengeligheten direkte den tilgjengelige likviditeten, noe som er en avgjørende faktor for effektiviteten i miksen. Bitcoin, som allerede er en nisje innen finansielle transaksjoner, ser på bruken av coinjoins som en undernisje, og JoinMarket representerer en enda mer spesialisert del av den, noe som derfor begrenser potensialet for å øke brukernes anonsett.
 
@@ -1890,27 +1922,29 @@ Til tross for sin innovative P2P-koblingsmodell for coinjoinere har JoinMarket n
 
 Selv om JoinMarket-konseptet er interessant, spesielt for dem som er interessert i et dynamisk likviditetsmarked, gjør dets strukturelle svakheter og tekniske kompleksitet det etter min mening mindre interessant for både nybegynnere og eksperter som er ute etter en coinjoin-implementering.
 
+https://planb.academy/tutorials/privacy/on-chain/joinmarket-4581d8b0-0888-45c2-9545-d0a298b36f98
+
 ### Wabisabi
 
 Wabisabi er en annen coinjoin-implementering, med en tilnærming som sentraliserer transaksjonskoordinering. Denne modellen ble utviklet av Ádám Ficsór (nopara73), Yuval Kogman, Lucas Ontivero og István András Seres i 2021, og ble integrert i Wasabi 2.0-programvaren året etter. Wabisabi er nettopp en videreutvikling av Wasabi software coinjoin-modellen som ble lansert i 2018.
 
-![BTC204](assets/fr/132.webp)
+![BTC204](assets/nb-NO/138.webp)
 
 Mot slutten av 2010-tallet tok Wasabi i bruk en helt annen struktur for coinjoin-transaksjoner enn Whirlpool. Wasabi brukte svært store coinjoin-transaksjoner som involverte dusinvis av deltakere for å øke anonsettene til deltakerne. Whirlpool valgte derimot flere små transaksjoner, slik at anonsettene kunne vokse eksponentielt for hver syklus.
 
 Metodene for valutahåndtering skilte også de to implementasjonene fra hverandre. Med Whirlpool ble valuta ekskludert og isolert fra UTXO-er før coinjoin-sykluser takket være TX0, et konsept jeg vil forklare nærmere i neste kapittel. I Wasabi, derimot, var valuta en av utgangene fra coinjoin-transaksjonen, slik at det ble opprettholdt deterministiske koblinger mellom visse innganger og utganger.
 
-![BTC204](assets/fr/133.webp)
+![BTC204](assets/nb-NO/139.webp)
 
 Med Wabisabi har Wasabi versjon 2.0 tilpasset sin tilnærming til coinjoins til å matche Whirlpool. Selv om coinjoin-transaksjonene fortsatt er svært store, er det nå mulig å kjede flere påfølgende sykluser etter Whirlpool-modellen. Det er også lagt særlig vekt på valutakursstyring: I motsetning til Wasabi 1.0, der valutakursen var direkte knyttet til brukerens input, forsøker Wabisabi å dele opp valutakursen i flere små summer, fordelt på like store valører for alle deltakerne.
 
 La oss illustrere dette med et forenklet eksempel med bare to brukere: Alice ønsker å blande 115 000 sats og Bob 210 000 sats. Hvis vi ser bort fra gebyrer, ville en coinjoin-transaksjon med Wasabi 1.0 ha generert 3 utganger på 100 000 sats, pluss 1 utveksling på 15 000 sats for Alice og 1 utveksling på 10 000 sats for Bob. Utbytteutgangene ville fortsatt vært knyttet til inngangene:
 
-![BTC204](assets/fr/134.webp)
+![BTC204](assets/nb-NO/140.webp)
 
 Under Wabisabi ville den samme transaksjonen ha gitt 3 utganger på 100 000 sats og 5 utganger på 5 000 sats, og dermed spredt utvekslingen slik at den ikke kunne knyttes direkte til en bestemt inngang:
 
-![BTC204](assets/fr/135.webp)
+![BTC204](assets/nb-NO/141.webp)
 
 Personlig mener jeg at Wabisabis valutahåndtering innebærer flere risikoer som kan svekke effektiviteten når det gjelder konfidensialitet:
 
@@ -1935,16 +1969,22 @@ Enda mer bekymringsfullt er prinsippet om filtrering, som står i radikal kontra
 
 Som du sikkert har forstått nå, foretrekker jeg definitivt Whirlpool-modellen for coinjoins på Bitcoin. Dette systemet skiller seg ut for sin strenghet og tilbyr overlegne garantier for konfidensialitet. Det er også det eneste som tilbyr en blanding som anses som perfekt i en matematisk sammenheng. Etter min mening representerer denne modellen fremtiden for coinjoins på Bitcoin. Jeg inviterer deg til å utforske denne modellen mer inngående i neste kapittel.
 
+https://planb.academy/tutorials/wallet/desktop/wasabi-a0b51540-32d2-4ed2-98aa-801da5d35cf6
+
+https://planb.academy/tutorials/wallet/desktop/ginger-wallet-9bb51029-4e64-4d3c-9766-358649adaea3
+
 ## Hvordan Whirlpool fungerer
 
 <chapterId>bdbd7109-e36d-4b4f-a3c6-928df4e9bfda</chapterId>
+
+:::video id=e40f1195-d028-44d3-be24-d76427f9d24b:::
 
 
 Det som skiller Whirlpool fra andre coinjoin-metoder, er bruken av "_ZeroLink_"-transaksjoner, som sikrer at det strengt tatt ikke er noen mulig teknisk kobling mellom alle innganger og utganger. Denne perfekte miksen oppnås gjennom en struktur der hver deltaker bidrar med en identisk mengde input (med unntak av gruveavgifter), noe som genererer output av helt like mengder.
 
 Denne restriktive tilnærmingen til input gir Whirlpools coinjoin-transaksjoner en unik egenskap: det totale fraværet av deterministiske koblinger mellom input og output. Med andre ord har hver utgang like stor sannsynlighet for å bli tilskrevet en hvilken som helst deltaker, i forhold til alle andre utganger i transaksjonen.
 
-![BTC204](assets/fr/136.webp)
+![BTC204](assets/nb-NO/142.webp)
 
 ### Hvordan Whirlpool fungerer
 
@@ -1955,22 +1995,22 @@ Whirlpool-transaksjoner kjennetegnes dermed av et identisk antall innganger og u
 
 - 5 innganger og 5 utganger ;
 
-![BTC204](assets/fr/137.webp)
+![BTC204](assets/nb-NO/143.webp)
 
 
 - 6 innganger og 6 utganger ;
 
-![BTC204](assets/fr/138.webp)
+![BTC204](assets/nb-NO/144.webp)
 
 
 - 7 innganger og 7 utganger ;
 
-![BTC204](assets/fr/139.webp)
+![BTC204](assets/nb-NO/145.webp)
 
 
 - 8 innganger og 8 utganger.
 
-![BTC204](assets/fr/140.webp)
+![BTC204](assets/nb-NO/146.webp)
 
 Whirlpools modell er basert på små coinjoin-transaksjoner. I motsetning til Wabisabi og JoinMarket, der robustheten til anonsets er basert på volumet av deltakere i en enkelt syklus (eller på noen få sykluser), er Whirlpool avhengig av sekvensen av flere små sykluser.
 
@@ -1978,7 +2018,7 @@ I denne modellen betaler brukerne kun avgifter når de først blir med i en pool
 
 For hver nye coinjoin et stykke deltar i, og for hver gang det blir blandet med andre stykker, vil anonsettene vokse eksponentielt. Målet er å dra nytte av disse gratis remiksene, som hver gang de oppstår, bidrar til å forsterke tettheten av anonsettene som er knyttet til hvert stykke som er blandet.
 
-![BTC204](assets/fr/141.webp)
+![BTC204](assets/nb-NO/147.webp)
 
 Whirlpool er designet med to viktige krav i tankene:
 
@@ -2004,17 +2044,14 @@ En pool representerer en gruppe brukere som ønsker å blande seg sammen, og som
 
 Når du går inn i en pool med bitcoinsene dine, vil de bli delt opp for å generere UTXO-er som er helt homogene med de andre deltakerne i poolen. Hver pool har en maksimumsgrense, så for beløp som overstiger denne grensen, må du enten gjøre to separate oppføringer i samme pool, eller flytte til en annen pool med et høyere beløp:
 
-| Pool (bitcoin) | Maksimumsbeløp per inngang (bitcoin) | Maksimumsbeløp per inngang (bitcoin)
 
-|----------------|--------------------------------------|
+| Pool (bitcoin) | Maximum amount per entry (bitcoin) |
+|----------------|------------------------------------|
+| 0.5            | 35                                 |
+| 0.05           | 3.5                                |
+| 0.01           | 0.7                                |
+| 0.001          | 0.025                              |
 
-| 0,5 | 35 |
-
-| 0,05 | 3,5 |
-
-| 0,01 | 0,7 |
-
-| 0,001 | 0,025 |
 
 En UTXO anses å tilhøre en pool når den er klar til å bli integrert i en coinjoin. Dette betyr imidlertid ikke at brukeren mister kontrollen over den. Som vi så i de første kapitlene i denne delen, beholder du full kontroll over nøklene dine og følgelig bitcoinsene dine gjennom de ulike blandingssyklusene. Det er dette som skiller coinjoin-teknikken fra andre sentraliserte blandingsteknikker.
 
@@ -2022,17 +2059,15 @@ For å bli med i et coinjoin-basseng må du betale en serviceavgift og en utvinn
 
 Serviceavgiften for bruk av Whirlpool betales kun én gang når du melder deg inn i bassenget. Når du har blitt medlem, kan du delta i et ubegrenset antall remixer uten ekstra kostnad. Her er de gjeldende faste avgiftene for hvert basseng:
 
-| Pool (bitcoin) | Påmeldingsavgift (bitcoin) | Startavgift (bitcoin)
 
-|----------------|---------------------------------|
 
-| 0,5 | 0,0175 |
+| Pool (bitcoin) | Entry fee (bitcoin)  |
+| -------------- | -------------------- |
+| 0,5            | 0,0175               |
+| 0,05           | 0,00175              |
+| 0,01           | 0,0005 (50 000 sats) |
+| 0,001          | 0,00005 (5 000 sats) |
 
-| 0,05 | 0,00175 |
-
-| 0,01 | 0,0005 (50 000 sats) | 0,01 | 0,0005 (50 000 sats)
-
-| 0,001 | 0,00005 (5 000 sats) | 0,001 | 0,00005 (5 000 sats)
 
 Disse avgiftene fungerer i hovedsak som en inngangsbillett til det valgte bassenget, uavhengig av beløpet du legger inn i coinjoin. Så uansett om du går inn i 0.01-bassenget med nøyaktig 0.01 BTC eller 0.5 BTC, vil avgiftene forbli de samme i absolutte termer.
 
@@ -2048,7 +2083,7 @@ I tillegg til serviceavgiften må det også tas hensyn til utvinningsgebyret som
 
 I hver Whirlpool-sammenslåing er faktisk to av brukerne blant input-brukerne nye deltakere. De andre inputene kommer fra remixere. Som et resultat bæres utvinningskostnadene for alle deltakerne i transaksjonen av disse to nykommerne, som da også kan dra nytte av gratis remikser:
 
-![BTC204](assets/fr/142.webp)
+![BTC204](assets/nb-NO/148.webp)
 
 Takket være dette gebyrsystemet skiller Whirlpool seg virkelig ut fra andre coinjoin-implementeringer, siden UTXOs anonsets ikke er proporsjonale med prisen som betales av brukeren. Som et resultat er det mulig å oppnå betydelig høyere nivåer av anonymitet ved å betale bare inngangsavgiften til bassenget og utvinningsavgiften for to transaksjoner (`Tx0` og den første blandingen).
 
@@ -2058,7 +2093,7 @@ Det er viktig å merke seg at brukeren også må betale gruveavgiftene for å ta
 
 For å opprette en coinjoin via Whirlpool må lommeboken generere flere separate kontoer. Dette er prinsippet bak ZeroLink-protokollen. En konto, i sammenheng med en HD-portefølje (*Hierarchical Deterministic*), utgjør en seksjon som er helt isolert fra de andre, og denne separasjonen skjer på nivå med den tredje dybden i porteføljehierarkiet, dvs. på `xpub`-nivået.
 
-![BTC204](assets/fr/143.webp)
+![BTC204](assets/nb-NO/149.webp)
 
 En HD-lommebok kan teoretisk sett utlede opptil `2^(31)` forskjellige kontoer. Den første kontoen, som brukes som standard på alle Bitcoin-lommebøker, tilsvarer indeksen `0'.
 
@@ -2084,7 +2119,7 @@ Tx0" er det første trinnet i Whirlpools blandeprosess. Formålet er å klargjø
 
 Denne første Tx0-transaksjonen brukes også til å betale serviceavgiften til coinjoin-koordinatoren. I motsetning til de følgende trinnene er ikke denne transaksjonen samarbeidsbasert, så brukeren må bære hele kostnaden for utvinningen:
 
-![BTC204](assets/fr/144.webp)
+![BTC204](assets/nb-NO/150.webp)
 
 I dette eksemplet på en `Tx0`-transaksjon blir en input på `372 000 sats` fra vår **innskuddskonto** delt opp i flere UTXOer, som fordeler seg på følgende måte:
 
@@ -2096,7 +2131,7 @@ I dette eksemplet på en `Tx0`-transaksjon blir en input på `372 000 sats` fra 
 
 Her er for eksempel en ekte Whirlpool Tx0 (ikke min): [edef60744f539483d868caff49d4848e5cc6e805d6cdc8d0f9bdbbaedcb5fc46](https://mempool.space/fr/tx/edef60744f539483d868caff49d4848e5cc6e805d6cdc8d0f9bdbbaedcb5fc46)
 
-![BTC204](assets/fr/145.webp)
+![BTC204](assets/nb-NO/151.webp)
 
 ### De doxiske endringene
 
@@ -2104,7 +2139,7 @@ Overskuddet som ikke kunne integreres i poolen, her tilsvarende 40 000 sats, omd
 
 Denne UTXO-en er farlig for brukerens konfidensialitet, fordi den ikke bare fortsatt er knyttet til fortiden, og dermed muligens til eierens identitet, men den er også registrert som tilhørende en bruker som har gjort en coinjoin.
 
-![BTC204](assets/fr/146.webp)
+![BTC204](assets/nb-NO/152.webp)
 
 Hvis denne UTXO-en slås sammen med blandede utganger, vil sistnevnte miste all konfidensialitet som er oppnådd under coinjoin-sykluser, særlig på grunn av CIOH (*Common-Input-Ownership-Heuristic*). Hvis den slås sammen med andre doxiske endringer, risikerer brukeren å miste konfidensialiteten, siden den vil koble sammen de ulike coinjoin-syklusoppføringene. Den bør derfor behandles med forsiktighet. Vi går nærmere inn på håndteringen av disse UTXO-ene doxxic i siste del av dette kapittelet.
 
@@ -2114,7 +2149,7 @@ Etter `Tx0` sendes de utlignede UTXO-ene til porteføljens **premix**-konto, kla
 
 På slutten av disse første blandingene vil **premix**-kontoen være tom, mens myntene våre, etter å ha betalt gruveavgiftene for denne første mynttilkoblingen, vil bli justert nøyaktig til det beløpet som er definert av det valgte bassenget. I vårt eksempel vil våre opprinnelige UTXO-er på 108 000 sats ha blitt redusert til nøyaktig 100 000 sats.
 
-![BTC204](assets/fr/147.webp)
+![BTC204](assets/nb-NO/153.webp)
 
 ### Remixer
 
@@ -2132,7 +2167,7 @@ Noen brukere kan vurdere å overføre sine blandede bitcoins til en lommebok sik
 
 Den vanligste feilen er å slå sammen UTXO-er. For å unngå CIOH (*Common-Input-Ownership-Heuristic*) må du unngå å kombinere blandede UTXO-er med ublandede UTXO-er i samme transaksjon. Dette krever nøye styring av UTXO-er i porteføljen, særlig når det gjelder merking.
 
-![BTC204](assets/fr/148.webp)
+![BTC204](assets/nb-NO/154.webp)
 
 Man må også være forsiktig når man konsoliderer blandede UTXO-er. Moderat konsolidering er mulig hvis de blandede UTXO-ene har betydelige anonsett, men dette vil uunngåelig redusere konfidensialiteten til delene dine. Sørg for at konsolideringene verken er for omfattende eller utføres etter et utilstrekkelig antall remikser, med fare for at det etableres koblinger mellom UTXO-ene dine før og etter sammenføyningssykluser. Hvis du er i tvil om disse manipulasjonene, er den beste fremgangsmåten å ikke konsolidere UTXO-er etter remix, men å overføre dem én etter én til maskinvarelommeboken din, og generere en ny blank adresse hver gang. Igjen, husk å merke hver UTXO du mottar.
 
@@ -2140,7 +2175,7 @@ Det er heller ikke tilrådelig å overføre postmix UTXO-er til en lommebok ved 
 
 Som med alle Bitcoin-transaksjoner er det også viktig å ikke gjenbruke mottakeradressen. Hver nye transaksjon må mottas på en ny, tom adresse.
 
-Den enkleste og tryggeste løsningen er å la de blandede UTXO-ene ligge i ro på **postmix**-kontoen deres, la dem remixes og bare røre dem for å bruke dem. Samurai- og Sparrow-lommebøker har ekstra beskyttelse mot alle disse risikoene ved kjedeanalyse. Denne beskyttelsen hjelper deg med å unngå å gjøre feil.
+Den enkleste og sikreste løsningen er å la de miksede UTXO-ene hvile i **postmix**-kontoen deres, la dem remikses og kun røre dem når de skal brukes. Samourai-lommebøkene (og nå Ashigaru) og Sparrow har ekstra beskyttelse mot alle disse risikoene knyttet til kjedeanalyse. Disse beskyttelsene hjelper dere å unngå feil.
 
 ### Hvordan håndterer du giftige utvekslinger?
 
@@ -2149,34 +2184,39 @@ Deretter må du være forsiktig med håndteringen av doxxic exchange, utveksling
 Her er noen strategier for hvordan du kan bruke dem:
 
 
-- Bland dem i mindre bassenger:** Hvis den giftige UTXO-en din er stor nok til å passe inn i et mindre basseng alene, bør du vurdere å blande den. Dette er ofte det beste alternativet. Det er imidlertid ikke tilrådelig å slå sammen flere giftige UTXO-er for å få tilgang til et basseng, da dette kan koble sammen de ulike oppføringene dine;
-- Merk dem som "ikke brukbare":** En annen måte å gjøre det på er å slutte å bruke dem, merke dem som "ikke brukbare" på den dedikerte kontoen deres og bare hodle. Dette sikrer at du ikke bruker dem ved et uhell. Hvis verdien av bitcoin stiger, kan det dukke opp nye bassenger som passer bedre til dine giftige UTXO-er;
-- Gi donasjoner:** Vurder å gi donasjoner, selv om de er beskjedne, til utviklere som jobber med Bitcoin og relatert programvare. Du kan også donere til foreninger som aksepterer BTC. Hvis det virker for komplisert å administrere giftige UTXO-er, kan du bare kvitte deg med dem og gi en donasjon;
-- Kjøp gavekort:** Plattformer som [Bitrefill] (https://www.bitrefill.com/) lar deg veksle bitcoins til gavekort som kan brukes hos ulike forhandlere. Dette kan være en måte å skille seg av med giftige UTXO-er uten å miste den tilhørende verdien;
-- Konsolider dem på Monero:** Samourai Wallet tilbyr en atombyttetjeneste mellom BTC og XMR. Dette er ideelt for å håndtere giftige UTXO-er ved å konsolidere dem på Monero, uten å gå på kompromiss med konfidensialiteten din via CIOH, før du sender dem tilbake til Bitcoin. Dette alternativet kan imidlertid være kostbart når det gjelder gruveavgifter og premie på grunn av likviditetsbegrensninger;
-- Send dem til Lightning Network:** Det kan være et attraktivt alternativ å overføre disse UTXO-ene til Lightning Network for å dra nytte av reduserte transaksjonsgebyrer. Denne metoden kan imidlertid avsløre visse opplysninger avhengig av hvordan du bruker Lightning, og bør derfor brukes med forsiktighet.
+- **Bland dem i mindre bassenger:** Hvis den giftige UTXO-en din er stor nok til å passe inn i et mindre basseng alene, bør du vurdere å blande den. Dette er ofte det beste alternativet. Det er imidlertid ikke tilrådelig å slå sammen flere giftige UTXO-er for å få tilgang til et basseng, da dette kan koble sammen de ulike oppføringene dine;
+- Merk dem som "ikke brukbare": En annen måte å gjøre det på er å slutte å bruke dem, merke dem som "ikke brukbare" på den dedikerte kontoen deres og bare hodle. Dette sikrer at du ikke bruker dem ved et uhell. Hvis verdien av bitcoin stiger, kan det dukke opp nye bassenger som passer bedre til dine giftige UTXO-er;
+- **Gi donasjoner:** Vurder å gi donasjoner, selv om de er beskjedne, til utviklere som jobber med Bitcoin og relatert programvare. Du kan også donere til foreninger som aksepterer BTC. Hvis det virker for komplisert å administrere giftige UTXO-er, kan du bare kvitte deg med dem og gi en donasjon;
+- Kjøp gavekort: Plattformer som [Bitrefill](https://www.bitrefill.com/) lar deg veksle bitcoins til gavekort som kan brukes hos ulike forhandlere. Dette kan være en måte å skille seg av med giftige UTXO-er uten å miste den tilhørende verdien;
+- **Konsolidere dem via Monero:** Samourai Wallet tilbød tidligere en atomisk byttetjeneste mellom BTC og XMR, men denne er ikke lenger tilgjengelig etter arrestasjonene. Denne metoden gjorde det mulig å håndtere giftige UTXO-er ved å konsolidere dem på Monero uten å kompromittere din konfidensialitet gjennom CIOH, før de deretter ble sendt tilbake til Bitcoin. Dersom en tilsvarende tjeneste dukker opp igjen, kan det være et interessant alternativ. Husk likevel at metoden kan bli kostbar, både i form av gruvegebyrer og premie knyttet til likviditetsbegrensninger ved omvendt konvertering til bitcoin.
+- Send dem til Lightning Network: Det kan være et attraktivt alternativ å overføre disse UTXO-ene til Lightning Network for å dra nytte av reduserte transaksjonsgebyrer. Denne metoden kan imidlertid avsløre visse opplysninger avhengig av hvordan du bruker Lightning, og bør derfor brukes med forsiktighet.
 
 ### Hvordan bruker jeg Whirlpool?
 
-Etter arrestasjonen av grunnleggerne av Samourai Wallet og beslagleggelsen av serverne deres den 24. april 2024, fungerer ikke Whirlpool-verktøyet lenger, selv ikke for de med egen Dojo. Tidligere var det tilgjengelig på Samourai Wallet og Sparrow Wallet.
+Etter arrestasjonen av grunnleggerne av Samourai Wallet og beslagleggelsen av serverne deres 24. april 2024, er Whirlpool-verktøyet ikke lenger tilgjengelig på Samourai Wallet og Sparrow Wallet.
 
-![BTC204](assets/fr/149.webp)
+![BTC204](assets/nb-NO/155.webp)
 
-Det er imidlertid fortsatt mulig at dette verktøyet vil bli reaktivert i løpet av de kommende ukene, avhengig av utfallet av forsøkene, eller relansert på en annen måte. Uansett tror jeg ikke Bitcoin coinjoin-markedet vil være uten tilbud lenge, ettersom etterspørselen er der. Siden Whirlpools modell er den mest avanserte når det gjelder konfidensialitet, vil den helt sikkert være den foretrukne modellen for andre implementeringer i fremtiden.
 
-Vi følger nøye med på denne saken og utviklingen i de tilhørende verktøyene. Du kan være trygg på at vi kommer til å oppdatere dette kurset etter hvert som ny informasjon blir tilgjengelig.
+
+Fra nå av er Whirlpool igjen tilgjengelig i mobilappen Ashigaru, en fork av Samourai Wallet, takket være programvaren Ashigaru Terminal.
+
+https://planb.academy/tutorials/privacy/on-chain/ashigaru-terminal-9a0d46d3-33b9-4c64-84c5-bfa25b3a0add
+
+Kjernen i hvordan Whirlpool fungerer forblir uendret, men det finnes likevel noen forskjeller sammenlignet med bruken på Samourai: i 2025 er kun to pooler tilgjengelige på Ashigaru, med beløp på `0.25 BTC` og `0.025 BTC`, og respektive inngangsgebyrer på `0.0125 BTC` og `0.00125 BTC`.
 
 I neste kapittel skal vi finne ut hva "anonsets" er, hvordan disse indikatorene beregnes, og hvordan de kan hjelpe oss med å estimere effektiviteten til coinjoin-sykluser.
 
-https://planb.network/tutorials/privacy/on-chain/coinjoin-sparrow-wallet-84def86d-faf5-4589-807a-83be60720c8b
 
-https://planb.network/tutorials/privacy/on-chain/coinjoin-samourai-wallet-e566803d-ab3f-4d98-9136-5462009262ef
 
-https://planb.network/tutorials/privacy/on-chain/coinjoin-dojo-c4b20263-5b30-4c74-ae59-dc8d0f8715c2
+
+
 
 ## Anonymitetssett
 
 <chapterId>be1093dc-1a74-40e5-9545-2b97a7d7d431</chapterId>
+
+:::video id=03d8581a-3454-4225-9068-a6434840cbcb:::
 
 
 Etter å ha studert hvordan coinjoins fungerer og hva som skal til for å oppnå effektiv miksing, skal vi nå finne ut hvordan vi kan måle effektiviteten. Hvordan kan vi avgjøre om en coinjoining-prosess har vært effektiv, og hvilken grad av anonymitet en del har oppnådd? Det skal vi finne ut av i dette kapittelet ved hjelp av anonymitetssett eller "anonsett".
@@ -2187,11 +2227,11 @@ Nytten av coinjoin ligger i dens evne til å skape plausibel benektelse, ved å 
 
 Med andre ord, en analytiker som kjenner din opprinnelige transaksjon (`Tx0`) ved inngangen til coinjoin-sykluser, skal ikke med sikkerhet kunne identifisere UTXO ved utgangen av remix-sykluser (analyse av syklusinngang til syklusutgang).
 
-![BTC204](assets/fr/150.webp)
+![BTC204](assets/nb-NO/156.webp)
 
 Omvendt må en analytiker som kjenner UTXO ved utgangen av coinjoin-sykluser, være ute av stand til å fastslå den opprinnelige transaksjonen ved inngangen av syklusene (analyse av syklusutgang til syklusinngang).
 
-![BTC204](assets/fr/151.webp)
+![BTC204](assets/nb-NO/157.webp)
 
 For å vurdere hvor vanskelig det er for en analytiker å knytte fortiden til nåtiden og omvendt, må vi kvantifisere størrelsen på gruppene av homogene deler som din del er skjult innenfor. Dette målet forteller oss hvor mange analyser som har samme sannsynlighet. Så hvis den riktige analysen drukner blant tre andre analyser med samme sannsynlighet, er skjulingsgraden din svært lav. Hvis den riktige analysen derimot finnes blant 20 000 like sannsynlige analyser, er din del svært godt skjult. Størrelsen på disse gruppene representerer indikatorer kjent som "anonsets".
 
@@ -2204,8 +2244,8 @@ Om nødvendig kan anonsett brukes til å bedømme kvaliteten på sammenføyninge
 det finnes 2 typer anonsett:
 
 
-- Den potensielle anonset ;**
-- Retrospektiv anonset.**
+- Den potensielle anonset ;
+- Retrospektiv anonset.
 
 ### Den potensielle anonset
 
@@ -2213,45 +2253,47 @@ Den fremadskuende anonset indikerer størrelsen på gruppen som UTXO-en som stud
 
 Denne indikatoren måler hvor motstandsdyktig rommets konfidensialitet er mot en fortid-til-nåtid-analyse (input-til-output).
 
-![BTC204](assets/fr/152.webp)
+![BTC204](assets/nb-NO/158.webp)
 
 Denne beregningen brukes til å estimere i hvilken grad UTXO-en er beskyttet mot forsøk på å rekonstruere historikken fra inngangspunktet til utgangspunktet i coinjoin-prosessen.
 
 Hvis transaksjonen din for eksempel har deltatt i sin første coinjoin-syklus og ytterligere to synkende sykluser har blitt fullført, vil din mynts potensielle anonset være `13` :
 
-![BTC204](assets/fr/153.webp)
+![BTC204](assets/nb-NO/159.webp)
 
 La oss for eksempel tenke oss at mynten vår i starten av coinjoin-syklusen har en potensiell anonset på `86,871`. I praksis betyr dette at den er skjult blant `86 871` deler som ikke kan skilles fra hverandre. For en utenforstående observatør som kjenner denne mynten ved starten av coinjoin-syklusen og prøver å spore dens exit, vil han bli konfrontert med `86 871` mulige UTXO-er, hver med identisk sannsynlighet for å være mynten han leter etter.
 
-![BTC204](assets/fr/154.webp)
+![BTC204](assets/nb-NO/160.webp)
 
 ### Den retrospektive anonset
 
 Den retrospektive anonset-indikatoren angir antall mulige kilder for en gitt del, når man kjenner UTXO ved slutten av syklusen. Denne indikatoren måler hvor motstandsdyktig delens konfidensialitet er mot en nåtid-til-fortid-analyse (utgang-til-inngang), dvs. hvor vanskelig det er for en analytiker å spore delen tilbake til dens opprinnelse, før sammenføyningssyklusene. Navnet på denne indikatoren er "backward anonset", eller "bakoverskuende metrikk".
 
-![BTC204](assets/fr/155.webp)
+![BTC204](assets/nb-NO/161.webp)
 
 Ved å kjenne UTXO ved utgangen av syklusene, bestemmer den retrospektive anonset antallet potensielle Tx0-transaksjoner som kunne ha utgjort din inngang i coinjoin-syklusene. I diagrammet nedenfor tilsvarer dette summen av alle de oransje boblene.
 
-![BTC204](assets/fr/156.webp)
+![BTC204](assets/nb-NO/162.webp)
 
 La oss for eksempel tenke oss at coinjoin-delen vår har en retrospektiv anonset på `42,185`. I praksis betyr dette at det finnes `42 185` potensielle kilder til denne UTXO-en. Hvis en ekstern observatør identifiserer denne mynten på slutten av syklusene og forsøker å spore opprinnelsen, vil han eller hun stå overfor `42 185` mulige kilder, alle med like stor sannsynlighet for å være opprinnelsen som søkes.
 
-![BTC204](assets/fr/157.webp)
+![BTC204](assets/nb-NO/163.webp)
 
 ### Hvordan beregner du anonsets?
 
 Det er mulig å beregne anonsett manuelt ved hjelp av en blokkutforsker for små ensembler. For større anonsett er det imidlertid nødvendig å bruke et spesialisert verktøy. Så vidt jeg vet, er den eneste programvaren som kan utføre denne oppgaven *Whirlpool Stats Tool*, et Python-verktøy utviklet av Samourai- og OXT-teamene. Dessverre er dette verktøyet for øyeblikket ute av drift etter arrestasjonen av Samourais grunnleggere og avbruddet av OXT, som ble brukt til å hente ut data fra blokkjeden.
 
-![BTC204](assets/fr/158.webp)
+![BTC204](assets/nb-NO/164.webp)
 
 Som vi har sett i dette kapittelet, kan anonsets bare beregnes hvis det er en viss homogenitet i coinjoin-strukturen. I neste kapittel skal vi finne ut hvordan vi kan kvantifisere denne homogeniteten i en Bitcoin-transaksjon, enten det er en coinjoin eller en mer tradisjonell transaksjon.
 
-https://planb.network/tutorials/privacy/analysis/wst-anonsets-0354b793-c301-48af-af75-f87569756375
+
 
 ## Entropi
 
 <chapterId>e4fe289d-618b-49a2-84c9-68c562e708b4</chapterId>
+
+:::video id=5118b15a-a58f-4529-8a91-4e9f6a093fce:::
 
 
 Som vi har sett i denne delen om coinjoins, spiller homogeniteten til UTXO-er i input og output en viktig rolle i å forbedre konfidensialiteten til en Bitcoin-transaksjon. Denne parameteren skaper en plausibel benektbarhet i møte med blokkjedeanalyse. Flere metoder kan brukes til å måle denne homogeniteten, men en av de mest effektive, etter min mening, er bruken av indikatorene som tilbys av * Boltzmann * -verktøyet, utviklet av OXT- og Samourai Wallet-teamene, og spesielt entropien til transaksjonen. Det er dette vi skal se nærmere på i dette kapittelet.
@@ -2264,15 +2306,15 @@ Den første indikatoren som kan observeres på en Bitcoin-transaksjon, er det to
 
 For eksempel vil en enkel betalingstransaksjon med 1 inngang og 2 utganger bare ha én tolkning, nemlig at inngang #0 finansierte utgang #0 og utgang #1. Det finnes ingen andre mulige tolkninger:
 
-![BTC204](assets/fr/159.webp)
+![BTC204](assets/nb-NO/165.webp)
 
-På den annen side har et Whirlpool 5x5-hjørne 1 496 $ mulige kombinasjoner:
+Derimot har en coinjoin strukturert etter Whirlpool 5x5-modellen $1\,496$ mulige kombinasjoner:
 
-![BTC204](assets/fr/160.webp)
+![BTC204](assets/nb-NO/166.webp)
 
 En Whirlpool Surge Cycle 8x8 coinjoin har $9\,934\,563$ mulige tolkninger:
 
-![BTC204](assets/fr/161.webp)
+![BTC204](assets/nb-NO/167.webp)
 
 ### Entropi
 
@@ -2280,7 +2322,7 @@ Ut fra antall tolkninger av en Bitcoin-transaksjon kan vi beregne dens entropi.
 
 I en generell sammenheng med kryptografi og informasjon er entropi et kvantitativt mål på usikkerheten eller uforutsigbarheten knyttet til en datakilde eller tilfeldig prosess. Med andre ord er entropi en måte å måle hvor vanskelig det er å forutsi eller gjette seg frem til et stykke informasjon.
 
-I blokkjedeanalysesammenheng er entropi også navnet på en indikator, avledet fra Shannons entropi og [oppfunnet av LaurentMT] (https://gist.github.com/LaurentMT/e758767ca4038ac40aaf), som kan beregnes på en Bitcoin-transaksjon.
+I blokkjedeanalysesammenheng er entropi også navnet på en indikator, avledet fra Shannons entropi og [oppfunnet av LaurentMT](https://gist.github.com/LaurentMT/e758767ca4038ac40aaf), som kan beregnes på en Bitcoin-transaksjon.
 
 Når en transaksjon har et stort antall mulige tolkninger, er det ofte mer relevant å se på dens entropi. Denne indikatoren måler analytikernes mangel på kunnskap om den nøyaktige konfigurasjonen av transaksjonen. Med andre ord, jo høyere entropien er, desto vanskeligere blir det for analytikerne å identifisere flyten av bitcoins mellom inn- og utganger.
 
@@ -2318,7 +2360,7 @@ $$
 
 La oss ta et annet eksempel med en klassisk betalingstransaksjon, med 1 inngang og 2 utganger: [1b1b0c3f0883a99f1161c64da19471841ed12a1f78e77fab128c69a5f578ccce](https://mempool.space/tx/1b1b0c3f0883a99f1161c64da19471841ed12a1f78e77fab128c69a5f578ccce)
 
-![BTC204](assets/fr/162.webp)
+![BTC204](assets/nb-NO/168.webp)
 
 I tilfellet med denne transaksjonen er den eneste mulige tolkningen: `(In.0) > (Out.0 ; Out.1)`. Følgelig er entropien $0$ :
 
@@ -2494,17 +2536,17 @@ Det er relativt enkelt å beregne disse indikatorene manuelt ved hjelp av lignin
 
 Tidligere var det et Python-verktøy kalt _Boltzmann Calculator_, utviklet av OXT- og Samourai-teamene, som automatisk beregnet alle disse indikatorene for en Bitcoin-transaksjon :
 
-![BTC204](assets/fr/163.webp)
+![BTC204](assets/nb-NO/169.webp)
 
 Det var også mulig å bruke nettstedet KYCP.org til disse analysene:
 
-![BTC204](assets/fr/164.webp)
+![BTC204](assets/nb-NO/170.webp)
 
 Etter at Samourais grunnleggere ble arrestert, er disse verktøyene dessverre ikke lenger operative.
 
 Nå som vi har dekket coinjoins i detalj, skal vi se på de andre personvernteknikkene som er tilgjengelige på Bitcoin i den siste delen av kurset vårt. Vi skal se på payjoins, spesifikke transaksjonstyper for pseudocoinjoins, statiske adresseprotokoller, samt tiltak for å styrke konfidensialiteten, ikke på transaksjonsnivå, men på nettverksnivå.
 
-https://planb.network/tutorials/privacy/analysis/boltzmann-entropy-738e45af-18a6-4ce6-af1a-1bf58e15f1fe
+
 
 # Forstå utfordringene med andre avanserte konfidensialitetsteknikker
 
@@ -2513,6 +2555,8 @@ https://planb.network/tutorials/privacy/analysis/boltzmann-entropy-738e45af-18a6
 ## Payjoin-transaksjoner
 
 <chapterId>c1e90b95-f709-4574-837b-2ec26b11286f</chapterId>
+
+:::video id=5496cb59-006e-40b8-971f-af6d98868527:::
 
 
 Coinjoin er per i dag den mest effektive metoden for å innføre usikkerhet i sporingen av deler i en kjedeanalyse. Som vi har sett i tidligere kapitler, må inn- og utdata være så homogene som mulig for å oppnå en miks med høy ytelse. I tillegg er det viktig at delene integreres i en så stor gruppe som mulig for å maksimere anonsettene. For at sammenføyninger skal være effektive, må de involvere et stort antall ensartede deler. Dette mangfoldet av krav betyr at coinjoin-transaksjoner har en svært rigid struktur: Beløpene er fastsatt på forhånd, og alle deltakerne må forholde seg til dem for å garantere ensartethet i prosessen. I tillegg krever coinjoins synkronisering mellom alle deltakerne og koordinatoren under transaksjonskonstruksjonen.
@@ -2536,7 +2580,7 @@ Det spesielle med payjoin er at den kan generere en transaksjon som ved første 
 
 La oss ta et eksempel for å forstå denne prosessen bedre. Alice kjøper en baguette for 4 000 satser ved hjelp av en UTXO på 10 000 satser og velger en payjoin. Bakeren hennes, Bob, legger til en UTXO på 15 000 satser som tilhører ham som input, som han får tilbake i sin helhet som output, i tillegg til Alices 4 000 satser.
 
-![BTC204](assets/fr/165.webp)
+![BTC204](assets/nb-NO/171.webp)
 
 I dette eksempelet går baker Bob inn med 15 000 sats og går ut med 19 000 sats, og differansen er nøyaktig 4 000 sats, dvs. prisen på baguetten. Alice på sin side går inn med 10 000 sats og ender opp med 6 000 sats i output, noe som tilsvarer en balanse på -4 000 sats, dvs. prisen på baguetten. For å forenkle eksemplet har jeg bevisst utelatt gruvekostnadene i denne transaksjonen.
 
@@ -2550,15 +2594,15 @@ Når en analytiker undersøker en payjoin-transaksjon, forledes han eller hun ti
 
 La oss ta eksemplet vårt med en payjoin-transaksjon for betaling av en baguette:
 
-![BTC204](assets/fr/166.webp)
+![BTC204](assets/nb-NO/172.webp)
 
 Når en utenforstående observatør ser denne transaksjonen på blokkjeden, vil han eller hun følge de vanlige heuristikkene for blokkjedeanalyse og gjøre følgende tolkning: "*Alice fusjonerte 2 UTXO-er som input til transaksjonen for å betale 19 000 sats til Bob*".
 
-![BTC204](assets/fr/167.webp)
+![BTC204](assets/nb-NO/173.webp)
 
 Denne tolkningen er åpenbart feil, for som du allerede vet, tilhører ikke de to UTXO-ene i inndataene samme person. Den ene kommer fra Alice, baguettekjøperen, og den andre fra Bob, bakeren.
 
-![BTC204](assets/fr/168.webp)
+![BTC204](assets/nb-NO/174.webp)
 
 På denne måten styres den eksterne observatørens analyse mot en feilaktig konklusjon, slik at interessentenes konfidensialitet ivaretas.
 
@@ -2568,11 +2612,11 @@ Det andre formålet med payjoin er å villede en utenforstående observatør om 
 
 Hvis vi går tilbake til vårt eksempel med kjøp av en baguette, vil analytikeren tro at betalingsbeløpet tilsvarer enten UTXO på 6 000 sats eller UTXO på 19 000 sats. I dette tilfellet vil analytikeren heller tro at betalingsbeløpet er 19 000 sats, fordi det er to UTXO-er i utgangene, hvorav minst én er større enn 6 000 sats (det er ingen logisk grunn til å bruke to UTXO-er for å betale 6 000 sats når én enkelt UTXO ville ha vært tilstrekkelig for å oppfylle denne betalingen).
 
-![BTC204](assets/fr/169.webp)
+![BTC204](assets/nb-NO/175.webp)
 
 Men i virkeligheten er denne analysen feil. Betalingsbeløpet tilsvarer ikke noen av produksjonene. Det er faktisk differansen mellom mottakerens UTXO i output og mottakerens UTXO i input.
 
-![BTC204](assets/fr/170.webp)
+![BTC204](assets/nb-NO/176.webp)
 
 I så måte faller payjoin-transaksjonen inn under steganografi. Den gjør det mulig å skjule det virkelige transaksjonsbeløpet i en falsk transaksjon som fungerer som en lokkedue.
 
@@ -2586,23 +2630,28 @@ Man kan trekke en analogi mellom kryptografi og coinjoin, og mellom steganografi
 
 Kjente programmer som støtter payjoin inkluderer Sparrow Wallet, Wasabi Wallet, Mutiny, BitMask, BlueWallet og JoinMarket, samt betalingsbehandleren BTCPay.
 
-![BTC204](assets/fr/171.webp)
+![BTC204](assets/nb-NO/177.webp)
 
-Den mest avanserte payjoin-implementeringen var bare Stowaway på Samourai Wallet. Siden arrestasjonen av programvarens grunnleggere er dette verktøyet nå bare delvis funksjonelt. Fordelen med Stowaway er at det er en omfattende, brukervennlig protokoll som støtter både mottak og sending av payjoins. Delvis signerte transaksjoner kan utveksles manuelt ved å skanne flere QR-koder, eller automatisk via Tor via Soroban. Sistnevnte kommunikasjonsalternativ er for tiden ute av drift.
 
-![BTC204](assets/fr/172.webp)
+Den mest avanserte payjoin-implementasjonen er uten tvil Stowaway, utviklet av Samourai Wallet-utviklerne. Siden arrestasjonen av programvarens grunnleggere har dette verktøyet kun fungert delvis på Samourai. Men det har blitt gjenopplivet i Ashigaru-applikasjonen.
+
+Fordelen med Stowaway er at det er en fullstendig og svært brukervennlig protokoll som støtter både mottak og sending av payjoins. Delvis signerte transaksjoner kan utveksles manuelt ved å skanne flere QR-koder eller automatisk via Tor gjennom Soroban.
+
+![BTC204](assets/nb-NO/178.webp)
 
 Vanskeligheten med å bruke payjoin ligger i at det er avhengig av at forhandleren deltar. Som kunde kan du ikke bruke payjoin hvis forhandleren ikke støtter det. Dette gjør kjøpsprosessen enda vanskeligere: Ikke bare er det vanskelig å finne forhandlere som aksepterer bitcoin, men hvis du i tillegg leter etter dem som støtter payjoin, blir det enda mer komplisert.
 
 En løsning kan være å bruke transaksjonsstrukturer som introduserer tvetydighet i kjedeanalysen uten å kreve medvirkning fra mottakeren. På den måten kan vi forbedre konfidensialiteten i betalingene våre uten å være avhengige av aktiv medvirkning fra forhandlerne. Det er nettopp dette vi skal se nærmere på i neste kapittel.
 
-https://planb.network/tutorials/privacy/on-chain/payjoin-sparrow-wallet-087a0e49-61cd-41f5-8440-ac7b157bdd62
 
-https://planb.network/tutorials/privacy/on-chain/payjoin-samourai-wallet-48a5c711-ee3d-44db-b812-c55913080eab
+
+https://planb.academy/tutorials/privacy/on-chain/ashigaru-stowaway-48a5c711-ee3d-44db-b812-c55913080eab
 
 ## Betaling mini-coinjoin
 
 <chapterId>300777ee-30ae-43d7-ab00-479dac3522c1</chapterId>
+
+:::video id=1f33e8f1-e41d-4480-a388-e283ef51cc17:::
 
 
 Når du ønsker å gjennomføre en betalingstransaksjon med en viss grad av konfidensialitet, er payjoin et godt alternativ. Men som vi nettopp har sett, krever payjoin at mottakeren er involvert. Så hva gjør du hvis mottakeren nekter å delta i en payjoin, eller hvis du rett og slett foretrekker å ikke involvere dem? Et alternativ er å bruke en Stonewall- eller Stonewall x2-transaksjon. La oss se nærmere på disse to transaksjonstypene.
@@ -2621,7 +2670,7 @@ Det er altså bare to roller i en Stonewall-transaksjon:
 
 La oss ta et eksempel for å forstå denne transaksjonsstrukturen. Alice går til Bob, bakeren, for å kjøpe baguetten sin, som koster 4000 sats. Hun ønsker å betale i bitcoins, samtidig som hun ønsker å opprettholde en form for konfidensialitet rundt betalingen. Hun bestemmer seg derfor for å lage en Stonewall-transaksjon for betalingen.
 
-![BTC204](assets/fr/173.webp)
+![BTC204](assets/nb-NO/179.webp)
 
 Ved å analysere denne transaksjonen kan vi se at Bob, bakeren, faktisk mottok 4 000 sats som betaling for baguetten. Alice brukte to UTXO-er som inndata: én for 10 000 sats og én for 15 000 sats. Som utganger har hun fått tilbake 3 UTXOer: én for 4 000 sats, én for 6 000 sats og én for 11 000 sats. Alice har derfor en nettosaldo på -4 000 sats på denne transaksjonen, noe som tilsvarer prisen på baguetten.
 
@@ -2633,15 +2682,15 @@ Stonewall-strukturen tilfører transaksjonen en enorm mengde entropi, noe som gj
 
 La oss ta et eksempel med Alice hos bakeren Bob. Transaksjonen på blokkjeden vil se slik ut:
 
-![BTC204](assets/fr/174.webp)
+![BTC204](assets/nb-NO/180.webp)
 
 En utenforstående observatør som baserer seg på vanlig heuristikk for kjedeanalyse, kan feilaktig konkludere med at "*to personer har gjort en liten coinjoin, med én UTXO hver i input og to UTXO hver i output*". Å analysere denne transaksjonen utenfra fører ikke til anvendelse av CIOH, ettersom tilstedeværelsen av to utganger på samme beløp tyder på et coinjoin-mønster. Fra et eksternt synspunkt er CIOH derfor ikke anvendelig i dette spesifikke tilfellet.
 
-![BTC204](assets/fr/175.webp)
+![BTC204](assets/nb-NO/181.webp)
 
 Denne tolkningen er feil, for som du vet, ble én UTXO sendt til Bob, bakeren, de to UTXO-inngangene kom fra Alice, og hun fikk tre utvekslingsutganger.
 
-![BTC204](assets/fr/176.webp)
+![BTC204](assets/nb-NO/182.webp)
 
 Og det som er spesielt interessant med strukturen i Stonewall-transaksjonen, er at den, sett fra en utenforstående observatørs ståsted, på alle måter ligner en Stonewall x2-transaksjon.
 
@@ -2660,7 +2709,7 @@ I Stonewall x2-transaksjonene er det altså definert tre ulike roller:
 
 La oss gå tilbake til eksempelet med Alice, som er hos Bob bakeren for å kjøpe baguetten sin, som koster 4000 sats. Hun ønsker å betale i bitcoins, samtidig som hun ønsker å opprettholde en viss grad av konfidensialitet rundt betalingen. Hun oppsøker derfor sin venn Charles, som skal hjelpe henne i denne prosessen.
 
-![BTC204](assets/fr/177.webp)
+![BTC204](assets/nb-NO/183.webp)
 
 Når vi analyserer denne transaksjonen, ser vi at Bob, bakeren, faktisk mottok 4 000 sats som betaling for baguetten. Alice brukte 10 000 sats i input og fikk tilbake 6 000 sats i output, dvs. en nettobalanse på -4 000 sats, noe som tilsvarer prisen på baguetten. Charles leverte 15 000 sats i input og mottok to output: ett på 4 000 sats og ett på 11 000 sats, noe som gir en balanse på 0.
 
@@ -2672,15 +2721,15 @@ I likhet med Stonewall-strukturen tilfører Stonewall x2-strukturen mye entropi 
 
 La oss ta et eksempel med Alice, Bob the Baker og Charles. Transaksjonen på blokkjeden vil se slik ut:
 
-![BTC204](assets/fr/178.webp)
+![BTC204](assets/nb-NO/184.webp)
 
 En utenforstående observatør som baserer seg på vanlig kjedeanalyseheuristikk, kan feilaktig konkludere med at "*Alice og Charles har utført en liten coinjoin, med én UTXO hver i input og to UTXO hver i output*". Igjen, å analysere denne transaksjonen utenfra fører ikke til anvendelse av ICOH, ettersom tilstedeværelsen av to utganger på samme beløp tyder på et coinjoin-mønster. Fra et eksternt synspunkt er CIOH derfor ikke anvendelig i dette spesifikke tilfellet.
 
-![BTC204](assets/fr/179.webp)
+![BTC204](assets/nb-NO/185.webp)
 
 Denne tolkningen er feil, for som du vet, har én UTXO blitt sendt til bakeren Bob, Alice har bare én utvekslingsutgang, og Charles har to.
 
-![BTC204](assets/fr/180.webp)
+![BTC204](assets/nb-NO/186.webp)
 
 Og igjen, det som er spesielt interessant med strukturen i Stonewall x2-transaksjonen, er at den, sett fra en utenforstående observatørs ståsted, på alle måter ligner en Stonewall-transaksjon.
 
@@ -2688,11 +2737,11 @@ Og igjen, det som er spesielt interessant med strukturen i Stonewall x2-transaks
 
 En Stonewall X2-transaksjon fungerer akkurat som en Stonewall-transaksjon, bortsett fra at førstnevnte er kollaborativ, mens sistnevnte ikke er det. Som vi har sett, involverer en Stonewall X2-transaksjon deltakelse av en tredjepart (Charles), som står utenfor betalingen, og som stiller sine bitcoins til rådighet for å øke konfidensialiteten i transaksjonen. I en klassisk Stonewall-transaksjon er det avsenderen som tar på seg rollen som samarbeidspartner.
 
-![BTC204](assets/fr/181.webp)
+![BTC204](assets/nb-NO/187.webp)
 
 Fra et eksternt synspunkt er transaksjonsmønsteret nøyaktig det samme.
 
-![BTC204](assets/fr/182.webp)
+![BTC204](assets/nb-NO/188.webp)
 
 Det faktum at disse to transaksjonsstrukturene har nøyaktig samme mønster, betyr at selv om en utenforstående observatør klarer å identifisere et "Stonewall(x2)"-mønster, vil han ikke ha all informasjonen. Han vil ikke kunne avgjøre hvilken av de to UTXO-ene med samme beløp som tilsvarer betalingen. Han vil heller ikke kunne avgjøre om de to UTXO-ene med innbetalinger kommer fra to forskjellige personer (Stonewall x2) eller om de tilhører én og samme person som har slått dem sammen (Stonewall).
 
@@ -2709,34 +2758,37 @@ Logikken bør være som følger når du ønsker å bruke et konfidensialitetsver
 
 ### Hvordan bruker jeg Stonewall og Stonewall x2-transaksjoner?
 
-Stonewall- og Stonewall x2-transaksjoner er tilgjengelige både i Samourai Wallet-applikasjonen og Sparrow Wallet-programvaren.
+Stonewall-transaksjoner er tilgjengelige i Sparrow Wallet så vel som i Ashigaru, mens Stonewall x2 foreløpig kun støttes av Ashigaru.
 
-![BTC204](assets/fr/183.webp)
+![BTC204](assets/nb-NO/189.webp)
 
-Men som med payjoins, etter arrestasjonen av Samourais grunnleggere, fungerer Stonewall x2-transaksjoner nå bare ved å utveksle PSBT-er manuelt mellom de berørte partene. Dessverre er automatisk utveksling via Soroban ikke lenger tilgjengelig.
 
 Det er også mulig å utføre denne typen transaksjoner manuelt fra hvilken som helst Bitcoin-lommebokprogramvare.
 
 I neste kapittel skal vi se nærmere på en annen konfidensialitetsteknikk som er relativt ukjent, men som er svært nyttig som et supplement til det vi allerede har studert.
 
-https://planb.network/tutorials/privacy/on-chain/stonewall-033daa45-d42c-40e1-9511-cea89751c3d4
+https://planb.academy/tutorials/privacy/on-chain/ashigaru-stonewall-033daa45-d42c-40e1-9511-cea89751c3d4
 
-https://planb.network/tutorials/privacy/on-chain/stonewall-x2-05120280-f6f9-4e14-9fb8-c9e603f73e5b
+https://planb.academy/tutorials/privacy/on-chain/sparrow-stonewall-6fcfd679-7038-4ee2-8bf7-de76a72f9392
+
+https://planb.academy/tutorials/privacy/on-chain/ashigaru-stonewall-x2-05120280-f6f9-4e14-9fb8-c9e603f73e5b
 
 ## Rikosjettene
 
 <chapterId>db9a20ac-a149-443d-884b-ea6c03f28499</chapterId>
+
+:::video id=3c9ce9e5-4081-4c36-98f9-9fc3779c0337:::
 
 
 Bruken av Bitcoin-transaksjonsstrukturer som gjør kjedeanalysen mer tvetydig, for eksempel coinjoin, er spesielt fordelaktig for å beskytte personvernet. Som vi diskuterte i kapittelet om payjoins, er imidlertid coinjoin-transaksjoner naturlig nok identifiserbare i kjeden. Husk analogien vi trakk mellom kryptering og coinjoin: Når en fil er kryptert, kan en tredjepart som oppdager den krypterte filen, ikke få tilgang til innholdet, men kan tydelig identifisere at filen har blitt endret for å skjule innholdet. Det samme gjelder coinjoin: Når en analytiker undersøker en coinjoin-transaksjon, kan han eller hun, selv om han eller hun ikke kan etablere direkte koblinger mellom inndata og utdata (og vice versa), likevel gjenkjenne at den observerte transaksjonen er en coinjoin.
 
 Avhengig av hvordan du har tenkt å bruke mynten din etter en coinjoin-syklus, kan det faktum at den har gjennomgått denne prosessen være problematisk. Hvis du for eksempel planlegger å selge mynten din på en regulert utvekslingsplattform, men den nylig har gjennomgått en coinjoin, vil plattformens kjedeanalyseverktøy oppdage dette. Plattformen kan da nekte å godta din coinjointe UTXO, eller til og med kreve en forklaring fra deg, med risiko for at kontoen din blir suspendert eller pengene dine frosset. I noen tilfeller kan plattformen også rapportere oppførselen din til statlige myndigheter (dette er for eksempel det TRACFIN krever av PSAN-er i Frankrike).
 
-![BTC204](assets/fr/184.webp)
+![BTC204](assets/nb-NO/190.webp)
 
 For å unngå dette trenger vi et verktøy som kan viske ut sporene etter en Bitcoin-mynts fortid, for å gjenopprette en form for fungibilitet. Dette er nettopp formålet med rikosjett.
 
-![BTC204](assets/fr/185.webp)
+![BTC204](assets/nb-NO/191.webp)
 
 ### Hva er en rikosjett?
 
@@ -2744,21 +2796,21 @@ Rikosjett er en teknikk som går ut på å utføre flere fiktive transaksjoner m
 
 For å jevne ut avtrykket som en tidligere hendelse har etterlatt på en mynt, for eksempel møntsykluser, utfører ricochet fire påfølgende transaksjoner der brukeren overfører penger til seg selv på forskjellige adresser.
 
-![BTC204](assets/fr/186.webp)
+![BTC204](assets/nb-NO/192.webp)
 
 Etter denne transaksjonssekvensen sender ricochet-verktøyet til slutt bitcoinsene til deres endelige destinasjon, for eksempel en utvekslingsplattform.
 
-![BTC204](assets/fr/187.webp)
+![BTC204](assets/nb-NO/193.webp)
 
 Målet er å skape en avstand som påvirker myntens fungibilitet, for eksempel en coinjoin-transaksjon, og den endelige utgiftshandlingen, som kan avvise denne mynten på grunn av dens fortid. Dermed kan verktøy for kjedeanalyse konkludere med at det sannsynligvis har skjedd et eierskifte etter hendelsen, og anse denne mynten som fungibel. Ved en coinjoin kan verktøy for blokkjedeanalyse anta at det ikke var samme person som sendte bitcoinsene og utførte coinjoin, og at det derfor ikke er noe poeng i å iverksette tiltak mot avsenderen.
 
-![BTC204](assets/fr/188.webp)
+![BTC204](assets/nb-NO/194.webp)
 
 ### Hvorfor fungerer det?
 
 Med denne rikosjettmetoden kunne man tenke seg at programvare for kjedeanalyse ville gå dypere enn fire sprett. Disse plattformene står imidlertid overfor et dilemma når de skal optimalisere deteksjonsterskelen. De må sette en grense for hvor mange hopp som skal til før de aksepterer at det sannsynligvis har skjedd en endring i en egenskap, og at koblingen til en tidligere hendelse (for eksempel en coinjoin) bør ignoreres.
 
-![BTC204](assets/fr/189.webp)
+![BTC204](assets/nb-NO/195.webp)
 
 Det er imidlertid risikabelt å sette denne terskelen: Hver økning i antall observerte hopp øker eksponentielt mengden falske positiver, det vil si personer som feilaktig blir markert som deltakere i en hendelse, selv om det i virkeligheten var noen andre som utførte operasjonen. Dette scenariet utgjør en stor risiko for disse selskapene, ettersom falske positiver fører til misnøye, noe som kan føre til at berørte kunder går til konkurrenten. På lang sikt kan en for høy deteksjonsterskel føre til at en plattform mister flere kunder enn konkurrentene, noe som kan true plattformens levedyktighet. Det er derfor komplisert for disse plattformene å øke antallet observerte bounces, og 4 er ofte et tilstrekkelig antall for å motvirke analysene deres.
 
@@ -2774,31 +2826,33 @@ Det vanligste bruksområdet for rikosjettering oppstår når det er nødvendig �
 
 Denne metoden er ikke bare effektiv for sammenføyninger, men også for alle andre merker som kan kompromittere en dels fungibilitet.
 
-Ideen til denne rikosjettmetoden kom opprinnelig fra Samourai Wallet-teamene, som integrerte den i applikasjonen sin for å automatisere prosessen. Tjenesten er ikke gratis på Samourai, siden en ricochet innebærer en serviceavgift på 100 000 sats, pluss gruvekostnader. Det anbefales derfor å bruke den for overføringer av betydelige beløp.
+Ideen bak denne ricochet-metoden kommer opprinnelig fra teamene bak Samourai Wallet, som hadde integrert den i sin applikasjon for å automatisere funksjonaliteten. Tjenesten var betalbar på Samourai, ettersom et ricochet medførte en fast kostnad på 100 000 sats i tjenestegebyr, i tillegg til gruvegebyrene. Det samme gjelder i dag på Ashigaru. Dermed anbefales bruken hovedsakelig for overføringer av større beløp.
 
-![BTC204](assets/fr/190.webp)
+![BTC204](assets/nb-NO/196.webp)
 
-Samurai-applikasjonen tilbyr to rikosjettvarianter:
+Ashigaru-applikasjonen tilbyr to ricochet-varianter (de samme som vi hadde tidligere på Samourai):
 
 
-- Forsterket rikosjett, eller "forskjøvet levering", som gir fordelen av å spre Samurai-gebyret over de fem påfølgende transaksjonene. Dette alternativet sikrer også at hver transaksjon sendes på et separat tidspunkt og registreres i en annen blokk, noe som etterligner oppførselen til et eierskifte så godt som mulig. Selv om denne metoden er langsommere, er den å foretrekke for de som ikke har det travelt, ettersom den maksimerer effektiviteten til rikosjetteringen ved å forsterke dens motstand mot kjedeanalyse;
+- Det forsterkede ricochetet, eller «trinnvis levering», har fordelen av å fordele Ashigaru-tjenestegebyrene over fem påfølgende transaksjoner. Dette valget sikrer også at hver transaksjon kringkastes på et annet tidspunkt og registreres i en egen blokk, noe som gjør det mulig å etterligne oppførselen ved et eierskifte så nøyaktig som mulig. Selv om den er langsommere, er denne metoden å foretrekke for dem som ikke har det travelt, da den maksimerer effektiviteten av ricochet ved å styrke motstanden mot kjedeanalyse;
 
-![BTC204](assets/fr/191.webp)
+![BTC204](assets/nb-NO/197.webp)
 
 
 - Den klassiske rikosjetteringen, som er designet for å utføre operasjonen raskt, sender alle transaksjoner i et redusert tidsintervall. Denne metoden gir derfor mindre konfidensialitet og mindre motstand mot analyse enn den forsterkede metoden. Den bør bare brukes til hastesendinger.
 
-![BTC204](assets/fr/192.webp)
+![BTC204](assets/nb-NO/198.webp)
 
 Ricocheting betyr ganske enkelt å sende bitcoins til deg selv. Det er fullt mulig å ricochetere bitcoins manuelt på hvilken som helst lommebokprogramvare, uten å bruke et spesialisert verktøy. Alt du trenger å gjøre er å overføre den samme mynten til deg selv suksessivt, med en ny, tom adresse hver gang.
 
 I neste kapittel skal vi se nærmere på ulike teknikker for hemmelige eierskifter. Disse metodene skiller seg radikalt fra dem vi har sett på så langt, både når det gjelder virkemåte og resultater.
 
-https://planb.network/tutorials/privacy/on-chain/ricochet-e0bb1afe-becd-44a6-a940-88a463756589
+https://planb.academy/tutorials/privacy/on-chain/ashigaru-ricochet-e0bb1afe-becd-44a6-a940-88a463756589
 
 ## Hemmelige eierskapsoverdragelser
 
 <chapterId>a2067036-849c-4d6b-87d2-44235cfae7a1</chapterId>
+
+:::video id=374f79ce-fc61-4528-8b69-b5ca7c7eaa6f:::
 
 
 En annen av Bitcoins konfidensialitetsteknikker er hemmelig overføring av eierskap. Denne metoden tar sikte på å overføre eierskap av Bitcoins fra en person til en annen, og omvendt, uten at transaksjonen er eksplisitt synlig på blokkjeden. La oss ta en titt på de ulike teknikkene som er tilgjengelige, sammen med fordeler og ulemper.
@@ -2807,19 +2861,19 @@ En annen av Bitcoins konfidensialitetsteknikker er hemmelig overføring av eiers
 
 Coinwap er basert på et relativt enkelt konsept: Det bruker smartkontrakter for å legge til rette for en overføring av bitcoin-eierskap mellom to brukere, uten behov for tillit og uten at denne overføringen er eksplisitt synlig i blokkjeden.
 
-![BTC204](assets/fr/193.webp)
+![BTC204](assets/nb-NO/199.webp)
 
 La oss tenke oss et naivt eksempel med Alice og Bob. Alice har 1 BTC sikret med den private nøkkelen $A$, og Bob har også 1 BTC sikret med den private nøkkelen $B$. De kan teoretisk sett utveksle sine private nøkler via en ekstern kommunikasjonskanal for å utføre en hemmelig overføring.
 
-![BTC204](assets/fr/194.webp)
+![BTC204](assets/nb-NO/200.webp)
 
 Denne naive metoden innebærer imidlertid en høy risiko når det gjelder tillit. Det er ingenting som hindrer Alice i å ta vare på en kopi av den private $A$-nøkkelen etter utvekslingen og bruke den til å stjele bitcoins senere, når Bob har fått nøkkelen i hendene.
 
-![BTC204](assets/fr/195.webp)
+![BTC204](assets/nb-NO/201.webp)
 
 Videre er det ingen garanti for at Alice ikke vil motta Bobs private nøkkel $B$ og aldri gi videre sin private nøkkel $A$ i bytte. Denne utvekslingen er derfor avhengig av overdreven tillit mellom partene, og er ineffektiv når det gjelder å sikre en sikker hemmelig overføring av eierskap.
 
-![BTC204](assets/fr/196.webp)
+![BTC204](assets/nb-NO/202.webp)
 
 For å løse disse problemene og muliggjøre utveksling mellom parter som ikke stoler på hverandre, skal vi i stedet bruke smartkontraktsystemer. En smartkontrakt er et program som kjøres automatisk når forhåndsdefinerte betingelser er oppfylt. I vårt tilfelle sørger dette for at utvekslingen av eiendom skjer automatisk, uten behov for gjensidig tillit.
 
@@ -2878,17 +2932,17 @@ $$$(s_A' + t) \cdot G = N_A + T + H(N_A + T \parallell P_A \parallell m_A) \cdot
 
 La oss oppsummere hvordan en adaptorsignatur fungerer i et myntbytte. Til å begynne med sender Alice en usignert transaksjon til Bob sammen med en adaptor, slik at Bob kan verifisere at hemmeligheten som avsløres senere, vil gi ham tilgang til bitcoins. Til gjengjeld sender Bob sin egen usignerte transaksjon og adaptor til Alice. Alice kan deretter fullføre Bobs transaksjon og hente bitcoinsene ved å kringkaste en gyldig transaksjon takket være hemmeligheten. Når denne transaksjonen publiseres på blokkjeden, har Bob muligheten til å trekke ut hemmeligheten og dermed låse opp Alices transaksjon. Hvis Alice initierer en overføring av Bobs bitcoin, kan Bob på sin side få tilgang til Alices bitcoin uten behov for gjensidig tillit.
 
-Merk at coinswaps først ble foreslått av [Gregory Maxwell i oktober 2013 på BitcoinTalk] (https://bitcointalk.org/index.php?topic=321228.0).
+Merk at coinswaps først ble foreslått av [Gregory Maxwell i oktober 2013 på BitcoinTalk](https://bitcointalk.org/index.php?topic=321228.0).
 
 ### Atombytte
 
 På samme måte som coinswap, og ved hjelp av de samme typene smartkontrakter, er det også mulig å utføre atomic swaps. Et atomic swap muliggjør en direkte utveksling av ulike kryptovalutaer, for eksempel BTC og XMR, mellom to brukere uten behov for tillit eller en mellommann. Disse byttene kalles "atomiske" fordi de bare har to mulige utfall: enten lykkes byttet, og begge parter er fornøyde, eller så mislykkes det, og begge beholder sine opprinnelige kryptovalutaer, noe som eliminerer behovet for å stole på den andre parten.
 
-![BTC204](assets/fr/197.webp)
+![BTC204](assets/nb-NO/203.webp)
 
 Atomic swap og coinswap har en lignende driftsmetode og tilbyr de samme fordelene og ulempene når det gjelder konfidensialitet. Fra Bitcoins synspunkt er et atombytte faktisk sammenlignbart med et myntbytte som utføres i to trinn. Først bytter vi vår BTC mot en annen kryptovaluta, deretter kan denne kryptovalutaen byttes mot andre BTC. Til slutt gjenoppretter vi en annen brukers BTC. Dette er grunnen til at jeg i analysen av konfidensialitetsspørsmål grupperer disse to protokollene under kategorien proprietære hemmelige utvekslinger.
 
-![BTC204](assets/fr/198.webp)
+![BTC204](assets/nb-NO/204.webp)
 
 Vær imidlertid oppmerksom på at i motsetning til coinswap, kan atomic swap ha ubalanse når det gjelder tilgjengelig likviditet, spesielt i BTC/XMR-børser. Det er generelt lettere å bytte bitcoins mot altcoins, ettersom det er sterk etterspørsel etter bitcoins, noe som holder premiene lave for denne konverteringsretningen. Det kan imidlertid være mer komplisert å veksle altcoins mot BTC på grunn av lavere etterspørsel, noe som ofte resulterer i svært høye premier.
 
@@ -2900,17 +2954,17 @@ Hemmelige eierskifter, som myntbytter og atombytter, har den fordelen at de kan 
 
 Når Alice utfører et coinswap eller atomic swap med Bob, bytter hun besittelsen av bitcoinsene sine med Bobs. Ved et atomic swap inkluderer utvekslingen en altcoin, men prinsippet forblir det samme. Dermed ender Alice opp med $B$-mynten og Bob med $A$-mynten. Dette skaper tvil om kjedeanalysen, men myntenes historikk forblir sporbar. Hvis en analytiker undersøker del $A$, kan han eller hun spore Alices tidligere aktiviteter, og vice versa for del $B$.
 
-![BTC204](assets/fr/199.webp)
+![BTC204](assets/nb-NO/205.webp)
 
 Sett fra Alices synspunkt er risikoen at historikken til $B$-mynten kan bli ansett som mistenkelig av visse enheter. Hvis Bob for eksempel hadde skaffet seg $B$-mynten gjennom en kriminell handling, for eksempel hacking, ville mynten forbli knyttet til hans ulovlige aktiviteter. Alice kan da komme i besittelse av en mynt som hun ikke kan overføre til regulerte vekslingsplattformer uten å risikere å få pengene sine frosset, eller til og med bli anklaget for Bobs forbrytelser, selv om hun ikke hadde noe med dem å gjøre.
 
-![BTC204](assets/fr/200.webp)
+![BTC204](assets/nb-NO/206.webp)
 
 Det er uunngåelig at konfidensialitetsmetoder som coinswap eller atomic swap foretrekkes av kriminelle som har midler som overvåkes av myndighetene. Disse protokollene gjør det mulig for dem å kvitte seg med sine overvåkede bitcoins i bytte mot helt fungible bitcoins. Det gjør det også mulig for dem å skape en avledningsmanøver ved å lede myndighetene mot andre brukere. Så det er et dobbelt formål for disse menneskene.
 
 Med coinjoin blir mynten din ødelagt selv om den blandes med overvåkede bitcoins, noe som gir en form for plausibel benektelse som ikke finnes i hemmelige eierskapsoverføringsprotokoller som coinswap eller atomic swap.
 
-![BTC204](assets/fr/201.webp)
+![BTC204](assets/nb-NO/207.webp)
 
 Hvis Alice ønsker å unngå enhver risiko, må hun nødvendigvis bruke en metode for å bryte historien til $B$-mynten, for eksempel ved å sende den gjennom coinjoins. Dette reiser et spørsmål om nytten av å kombinere hemmelig overføring av eierskap og coinjoin. Coinjoin, ved å bryte en mynts historikk, tilbyr allerede et tilstrekkelig nivå av konfidensialitet for Alice. Derfor mener jeg at hvis Alice ønsker å beskytte personvernet sitt, vil det være klokere å gå direkte til en coinjoin enn å gjennomføre et coinswap etterfulgt av en coinjoin.
 
@@ -2921,6 +2975,8 @@ Hittil har vi hovedsakelig studert konfidensialitetsmetoder på selve transaksjo
 ## Personvern i P2P-nettverket
 
 <chapterId>04a2467b-db84-4076-a9ff-919be5135106</chapterId>
+
+:::video id=8428b212-de79-48a5-b984-ed7936861c2f:::
 
 
 I del 4 diskuterte vi viktigheten av å bruke en komplett node for å beskytte konfidensialiteten til transaksjonene dine. Det er imidlertid viktig å være klar over at noden i seg selv kan bli utsatt for angrep som forsøker å hente ut informasjon om aktivitetene dine. I dette kapittelet skal vi derfor se på de ulike tiltakene du kan iverksette for å beskytte personvernet ditt, ikke på transaksjonsnivå eller i selve bitcoinflyten, men på nettverksnivå.
@@ -2935,33 +2991,33 @@ Denne koblingen mellom aktivitet på Bitcoin og en IP-adresse utgjør en betydel
 
 I klassisk Bitcoin-drift overføres transaksjoner som er opprettet av en bruker i lommebokprogramvaren hans, til hans personlige node. Denne noden vil umiddelbart kringkaste den nye transaksjonen til alle de andre nodene som den er koblet til.
 
-![BTC204](assets/fr/202.webp)
+![BTC204](assets/nb-NO/208.webp)
 
 Disse peerene kontrollerer deretter transaksjonen for å sikre at den er i samsvar med konsensus og lokale standardiseringsregler. Når transaksjonen er validert, videresender hver peer transaksjonen til sine peers, og så videre.
 
-![BTC204](assets/fr/203.webp)
+![BTC204](assets/nb-NO/209.webp)
 
 Denne fordelingen av transaksjoner som venter på å bli integrert i en blokk, er ganske balansert og statistisk forutsigbar. Denne svakheten kan utnyttes av medskyldige spionnoder, som samarbeider om å overvåke og analysere nettverket for å identifisere den første noden som har kringkastet en transaksjon. Hvis en observatør lykkes i å lokalisere kildenoden, kan han eller hun anta at transaksjonen stammer fra denne nodens operatør. Denne typen observasjon kan brukes til å knytte normalt anonyme transaksjoner til bestemte IP-adresser.
 
-![BTC204](assets/fr/204.webp)
+![BTC204](assets/nb-NO/210.webp)
 
 Målet med BIP156 er å løse dette problemet. For å gjøre dette innfører den en ekstra fase i spredningen av en ny transaksjon for å bevare anonymiteten før den spres offentlig. Dandelion bruker først en "stem"-fase der transaksjonen sendes gjennom en tilfeldig sti av noder.
 
-![BTC204](assets/fr/205.webp)
+![BTC204](assets/nb-NO/211.webp)
 
 Transaksjonen blir deretter kringkastet til hele nettverket i "Fluff"-fasen.
 
-![BTC204](assets/fr/206.webp)
+![BTC204](assets/nb-NO/212.webp)
 
 Stilken og "Fluff"-fasen viser til oppførselen ved spredning av transaksjonen i nettverket, som ligner på formen og utviklingen til en løvetann ("Dandelion" på engelsk).
 
 Spionnoder kan dermed potensielt spore transaksjonen tilbake til noden som startet "Fluff"-fasen (masseutsendingen), men denne noden er ikke den som sendte transaksjonen først, da den mottok den fra den siste noden i stilken. Hvis spionnodene ikke kan spore stilken, kan de heller ikke identifisere kildenoden.
 
-![BTC204](assets/fr/207.webp)
+![BTC204](assets/nb-NO/213.webp)
 
 Selv om det finnes spionnoder i stamfasen, vil det alltid være tvil, for så snart de støter på en ærlig node i diffusjonsgrafen, kan ikke spionene avgjøre om denne noden er den opprinnelige kilden eller bare et mellomledd.
 
-![BTC204](assets/fr/208.webp)
+![BTC204](assets/nb-NO/214.webp)
 
 Denne rutingsmetoden gjør det vanskelig å spore en transaksjon tilbake til kildenoden, slik at det blir vanskelig å spore transaksjonen tilbake til opprinnelsen gjennom nettverket. Dandelion forbedrer dermed konfidensialiteten ved å begrense motstandernes mulighet til å de-anonymisere nettverket. Denne metoden er desto mer effektiv når transaksjonen i "stemming"-fasen krysser en node som krypterer nettverkskommunikasjonen sin, som med Tor eller P2P Transport V2.
 
@@ -2985,7 +3041,7 @@ En annen enkel løsning for å unngå risikoen for tap av konfidensialitet for e
 
 Tor er et nettverk av relay-servere (noder) som anonymiserer opprinnelsen til TCP-forbindelser på Internett. Det fungerer ved at data kapsles inn i flere krypteringslag. Hver relénode fjerner et lag for å avsløre adressen til den neste noden, helt til den endelige destinasjonen er nådd. Tor-nettverket sikrer anonymitet ved å forhindre at mellomliggende noder kjenner både opprinnelsen og destinasjonen til dataene, noe som gjør det svært vanskelig for en observatør å spore en brukers aktivitet.
 
-![BTC204](assets/fr/209.webp)
+![BTC204](assets/nb-NO/215.webp)
 
 Tor krypterer ikke bare data, men maskerer også opprinnelsen og destinasjonen til kommunikasjonen. Ved å bruke Tor for kommunikasjon fra din personlige node, styrker du konfidensialiteten til transaksjonene dine: Internett-leverandøren din kan ikke dekryptere kommunikasjonen, og andre noder i Bitcoin-nettverket kan ikke identifisere kildenodens IP-adresse. I tillegg skjuler Tor også din bruk av Bitcoin fra din ISP.
 
@@ -2999,22 +3055,24 @@ Etter å ha utforsket de ulike metodene for konfidensialitet på nettverksnivå,
 
 <chapterId>ad88e076-a04b-4aec-b3b2-7b4760175504</chapterId>
 
+:::video id=b0e9acc2-b50f-4caa-a1d7-cf8624b8e727:::
+
 
 Som vi så i del 3, er gjenbruk av adresser et alvorlig hinder for brukernes konfidensialitet i Bitcoin-protokollen. For å redusere denne risikoen anbefales det på det sterkeste å generere en tom mottakeradresse for hver nye betaling som mottas i en lommebok. Selv om det nå er enklere å generere en ny adresse ved bruk av moderne programvare og hierarkiske, deterministiske lommebøker, kan denne praksisen virke kontraintuitiv.
 
-![BTC204](assets/fr/210.webp)
+![BTC204](assets/nb-NO/216.webp)
 
 I det tradisjonelle banksystemet er vi for eksempel vant til å dele IBAN-nummeret vårt, som alltid forblir det samme. Når vi har gitt det til noen, kan de sende oss flere betalinger uten å måtte samhandle med oss på nytt. Nybankene tilbyr også mer moderne muligheter, som bruk av unike e-postadresser på PayPal eller RevTags på Revolut. Selv utenfor finansverdenen er våre daglige identifikatorer, som postadresse, telefonnummer og e-postadresse, også unike og permanente. Vi trenger ikke å fornye dem for hver nye interaksjon.
 
-![BTC204](assets/fr/211.webp)
+![BTC204](assets/nb-NO/217.webp)
 
 Bitcoin fungerer imidlertid annerledes: En ny mottakeradresse må genereres for hver innkommende transaksjon. Dette kompromisset mellom brukervennlighet og konfidensialitet går helt tilbake til opprinnelsen til Bitcoins hvitbok. Allerede da Satoshi Nakamoto publiserte den første versjonen av dokumentet i slutten av 2008, advarte han oss mot denne risikoen:
 
-**Som en ekstra brannmur kan et nytt nøkkelpar brukes for hver transaksjon, slik at de ikke knyttes til en felles eier
+**Som en ekstra brannmur kan et nytt nøkkelpar brukes for hver transaksjon, slik at de ikke knyttes til en felles eier.**
 
 Det finnes mange måter å motta flere betalinger på én og samme identifikator uten å måtte bruke en adresse på nytt. Hver av dem har sine egne avveininger og ulemper. Blant disse metodene er BIP47, et forslag utviklet av Justus Ranvier og publisert i 2015. Dette forslaget tar sikte på å skape gjenbrukbare betalingskoder som gjør det mulig å utføre flere transaksjoner mot samme person, samtidig som man unngår gjenbruk av adresser. Kort sagt har BIP47 som mål å tilby et betalingssystem som er like intuitivt som en unik identifikator, samtidig som transaksjonenes konfidensialitet ivaretas.
 
-![BTC204](assets/fr/212.webp)
+![BTC204](assets/nb-NO/218.webp)
 
 BIP47 forbedrer ikke brukernes konfidensialitet direkte, ettersom en BIP47-betaling tilbyr samme nivå av konfidensialitet som en klassisk Bitcoin-transaksjon med blanke adresser. Det gjør imidlertid bruken av Bitcoin mer praktisk og intuitiv, noe som normalt ville gått på bekostning av konfidensialiteten. Takket være BIP47 oppnår denne brukervennligheten samme nivå av konfidensialitet som en klassisk transaksjon. Det er derfor BIP47 er et så verdifullt verktøy for å bevare personvernet.
 
@@ -3024,17 +3082,17 @@ Opprinnelig ble BIP47 foreslått integrert i Bitcoin Core, men ble aldri impleme
 
 Målet med BIP47 er å gjøre det mulig å motta et stort antall betalinger uten å måtte gjenbruke adresser. Det er basert på bruk av en gjenbrukbar betalingskode, som gjør det mulig for ulike utstedere å sende flere betalinger til en enkelt kode som tilhører en annen bruker. Mottakeren trenger dermed ikke å oppgi en ny, tom adresse for hver transaksjon, noe som forenkler utvekslingen samtidig som konfidensialiteten ivaretas.
 
-![BTC204](assets/fr/213.webp)
+![BTC204](assets/nb-NO/219.webp)
 
 En bruker kan derfor dele betalingskoden sin helt fritt, enten det er på sosiale nettverk eller på nettsiden sin, uten å risikere tap av konfidensialitet, i motsetning til med en vanlig mottakeradresse eller offentlig nøkkel.
 
-For å gjennomføre en transaksjon trenger begge parter en Bitcoin-lommebok med en BIP47-implementering, for eksempel PayNym på Samurai Wallet eller Sparrow Wallet. Den felles bruken av betalingskodene deres skaper en hemmelig kanal mellom dem. For å etablere denne kanalen effektivt må utstederen utføre en spesifikk transaksjon på Bitcoin-blokkjeden, kjent som en "varslingstransaksjon" (mer om dette senere).
+For å gjennomføre en transaksjon må begge parter ha en Bitcoin-lommebok med en implementasjon av BIP47, slik som PayNym på Ashigaru eller Sparrow Wallet. Den felles bruken av deres betalingskoder oppretter en hemmelig kanal mellom dem. For å etablere denne kanalen på en effektiv måte må avsenderen utføre en spesifikk transaksjon på Bitcoin-blokkjeden, kjent som en «varslings­transaksjon» (jeg vil gi deg detaljene senere).
 
 Ved å kombinere betalingskodene til de to brukerne genereres delte hemmeligheter, som i sin tur skaper et stort antall unike Bitcoin-mottaksadresser (nøyaktig 2^32, eller rundt 4 milliarder). På denne måten blir betalinger som gjøres via BIP47 ikke adressert til selve betalingskoden, men til klassiske mottaksadresser som er avledet fra betalingskodene til de involverte brukerne.
 
 Betalingskoden fungerer dermed som en virtuell identifikator avledet fra porteføljefrøet. I porteføljens hierarkiske avledningsstruktur er betalingskoden plassert på nivå 3, dvs. på kontonivå.
 
-![BTC204](assets/fr/214.webp)
+![BTC204](assets/nb-NO/220.webp)
 
 Avledningsmålet for BIP47 er identifisert med indeksen `47` (`0x8000002F`), som refererer til BIP47. Et eksempel på en avledningssti for en gjenbrukbar betalingskode kan være som følger:
 
@@ -3050,7 +3108,7 @@ PM8TJSBiQmNQDwTogMAbyqJe2PE2kQXjtgh88MRTxsrnHC8zpEtJ8j7Aj628oUFk8X6P5rJ7P5qDudE4
 
 Denne koden kan også kodes som en QR-kode for å gjøre det enklere å kommunisere, akkurat som en vanlig mottaksadresse.
 
-Når det gjelder PayNym Bots, robotene som noen ganger ses på Twitter, er disse visuelle representasjoner av betalingskoden, opprettet av Samourai Wallet. De genereres ved hjelp av en hash-funksjon, noe som gjør dem nesten unike. De har form av en liten streng med tegn som begynner med `+` :
+Når det gjelder PayNym Bots – disse robotene man av og til ser på X (Twitter) – er de visuelle representasjoner av betalingskoden, laget av Samourai Wallet. Med Ashigaru er de nå noe annerledes, men prinsippet er det samme. De genereres via en hashfunksjon, noe som gir dem en nær unik identitet. De fremstår som en liten tegnstreng som begynner med `+` :
 
 ```plaintext
 +throbbingpond8B1
@@ -3060,14 +3118,14 @@ Når det gjelder PayNym Bots, robotene som noen ganger ses på Twitter, er disse
 
 Disse avatarene kan også representeres som bilder:
 
-![BTC204](assets/fr/215.webp)
+![BTC204](assets/nb-NO/221.webp)
 
 Selv om disse robotene ikke har noen spesifikk teknisk funksjonalitet innenfor BIP47-rammeverket, bidrar de til å forenkle brukerinteraksjonen ved å tilby en lett gjenkjennelig visuell identitet.
 
 ---
-*I de følgende delene av dette kapittelet, som er dedikert til BIP47, skal vi ta en detaljert titt på hvordan det fungerer, med særlig vekt på de kryptografiske metodene som brukes. For å forstå disse noe tekniske forklaringene fullt ut, er det viktig å først forstå strukturen til HD-lommebøker, prosedyrer for nøkkelderivasjon og grunnleggende elliptisk kurvekryptografi. Hvis du ønsker å gå dypere inn i disse konseptene, er et annet gratis opplæringskurs tilgjengelig på Plan ₿ Network :*
+*I de følgende delene av dette kapittelet, som er dedikert til BIP47, skal vi ta en detaljert titt på hvordan det fungerer, med særlig vekt på de kryptografiske metodene som brukes. For å forstå disse noe tekniske forklaringene fullt ut, er det viktig å først forstå strukturen til HD-lommebøker, prosedyrer for nøkkelderivasjon og grunnleggende elliptisk kurvekryptografi. Hvis du ønsker å gå dypere inn i disse konseptene, er et annet gratis opplæringskurs tilgjengelig på Plan ₿ Academy :*
 
-https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
+https://planb.academy/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 
 *Jeg vil likevel råde deg til å følge dem, for hvis du forstår hvordan BIP47 fungerer rent teknisk, blir det mye lettere for deg å forstå andre, lignende forslag, som vi skal ta for oss i de neste kapitlene*
 
@@ -3079,12 +3137,12 @@ Som nevnt tidligere er den gjenbrukbare betalingskoden plassert på dybde 3 i HD
 Betalingskoden på 80 byte fordeler seg på følgende måte:
 
 
-- Byte `0`: Versjonen**. For den første versjonen av BIP47 er denne byten satt til `0x01`;
-- Byte `1`: Bit-feltet**. Denne plassen er reservert for å integrere tilleggsangivelser for spesifikke bruksområder. For klassisk PayNym-bruk er denne byten satt til `0x00`;
-- Byte `2`: Pariteten til `y`**. Denne byten er `0x02` eller `0x03`, som angir om ordinaten til den offentlige nøkkelen er partall eller oddetall, ettersom det brukes en komprimert offentlig nøkkel;
-- Fra byte `3` til byte `34`: Verdien av `x`**. Disse bytene representerer abscissen til den offentlige nøkkelen. Sammenkjedningen av `x` og pariteten til `y` danner den komplette komprimerte offentlige nøkkelen;
-- Fra byte `35` til byte `66`: Strengkoden**. Dette området inneholder strengkoden som er knyttet til den offentlige nøkkelen;
-- Fra byte `67` til byte `79`: Utfyllingen**. Denne plassen er ment for mulige fremtidige utviklinger. I den nåværende versjonen plasserer vi ganske enkelt nuller her for å oppnå størrelsen på 80 byte som kreves for `OP_RETURN`-utdata.
+- Byte `0`: **Versjonen**. For den første versjonen av BIP47 er denne byten satt til `0x01`;
+- Byte `1`: **Bit-feltet**. Denne plassen er reservert for å integrere tilleggsangivelser for spesifikke bruksområder. For klassisk PayNym-bruk er denne byten satt til `0x00`;
+- Byte `2`: Pariteten til `y`. Denne byten er `0x02` eller `0x03`, som angir om ordinaten til den offentlige nøkkelen er partall eller oddetall, ettersom det brukes en komprimert offentlig nøkkel;
+- Fra byte `3` til byte `34`: Verdien av `x`. Disse bytene representerer abscissen til den offentlige nøkkelen. Sammenkjedningen av `x` og pariteten til `y` danner den komplette komprimerte offentlige nøkkelen;
+- Fra byte `35` til byte `66`: **Strengkoden**. Dette området inneholder strengkoden som er knyttet til den offentlige nøkkelen;
+- Fra byte `67` til byte `79`: **Utfyllingen**. Denne plassen er ment for mulige fremtidige utviklinger. I den nåværende versjonen plasserer vi ganske enkelt nuller her for å oppnå størrelsen på 80 byte som kreves for `OP_RETURN`-utdata.
 
 Her er den heksadesimale representasjonen av den gjenbrukbare betalingskoden min som allerede ble presentert i forrige avsnitt:
 
@@ -3092,7 +3150,7 @@ Her er den heksadesimale representasjonen av den gjenbrukbare betalingskoden min
 0x010002a0716529bae6b36c5c9aa518a52f9c828b46ad8d907747f0d09dcd4d9a39e97c3c5f37c470c390d842f364086362f6122f412e2b0c7e7fc6e32287e364a7a36a00000000000000000000000000
 ```
 
-![BTC204](assets/fr/216.webp)
+![BTC204](assets/nb-NO/222.webp)
 
 Deretter må prefiksbyten `P` legges til i begynnelsen for å tydelig indikere at dette er en betalingskode. Denne byten representeres av `0x47` :
 
@@ -3106,7 +3164,7 @@ For å sikre betalingskodens integritet utføres det til slutt en kontrollsumber
 0x47010002a0716529bae6b36c5c9aa518a52f9c828b46ad8d907747f0d09dcd4d9a39e97c3c5f37c470c390d842f364086362f6122f412e2b0c7e7fc6e32287e364a7a36a00000000000000000000000000567080c4
 ```
 
-![BTC204](assets/fr/217.webp)
+![BTC204](assets/nb-NO/223.webp)
 
 Når disse trinnene er fullført, er betalingskoden klar. Alt som gjenstår er å konvertere den til base 58 for å få den endelige versjonen:
 
@@ -3122,7 +3180,7 @@ m/47'/0'/0'/
 
 For å generere den komprimerte offentlige nøkkelen og strengkoden som er knyttet til den gjenbrukbare betalingskoden, begynner vi med å beregne den private hovednøkkelen fra lommebokfrøet. Deretter utleder vi et par datternøkler ved hjelp av indeksen `47 + 2^31` (styrket utledning). Deretter følger ytterligere to påfølgende utledninger av datterpar, hver med indeksen `2^31` (forsterket utledning).
 
-![BTC204](assets/fr/218.webp)
+![BTC204](assets/nb-NO/224.webp)
 
 ### Diffie-Hellman-nøkkelutveksling på elliptiske kurver (ECDH)
 
@@ -3130,11 +3188,11 @@ Den kryptografiske protokollen som ligger til grunn for BIP47, er kjent under ak
 
 Diffie-Hellman ble introdusert i 1976 og er en nøkkelavtaleprotokoll som gjør det mulig for to parter, som hver er utstyrt med et nøkkelpar (offentlig og privat), å bli enige om en felles hemmelighet, selv når de kun kommuniserer via en offentlig, usikret kanal.
 
-![BTC204](assets/fr/219.webp)
+![BTC204](assets/nb-NO/225.webp)
 
 Denne delte hemmeligheten (i dette tilfellet den blå nøkkelen) kan deretter brukes til andre operasjoner. Vanligvis kan denne delte hemmeligheten brukes til å kryptere og dekryptere en kommunikasjon i et usikret nettverk:
 
-![BTC204](assets/fr/220.webp)
+![BTC204](assets/nb-NO/226.webp)
 
 For å oppnå dette bruker Diffie-Hellman modulær aritmetikk til å beregne den delte hemmeligheten. Slik fungerer det i lekmannstermer:
 
@@ -3146,7 +3204,7 @@ For å oppnå dette bruker Diffie-Hellman modulær aritmetikk til å beregne den
 - Ved å blande Bobs grønne farge med sin egen hemmelige farge, får Alice frem brun;
 - Bob gjør det samme med Alices oransje og hemmelige blå, og får også brun.
 
-![BTC204](assets/fr/221.webp)
+![BTC204](assets/nb-NO/227.webp)
 
 I denne populariseringen representerer fargen brun hemmeligheten som deles av Alice og Bob. Tenk deg at det i virkeligheten er umulig for angriperen å skille fargene oransje og grønn fra hverandre for å finne Alices eller Bobs hemmelige farger.
 
@@ -3240,7 +3298,7 @@ $$
 
 Takket være distributiviteten til modulooperatoren får Alice og Bob nøyaktig samme verdi $z$. Dette tallet representerer deres felles hemmelighet, tilsvarende **fargen brun** i den tidligere populariseringen med malingsbokser. De kan nå bruke denne felles hemmeligheten til å kryptere kommunikasjonen sin symmetrisk over et usikret nettverk.
 
-![BTC204](assets/fr/222.webp)
+![BTC204](assets/nb-NO/228.webp)
 
 Selv om en angriper er i besittelse av $p$, $g$, $A$ og $B$ (de offentlige verdiene), vil han ikke være i stand til å beregne $a$, $b$ eller $z$ (de private verdiene). For å oppnå dette må eksponentialiseringen reverseres, en operasjon som er umulig uten å prøve alle mulighetene én etter én, ettersom det tilsvarer å beregne den diskrete logaritmen, dvs. den reciprokke av eksponentialen i en endelig syklisk gruppe.
 
@@ -3260,7 +3318,7 @@ I denne formelen betegner $K$ den offentlige nøkkelen, $k$ den private nøkkele
 
 En viktig egenskap ved disse nøklene er at $K$ enkelt kan beregnes ut fra $k$ og $G$, mens det er praktisk talt umulig å finne $k$ ut fra $K$ og $G$. Denne asymmetrien skaper en enveisfunksjon. Med andre ord er det enkelt å beregne den offentlige nøkkelen hvis du kjenner den private nøkkelen, men det er umulig å hente den private nøkkelen fra den offentlige nøkkelen. Denne sikkerheten underbygges ytterligere av at den diskrete logaritmen er vanskelig å beregne.
 
-Vi skal bruke denne egenskapen til å tilpasse Diffie-Hellman-algoritmen vår. **ECDH fungerer på følgende måte
+Vi skal bruke denne egenskapen til å tilpasse Diffie-Hellman-algoritmen vår. **ECDH fungerer på følgende måte:**
 
 
 - Alice og Bob blir enige om en kryptografisk sikker elliptisk kurve og dens parametere. Denne informasjonen er offentlig;
@@ -3311,7 +3369,7 @@ TLS er ansvarlig for `s`en i `https` og hengelåsen i nettleserens adressefelt -
 
 Som vi så i forrige avsnitt, er ECDH en variant av Diffie-Hellman-utvekslingen som bruker nøkkelpar etablert på en elliptisk kurve. Det er bra at vi allerede har mange nøkkelpar som respekterer denne standarden i Bitcoin-lommebøkene våre! Ideen med BIP47 er å bruke nøkkelparene til begge parters hierarkiske, deterministiske Bitcoin-lommebøker til å etablere delte, flyktige hemmeligheter mellom dem. BIP47 bruker ECDHE (*Elliptic Curve Diffie-Hellman **Ephemeral***) i stedet.
 
-![BTC204](assets/fr/223.webp)
+![BTC204](assets/nb-NO/229.webp)
 
 ECDHE brukes først i BIP47 til å overføre betalingskoden fra avsender til mottaker. Dette er den berømte **notifikasjonstransaksjonen**. Dette trinnet er viktig, for for at BIP47 skal fungere effektivt, må begge involverte parter (avsender og mottaker) kjenne hverandres betalingskoder. Denne kunnskapen gjør det mulig å utlede flyktige offentlige nøkler og følgelig de tilhørende blanke mottakeradressene.
 
@@ -3319,7 +3377,7 @@ Før denne utvekslingen er avsenderen logisk sett allerede kjent med mottakerens
 
 Dette skyldes at BIP47-adresser, i motsetning til konvensjonelle adresser, ikke er avledet direkte fra mottakerens seed - det ville vært enklere å bruke en `xpub` i dette tilfellet - men er resultatet av en beregning som kombinerer de to betalingskodene: avsenderens og mottakerens. Så hvis mottakeren mister lommeboken sin og prøver å gjenopprette den fra seed'en sin, vil han gjenopprette sin egen betalingskode, som er direkte avledet fra seed'en. Men for å gjenopprette efemeriske adresser trenger han også betalingskodene til alle dem som har sendt ham bitcoins via BIP47. Derfor er varslingstransaksjonen så viktig, fordi den gjør det mulig å lagre denne informasjonen i Bitcoin-blokkjeden, samtidig som det er enkelt å finne den uten å måtte søke gjennom de milliarder transaksjonene som er utført siden lanseringen i 2009.
 
-![BTC204](assets/fr/224.webp)
+![BTC204](assets/nb-NO/230.webp)
 
 Det vil derfor være mulig å implementere BIP47 uten å bruke varslingstransaksjonen, forutsatt at hver bruker tar en sikkerhetskopi av betalingskodene til sine kolleger. Denne metoden viser seg imidlertid å være komplisert å håndtere inntil det utvikles en enkel, robust og effektiv løsning for å lage, lagre og oppdatere disse sikkerhetskopiene. Slik situasjonen er i dag, er varslingstransaksjonen nærmest uunngåelig.
 
@@ -3351,7 +3409,7 @@ Hvordan kan jeg videreformidle koden min uten risiko? Å bruke konvensjonelle ko
 
 I diagrammet nedenfor angir de oransje linjene de punktene der informasjonsflyten må avbrytes, og de svarte pilene viser forbindelsene som potensielt kan observeres av tredjeparter:
 
-![BTC204](assets/fr/225.webp)
+![BTC204](assets/nb-NO/231.webp)
 
 I Bitcoins tradisjonelle konfidensialitetsmodell er det i realiteten ofte komplisert å skille informasjonsflyten mellom nøkkelparet og brukeren helt fra hverandre, spesielt i eksterne transaksjoner. For eksempel i forbindelse med en donasjonskampanje må mottakeren uunngåelig oppgi en adresse eller offentlig nøkkel via nettsiden sin eller sosiale nettverk. Korrekt bruk av BIP47, spesielt i forbindelse med varslingstransaksjonen, gjør det mulig å omgå dette problemet takket være ECDHE og krypteringslaget vi skal se på senere.
 
@@ -3363,7 +3421,7 @@ For å oppsummere kan konfidensialitetsmodellen som tilbys av BIP47-betalinger a
 
 La oss nå se hvordan denne varslingstransaksjonen fungerer. La oss tenke oss at Alice ønsker å sende penger til Bob ved hjelp av BIP47. I mitt eksempel fungerer Alice som avsender og Bob som mottaker. Bob har publisert betalingskoden sin på nettstedet sitt. Alice kjenner derfor allerede til Bobs betalingskode.
 
-*1- Alice beregner en delt hemmelighet med ECDH: ** *1- Alice beregner en delt hemmelighet med ECDH
+**1- Alice beregner en delt hemmelighet med ECDH:**
 
 
 - Hun velger et nøkkelpar fra HD-lommeboken sin på en annen gren enn betalingskoden sin. Merk at dette nøkkelparet ikke må kunne assosieres med Alices varslingsadresse eller med Alices identitet (se forrige avsnitt);
@@ -3390,7 +3448,7 @@ $$ f = \text{HMAC-SHA512}(o, x) $$$
 
 **2 - Alice konverterer sin personlige betalingskode til base 2 (binær) **
 
-**3 - Den bruker denne blendingsfaktoren som en nøkkel til å utføre symmetrisk kryptering på nyttelasten til betalingskoden. Operasjonen som utføres kan sammenlignes med Vernam-krypteringen, også kjent som "One-Time Pad".
+**3 - Den bruker denne blendingsfaktoren som en nøkkel til å utføre symmetrisk kryptering på nyttelasten til betalingskoden. Operasjonen som utføres kan sammenlignes med Vernam-krypteringen, også kjent som "One-Time Pad".**
 
 
 - Alice deler først blendingsfaktoren sin i to: de første 32 byte får navnet $f1$ og de siste 32 byte får navnet $f2$. Dette gir oss :
@@ -3423,13 +3481,13 @@ Jeg skal oppsummere trinnene vi nettopp har sett sammen for å gjennomføre en v
 - Hun bruker denne blendingsfaktoren til å kryptere nyttelasten til den personlige betalingskoden sin;
 - Den bruker en `OP_RETURN`-transaksjonsutgang for å kommunisere den skjulte betalingskoden til Bob.
 
-![BTC204](assets/fr/226.webp)
+![BTC204](assets/nb-NO/232.webp)
 
 ### Transaksjonsvarsling: en praktisk studie
 
-For å forstå hvordan det fungerer i mer detalj, og spesielt bruken av `OP_RETURN`, la oss ta en titt på en ekte notifikasjonstransaksjon. Jeg utførte en slik transaksjon på testnettet, som du kan finne [ved å klikke her] (https://mempool.space/fr/testnet/tx/0e2e4695a3c49272ef631426a9fd2dae6ec3a469e3a39a3db51aa476cd09de2e).
+For å forstå hvordan det fungerer i mer detalj, og spesielt bruken av `OP_RETURN`, la oss ta en titt på en ekte notifikasjonstransaksjon. Jeg utførte en slik transaksjon på testnettet, som du kan finne [ved å klikke her](https://mempool.space/fr/testnet/tx/0e2e4695a3c49272ef631426a9fd2dae6ec3a469e3a39a3db51aa476cd09de2e).
 
-![BTC204](assets/fr/227.webp)
+![BTC204](assets/nb-NO/233.webp)
 
 Når vi ser på denne transaksjonen, kan vi allerede se at den har én inngang og fire utganger:
 
@@ -3649,7 +3707,7 @@ $$ A = a \cdot G $$
 
 $$ S = a \cdot B = a \cdot (b \cdot G) = (b \cdot a) \cdot G = b \cdot A $$$
 
-![BTC204](assets/fr/228.webp)
+![BTC204](assets/nb-NO/234.webp)
 
 Nå som Bob kjenner Alices betalingskode, vil han kunne oppdage BIP47-betalingene hennes, og han vil kunne utlede de private nøklene som blokkerer de mottatte bitcoinsene.
 
@@ -3662,7 +3720,7 @@ Jeg skal oppsummere trinnene vi nettopp har sett sammen for å motta og tolke en
 - Den bruker dette hemmelige punktet til å beregne en HMAC, som er blindingsfaktoren;
 - Den bruker denne blindingfaktoren til å dekryptere Alices betalingskode i OP_RETURN.
 
-![BTC204](assets/fr/229.webp)
+![BTC204](assets/nb-NO/235.webp)
 
 ### BIP47-betalingstransaksjonen
 
@@ -3726,11 +3784,11 @@ Jeg skal oppsummere trinnene vi nettopp har sett sammen for å sende en BIP47-be
 - Hun får en ny, kortvarig offentlig nøkkel som bare Bob har den tilhørende private nøkkelen til;
 - Alice kan foreta en klassisk transaksjon til Bob med den avledede efemeriske mottaksadressen.
 
-![BTC204](assets/fr/230.webp)
+![BTC204](assets/nb-NO/236.webp)
 
 Hvis Alice ønsker å foreta en ny betaling, følger hun de samme trinnene som før, bortsett fra at hun denne gangen velger den andre offentlige nøkkelen som er avledet fra Bobs betalingskode. Nærmere bestemt vil hun bruke den neste ubrukte nøkkelen. På denne måten får hun en ny mottakeradresse som tilhører Bob, kalt $K1$ :
 
-![BTC204](assets/fr/231.webp)
+![BTC204](assets/nb-NO/237.webp)
 
 Den kan fortsette på denne måten og utlede opptil `2^32` tomme adresser som tilhører Bob.
 
@@ -3742,7 +3800,7 @@ Fra et utenforstående perspektiv, som ser på blokkjeden, er det i teorien umul
 
 Det ser ut som en klassisk transaksjon med en konsumert inngang, en betalingsutgang og en valutakurs:
 
-![BTC204](assets/fr/232.webp)
+![BTC204](assets/nb-NO/238.webp)
 
 ### Mottak av BIP47-betaling og utledning av privat nøkkel
 
@@ -3797,15 +3855,15 @@ Jeg skal oppsummere trinnene vi nettopp har sett sammen for å motta en BIP47-be
 - Han får en ny, kortvarig offentlig nøkkel, som Alice skal sende sin første betaling til;
 - Bob beregner den private nøkkelen som er knyttet til denne kortvarige offentlige nøkkelen, ved å legge til den private nøkkelen til datteren sin, som er utledet fra betalingskoden og den delte hemmeligheten.
 
-![BTC204](assets/fr/233.webp)
+![BTC204](assets/nb-NO/239.webp)
 
 Siden Alice ikke kan få tak i $b$ (Bobs private nøkkel), kan hun heller ikke finne ut $k0$ (den private nøkkelen som er knyttet til Bobs BIP47-mottaksadresse). Skjematisk kan vi representere beregningen av den delte hemmeligheten $S$ på følgende måte:
 
-![BTC204](assets/fr/228.webp)
+![BTC204](assets/nb-NO/240.webp)
 
 Når den delte hemmeligheten er funnet med ECDH, beregner Alice og Bob den offentlige BIP47-betalingsnøkkelen $K0$, og Bob beregner også den tilhørende private nøkkelen $k0$ :
 
-![BTC204](assets/fr/234.webp)
+![BTC204](assets/nb-NO/241.webp)
 
 ### Tilbakebetaling av BIP47-betaling
 
@@ -3815,22 +3873,24 @@ Refusjonsfunksjonen er spesifikk for BIP47 og er en av fordelene med BIP47 samme
 
 Bob kan deretter betale Alice tilbake på samme måte som hun sendte ham betalinger. Rollene er byttet om:
 
-![BTC204](assets/fr/235.webp)
+![BTC204](assets/nb-NO/242.webp)
 
-*Tusen takk til [Fanis Michalakis] (https://x.com/FanisMichalakis) for korrekturlesing og ekspertråd om artikkelen som inspirerte til dette kapittelet!
+*Tusen takk til [Fanis Michalakis](https://x.com/FanisMichalakis) for korrekturlesing og ekspertråd om artikkelen som inspirerte til dette kapittelet!*
 
-https://planb.network/tutorials/privacy/on-chain/paynym-bip47-a492a70b-50eb-4f95-a766-bae2c5535093
+https://planb.academy/tutorials/privacy/on-chain/paynym-bip47-a492a70b-50eb-4f95-a766-bae2c5535093
 
 ## Stille betalinger
 
 <chapterId>2871d594-414e-4598-a830-91c9eb84dfb8</chapterId>
+
+:::video id=85b2780e-864e-4f64-b843-f272277181e6:::
 
 
 BIP47 har fått mye kritikk for sin ineffektivitet i kjeden. Som forklart i forrige kapittel, krever det en varslingstransaksjon for hver nye mottaker. Denne begrensningen blir ubetydelig hvis vi planlegger å etablere en bærekraftig betalingskanal med denne mottakeren. En enkelt varslingstransaksjon baner nemlig vei for et nesten uendelig antall påfølgende BIP47 -betalinger.
 
 I visse situasjoner kan imidlertid varslingstransaksjonen være et hinder for brukeren. La oss ta et eksempel på en engangsdonasjon til en mottaker: Med en klassisk Bitcoin-adresse er det nok med én enkelt transaksjon for å fullføre donasjonen. Men med BIP47 kreves det to transaksjoner: én for varslingen og én for selve betalingen. Når etterspørselen etter blokkplass er lav og transaksjonsgebyrene lave, er dette ekstra trinnet vanligvis ikke noe problem. I tider med overbelastning kan imidlertid transaksjonsgebyrene bli ublu for en enkelt betaling, noe som potensielt fordobler kostnaden for brukeren sammenlignet med en standard Bitcoin-transaksjon, noe som kan være uakseptabelt for brukeren.
 
-For situasjoner der brukeren planlegger å foreta bare noen få betalinger til en statisk identifikator, er det utviklet andre løsninger. Blant disse er Silent Payments, som er beskrevet i [BIP352] (https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki). Denne protokollen gjør det mulig å bruke en statisk identifikator til å motta betalinger uten at det oppstår gjenbruk av adresser, og uten at det er nødvendig å bruke varslingstransaksjoner. La oss ta en titt på hvordan denne protokollen fungerer.
+For situasjoner der brukeren planlegger å foreta bare noen få betalinger til en statisk identifikator, er det utviklet andre løsninger. Blant disse er Silent Payments, som er beskrevet i [BIP352](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki). Denne protokollen gjør det mulig å bruke en statisk identifikator til å motta betalinger uten at det oppstår gjenbruk av adresser, og uten at det er nødvendig å bruke varslingstransaksjoner. La oss ta en titt på hvordan denne protokollen fungerer.
 
 ---
 *For å forstå dette kapittelet fullt ut, er det viktig å forstå hvordan ECDH (Elliptic Curve Diffie-Hellman) og utledning av kryptografiske nøkler i en HD-lommebok fungerer. Disse konseptene ble beskrevet i detalj i forrige kapittel om BIP47. Jeg vil ikke gjenta dem her. Hvis du ennå ikke er kjent med disse konseptene, anbefaler jeg at du leser det forrige kapittelet før du fortsetter med dette. Jeg vil ikke gå tilbake til risikoen forbundet med gjenbruk av mottaksadresser eller viktigheten av å ha en unik identifikator for mottak av betalinger*, men jeg vil bare nevne noen få punkter som jeg ønsker å ta opp her
@@ -3860,7 +3920,7 @@ La oss ta en titt på den tekniske driften av Silent Payments for å bedre forst
 
 Før vi går i gang, er det viktig å påpeke at Silent Payments utelukkende baserer seg på bruk av P2TR (*Pay to Taproot*) skripttyper. I motsetning til BIP47 er det ikke nødvendig å utlede mottakeradresser fra offentlige nøkler for barn ved hashing. I P2TR-standarden brukes den finjusterte offentlige nøkkelen direkte og ukryptert i adressen. En Taproot-mottakeradresse er altså egentlig en offentlig nøkkel med noen metadata. Denne justerte offentlige nøkkelen er en aggregering av to andre offentlige nøkler: én som muliggjør direkte, tradisjonell bruk via en enkel signatur, og én som representerer Merkle-roten i MAST, som autoriserer bruk under forutsetning av at en av betingelsene som potensielt er innskrevet i Merkle-treet, er oppfylt.
 
-![BTC204](assets/fr/068.webp)
+![BTC204](assets/nb-NO/243.webp)
 
 Det er to hovedgrunner til at Silent Payments er begrenset til Taproot:
 
@@ -3895,7 +3955,7 @@ $$ P = B + \text{hash}(a \cdot B) \cdot G $$$
 
 I denne ligningen har Alice ganske enkelt beregnet skalarproduktet av sin private nøkkel $a$ og Bobs offentlige nøkkel $B$. Hun har sendt dette resultatet inn i en hashfunksjon som er kjent for alle. Den resulterende verdien multipliseres deretter skalarisk med det genererende punktet $G$ i den elliptiske kurven `secp256k1`. Til slutt legger Alice det resulterende punktet til Bobs offentlige nøkkel $B$. Når Alice har denne adressen $P$, bruker hun den som output i en transaksjon, dvs. at hun sender bitcoins til den.
 
-> *I forbindelse med Silent Payments tilsvarer "hash"-funksjonen en SHA256-hashfunksjon som er spesielt merket med `BIP0352/SharedSecret`, som sikrer at hashene som genereres er unike for denne protokollen og ikke kan gjenbrukes i andre sammenhenger, samtidig som de gir ekstra beskyttelse mot gjenbruk av nonces i signaturer. Denne standarden tilsvarer den [spesifisert i BIP340 for Schnorr-signaturer](https://github.com/bitcoin/bips/blob/master/bip-0340.mediawiki) på `secp256k1`
+> *I forbindelse med Silent Payments tilsvarer "hash"-funksjonen en SHA256-hashfunksjon som er spesielt merket med `BIP0352/SharedSecret`, som sikrer at hashene som genereres er unike for denne protokollen og ikke kan gjenbrukes i andre sammenhenger, samtidig som de gir ekstra beskyttelse mot gjenbruk av nonces i signaturer. Denne standarden tilsvarer den [spesifisert i BIP340 for Schnorr-signaturer](https://github.com/bitcoin/bips/blob/master/bip-0340.mediawiki) på `secp256k1`.*
 Takket være egenskapene til den elliptiske kurven som ECDH er basert på, vet vi at :
 
 $$ a \cdot B = b \cdot A $$$
@@ -3914,7 +3974,7 @@ $$ p = (b + \text{hash}(b \cdot A)) \bmod n $$
 
 Som du kan se, må du ha den private nøkkelen $b$ for å beregne denne private nøkkelen $p$. Bare Bob har denne private nøkkelen $b$. Han vil derfor være den eneste som kan bruke bitcoinsene som sendes til hans Silent Payments-adresse.
 
-![BTC204](assets/fr/236.webp)
+![BTC204](assets/nb-NO/244.webp)
 
 *Legend:*
 
@@ -3964,7 +4024,7 @@ $$
 p_1 = (b + \text{hash}(b \cdot A \text{ ‖ } 1)) \bmod n
 $$
 
-![BTC204](assets/fr/237.webp)
+![BTC204](assets/nb-NO/245.webp)
 
 *Legend:*
 
@@ -3986,7 +4046,7 @@ Med denne metoden begynner vi å få en fin protokoll, men det er fortsatt noen 
 
 Som vi så i de foregående avsnittene, bruker Alice nøkkelparet som sikrer UTXO-en hennes, til å beregne den delte ECDH-hemmeligheten med Bob. Denne hemmeligheten gjør henne i stand til å utlede den unike adressen $P_0$. Nøkkelparet ($a$, $A$) som Alice bruker, kan imidlertid sikre flere UTXO-er hvis hun har gjenbrukt denne adressen flere ganger. Hvis Alice foretar to betalinger til Bobs statiske adresse $B$ ved hjelp av to UTXOer som er sikret med samme nøkkel $A$, vil dette resultere i gjenbruk av adressen for Bob.
 
-> *Gjenbruk av adresser er en svært uheldig praksis med tanke på brukernes konfidensialitet. For å finne ut hvorfor, anbefaler jeg deg å gå gjennom de første delene av dette kurset
+> *Gjenbruk av adresser er en svært uheldig praksis med tanke på brukernes konfidensialitet. For å finne ut hvorfor, anbefaler jeg deg å gå gjennom de første delene av dette kurset*
 Siden den unike adressen $P_0$ er avledet fra $A$ og $B$, vil Alice, hvis hun avleder en ny adresse for en ny betaling til $B$, med samme nøkkel $A$, ende opp på nøyaktig samme adresse $P_0$. For å unngå denne risikoen og forhindre gjenbruk av adresser i Silent Payments, må vi endre beregningene våre litt.
 
 Det vi ønsker, er at hver UTXO som Alice bruker som input til en betaling, skal gi en unik adresse på Bobs side, selv om flere UTXO-er er sikret med det samme nøkkelparet. Så alt vi trenger å gjøre er å legge til en referanse til UTXO-en når vi beregner den unike adressen $P_0$. Denne referansen vil ganske enkelt være hashen til UTXO-en som brukes som input:
@@ -4007,7 +4067,7 @@ $$
 p_0 = (b + \text{hash}(\text{inputHash} \cdot b \cdot A \text{ ‖ } 0)) \bmod n
 $$
 
-![BTC204](assets/fr/238.webp)
+![BTC204](assets/nb-NO/246.webp)
 
 *Legend:*
 
@@ -4035,7 +4095,7 @@ La oss for eksempel tenke oss at Alices transaksjon har tre innganger, hver sikr
 - $a_1$ brukes til å sikre inngang #1;
 - $a_2$ sikrer inngang nr. 2.
 
-![BTC204](assets/fr/239.webp)
+![BTC204](assets/nb-NO/247.webp)
 
 Ved å følge den tidligere beskrevne metoden må Alice velge ett enkelt nøkkelpar blant $a_0$, $a_1$ og $a_2$ for å beregne ECDH-hemmeligheten og generere den enkle betalingsadressen $P$ fra Bobs statiske adresse $B$. Denne tilnærmingen krever imidlertid at Bob tester hver mulighet sekvensielt, og starter med $a_0$, deretter $a_1$ og så videre, helt til han finner et par som genererer en gyldig $P$-adresse. Denne prosessen krever at Bob kjører ECDH-beregningen på alle inndataene til alle transaksjonene, noe som øker den operasjonelle belastningen ved skanning betraktelig.
 
@@ -4087,7 +4147,7 @@ Som du kan se, har Bob så langt ikke hatt behov for å bruke $b_{\text{spend}}$
 
 $$ p_0 = (b_{\text{spend}} + \text{hash}(\text{inputHash} \cdot b_{\text{scan}} \cdot A \text{ ‖ } 0)) \bmod n $$$
 
-![BTC204](assets/fr/240.webp)
+![BTC204](assets/nb-NO/248.webp)
 
 *Legend:*
 
@@ -4124,7 +4184,7 @@ Den statiske adressen som publiseres av Bob, vil nå bestå av $B_{\text{scan}}$
 
 $$ B = B_{\text{scan}} \text{ ‖ } B_1 $$
 
-> *Vi starter bare fra etikett 1 fordi etikett 0 er reservert for endringen
+> *Vi starter bare fra etikett 1 fordi etikett 0 er reservert for endringen*
 Alice vil på sin side utlede enkeltbetalingsadressen $P$ på samme måte som før, men ved å bruke den nye $B_1$ i stedet for $B_{\text{spend}}$ :
 
 $$ P_0 = B_1 + \text{hash}(\text{inputHash} \cdot a \cdot B_{\text{scan}} \text{ ‖ } 0) \cdot G $$ $$
@@ -4147,7 +4207,7 @@ Takket være denne metoden kan Bob bruke en rekke statiske adresser ($B_1$, $B_2
 
 Vær imidlertid oppmerksom på at denne separasjonen av statiske adresser kun er gyldig fra et personlig porteføljeforvaltningssynspunkt, men ikke skiller identiteter. Siden alle har samme $B_{\text{scan}}$, er det veldig enkelt å knytte alle statiske adresser sammen og utlede at de tilhører én og samme enhet.
 
-![BTC204](assets/fr/241.webp)
+![BTC204](assets/nb-NO/249.webp)
 
 *Legend:*
 
@@ -4212,14 +4272,14 @@ Silent Payments-forslaget er relativt nytt og har bare blitt implementert av et 
 
 
 - [CakeWallet](https://cakewallet.com/)
-- [Silentium] (https://app.silentium.dev/)
+- [Silentium](https://app.silentium.dev/)
 - [DonationWallet](https://github.com/Sosthene00/donationwallet)
 
 Vi vil snart gi deg en detaljert veiledning i hvordan du setter opp din egen statiske Silent Payments-adresse.
 
 Siden denne funksjonen er ny, anbefaler vi at du utviser forsiktighet og unngår å bruke Silent Payments for store beløp på mainnet.
 
-*For å lage dette kapittelet om Silent Payments brukte jeg [nettstedet med forklaringer om Silent Payments] (https://silentpayments.xyz/) og [BIP352-forklaringsdokumentet] (https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)
+*For å lage dette kapittelet om Silent Payments brukte jeg [nettstedet med forklaringer om Silent Payments](https://silentpayments.xyz/) og [BIP352-forklaringsdokumentet](https://github.com/bitcoin/bips/blob/master/bip-0352.mediawiki)*
 
 # Siste seksjon
 

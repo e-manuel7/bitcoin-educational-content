@@ -1,0 +1,9 @@
+question: Kako se zove procedura uspostavljanja veze u više koraka u TCP-u?
+answer: Trostruko rukovanje
+wrong_answers:
+  - Četvorostruko rukovanje
+  - Klizni prozor
+  - Proces provere zbira
+explanation: |
+  Trostruko rukovanje uspostavlja sinhronizaciju sekvencijalnih brojeva između klijenta i servera pre bilo koje razmene korisničkih podataka.
+reviewed: true

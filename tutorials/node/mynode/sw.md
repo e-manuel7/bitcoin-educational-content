@@ -1,9 +1,9 @@
 ---
-name: Nodi yangu
+name: My Node
 description: Sanidi Bitcoin MyNode yako
 ---
 
-![image](assets/0.webp)
+![image](assets/cover.webp)
 
 
 [Njia Yangu](https://mynodebtc.com/) ndiyo njia rahisi na yenye nguvu zaidi ya kutumia Bitcoin na nodi ya Umeme! Tunachanganya programu bora zaidi ya programu huria na Interface, usimamizi, na usaidizi ili uweze kutumia Bitcoin na Umeme kwa urahisi, kwa faragha na kwa usalama.
@@ -157,7 +157,7 @@ Niliandika 192.168.0.1 kwenye Kivinjari (maelekezo ambayo yalikuja na kipanga nj
 Kupata IP ni muhimu.
 
 
-**Kumbuka:** unaweza kutumia terminal kwenye Mac au Linux ili kupata IP Address ya vifaa vyote vilivyounganishwa vya Ethaneti kwenye mtandao wa nyumbani kwa kutumia amri ya “arp -a”. Matokeo sio mazuri kama yale ambayo kipanga njia kitaonyesha, lakini habari yote unayohitaji iko. Ikiwa haijulikani ni ipi, fanya majaribio na makosa.
+**Kumbuka:** unaweza kutumia terminal kwenye Mac au Linux ili kupata IP Address ya vifaa vyote vilivyounganishwa vya Ethaneti kwenye mtandao wa nyumbani kwa kutumia amri ya “arp -a”. Matokeo sio mazuri kama yale ambayo kipanga njia kitaonyesha, lakini habari zote unazohitaji ziko. Ikiwa hazijulikani ni zipi, fanya majaribio na makosa.
 
 
 ## SSH kwenye Pi

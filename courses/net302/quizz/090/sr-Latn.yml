@@ -1,0 +1,9 @@
+question: Kada se koristi opcija -u u lsof?
+answer: Za filtriranje po korisniku
+wrong_answers:
+  - Za primoravanje DNS razrešavanja
+  - Za prikazivanje otvorenih portova
+  - Za navođenje DNS servera
+explanation: |
+  Opcija -u u lsof prikazuje samo fajlove koje je otvorio određeni korisnik ili korisnički ID (UID).
+reviewed: true

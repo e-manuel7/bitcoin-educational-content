@@ -1,0 +1,9 @@
+question: Koja jedinica podataka se koristi u internetskom sluju TCP/IP modela?
+answer: Datagram
+wrong_answers:
+  - Segment
+  - Ram
+  - Poruka
+explanation: |
+  Internetski sloj manipuliše datagramima, enkapsulirajući segmente iz transportnog sloja.
+reviewed: true

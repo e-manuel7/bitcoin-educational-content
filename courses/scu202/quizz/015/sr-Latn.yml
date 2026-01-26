@@ -1,0 +1,9 @@
+question: Koja je glavna prednost rolling release distribucije?
+answer: Korišćenje najnovijeg softvera
+wrong_answers:
+  - Veća kompatibilnost sa Windows-om
+  - Okruženje bez grafičkog interfejsa
+  - Obavezna prodajna podrška
+explanation: |
+  Rolling releases integrišu kontinuirana ažuriranja softvera, osiguravajući stalan pristup najnovijim verzijama.
+reviewed: true

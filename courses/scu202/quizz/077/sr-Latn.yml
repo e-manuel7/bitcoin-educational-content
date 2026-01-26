@@ -1,0 +1,9 @@
+question: Čemu služi Shelter aplikacija za Android?
+answer: Kreiranje izolovanog profila za particionisanje upotrebe
+wrong_answers:
+  - Automatsko šifrovanje svih podataka na telefonu
+  - Blokiranje neželjenih poziva
+  - Instaliranje aplikacija van Play Store-a
+explanation: |
+  Shelter vam omogućava da koristite funkciju Work Profile za odvajanje aplikacija i podataka u izolovanom prostoru.
+reviewed: true

@@ -1,0 +1,9 @@
+question: Koja distribucija koristi Cinnamon desktop okruženje po defaultu?
+answer: Linux Mint
+wrong_answers:
+  - Ubuntu
+  - Debian
+  - Fedora
+explanation: |
+  Cinnamon je razvijen od strane Linux Mint tima kako bi ponudio moderan, klasičan interfejs, blizak Windowsu.
+reviewed: true

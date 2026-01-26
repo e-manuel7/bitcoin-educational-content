@@ -1,0 +1,9 @@
+question: Koji tip DNS zapisa se koristi za mapiranje imena domena sa IPv6 adrese?
+answer: AAAA
+wrong_answers:
+  - A
+  - PTR
+  - MX
+explanation: |
+  Tip AAAA (quad-A) se koristi za mapiranje imena domena sa IPv6 adresom, dok je tip A rezervisan za IPv4.
+reviewed: true

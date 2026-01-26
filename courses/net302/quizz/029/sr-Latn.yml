@@ -1,0 +1,9 @@
+question: Koja je svrha servisnih primitiva u TCP/IP modelu?
+answer: Upravljanje razmenama između slojeva
+wrong_answers:
+  - Automatsko šifrovanje mrežne poruke
+  - Distribuiranje IP adrese udaljenim hostovima
+  - Proveravanje ukupne dužine IP paketa
+explanation: |
+  Servisne primitivne funkcije definišu komunikacioni interfejs između slojeva, omogućavajući uspostavljanje, održavanje i prekid mrežnih komunikacija.
+reviewed: true

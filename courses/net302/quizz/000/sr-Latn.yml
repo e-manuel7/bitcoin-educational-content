@@ -1,0 +1,9 @@
+question: Koja je osnovna uloga mreže u IT-u?
+answer: Omogućava razmenu podataka
+wrong_answers:
+  - Povećava memoriju računara
+  - Kreira rezervne kopije
+  - Omogućava razmenu računarske opreme
+explanation: |
+  Mreža povezuje više uređaja kako bi omogućila cirkulaciju i razmenu informacija.
+reviewed: true

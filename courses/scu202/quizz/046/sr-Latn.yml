@@ -1,0 +1,9 @@
+question: Kada automatizujete svoje rezervne kopije, koje osnovne mere predostrožnosti treba redovno preduzimati?
+answer: Test vraćanja (podataka)
+wrong_answers:
+  - Promenu internet provajdera
+  - Onemogućavanje rezervne kopije za odmor
+  - Testiranje enkripcije
+explanation: |
+  Važno je redovno obnavljati rezervnu kopiju kako bi se osiguralo da fajlovi nisu oštećeni ili nedostupni kada su potrebni.
+reviewed: true

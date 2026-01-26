@@ -1,0 +1,9 @@
+question: Koja je glavna razlika između javne IPv4 adrese i privatne IPv4 adrese?
+answer: Javna adresa je jedinstvena i može se rutirati na Internetu
+wrong_answers:
+  - Privatna adresa je jedinstvena i može se rutirati na Internetu
+  - Javnu adresu uvek dodeljuje DHCP
+  - Privatnu adresu uvek dodeljuje DHCP
+explanation: |
+  Javna IPv4 adresa je globalno jedinstven i može se rutirati na Internetu, dok je privatna adresa važeća samo unutar lokalne mreže.
+reviewed: true

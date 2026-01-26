@@ -38,6 +38,8 @@ Pridružite nam se kako biste unapredili svoje koršćenje Bitcoin-a i postali i
 
 <chapterId>08ba1933-f393-4fb5-8279-777d874caedb</chapterId>
 
+:::video id=687fe126-56db-4fe2-aaac-e481bbb5d838:::
+
 
 Dobrodošli na kurs BTC204!
 
@@ -69,10 +71,10 @@ Cilj ovog kursa obuke nije da vas učini potpuno anonimnim u korišćenju Bitcoi
 **Sekcija 1: Definicije i ključni koncepti**
 
 
-Za početak, razmotrićemp osnovne principe koji regulišu rad Bitcoin-a, kako bismo mirno zatim mogli pristupiti pojmovima koji se odnose na poverljivost. Neophodno je savladati nekoliko osnovnih koncepata, kao što su UTXO, adrese za prijem i programiranje skripti, pre nego što u potpunosti možete razumeti koncepte koje ćemo obraditi u narednim odeljcima. Takođe ćemo predstaviti Bitcoin-ov opšti model poverljivosti, kako ga je zamislio Satoshi Nakamoto, što će nam omogućiti da shvatimo povezane uloge i rizike.
+Za početak, razmotrićemp osnovne principe koji regulišu rad Bitcoin-a, kako bismo mirno zatim mogli pristupiti pojmovima koji se odnose na poverljivost. Neophodno je savladati nekoliko osnovnih koncepata, kao što su [UTXO](https://planb.academy/resources/glossary/utxo), adrese za prijem i programiranje skripti, pre nego što u potpunosti možete razumeti koncepte koje ćemo obraditi u narednim odeljcima. Takođe ćemo predstaviti Bitcoin-ov opšti model poverljivosti, kako ga je zamislio Satoshi Nakamoto, što će nam omogućiti da shvatimo povezane uloge i rizike.
 
 
-![BTC204](assets/fr/001.webp)
+![BTC204](assets/sr-Latn/001.webp)
 
 
 **Sekcija 2: Razumevanje i zaštita od analize lanca**
@@ -81,7 +83,7 @@ Za početak, razmotrićemp osnovne principe koji regulišu rad Bitcoin-a, kako b
 U drugom delu, razmatramo tehnike koje koriste kompanije za analizu blokčejna kako bi pratili vašu aktivnost na Bitcoin-u. Razumevanje ovih metoda je od suštinskog značaja za bolju zaštitu vaše privatnosti. Cilj ovog dela je ispitivanje strategija napadača kako bismo bolje razumeli rizike i pripremili teren za tehnike koje ćemo proučavati u narednim delovima. Analiziraćemo obrasce transakcija, interne i eksterne heuristike, i verovatne interpretacije ovih obrazaca. Pored teorije, naučićemo kako da koristimo Block explorer za analizu lanca, kroz praktične primere i vežbe.
 
 
-![BTC204](assets/fr/002.webp)
+![BTC204](assets/sr-Latn/002.webp)
 
 
 **Sekcija 3: Ovladavanje najboljim praksama za zaštitu vaše privatnosti**
@@ -90,16 +92,16 @@ U drugom delu, razmatramo tehnike koje koriste kompanije za analizu blokčejna k
 U trećem delu našeg kursa obuke, prelazimo na suštinu: praksu! Cilj je da se savladaju sve osnovne i najbolje prakse koje bi trebalo da postanu prirodni refleksi za svakog korisnika Bitcoin-a. Obradićemo upotrebu praznih adresa, označavanje (eng. tagging), konsolidaciju, upotrebu kompletnih čvorova, kao i KYC i metode akvizicije. Cilj je da vam pružimo sveobuhvatan pregled zamki koje trebate izbeći kako bismo uspostavili čvrste temelje u našoj potrazi za zaštitom privatnosti. Za neke od ovih praksi, bićete upućeni na specifičan vodič o tome kako ih implementirati.
 
 
-![BTC204](assets/fr/003.webp)
+![BTC204](assets/sr-Latn/003.webp)
 
 
 **Sekcija 4: Razumevanje CoinJoin transakcija**
 
 
-Kako možemo govoriti o privatnosti na Bitcoin-u bez spominjanja coinjoin-a? U odeljku 4, saznaćete sve što treba da znate o ovoj metodi mešanja UTXO-a. Naučićete šta su coinjoin-i, njihovu istoriju i ciljeve, kao i različite tipove CoinJoin-a koji postoje. Na kraju, za iskusnije korisnike, pogledaćemo šta su anonset-i i entropija, i kako ih izračunati.
+Kako možemo govoriti o privatnosti na Bitcoin-u bez spominjanja [coinjoin](https://planb.academy/resources/glossary/coinjoin)-a? U odeljku 4, saznaćete sve što treba da znate o ovoj metodi mešanja UTXO-a. Naučićete šta su coinjoin-i, njihovu istoriju i ciljeve, kao i različite tipove CoinJoin-a koji postoje. Na kraju, za iskusnije korisnike, pogledaćemo šta su anonset-i i entropija, i kako ih izračunati.
 
 
-![BTC204](assets/fr/004.webp)
+![BTC204](assets/sr-Latn/004.webp)
 
 
 **Sekcija 5: Razumevanje izazova drugih naprednih tehnika poverljivosti**
@@ -111,7 +113,7 @@ U petom delu, pogledaćemo sve druge tehnike dostupne za zaštitu vaše privatno
 Takođe ćemo razmotriti privatnost na nivou mreže čvorova i distribuciju transakcija. Takođe ćemo diskutovati o raznim protokolima koji su predloženi tokom godina kako bi se poboljšala privatnost korisnika na Bitcoin-u, uključujući protokol statičkih adresa.
 
 
-![BTC204](assets/fr/005.webp)
+![BTC204](assets/sr-Latn/005.webp)
 
 Spremni da istražimo kompleksnosti privatnosti na Bitcoin-u? Hajde da krenemo!
 
@@ -127,6 +129,8 @@ Spremni da istražimo kompleksnosti privatnosti na Bitcoin-u? Hajde da krenemo!
 
 <chapterId>8d6b50c5-bf74-44f4-922b-25204991cb75</chapterId>
 
+:::video id=60e8f3fa-9607-47ae-ac4f-5aa747d9b6d4:::
+
 
 
 Bitcoin je pre svega valuta, ali da li zaista znate kako su BTC predstavljeni unutar protokola?
@@ -141,13 +145,13 @@ Bitcoin protokol je zasnovan na UTXO modelu, koji označava "Neutrošeni Izlaz T
 Ovaj model se duboko razlikuje od tradicionalnih bankarskih sistema, koji se oslanjaju na mehanizam računa i bilansa za praćenje finansijskih tokova. Zaista, u bankarskom sistemu, pojedinačna stanja se održavaju na računima vezanim za identitet. Na primer, kada kupite baget od pekara, vaša banka jednostavno zadužuje iznos kupovine sa vašeg računa, smanjujući vaše stanje, dok se pekarov račun odobrava za isti iznos, povećavajući njegovo stanje. U ovom sistemu, ne postoji pojam veze između novca koji ulazi na vaš račun i novca koji ga napušta, osim evidencije transakcija.
 
 
-![BTC204](assets/fr/006.webp)
+![BTC204](assets/sr-Latn/006.webp)
 
 
 Bitcoin funkcioniše drugačije. Koncept računa ne postoji, a monetarne jedinice se ne upravljaju putem stanja, već kroz UTXO-e. UTXO predstavlja određenu količinu bitkoina koja još nije potrošena, čime se formira "deo Bitcoina", koji može biti veliki ili mali. Na primer, jedan UTXO može vredeti `500 BTC` ili jednostavno `700 Sats`.
 
 
-**> Satoši, često skraćeno na sat, je najmanja jedinica Bitcoin-a, uporediva sa centimom u fiat valutama.**
+**Podsetnik:** Satoši, često skraćeno na sat, je najmanja jedinica Bitcoin-a, uporediva sa centimom u fiat valutama.
 
 
 ```plaintext
@@ -158,7 +162,7 @@ Bitcoin funkcioniše drugačije. Koncept računa ne postoji, a monetarne jedinic
 Teoretski, jedan UTXO može predstavljati bilo koju vrednost u bitkoinima, u rasponu od jednog sata do teoretskog maksimuma od oko 21 milion BTC. Međutim, logički je nemoguće posedovati svih 21 milion bitkoina, i postoji niži ekonomski prag nazvan prašina (eng. Dust), ispod kojeg se UTXO smatra ekonomski neisplativim za trošenje.
 
 
-**> Najveći UTXO ikada kreiran na Bitcoin imao je vrednost od `500,000 BTC`. Kreirala ga je MtGox platforma tokom konsolidacione operacije u novembru 2011: [29a3efd3ef04f9153d47a990bd7b048a4b2d213daaa5fb8ed670fb85f13bdbcf](https://Mempool.space/fr/tx/29a3efd3ef04f9153d47a990bd7b048a4b2d213daaa5fb8ed670fb85f13bdbcf)**
+**Da li ste znali?** Najveći UTXO ikada kreiran na Bitcoin imao je vrednost od `500,000 BTC`. Kreirala ga je MtGox platforma tokom konsolidacione operacije u novembru 2011: [29a3efd3ef04f9153d47a990bd7b048a4b2d213daaa5fb8ed670fb85f13bdbcf](https://Mempool.space/fr/tx/29a3efd3ef04f9153d47a990bd7b048a4b2d213daaa5fb8ed670fb85f13bdbcf)
 
 
 ### UTXO-i uslovi trošenja
@@ -167,13 +171,13 @@ Teoretski, jedan UTXO može predstavljati bilo koju vrednost u bitkoinima, u ras
 UTXO-i su instrumenti razmene na Bitcoin-u. Svaka transakcija rezultira potrošnjom UTXO-a kao ulaza i kreiranjem novih UTXO-a kao izlaza. Kada je transakcija završena, UTXO-i korišćeni kao ulazi se smatraju "potrošenim", a novi UTXO-i se generišu i dodeljuju primaocima navedenim u izlazima transakcije. Tako, UTXO jednostavno predstavlja nepotrošeni izlaz transakcije, a samim tim i količinu bitkoina koja pripadaju korisniku u datom trenutku.
 
 
-![BTC204](assets/fr/007.webp)
+![BTC204](assets/sr-Latn/007.webp)
 
 
 Svi UTXO-i su osigurani skriptama koje definišu uslove pod kojima se mogu potrošiti. Da bi se potrošio UTXO, korisnik mora pokazati mreži da ispunjava uslove koje je postavila skripta koja osigurava taj UTXO. Tipično, UTXO-i su zaštićeni javnim ključem (ili adresom za primanjem koja predstavlja ovaj javni ključ). Da bi potrošio UTXO povezan s ovim javnim ključem, korisnik mora dokazati da poseduje odgovarajući privatni ključ, pružajući digitalni potpis napravljen ovim ključem. Zato kažemo da vaš Bitcoin novčanik zapravo ne sadrži bitkoine, već da čuva vaše privatne ključeve, koji vam zauzvrat daju pristup vašim UTXO-vima, a samim tim i bitkoinima koje oni predstavljaju.
 
 
-![BTC204](assets/fr/008.webp)
+![BTC204](assets/sr-Latn/008.webp)
 
 
 Pošto ne postoji koncept računa u Bitcoin-u, saldo novčanika je jednostavno zbir vrednosti svih UTXO-a koje taj novčanik može potrošiti. Na primer, ako vaš Bitcoin novčanik može potrošiti sledeća 4 UTXO-a:
@@ -190,13 +194,15 @@ Pošto ne postoji koncept računa u Bitcoin-u, saldo novčanika je jednostavno z
 Ukupni saldo na vašem novčaniku bi bio `17 BTC`.
 
 
-![BTC204](assets/fr/009.webp)
+![BTC204](assets/sr-Latn/009.webp)
 
 
 ## Struktura Bitcoin transakcija
 
 
 <chapterId>29d3aaab-de2e-4746-ab40-c9748898850c</chapterId>
+
+:::video id=c79d651d-ff4a-4a75-bc2b-a48a00c17326:::
 
 
 
@@ -206,22 +212,22 @@ Ukupni saldo na vašem novčaniku bi bio `17 BTC`.
 Bitcoin transakcija je operacija zabeležena na blokčejnu koja prenosi vlasništvo bitkoina sa jedne osobe na drugu. Tačnije, pošto smo na modelu UTXO i ne postoje računi, transakcija ispunjava uslove potrošnje koji obezbeđiki jedan ili više UTXO-a, troši ih i ekvivalentno stvara nove UTXO-e sa novim uslovima potrošnje. Ukratko, transakcija pomera bitkoine iz zadovoljenog skripta u novi skript napravljenu da ih obezbedi.
 
 
-![BTC204](assets/fr/010.webp)
+![BTC204](assets/sr-Latn/010.webp)
 
 
 Svaka Bitcoin transakcija se stoga sastoji od jednog ili više ulaza i jednog ili više izlaza. Ulazi su UTXO-i koje transakcija troši kako bi generisala izlaze. Izlazi su novi UTXO-i koji se mogu koristiti kao ulazi za buduće transakcije.
 
 
-![BTC204](assets/fr/011.webp)
+![BTC204](assets/sr-Latn/011.webp)
 
 
-**> Teoretski, Bitcoin transakcija može imati beskonačan broj ulaza i izlaza. Jedino ograničenje je maksimalna veličina bloka.**
+**Da li ste znali?** Teoretski, Bitcoin transakcija može imati beskonačan broj ulaza i izlaza. Jedino ograničenje je maksimalna veličina bloka.
 
 
 Svaki ulaz u Bitcoin transakciji odnosi se na prethodni neutrošeni UTXO. Da bi se UTXO koristio kao ulaz, njegov vlasnik mora dokazati da je zakoniti vlasnik validacijom pridružene skripte, tj. ispunjavanjem nametnutog uslova trošenja. Generalno govoreći, to znači pružanje digitalnog potpisa proizvedenog privatnim ključem koji odgovara javnom ključu koji je prvobitno osigurao ovaj UTXO. Skript se stoga sastoji u verifikaciji da potpis odgovara javnom ključu korišćenom kada su sredstva primljena.
 
 
-![BTC204](assets/fr/012.webp)
+![BTC204](assets/sr-Latn/012.webp)
 
 
 Svaki izlaz, zauzvrat, određuje količinu bitkoina koja će biti preneta, kao i primaoca. Potonji je definisan novom skriptom, koja obično blokira novo kreirani UTXO sa primajućom adresom ili novim javnim ključem.
@@ -242,13 +248,13 @@ Ovaj mehanizam je sličan onom kod zlatnog novčića. Recimo da posedujete novč
 Bitcoin radi na sličan način. Zamislimo da Alisa ima UTXO od `10,000 Sats` i želi da kupi baget koji košta `4,000 Sats`. Alisa će izvršiti transakciju sa 1 UTXO od `10,000 Sats` kao ulaz, koji će u potpunosti potrošiti, i 2 UTXO-a od `4,000 Sats` i `6,000 Sats` kao izlaz. UTXO od `4,000 Sats` će biti poslat pekaru kao plaćanje za baget, dok će se UTXO od `6,000 Sats` vratiti Alisi u obliku kusura. Ovaj UTXO, koji se vraća originalnom izdavaocu transakcije, poznat je kao "change" u Bitcoin žargonu.
 
 
-![BTC204](assets/fr/013.webp)
+![BTC204](assets/sr-Latn/013.webp)
 
 
 Sada zamislimo da Alisa nema nijedan UTXO od `10,000 Sats`, već dva UTXO-a od `3,000 Sats` svaki. U ovoj situaciji, nijedan od UTXO-a pojedinačno nije dovoljan da kupi čarobni štapić od `4,000 Sats`. Alisa stoga mora istovremeno koristiti 2 UTXO-a od `3,000 Sats` kao ulaze za svoju transakciju. Na ovaj način, ukupna količina ulaza će dostići `6,000 Sats`, omogućavajući joj da zadovolji uplatu od `4,000 Sats` pekaru. Ova metoda, u kojoj se nekoliko UTXO-a grupiše zajedno kao ulazi u transakciju, često se naziva "spajanje".
 
 
-![BTC204](assets/fr/014.webp)
+![BTC204](assets/sr-Latn/014.webp)
 
 
 ### Naknade za transakcije
@@ -265,7 +271,7 @@ Frais = total inputs - total outputs
 Uzmimo primer Alise, koja ima UTXO od `10,000 Sats` i želi da kupi baget za `4,000 Sats`. Alisa kreira transakciju sa svojim UTXO od `10,000 Sats` kao ulaz. Zatim generiše izlaz od `4,000 Sats` za pekara da plati baget. Da bi podstakla rudare da integrišu njenu transakciju u blok, Alisa dodeljuje `200 Sats` kao naknadu. Zatim kreira drugi izlaz, kusur, koji će joj biti vraćen, u iznosu od `5,800 Sats`.
 
 
-![BTC204](assets/fr/015.webp)
+![BTC204](assets/sr-Latn/015.webp)
 
 
 Primenom formule za naknade, vidimo da zaista ima `200 Sats` preostalih za rudare:
@@ -297,7 +303,7 @@ Coinbase je specifična vrsta Bitcoin transakcije, koja je jedinstvena za svaki 
 Coinbase transakcija je jedinstvena po tome što je jedina sposobna da stvara bitkoine ex nihilo, bez potrebe za trošenjem ulaza da bi se generisali izlazi. Ovi novostvoreni bitkoini su ono što bismo mogli nazvati "originalni UTXO-i".
 
 
-![BTC204](assets/fr/016.webp)
+![BTC204](assets/sr-Latn/016.webp)
 
 
 Bitkoini subvencionisani blokom su novi BTC stvoreni od nule, prema unapred utvrđenom rasporedu izdavanja definisanim u pravilima konsenzusa. Nagrada za blok se prepolovi na svakih 210.000 blokova, tj. otprilike svake četiri godine, u procesu poznatom kao "prepolovljavanje (eng. Halving)". Prvobitno je sa svakom subvencijom stvarano 50 bitkoina, ali se ovaj iznos postepeno smanjivao; trenutno iznosi 3.125 bitkoina po bloku.
@@ -306,7 +312,7 @@ Bitkoini subvencionisani blokom su novi BTC stvoreni od nule, prema unapred utvr
 Što se tiče naknada za transakcije, iako one takođe predstavljaju novo kreirane BTC, ne smeju premašiti razliku između ukupnih ulaza i izlaza svih transakcija u bloku. Ranije smo videli da ove naknade predstavljaju deo ulaza koji nije iskorišćen u izlazima transakcija. Ovaj deo je tehnički "izgubljen" tokom transakcije, a rudar ima pravo da rekreira ovu vrednost u obliku jednog ili više novih UTXO-a. Ovo je transfer vrednosti između izdavaoca transakcije i rudara koji ga dodaje blokčejnu.
 
 
-**> Bitcoini generisani od strane Coinbase transakcije podležu periodu zrelosti od 100 blokova, tokom kojeg ih rudar ne može potrošiti. Ovo pravilo je osmišljeno kako bi se izbegle komplikacije povezane sa korišćenjem novokreiranih bitcoina na lancu koji bi kasnije mogao postati zastareo.**
+**Da li ste znali?** Bitcoini generisani od strane Coinbase transakcije podležu periodu zrelosti od 100 blokova, tokom kojeg ih rudar ne može potrošiti. Ovo pravilo je osmišljeno kako bi se izbegle komplikacije povezane sa korišćenjem novokreiranih bitcoina na lancu koji bi kasnije mogao postati zastareo.
 
 
 ### Implikacije UTXO modela 
@@ -323,6 +329,8 @@ Drugo, kao što je pomenuto u prethodnim odeljcima, Bitcoin novčići su u sušt
 
 <chapterId>769d8963-3ed5-4094-b21d-9203c7d9e465</chapterId>
 
+:::video id=f83d8e7a-ff4d-4c05-a8ff-0e601c49a508:::
+
 
 
 ### Novac: autentičnost, integritet i dvostruka potrošnja
@@ -331,20 +339,16 @@ Drugo, kao što je pomenuto u prethodnim odeljcima, Bitcoin novčići su u sušt
 Jedna od funkcija novca je rešavanje problema dvostruke podudarnosti potreba. U sistemu zasnovanom na trampi, završetak razmene zahteva ne samo pronalaženje osobe koja daje robu koja odgovara mojoj potrebi, već i obezbeđivanje robe jednake vrednosti koja zadovoljava njihovu sopstvenu potrebu. Postizanje ove ravnoteže je složena stvar.
 
 
-![BTC204](assets/fr/017.webp)
+![BTC204](assets/sr-Latn/017.webp)
 
 
 Zato koristimo novac da premestimo vrednost u prostoru i vremenu.
 
 
-![BTC204](assets/fr/018.webp)
+![BTC204](assets/sr-Latn/018.webp)
 
 
 Da bi kovanice rešile ovaj problem, neophodno je da strana koja pruža robu ili uslugu bude uverena u sposobnost da iznos koji primi može da potroši kasnije. Stoga će svaka racionalna osoba koja želi da prihvati kovanicu, bilo digitalnu ili fizičku, osigurati da ispunjava dva osnovna kriterijuma:
-
-
-
-
 - **Komad mora imati integritet i autentičnost;**
 - **i ne sme doći do duple potrošnje.**
 
@@ -358,7 +362,7 @@ Autentičnost je takođe teško proveriti na fizičkom monetarnom medijumu. Dana
 S druge strane, zbog svoje prirode, dvostruko trošenje nije problem za fizičke valute. Ako vam dam novčanicu od 10 €, ona neopozivo napušta moje vlasništvo i prelazi u vaše, što prirodno isključuje svaku mogućnost višestrukog trošenja monetarnih jedinica koje ona predstavlja. Ukratko, neću moći ponovo potrošiti ovu novčanicu od 10 €.
 
 
-![BTC204](assets/fr/019.webp)
+![BTC204](assets/sr-Latn/019.webp)
 
 
 Za digitalnu valutu, teškoća je drugačija. Osiguravanje autentičnosti i integriteta novčića je često jednostavnije. Kao što smo videli u prethodnom odeljku, UTXO model na Bitcoin-u omogućava praćenje novčića do njegovog porekla, i na taj način verifikaciju da je zaista kreiran od strane rudara u skladu sa pravilima konsenzusa.
@@ -367,7 +371,7 @@ Za digitalnu valutu, teškoća je drugačija. Osiguravanje autentičnosti i inte
 S druge strane, osiguravanje da nema duplog trošenja je složenije, jer su sva digitalna dobra u suštini informacije. Za razliku od fizičkih dobara, informacije se ne dele kada se razmenjuju, već se šire množenjem. Na primer, ako vam pošaljem dokument putem e-pošte, on će biti dupliran. Ne možete biti sigurni da sam obrisao originalni dokument.
 
 
-![BTC204](assets/fr/020.webp)
+![BTC204](assets/sr-Latn/020.webp)
 
 
 ### Sprečavanje dvostrukog trošenja na Bitcoin-u
@@ -376,7 +380,7 @@ S druge strane, osiguravanje da nema duplog trošenja je složenije, jer su sva 
 Jedini način da se izbegne ovo dupliranje digitalnog sredstva je da budemo svesni svih razmena u sistemu. Na ovaj način možemo znati ko šta poseduje i ažurirati imovinu svake osobe u skladu sa izvršenim transakcijama. Ovo se dešava, na primer, sa skripturnim (depozitnim) novcem u bankarskom sistemu. Kada platite €10 trgovcu kreditnom karticom, banka beleži razmenu i ažurira knjigu računa.
 
 
-![BTC204](assets/fr/021.webp)
+![BTC204](assets/sr-Latn/021.webp)
 
 
 Na Bitcoin-u, duplo trošenje je sprečeno na isti način. Nastojimo da potvrdimo odsustvo transakcije koja je već potrošila predmetne novčiće. Ako novčići nikada nisu korišćeni, onda možemo biti sigurni da neće doći do dvostrukog trošenja. Ovaj princip je opisao Satoshi Nakamoto u White Paper-u sa čuvenom frazom:
@@ -397,25 +401,25 @@ Upravo to javno širenje informacija komplikuje zaštitu privatnosti unutar Bitc
 U tradicionalnom sistemu, vaš bankovni račun je povezan sa vašim identitetom. Bankar može da zna koji bankovni račun pripada kojem klijentu i koje transakcije su povezane sa njim. Međutim, ovaj tok informacija je prekinut između banke i javne sfere. Drugim rečima, nemoguće je znati stanje i transakcije bankovnog računa koji pripada drugoj osobi. Samo banka ima pristup tim informacijama.
 
 
-![BTC204](assets/fr/022.webp)
+![BTC204](assets/sr-Latn/022.webp)
 
 
 Na primer, vaš bankar zna da svako jutro kupujete baget od lokalnog pekara, ali vaš komšija nema saznanja o ovoj transakciji. Na ovaj način, tok informacija je dostupan zainteresovanim stranama, posebno banci, ali ostaje nedostupan spoljnim licima.
 
 
-![BTC204](assets/fr/023.webp)
+![BTC204](assets/sr-Latn/023.webp)
 
 
 Zbog ograničenja javnog objavljivanja transakcija koje smo videli u prethodnom odeljku, model poverljivosti Bitcoin-a ne može pratiti model bankarskog sistema. U slučaju Bitcoin-a, pošto se tok informacija ne može prekinuti između transakcija i javne sfere, **model privatnosti se oslanja na razdvajanje između identiteta korisnika i samih transakcija**.
 
 
-![BTC204](assets/fr/024.webp)
+![BTC204](assets/sr-Latn/024.webp)
 
 
 Na primer, ako kupite baget od pekara, plaćajući u BTC-u, vaš komšija, koji ima svoj kompletan čvor, može videti vašu transakciju kako prolazi, baš kao što može videti i sve druge transakcije u sistemu. Međutim, ako se poštuju principi poverljivosti, on ne bi trebalo da može povezati ovu specifičnu transakciju sa vašim identitetom.
 
 
-![BTC204](assets/fr/025.webp)
+![BTC204](assets/sr-Latn/025.webp)
 
 
 Ali pošto su Bitcoin transakcije javne, i dalje je moguće uspostaviti veze između njih kako bi se zaključile informacije o uključenim stranama. Ova aktivnost čak predstavlja posebnu oblast, poznatu kao "Blockchain analiza". U sledećem delu kursa, pozivam vas da istražite osnove Blockchain analize, kako biste razumeli kako se vaši bitkoini prate i bolje se odbranili od toga.
@@ -432,6 +436,8 @@ Ali pošto su Bitcoin transakcije javne, i dalje je moguće uspostaviti veze izm
 
 <chapterId>7d198ba6-4af2-4f24-86cb-3c79cb25627e</chapterId>
 
+:::video id=3d27ea95-599b-44cc-a24c-a628c2e6a64a:::
+
 
 
 ### Definicija i rad
@@ -441,18 +447,12 @@ Blockchain analiza je praksa praćenja toka bitkoina na blokčejnu. Generalno go
 
 
 Laički rečeno, postoje tri glavne faze u analizi lanca:
-
-
 1. **Posmatranje blokčejna;**
-
-
 2. **Identifikacija poznatih karakteristika;**
-
-
 3. **Izvođenje pretpostavki**
 
 
-![BTC204](assets/fr/026.webp)
+![BTC204](assets/sr-Latn/026.webp)
 
 
 Blokčejn analiza može biti izvedena od strane bilo koga. Sve što vam je potrebno je pristup javnim blokčejn informacijama putem kompletnog čvora kako biste posmatrali kretanje transakcija i pravili hipoteze. Postoje i besplatni alati koji olakšavaju ovu analizu, kao što je [OXT.me](https://oxt.me/), koji ćemo detaljno istražiti u poslednja dva poglavlja ovog odeljka. Međutim, glavni rizik za poverljivost dolazi od kompanija koje se specijalizuju za analizu lanaca. Ove kompanije su podigle analizu blokčejna na industrijski nivo i prodaju svoje usluge finansijskim institucijama i vladama. Među tim kompanijama, Chainalysis je sigurno najpoznatija.
@@ -464,7 +464,7 @@ Blokčejn analiza može biti izvedena od strane bilo koga. Sve što vam je potre
 Jedan od ciljeva blokčejn analize je da se grupišu različite aktivnosti na Bitcoin-u kako bi se utvrdila jedinstvenost korisnika koji ih je izvršio. Nakon toga, biće moguće pokušati povezati ovaj skup aktivnosti sa stvarnim identitetom.
 
 
-![BTC204](assets/fr/027.webp)
+![BTC204](assets/sr-Latn/027.webp)
 
 
 Setite se prethodnog poglavlja. Objasnio sam zašto je Bitcoin-ov model privatnosti prvobitno bio zasnovan na odvajanju korisničkog identiteta od transakcija. Stoga bi bilo primamljivo misliti da je analiza blokčejna beskorisna, jer čak i ako uspemo da agregiramo aktivnosti na lancu, ne možemo ih povezati sa stvarnim identitetom.
@@ -473,7 +473,7 @@ Setite se prethodnog poglavlja. Objasnio sam zašto je Bitcoin-ov model privatno
 Teoretski, ova izjava je tačna. U prvom delu ovog kursa, videli smo da se kriptografski parovi ključeva koriste za uspostavljanje uslova pristupa UTXO-u. U suštini, ovi parovi ključeva ne otkrivaju nikakve informacije o identitetu njihovih vlasnika. Dakle, čak i ako uspemo da grupišemo aktivnosti povezane sa različitim parovima ključeva, to nam ništa ne govori o entitetu iza tih aktivnosti.
 
 
-![BTC204](assets/fr/028.webp)
+![BTC204](assets/sr-Latn/028.webp)
 
 
 Međutim, praktična stvarnost je daleko složenija. Postoji mnoštvo ponašanja koja mogu povezati pravi identitet sa aktivnostima na lancu. U analizi, ovo se naziva ulazna tačka, i postoji mnoštvo njih.
@@ -485,7 +485,7 @@ Najčešći je KYC (*Know Your Customer*). Ako povučete svoje bitkoine sa regul
 Ove ulazne tačke su praktično neizbežne kada koristite Bitcoin. Iako možemo pokušati da ograničimo njihov obim, one će uvek biti prisutne. Zato je ključno kombinovati metode usmerene na očuvanje vaše privatnosti. Iako je očuvanje razdvojenosti između vašeg pravog identiteta i vaših transakcija zanimljiv pristup, to danas i dalje nije dovoljno. Naime, ako se sve vaše aktivnosti na lancu mogu grupisati zajedno, onda je verovatno da čak i najmanja ulazna tačka može da ugrozi jedinstveni sloj poverljivosti koji ste uspostavili.
 
 
-![BTC204](assets/fr/029.webp)
+![BTC204](assets/sr-Latn/029.webp)
 
 
 ### Odbrana od analize lanca
@@ -494,15 +494,15 @@ Ove ulazne tačke su praktično neizbežne kada koristite Bitcoin. Iako možemo 
 Dakle, takođe moramo biti sposobni da se nosimo sa analizom blokčejna u našoj upotrebi Bitcoin-a. Time možemo minimizirati agregaciju naših aktivnosti i ograničiti uticaj ulazne tačke na našu privatnost.
 
 
-![BTC204](assets/fr/030.webp)
+![BTC204](assets/sr-Latn/030.webp)
 
 
 Koji je bolji način da se suprotstavite blokčejn analizi nego da naučite o metodama koje se u njoj koriste? Ako želite da znate kako da poboljšate svoju privatnost na Bitcoin-u, morate razumeti ove metode. Ovo će vam dati bolji uvid u tehnike kao što su CoinJoin ili PayJoin (tehnike koje ćemo razmotriti u završnim delovima kursa), i smanjiti greške koje biste mogli napraviti.
 
 
-https://planb.network/tutorials/privacy/on-chain/coinjoin-samourai-wallet-e566803d-ab3f-4d98-9136-5462009262ef
+https://planb.academy/tutorials/privacy/on-chain/ashigaru-whirlpool-e566803d-ab3f-4d98-9136-5462009262ef
 
-https://planb.network/tutorials/privacy/on-chain/payjoin-848b6a23-deb2-4c5f-a27e-93e2f842140f
+https://planb.academy/tutorials/privacy/on-chain/payjoin-848b6a23-deb2-4c5f-a27e-93e2f842140f
 
 U tome možemo povući analogiju sa kriptografijom i kriptoanalizom. Dobar kriptograf je pre svega dobar kriptoanalitičar. Da biste osmislili novi algoritam za šifrovanje, morate znati koje napade će pretrpeti, kao i proučiti zašto su prethodni algoritmi bili probijeni. Isti princip se primenjuje na Bitcoin privatnost. Razumevanje blokčejn metoda analize je ključ za zaštitu od njih. Zato sam uključio čitavu sekciju o blokčejn analizi u ovaj kurs obuke.
 
@@ -538,7 +538,7 @@ Prve dve heuristike analize lanca otkrio je sam Satoshi Nakamoto. On o njima gov
 - i ponovna upotreba adrese.
 
 
-![BTC204](assets/fr/031.webp)
+![BTC204](assets/sr-Latn/031.webp)
 
 
 Izvor: S. Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System", https://Bitcoin.org/Bitcoin.pdf, 2009.
@@ -552,6 +552,8 @@ Videćemo šta su oni u narednim poglavljima, ali već je zanimljivo primetiti d
 
 <chapterId>d365a101-2d37-46a5-bfb9-3c51e37bf96b</chapterId>
 
+:::video id=4bd4c9d4-7997-487c-8760-98c74ae1589e:::
+
 
 
 Obrazac transakcije je jednostavno opšti model ili struktura tipične transakcije, koja se može pronaći na blokčejnu, i čije je verovatno tumačenje poznato. Kada proučavamo obrasce, fokusiramo se na jednu transakciju i analiziramo je na visokom nivou.
@@ -560,7 +562,7 @@ Obrazac transakcije je jednostavno opšti model ili struktura tipične transakci
 Drugim rečima, gledaćemo samo broj UTXO-a u ulazima i broj UTXO-a u izlazima, bez zadržavanja na specifičnijim detaljima ili okruženju transakcije. Na osnovu uočenog obrasca, možemo interpretirati prirodu transakcije. Zatim ćemo tražiti karakteristike njene strukture i izvesti interpretaciju.
 
 
-![BTC204](assets/fr/032.webp)
+![BTC204](assets/sr-Latn/032.webp)
 
 
 U ovom odeljku ćemo zajedno pogledati glavne modele transakcija koji se sreću u analizi lanca, i za svaki model ću vam dati verovatno tumačenje ove strukture, kao i konkretan primer.
@@ -572,7 +574,7 @@ U ovom odeljku ćemo zajedno pogledati glavne modele transakcija koji se sreću 
 Hajde da počnemo sa veoma uobičajenim obrascem, pošto je to onaj koji se pojavljuje na većini Bitcoin uplata. Jednostavan model plaćanja karakteriše potrošnja jednog ili više UTXO-a kao ulaza i proizvodnja 2 UTXO-a kao izlaza. Ovaj model stoga izgleda ovako:
 
 
-![BTC204](assets/fr/033.webp)
+![BTC204](assets/sr-Latn/033.webp)
 
 
 Kada uočimo ovu strukturu transakcije na blokčejnu, već možemo izvući interpretaciju. Kao što ime sugeriše, ovaj model ukazuje da smo u prisustvu transakcije slanja ili plaćanja. Korisnik je potrošio svoj sopstveni UTXO u ulazima kako bi zadovoljio u izlazima UTXO plaćanja i UTXO kusura (novac vraćen istom korisniku).
@@ -592,7 +594,7 @@ b6cc79f45fd2d7669ff94db5cb14c45f1f879ea0ba4c6e3d16ad53a18c34b769
 ```
 
 
-![BTC204](assets/fr/034.webp)
+![BTC204](assets/sr-Latn/034.webp)
 
 
 Izvor: [Mempool.space](https://Mempool.space/fr/tx/b6cc79f45fd2d7669ff94db5cb14c45f1f879ea0ba4c6e3d16ad53a18c34b769)
@@ -610,7 +612,7 @@ Sada kada razumete šta je šablon, pređimo na druge postojeće modele.
 Ovaj drugi model karakteriše potrošnja jednog UTXO kao ulaza i proizvodnja jednog UTXO kao izlaza.
 
 
-![BTC204](assets/fr/035.webp)
+![BTC204](assets/sr-Latn/035.webp)
 
 
 Interpretacija ovog modela je da smo u prisustvu samo transfera. Korisnik je prebacio svoje bitkoine sebi, na drugu adresu koja mu pripada. Pošto nema kusura u transakciji, vrlo je malo verovatno da smo u prisustvu plaćanja. Naime, kada se vrši plaćanje, gotovo je nemoguće da platiša ima UTXO koji tačno odgovara iznosu koji zahteva prodavac, plus naknada za transakciju. Generalno, platiša je stoga prinuđen da proizvede izlaz za kusur.
@@ -627,7 +629,7 @@ Na primer, ovo je primer Bitcoin transakcije koja ima obrazac čišćenja:
 ```
 
 
-![BTC204](assets/fr/036.webp)
+![BTC204](assets/sr-Latn/036.webp)
 
 
 Izvor: [Mempool.space](https://Mempool.space/fr/tx/35f1072a0fda5ae106efb4fda871ab40e1f8023c6c47f396441ad4b995ea693d)
@@ -645,7 +647,7 @@ Hajde da ponovo uzmemo primer Alise: ako skeniranje dovede do adrese poznate pla
 Ovaj model karakteriše potrošnja nekoliko UTXO-a na ulazu i proizvodnja jednog UTXO na izlazu.
 
 
-![BTC204](assets/fr/037.webp)
+![BTC204](assets/sr-Latn/037.webp)
 
 
 Tumačenje ovog obrasca je da smo u prisustvu konsolidacije. Ovo je uobičajena praksa među korisnicima Bitcoin-a, usmerena na spajanje nekoliko UTXO-a u očekivanju mogućeg povećanja transakcionih naknada. Izvođenjem ove operacije tokom perioda kada su naknade niske, moguće je uštedeti na budućim naknadama. Više ćemo govoriti o ovoj praksi u poglavlju 4.3.
@@ -665,7 +667,7 @@ Na primer, ove je primer Bitcoin transakcije koja ima obrazac konsolidacije:
 ```
 
 
-![BTC204](assets/fr/038.webp)
+![BTC204](assets/sr-Latn/038.webp)
 
 
 Izvor: [Mempool.space](https://Mempool.space/fr/tx/77c16914211e237a9bd51a7ce0b1a7368631caed515fe51b081d220590589e94)
@@ -674,7 +676,7 @@ Izvor: [Mempool.space](https://Mempool.space/fr/tx/77c16914211e237a9bd51a7ce0b1a
 U analizi lanca, ovaj model može otkriti mnogo informacija. Na primer, ako znamo da jedan od ulaza pripada Alisi, možemo pretpostaviti da svi ostali ulazi i izlaz te transakcije takođe pripadaju njoj. Ova pretpostavka bi zatim omogućila da se vratimo uz lanac prethodnih transakcija kako bismo otkrili i analizirali druge transakcije koje su verovatno povezane sa Alisom.
 
 
-![BTC204](assets/fr/039.webp)
+![BTC204](assets/sr-Latn/039.webp)
 
 
 ### Grupisani troškovi
@@ -683,7 +685,7 @@ U analizi lanca, ovaj model može otkriti mnogo informacija. Na primer, ako znam
 Ovaj model karakteriše potrošnja nekoliko UTXO-a kao ulaza (često samo jednog) i proizvodnja mnogih UTXO-a kao izlaza.
 
 
-![BTC204](assets/fr/040.webp)
+![BTC204](assets/sr-Latn/040.webp)
 
 
 Tumačenje ovog modela je da smo u prisustvu grupisane potrošnje. To je praksa koja verovatno otkriva veoma veliku ekonomsku aktivnost, kao što je platforma za trgovinu. Grupisana potrošnja omogućava ovim entitetima da uštede troškove kombinovanjem svojih troškova u jednoj transakciji.
@@ -700,7 +702,7 @@ Na primer, evo Bitcoin transakcije koja ima obrazac grupisane potrošnje (verova
 ```
 
 
-![BTC204](assets/fr/041.webp)
+![BTC204](assets/sr-Latn/041.webp)
 
 
 Izvor: [Mempool.space](https://Mempool.space/fr/tx/8a7288758b6e5d550897beedd13c70bcbaba8709af01a7dbcc1f574b89176b43)
@@ -712,7 +714,7 @@ Izvor: [Mempool.space](https://Mempool.space/fr/tx/8a7288758b6e5d550897beedd13c7
 Među obrascima transakcija, možemo takođe identifikovati one koji otkrivaju upotrebu specifičnog protokola. Na primer, Whirlpool coinjoins (diskutovano u delu 5) će imati lako prepoznatljivu strukturu koja ih razlikuje od drugih, konvencionalnijih transakcija.
 
 
-![BTC204](assets/fr/042.webp)
+![BTC204](assets/sr-Latn/042.webp)
 
 
 Analiza ovog obrasca sugeriše da verovatno prisustvujemo kolaborativnoj transakciji. Takođe je moguće uočiti CoinJoin. Ako se ova poslednja hipoteza pokaže tačnom, tada bi broj izlaza mogao da nam pruži grubu procenu broja učesnika u CoinJoin-u.
@@ -726,7 +728,7 @@ Na primer, ovo je primer Bitcoin transakcije koja ima obrazac CoinJoin kolaborat
 ```
 
 
-![BTC204](assets/fr/043.webp)
+![BTC204](assets/sr-Latn/043.webp)
 
 
 Izvor: [Mempool.space](https://Mempool.space/fr/tx/00601af905bede31086d9b1b79ee8399bd60c97e9c5bba197bdebeee028b9bea)
@@ -743,6 +745,8 @@ Zahvaljujući ovim obrascima transakcija, već možemo interpretirati određenu 
 
 <chapterId>c54b5abe-872f-40f4-a0d0-c59faff228ba</chapterId>
 
+:::video id=bbc145cc-5232-41e4-a7f8-1af4e422635a:::
+
 
 
 Interna heuristika je specifična karakteristika koju identifikujemo unutar same transakcije, bez potrebe da ispitujemo njeno okruženje, i koja nam omogućava da donosimo zaključke. Za razliku od obrazaca, koji se fokusiraju na celokupnu strukturu transakcije na visokom nivou, interne heuristike se zasnivaju na skupu izdvojivih podataka. Ovo uključuje:
@@ -757,7 +761,7 @@ Interna heuristika je specifična karakteristika koju identifikujemo unutar same
 Generalno govoreći, ova vrsta heuristike će nam omogućiti da identifikujemo kusur u specifičnoj transakciji. Na taj način, možemo nastaviti praćenje entiteta kroz nekoliko različitih transakcija. Zaista, ako identifikujemo UTXO koji pripada korisniku kojeg želimo pratiti, ključno je odrediti, kada on izvrši transakciju, koji izlaz je prenet na drugog korisnika i koji izlaz predstavlja kusur, koji tako ostaje u njegovom posedu.
 
 
-![BTC204](assets/fr/044.webp)
+![BTC204](assets/sr-Latn/044.webp)
 
 
 Još jednom, dozvolite mi da vas podsetim da ove heuristike nisu apsolutno precizne. Posmatrane pojedinačno, one nam samo omogućavaju da identifikujemo verovatne scenarije. To je akumulacija nekoliko heuristika koja pomaže da se smanji neizvesnost, bez mogućnosti da je potpuno eliminišemo.
@@ -772,7 +776,7 @@ Ova heuristika uključuje proučavanje sličnosti između ulaza i izlaza iste tr
 Najočiglednija karakteristika je ponovna upotreba prijemne adrese u istoj transakciji.
 
 
-![BTC204](assets/fr/045.webp)
+![BTC204](assets/sr-Latn/045.webp)
 
 
 Ova heuristika ostavlja malo prostora za sumnju. Osim ako mu privatni ključ nije hakovan, ista primajuća adresa nužno otkriva aktivnost jednog korisnika. Rezultujuća interpretacija je da je kusur transakcija izlaz sa istom adresom kao ulaz. Zatim možemo nastaviti da pratimo pojedinca od ovog kusur UTXO-a.
@@ -786,7 +790,7 @@ Na primer, ovo je transakcija na koju se ova heuristika verovatno može primenit
 ```
 
 
-![BTC204](assets/fr/046.webp)
+![BTC204](assets/sr-Latn/046.webp)
 
 
 Izvor: [Mempool.space](https://Mempool.space/tx/54364146665bfc453a55eae4bfb8fdf7c721d02cb96aadc480c8b16bdeb8d6d0)
@@ -795,7 +799,7 @@ Izvor: [Mempool.space](https://Mempool.space/tx/54364146665bfc453a55eae4bfb8fdf7
 Ove sličnosti između ulaza i izlaza se ne zaustavljaju na ponovnoj upotrebi adrese. Bilo koja sličnost u upotrebi skripti može se koristiti za primenu ove heuristike. Na primer, ponekad možemo primetiti isto verzionisanje između ulaza i jednog od izlaza transakcije.
 
 
-![BTC204](assets/fr/047.webp)
+![BTC204](assets/sr-Latn/047.webp)
 
 
 Na ovom dijagramu, možemo videti da se ulaz br. 0 otključava P2WPKH skriptom (SegWit V0 počinje sa `bc1q`). Izlaz br. 0 koristi isti tip skripte. Izlaz br. 1, s druge strane, koristi P2TR skriptu (SegWit V1 počinje sa `bc1p`). Interpretacija ove karakteristike je da je verovatno adresa sa istim verzionisanjem kao ulaz u stvari kusur adresa. Stoga bi uvek pripadala istom korisniku.
@@ -809,7 +813,7 @@ db07516288771ce5d0a06b275962ec4af1b74500739f168e5800cbcb0e9dd578
 ```
 
 
-![BTC204](assets/fr/048.webp)
+![BTC204](assets/sr-Latn/048.webp)
 
 
 Izvor: [Mempool.space](https://Mempool.space/tx/db07516288771ce5d0a06b275962ec4af1b74500739f168e5800cbcb0e9dd578)
@@ -818,7 +822,7 @@ Izvor: [Mempool.space](https://Mempool.space/tx/db07516288771ce5d0a06b275962ec4a
 Na potonjem, možemo videti da ulaz br. 0 i izlaz br. 1 koriste P2WPKH skripte (SegWit V0), dok izlaz br. 0 koristi drugačiju P2PKH skriptu (Legacy).
 
 
-Početkom 2010-ih, ova heuristika zasnovana na verzionisanju skripti bila je relativno neupotrebljiva zbog ograničenih tipova dostupnih skripti. Međutim, tokom vremena i sa sukcesivnim Bitcoin ažuriranjima, uvedena je sve veća raznolikost tipova skripti. Ova heuristika stoga postaje sve relevantnija, jer sa širim spektrom tipova skripti, korisnici se dele u manje grupe, čime se povećavaju šanse za primenu ove interne heuristike ponovne upotrebe verzionisanja. Iz tog razloga, isključivo iz perspektive poverljivosti, preporučljivo je da se odlučite za najčešći tip skripte. Na primer, dok pišem ove redove, Taproot skripte (`bc1p`) se ređe koriste od SegWit V0 skripti (`bc1q`). Iako prve nude ekonomske i prednosti u pogledu privatnosti u određenim specifičnim kontekstima, za tradicionalnije upotrebe sa jednim potpisom, može imati smisla pridržavati se starijeg standarda iz razloga privatnosti, sve dok novi standard ne bude šire prihvaćen.
+Početkom 2010-ih, ova heuristika zasnovana na verzionisanju skripti bila je relativno neupotrebljiva zbog ograničenih tipova dostupnih skripti. Međutim, tokom vremena i sa sukcesivnim Bitcoin ažuriranjima, uvedena je sve veća raznolikost tipova skripti. Ova heuristika stoga postaje sve relevantnija, jer sa širim spektrom tipova skripti, korisnici se dele u manje grupe, čime se povećavaju šanse za primenu ove interne heuristike ponovne upotrebe verzionisanja. Iz tog razloga, isključivo iz perspektive poverljivosti, preporučljivo je da se odlučite za najčešći tip skripte. Na primer, dok pišem ove redove, [Taproot](https://planb.academy/resources/glossary/taproot) skripte (`bc1p`) se ređe koriste od SegWit V0 skripti (`bc1q`). Iako prve nude ekonomske i prednosti u pogledu privatnosti u određenim specifičnim kontekstima, za tradicionalnije upotrebe sa jednim potpisom, može imati smisla pridržavati se starijeg standarda iz razloga privatnosti, sve dok novi standard ne bude šire prihvaćen.
 
 
 ### Plaćanja zaokruženih iznosa
@@ -827,7 +831,7 @@ Početkom 2010-ih, ova heuristika zasnovana na verzionisanju skripti bila je rel
 Još jedna interna heuristika koja nam može pomoći da identifikujemo kusur je heuristika okruglog broja. Generalno govoreći, kada se suočimo sa jednostavnim obrascem plaćanja (1 ulaz i 2 izlaza), ako jedan od izlaza troši okrugli iznos, onda to predstavlja plaćanje.
 
 
-![BTC204](assets/fr/049.webp)
+![BTC204](assets/sr-Latn/049.webp)
 
 
 Eliminacijom, ako jedan izlaz predstavlja plaćanje, drugi predstavlja kusur. Stoga se može zaključiti da je verovatno da je korisnik sa ulazne strane transakcije uvek vlasnik izlaza koji je identifikovan kao kusur.
@@ -849,7 +853,7 @@ Ipak, analitičar bi mogao pokušati da izvrši ovu konverziju uzimajući u obzi
 Jednom kada se konvertuje u fiat valutu, ova transakcija se može koristiti za primenu heuristike plaćanja zaokruženog iznosa. Izlaz od €20 je verovatno otišao trgovcu, ili je barem promenio vlasništvo. Dedukcijom, izlaz od €41.27 je verovatno ostao u posedu originalnog korisnika.
 
 
-![BTC204](assets/fr/050.webp)
+![BTC204](assets/sr-Latn/050.webp)
 
 
 Ako, jednog dana, Bitcoin postane preferirana jedinica obračuna u našim razmenama, ova heuristika bi mogla postati još korisnija za analizu.
@@ -863,7 +867,7 @@ Na primer, ovde je transakcija na koju se ova heuristika verovatno može primeni
 ```
 
 
-![BTC204](assets/fr/051.webp)
+![BTC204](assets/sr-Latn/051.webp)
 
 
 Izvor: [Mempool.space](https://Mempool.space/tx/2bcb42fab7fba17ac1b176060e7d7d7730a7b807d470815f5034d52e96d2828a)
@@ -875,7 +879,7 @@ Izvor: [Mempool.space](https://Mempool.space/tx/2bcb42fab7fba17ac1b176060e7d7d77
 Kada identifikujemo dovoljno veliki razmak između 2 izlaza transakcije na jednostavnom modelu plaćanja, možemo proceniti da je najveći izlaz verovatno kusur.
 
 
-![BTC204](assets/fr/052.webp)
+![BTC204](assets/sr-Latn/052.webp)
 
 
 Ova heuristika najvećeg izlaza je sigurno najnepreciznija od svih. Sama po sebi, prilično je slaba. Međutim, ova karakteristika se može kombinovati sa drugim heuristikama kako bi se smanjila neizvesnost naše interpretacije.
@@ -892,7 +896,7 @@ b79d8f8e4756d34bbb26c659ab88314c220834c7a8b781c047a3916b56d14dcf
 ```
 
 
-![BTC204](assets/fr/053.webp)
+![BTC204](assets/sr-Latn/053.webp)
 
 
 Izvor: [Mempool.space](https://Mempool.space/tx/b79d8f8e4756d34bbb26c659ab88314c220834c7a8b781c047a3916b56d14dcf)
@@ -902,6 +906,8 @@ Izvor: [Mempool.space](https://Mempool.space/tx/b79d8f8e4756d34bbb26c659ab88314c
 
 
 <chapterId>4a170e3b-200d-431a-8285-18a23ff617ba</chapterId>
+
+:::video id=f83c94a1-4f60-4dc7-855d-aa6710064575:::
 
 
 
@@ -920,7 +926,7 @@ Dakle, moguće je iskoristiti adresu ponovo unutar iste transakcije kao internu 
 Tumačenje ponovne upotrebe adrese je da svi UTXO-ovi blokirani na toj adresi pripadaju (ili su pripadali) istom entitetu. Ova heuristika ostavlja malo prostora za nesigurnost. Jednom kada se identifikuje, dobijeno tumačenje verovatno odgovara stvarnosti. Stoga omogućava grupisanje različitih aktivnosti na lancu.
 
 
-![BTC204](assets/fr/054.webp)
+![BTC204](assets/sr-Latn/054.webp)
 
 
 Kao što je objašnjeno u uvodu trećeg dela, ovu heuristiku je otkrio sam Satoshi Nakamoto. U Belom Papiru, on pominje rešenje koje pomaže korisnicima da izbegnu njeno generisanje, a to je jednostavno korišćenje prazne adrese za svaku novu transakciju:
@@ -929,7 +935,7 @@ Kao što je objašnjeno u uvodu trećeg dela, ovu heuristiku je otkrio sam Satos
 "_Kao dodatna zaštita, novi par ključeva mogao bi se koristiti za svaku transakciju kako bi ostale nepovezane sa zajedničkim vlasnikom._"
 
 
-![BTC204](assets/fr/055.webp)
+![BTC204](assets/sr-Latn/055.webp)
 
 
 Izvor: S. Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System", https://Bitcoin.org/Bitcoin.pdf, 2009.
@@ -943,7 +949,7 @@ bc1qqtmeu0eyvem9a85l3sghuhral8tk0ar7m4a0a0
 ```
 
 
-![BTC204](assets/fr/056.webp)
+![BTC204](assets/sr-Latn/056.webp)
 
 
 Izvor: [Mempool.space](https://Mempool.space/Address/bc1qqtmeu0eyvem9a85l3sghuhral8tk0ar7m4a0a0)
@@ -964,7 +970,7 @@ Više generalno, analitičar se može fokusirati i na karakteristične indetifik
 Na primer, moći ćemo da identifikujemo da praćeni korisnik sistematski šalje svoj kusur na P2TR adrese (`bc1p...`). Ako se ovaj proces ponavlja, možemo ga koristiti kao heuristiku za ostatak naše analize. Takođe možemo koristiti druge identifikatore, kao što su redosled UTXO-a, mesto kusura u izlazima, RBF (Replace-by-fee) signalizacija, ili broj verzije, polje `nSequence` i polje `nLockTime`.
 
 
-![BTC204](assets/fr/057.webp)
+![BTC204](assets/sr-Latn/057.webp)
 
 
 Kao što [@LaurentMT](https://twitter.com/LaurentMT) ističe u [Space Kek #19](https://podcasters.spotify.com/pod/show/decouvrebitcoin/episodes/SpaceKek-19---Analyse-de-chane--anonsets-et-entropie-e1vfuji) (podkast je na francuskom jeziku), korisnost otisaka novčanika u analizi lanca značajno raste tokom vremena. Naime, sve veći broj tipova skripti i sve progresivnije uvođenje ovih novih funkcija od strane softver novčanika naglašavaju razlike. U nekim slučajevima, čak je moguće identifikovati tačan softver koji koristi entitet koji se prati. Stoga je važno razumeti da je proučavanje otisaka novčanika posebno relevantno za nedavne transakcije, a ne za one inicirane početkom 2010-ih.
@@ -979,19 +985,19 @@ Da sumiramo, identifikator može biti bilo koja specifična praksa, koju automat
 Common Input Ownership Heuristika (CIOH) je heuristika koja navodi da kada transakcija ima više ulaza, svi oni verovatno potiču od jednog entiteta. Shodno tome, vlasništvo nad njima je zajedničko.
 
 
-![BTC204](assets/fr/058.webp)
+![BTC204](assets/sr-Latn/058.webp)
 
 
 Da bismo primenili CIOH, prvo posmatramo transakciju sa nekoliko ulaza. To može biti 2 ulaza, ili 30 ulaza. Kada identifikujemo ovu karakteristiku, proveravamo da li transakcija odgovara poznatom modelu transakcije. Na primer, ako postoji 5 ulaza sa približno istim iznosom i 5 izlaza sa tačno istim iznosom, znaćemo da je ovo struktura CoinJoin-a. I ovde nećemo moći da primenimo CIOH.
 
 
-![BTC204](assets/fr/059.webp)
+![BTC204](assets/sr-Latn/059.webp)
 
 
 S druge strane, ako transakcija ne odgovara nijednom poznatom modelu kolaborativne transakcije, onda možemo interpretirati da svi ulazi verovatno dolaze od istog entiteta. Ovo može biti veoma korisno za proširenje već poznatog klastera ili nastavak praćenja.
 
 
-![BTC204](assets/fr/060.webp)
+![BTC204](assets/sr-Latn/060.webp)
 
 
 CIOH je otkrio Satoshi Nakamoto. On o tome govori u delu 10 Bele knjige:
@@ -1000,7 +1006,7 @@ CIOH je otkrio Satoshi Nakamoto. On o tome govori u delu 10 Bele knjige:
 "_[...] povezivanje je neizbežno kod transakcija sa više unosa, koje nužno otkrivaju da su njihovi unosi bili u vlasništvu istog vlasnika. Rizik je da, ako se otkrije vlasnik ključa, veze mogu otkriti druge transakcije koje su pripadale istom vlasniku._"
 
 
-![BTC204](assets/fr/061.webp)
+![BTC204](assets/sr-Latn/061.webp)
 
 
 Posebno je fascinantno primetiti da je Satoshi Nakamoto, čak i pre zvaničnog lansiranja Bitcoin-a, već identifikovao dve glavne ranjivosti privatnosti za korisnike, naime CIOH i ponovnu upotrebu adrese. Takva predviđanja su prilično izuzetna, jer ove dve heuristike ostaju, čak i danas, najkorisnije u analizi blokčejna.
@@ -1014,7 +1020,7 @@ Da vam dam primer, evo transakcije na koju verovatno možemo primeniti CIOH:
 ```
 
 
-![BTC204](assets/fr/062.webp)
+![BTC204](assets/sr-Latn/062.webp)
 
 
 Izvor: [Mempool.space](https://Mempool.space/tx/20618e63b6eed056263fa52a2282c8897ab2ee71604c7faccfe748e1a202d712)
@@ -1038,7 +1044,7 @@ Na isti način, možete izvršiti analizu eliminacijom. Na primer, ako prilikom 
 Analiza blokčejna takođe uključuje nešto opštiju OSINT (*Open Source Intelligence*) komponentu, koja podrazumeva pretrage na internetu. Iz tog razloga savetujemo da se adrese ne objavljuju direktno na društvenim mrežama ili na veb-sajtu, bilo da su pod pseudonimom ili ne.
 
 
-![BTC204](assets/fr/063.webp)
+![BTC204](assets/sr-Latn/063.webp)
 
 
 ### Temporalni modeli
@@ -1070,7 +1076,7 @@ bc1qqtmeu0eyvem9a85l3sghuhral8tk0ar7m4a0a0
 ```
 
 
-![BTC204](assets/fr/064.webp)
+![BTC204](assets/sr-Latn/064.webp)
 
 
 Izvor: OXT.me
@@ -1168,7 +1174,7 @@ Nakon identifikovanja modela transakcije, koristeći interne heuristike transakc
 Zamislimo da je Loïc objavio jednu od svojih Bitcoin adresa za primanje na društvenoj mreži Twitter:
 
 
-![BTC204](assets/fr/065.webp)
+![BTC204](assets/sr-Latn/065.webp)
 
 
 ```plaintext
@@ -1202,7 +1208,7 @@ Ova transakcija je prva koja šalje sredstva na Loïc-ov adresu. Odakle mislite 
 Prateći vežbu 5, zahvaljujući heuristici ponovne upotrebe adrese, uspeli ste da identifikujete nekoliko Bitcoin transakcija u kojima izgleda da je Loïc uključen. Sada želite da saznate odakle je Loïc došao. Na osnovu pronađenih transakcija, izvršite vremensku analizu kako biste pronašli vremensku zonu koju Loïc najverovatnije koristi. Iz ove vremenske zone, odredite lokaciju gde izgleda da Loïc živi (zemlja, država/regija, grad...).
 
 
-![BTC204](assets/fr/066.webp)
+![BTC204](assets/sr-Latn/066.webp)
 
 
 ### Vežba 8
@@ -1433,7 +1439,7 @@ Analiza ovih rasporeda pokazuje da su UTC-7 i UTC-8 u skladu sa rasponom uobiča
 ```
 
 
-![BTC204](assets/fr/066.webp)
+![BTC204](assets/sr-Latn/067.webp)
 
 
 Vremenska zona UTC-7 je posebno relevantna leti, jer uključuje države i regione kao što su:
@@ -1465,10 +1471,10 @@ ___
 
 
 
-- Serija od četiri članka pod nazivom: [Understanding Bitcoin Privacy with OXT](https://medium.com/oxt-research/understanding-Bitcoin-privacy-with-oxt-part-1-4-8177a40a5923), koju je napravio Samourai Wallet 2021. godine;*
-- Različiti izveštaji sa [OXT Research](https://medium.com/oxt-research), kao i njihov besplatni alat za analizu blokčejna (trenutno nije dostupan nakon hapšenja osnivača Samourai Wallet-a);*
-- Šire gledano, moje znanje dolazi iz raznih tvitova i sadržaja od [@LaurentMT](https://twitter.com/LaurentMT) i [@ErgoBTC](https://twitter.com/ErgoBTC);*
-- [Space Kek #19](https://podcasters.spotify.com/pod/show/decouvrebitcoin/episodes/SpaceKek-19---Analyse-de-chane--anonsets-et-entropie-e1vfuji) u kojem sam učestvovao u društvu [@louneskmt](https://twitter.com/louneskmt), [@TheoPantamis](https://twitter.com/TheoPantamis), [@Sosthene___](https://twitter.com/Sosthene___) i [@LaurentMT](https://twitter.com/LaurentMT).*
+- Serija od četiri članka pod nazivom: **Understanding Bitcoin Privacy with OXT**, koju je napravio Samourai Wallet 2021. godine;
+- Različiti izveštaji sa [OXT Research](https://medium.com/oxt-research), kao i njihov besplatni alat za analizu blokčejna (trenutno nije dostupan nakon hapšenja osnivača Samourai Wallet-a);
+- Šire gledano, moje znanje dolazi iz raznih tvitova i sadržaja od [@LaurentMT](https://twitter.com/LaurentMT) i [@ErgoBTC](https://twitter.com/ErgoBTC);
+- [Space Kek #19](https://podcasters.spotify.com/pod/show/decouvrebitcoin/episodes/SpaceKek-19---Analyse-de-chane--anonsets-et-entropie-e1vfuji) u kojem sam učestvovao u društvu [@louneskmt](https://twitter.com/louneskmt), [@TheoPantamis](https://twitter.com/TheoPantamis), [@Sosthene___](https://twitter.com/Sosthene___) i [@LaurentMT](https://twitter.com/LaurentMT).
 
 
 *Želeo bih da zahvalim njihovim autorima, developerima i producentima. Takođe hvala lektorima koji su pažljivo ispravili članak na kojem se zasniva ovaj deo 3 i dali mi svoje stručno mišljenje:*
@@ -1476,7 +1482,7 @@ ___
 
 
 
-- [Gilles Cadignan](https://twitter.com/gillesCadignan);*
+- [Gilles Cadignan](https://twitter.com/gillesCadignan);
 - [Ludovic Lars](https://viresinnumeris.fr/)
 
 
@@ -1490,6 +1496,8 @@ ___
 
 
 <chapterId>f3e97645-3df3-41bc-a4ed-d2c740113d96</chapterId>
+
+:::video id=5392183e-e317-499f-9757-b69e9d7cda11:::
 
 
 
@@ -1508,10 +1516,10 @@ Tehnički, Bitcoin adresa za primanje ne "prima" bitkoine u doslovnom smislu, ve
 
 
 > "*Da biste potrošili ovaj novi UTXO, morate obezbediti digitalni potpis koristeći privatni ključ povezan sa ovom prijemnom adresom.*"
-![BTC204](assets/fr/067.webp)
+![BTC204](assets/sr-Latn/068.webp)
 
 
-Bitcoin adrese dolaze u različitim tipovima, u zavisnosti od korišćenog modela skriptovanja. Prvi modeli, poznati kao "Legacy*", uključuju `P2PKH` (*Pay-to-PubKey-Hash*) i `P2SH` (*Pay-to-Script-Hash*) adrese. P2PKH adrese uvek počinju sa `1`, a P2SH sa `3`. Iako su i dalje bezbedni, ovi formati su sada zastareli, jer podrazumevaju veće troškove transakcija i nude manje poverljivosti u poređenju sa novim standardima.
+Bitcoin adrese dolaze u različitim tipovima, u zavisnosti od korišćenog modela skriptovanja. Prvi modeli, poznati kao **Legacy**, uključuju `P2PKH` (*Pay-to-PubKey-Hash*) i `P2SH` (*Pay-to-Script-Hash*) adrese. P2PKH adrese uvek počinju sa `1`, a P2SH sa `3`. Iako su i dalje bezbedni, ovi formati su sada zastareli, jer podrazumevaju veće troškove transakcija i nude manje poverljivosti u poređenju sa novim standardima.
 
 
 SegWit V0 (`P2WPKH` i `P2WSH`) i Taproot / SegWit V1 (`P2TR`) adrese predstavljaju moderne formate. SegWit adrese počinju sa `bc1q`, a Taproot adrese, uvedene 2021. godine, počinju sa `bc1p`.
@@ -1548,7 +1556,7 @@ Konstrukcija adresa za prijem takođe zavisi od izabranog modela skripte:
 - Što se tiče `P2TR` adresa, payload je prilagođeni javni ključ. P2TR izlazi kombinuju aspekte _Pay-to-PubKey_ i _Pay-to-Script_. Prilagođeni javni ključ je rezultat dodavanja klasičnog javnog ključa za trošenje sa "prilagođavanjem", koji je izveden iz Merkle Root skupa skripti koje se takođe mogu koristiti za trošenje bitkoina.
 
 
-![BTC204](assets/fr/068.webp)
+![BTC204](assets/sr-Latn/069.webp)
 
 
 Adrese prikazane na vašem softver novčaniku takođe uključuju HRP (*Human-Readable Part*), obično `bc` za post-SegWit adrese, separator `1`, i broj verzije `q` za SegWit V0 i `p` za Taproot/SegWit V1. Takođe se dodaje kontrolni zbir kako bi se garantovala integritet i validnost adrese tokom prenosa.
@@ -1593,7 +1601,7 @@ Pošto je blokčejn javan, lako je videti koje adrese zaključavaju koji UTXO i 
 
 
 > *Kao dodatna zaštita, novi par ključeva mogao bi se koristiti za svaku transakciju kako bi ostali nepovezani sa zajedničkim vlasnikom*
-![BTC204](assets/fr/055.webp)
+![BTC204](assets/sr-Latn/070.webp)
 
 
 Izvor: S. Nakamoto, "Bitcoin: Sistem elektronskog novca od osobe do osobe", https://Bitcoin.org/Bitcoin.pdf, 2009.
@@ -1605,7 +1613,7 @@ Namera Satoshija u ovoj rečenici bila je da stvori dodatnu zaštitu u slučaju 
 Kada ponovo koristite adrese, pravite gotovo neosporivu vezu između svih transakcija povezanih sa tom adresom. Iako ovo direktno ne ugrožava vaša sredstva, jer eliptička kriptografija garantuje sigurnost vaših privatnih ključeva, ipak olakšava praćenje vaših aktivnosti. Naime, svako ko ima čvor može posmatrati transakcije i stanja adresa, potpuno kompromitujući vašu anonimnost.
 
 
-![BTC204](assets/fr/054.webp)
+![BTC204](assets/sr-Latn/071.webp)
 
 
 Da bismo ilustrovali ovu tačku, uzmimo primer Boba, korisnika koji redovno kupuje bitkoine u malim količinama putem DCA i uvek ih šalje na istu adresu. Nakon dve godine, ova adresa sadrži značajnu količinu bitkoina. Ako Bob koristi ovu adresu za plaćanje lokalnom trgovcu, trgovac će moći da vidi sva povezana sredstva i zaključi Bobovo bogatstvo. Ovo može dovesti do rizika po ličnu sigurnost, kao što su pokušaji krađe ili iznude. Da je Bob koristio prazne adrese za primanje svake periodične kupovine, otkrio bi beskonačno manje informacija svom trgovcu.
@@ -1626,13 +1634,13 @@ Prva je kada se adresa ponovo koristi u nekoliko različitih Bitcoin transakcija
 Interna ponovna upotreba adrese ne dešava se kada se ponovna upotreba dešava kroz nekoliko transakcija, već kada se dešava unutar jedne transakcije. Naime, ako se ista adresa koja je korišćena za zaključavanje ulaza koristi kao izlaz transakcije, onda možemo zaključiti da ovaj izlaz i dalje pripada istom korisniku (kusur), i da drugi izlaz predstavlja stvarno plaćanje. Ova druga heuristika omogućava da se trag sredstava nastavi kroz nekoliko transakcija.
 
 
-![BTC204](assets/fr/045.webp)
+![BTC204](assets/sr-Latn/072.webp)
 
 
 Ponovna upotreba adresa je prava pošast na Bitcoin-u. Prema OXT.me vebsajtu (trenutno nedostupnom), ukupna stopa ponovne upotrebe adresa na Bitcoin-u bila je oko 52% u 2022:
 
 
-![BTC204](assets/fr/069.webp)
+![BTC204](assets/sr-Latn/073.webp)
 
 
 Ova stopa je ogromna, ali dolazi pretežno sa platformi za trgovinu, a ne od pojedinačnih korisnika.
@@ -1647,7 +1655,7 @@ Izbegavanje ponovne upotrebe adrese je prilično jednostavno: **jednostavno kori
 Zahvaljujući BIP32, moderni novčanici su sada deterministički i hijerarhijski. To znači da korisnik može generisati veliki broj adresa iz jednog početnog podatka: seed-a. Čuvanjem ovog jednog podatka, moguće je obnoviti sve privatne ključeve u novčaniku, omogućavajući pristup sredstvima osiguranim odgovarajućim adresama.
 
 
-![BTC204](assets/fr/070.webp)
+![BTC204](assets/sr-Latn/074.webp)
 
 
 Zato se, kada pritisnete dugme "*uplata (eng. receive)*" u vašem softveru novčanika, svaki put novačnik predlaže neiskorišćenu prijemnu adresu. Nakon primanja bitkoina na ovoj adresi, softver automatski predlaže novu.
@@ -1661,6 +1669,8 @@ Ako vam je potreban statički identifikator za primanje uplata, kao što su dona
 
 
 <chapterId>fbdb07cd-c025-48f2-97b0-bd1bc21c68a8</chapterId>
+
+:::video id=4c411c97-ebb2-483d-b4fa-03109cf5d5d7:::
 
 
 
@@ -1694,7 +1704,7 @@ Aktivna upotreba označavanja postaje još zanimljivija kada se kombinuje sa opc
 Kontrola novčića je funkcija koja se nalazi u dobrom Bitcoin softver novčaniku, omogućavajući vam da ručno odaberete specifične UTXO-e koje ćete koristiti kao ulaze za dovršavanje transakcije. Zapravo, da biste zadovoljili izlazno plaćanje, potrebno je da zauzvrat potrošite ulazni UTXO. Iz više razloga, koje ćemo kasnije razmotriti, možda ćete želeti da precizno odaberete koje delove ćete potrošiti kao ulaze da biste zadovoljili određeno plaćanje. Ovo je upravo ono što vam kontrola novčića omogućava da uradite. Da vam dam analogiju, ova funkcija je slična biranju specifičnog novčića iz vašeg novčanika kada plaćate svoj baget.
 
 
-![BTC204](assets/fr/071.webp)
+![BTC204](assets/sr-Latn/075.webp)
 
 
 Korišćenje softver novčanika sa kontrolom novčića, u kombinaciji sa UTXO označavanjem, omogućava korisnicima da razlikuju i precizno odaberu UTXO-e za svoje transakcije.
@@ -1720,7 +1730,7 @@ Najvažnija stvar koju treba primetiti na etiketi je izvor UTXO. Trebalo bi jedn
 - `kusur od kupovinu sofe`
 
 
-![BTC204](assets/fr/072.webp)
+![BTC204](assets/sr-Latn/076.webp)
 
 
 Da biste fino podesili upravljanje vašim UTXO-vima i poštovali strategije segregacije sredstava unutar vašeg novčanika, možete obogatiti vaše oznake dodatnim indikatorom koji odražava ove separacije. Ako vaš novčanik sadrži dve kategorije UTXO-a koje ne želite da mešate, možete uključiti marker u vaše oznake kako biste jasno razlikovali ove grupe. Ovi markeri za separaciju će zavisiti od vaših sopstvenih kriterijuma, kao što je razlikovanje između UTXO-a koji proizilaze iz procesa akvizicije koji uključuje KYC, ili između profesionalnih i ličnih fondova. Uzimajući u obzir primere oznaka pomenute gore, ovo bi moglo da se prevede u:
@@ -1734,7 +1744,7 @@ Da biste fino podesili upravljanje vašim UTXO-vima i poštovali strategije segr
 - `NO KYC - Kusur od kupovine sofe`
 
 
-![BTC204](assets/fr/073.webp)
+![BTC204](assets/sr-Latn/077.webp)
 
 
 Takođe je preporučljivo da se obeležavanje UTXO-a nastavi tokom transakcija. Na primer, kada konsolidujete UTXO no-KYC, obavezno označite rezultat ne samo kao `consolidation`, već specifično kao `consolidation no-KYC` kako biste zadržali jasan zapis o poreklu novčića.
@@ -1758,7 +1768,7 @@ Kada izvršavate transakciju, kontrola novčića vam omogućava da specifično i
 Da ilustrujemo prvu tačku, uzmimo konkretan primer. Pretpostavimo da kupujete baget u bitkoinima od svog pekara. Koristite jedan ili više UTXO-a koje posedujete kao ulaze da biste ispunili barem cenu bageta u izlazima, kao i transakcione naknade. Vaš pekar bi tada potencijalno mogao da poveže vaše lice, ili bilo koji drugi deo vašeg identiteta koji zna, sa novčićima korišćenim kao ulazi. Znajući za postojanje ove veze, možda biste radije izabrali određeni UTXO umesto drugog prilikom plaćanja.
 
 
-![BTC204](assets/fr/074.webp)
+![BTC204](assets/sr-Latn/078.webp)
 
 
 Na primer, ako jedan od vaših UTXO-a dolazi sa berze i radije biste da pekar ne zna za vaš nalog na toj platformi, izbegavaćete korišćenje tog UTXO-a za plaćanje. Ako imate UTXO visoke vrednosti koji otkriva značajnu količinu bitkoina, možda ćete takođe odlučiti da ga ne koristite kako biste izbegli da pekar postane svestan vašeg BTC bogatstva.
@@ -1770,19 +1780,19 @@ Odabir kojeg UTXO-a koristiti za ovu prvu tačku je stoga lična odluka, pod uti
 Osim informacija koje se potencijalno otkrivaju primaocu, izbor ulaza takođe utiče na ono što otkrivate svim posmatračima blokčejna. Naime, korišćenjem nekoliko UTXO-a kao ulaza za vašu transakciju, otkrivate da ih poseduje isti entitet, prema CIOH heuristici (_Common Input Ownership Heuristic_).
 
 
-![BTC204](assets/fr/075.webp)
+![BTC204](assets/sr-Latn/079.webp)
 
 
 Kada birate svoje novčiće, stoga, morate biti svesni da će transakcija koju ćete emitovati stvoriti vezu između svih korišćenih UTXO-a. Ova veza može biti problematična za vašu ličnu privatnost, posebno ako UTXO-i dolaze iz različitih izvora.
 
 
-![BTC204](assets/fr/076.webp)
+![BTC204](assets/sr-Latn/080.webp)
 
 
 Uzmimo primer mog no-KYC UTXO-a sa Bisq-a; želim da izbegnem kombinovanje UTXO-a sa, recimo, regulisane platforme za trgovinu koja zna moj identitet. Zaista, ako ikada koristim ova 2 UTXO-a kao ulaze u istu transakciju, regulisana platforma će moći da poveže moj identitet sa UTXO-a koji sam kupio na Bisq-u, a koji prethodno nije bio povezan sa mojim identitetom.
 
 
-![BTC204](assets/fr/077.webp)
+![BTC204](assets/sr-Latn/081.webp)
 
 
 Konačno, kada birate koje UTXO-e koristiti kao ulaze za transakciju, najvažnije je izbegavati korišćenje više UTXO-a. Uglavnom, kada možete, izaberite jedan novčić dovoljno veliki da zadovolji vašu uplatu. Na ovaj način potpuno izbegavate rizike povezane sa CIOH. Međutim, ako nijedan pojedinačni UTXO nije dovoljan za uplatu i morate koristiti nekoliko, pobrinite se da dolaze iz sličnih izvora kako biste minimizirali rizik od neželjenih veza. Takođe imajte na umu da primalac može povezati informacije koje ima o vama sa istorijom novčića korišćenih u ulazima.
@@ -1812,12 +1822,14 @@ Sve ove automatske metode selekcije UTXO mogu biti efikasne u smanjenju troškov
 Ako želite da saznate kako da označite svoje UTXO-e, napravili smo sveobuhvatan vodič o glavnom Bitcoin softver novčaniku koji postoji:
 
 
-https://planb.network/tutorials/privacy/on-chain/utxo-labelling-d997f80f-8a96-45b5-8a4e-a3e1b7788c52
+https://planb.academy/tutorials/privacy/on-chain/utxo-labelling-d997f80f-8a96-45b5-8a4e-a3e1b7788c52
 
 ## KYC i identifikacija ključeva
 
 
 <chapterId>cec6b9d9-0eed-4f85-bc4e-1e9aa59ca605</chapterId>
+
+:::video id=ecf888fe-906f-4293-91b5-1e5ae7b2fde1:::
 
 
 
@@ -1839,7 +1851,7 @@ Ovaj postupak nije bez rizika za privatnost i sigurnost korisnika. U ovom poglav
 Prvi rizik povezan sa KYC je da nudi privilegovanu ulaznu tačku za analizu blokčejnu. Kao što smo videli u prethodnom odeljku, analitičari mogu grupisati i pratiti aktivnost na blokčejnu koristeći obrasce transakcija i heuristiku. Kada uspeju da grupišu korisnikovu aktivnost na lancu, sve što treba da urade je da pronađu jednu ključnu ulaznu tačku među svim njegovim transakcijama i ključevima kako bi u potpunosti ugrozili njegovu poverljivost.
 
 
-![BTC204](assets/fr/078.webp)
+![BTC204](assets/sr-Latn/082.webp)
 
 
 Kada izvršite KYC, obezbeđujete visokokvalitetnu ulaznu ključnu tačku za blokčejn analizu, jer povezujete svoje adrese za primanje koje koristite prilikom povlačenja svojih bitkoina sa berze sa svojim punim, verifikovanim identitetom. U teoriji, ove informacije su poznate samo kompaniji kojoj ste ih pružili, ali, kao što ćemo videti u nastavku, rizik od curenja podataka je stvaran. Štaviše, sama činjenica da kompanija poseduje ove informacije može biti problematična, čak i ako ih ne deli.
@@ -1848,7 +1860,7 @@ Kada izvršite KYC, obezbeđujete visokokvalitetnu ulaznu ključnu tačku za blo
 Dakle, ako ne preduzmete druge korake da ograničite agregaciju vaših aktivnosti na blokčejnu, bilo ko ko zna za ovu KYC ulaznu tačku može potencijalno povezati sve vaše aktivnosti na Bitcoin-u sa vašim identitetom. Iz ugla te kompanije, vaša upotreba Bitcoin-a gubi svu poverljivost.
 
 
-![BTC204](assets/fr/079.webp)
+![BTC204](assets/sr-Latn/083.webp)
 
 
 Da ilustrujemo ovo poređenjem, to je kao da vaš bankar u *Banci X* ne samo da ima pristup svim vašim transakcijama sa *Bankom X*, već može i da posmatra vaše transakcije sa *Bankom Y* i sve vaše gotovinske transakcije.
@@ -1911,7 +1923,7 @@ Važno je dekonstruisati neke od unapred stvorenih ideja o KYC koje često sreć
 Prvo, netačno je misliti da je zaštita privatnosti za bitkoine stečene putem KYC-a besmislena. Alati i metode privatnosti na Bitcoin-u su raznovrsni i služe različitim svrhama. Korišćenje CoinJoin transakcija na bitkoinima stečenim putem KYC, na primer, nije loša ideja. Naravno, morate biti oprezni sa regulisanim platformama za trgovinu kako biste izbegli zamrzavanje ili zabranu vašeg naloga, ali sa strogo tehničke tačke gledišta, ove prakse nisu nespojive. CoinJoin ima efekat prekidanja istorijata novčića, pomažući vam da osujetite određene rizike analize lanca povezane sa KYC-em. Iako ne eliminiše sve rizike, predstavlja značajnu korist.
 
 
-![BTC204](assets/fr/080.webp)
+![BTC204](assets/sr-Latn/084.webp)
 
 
 Poverljivost na Bitcoin-u ne treba posmatrati na binaran način, kao razliku između "anonimnih" bitkoina i onih koji to nisu. Posedovanje Bitkoina stečenih putem KYC-ija ne znači da je sve izgubljeno; naprotiv, korišćenje alata za poverljivost može se pokazati još korisnijim.
@@ -1947,19 +1959,19 @@ KYC se posebno odnosi na regulatorni postupak koji sprovode određene kompanije 
 Na primer, ako kupite bitkoine na regulisanoj platformi u Švajcarskoj, KYC nije potreban. Međutim, vaši ključevi mogu biti identifikovani, jer je kupovina obavljena putem vašeg bankovnog računa. Ovde se prva dva rizika povezana sa KYC-ijem - olakšavanje praćenja na lancu i izloženost državnom nadzoru - takođe mogu manifestovati i kod platforme za trgovinu BTC-ija bez KYC-ija. Ako švajcarski entitet prijavi sumnjive transakcije vlastima u vašoj zemlji, oni mogu jednostavno proveriti bankovni račun korišćen za kupovinu kako bi otkrili vaš identitet. Dakle, kupovina bez KYC-ija na regulisanim platformama je prilično visoko na skali rizika za identifikaciju ključeva.
 
 
-![BTC204](assets/fr/081.webp)
+![BTC204](assets/sr-Latn/085.webp)
 
 
 Međutim, izbegavanje regulisanih platformi i odlučivanje za P2P metode nabavke ne eliminiše u potpunosti rizik od identifikacije ključa, već ga samo smanjuje. Uzmimo za primer kupovinu na Bisq-u ili nekoj drugoj P2P platformi. Da biste platili svojoj suprotnoj strani, verovatno ćete koristiti svoj bankovni račun. Ako vlasti ispitaju osobu sa kojom ste trgovali i zatraže vaše ime, vraćamo se na rizike 1 i 2. Iako su ovi rizici mnogo manji nego kada kupujete na platformi bez KYC-ija, i još manji nego kada kupujete sa KYC-ijem, oni su i dalje prisutni u manjoj meri.
 
 
-![BTC204](assets/fr/082.webp)
+![BTC204](assets/sr-Latn/086.webp)
 
 
 Konačno, čak i ako nabavite svoje bitkoine putem fizičke razmene za gotovinu, niste potpuno anonimni. Osoba s kojom ste razmenili je videla vaše lice, što je deo vašeg identiteta. Iako minimalna u ovom primeru, i dalje postoji mogućnost identifikacije ključa.
 
 
-![BTC204](assets/fr/083.webp)
+![BTC204](assets/sr-Latn/087.webp)
 
 
 U zaključku, kada se bitkoini razmenjuju za druga sredstva, bilo da je to kupovina u državnoj valuti ili prodaja za stvarnu robu, uvek postoji neki oblik identifikacije ključa. U zavisnosti od izabrane metode za razmenu, ova identifikacija može varirati u intenzitetu. Važno je ne mešati ovu identifikaciju sa KYC-ijem, koji je jasno definisan regulatorni proces. Međutim, postoji veza između KYC-ija i spektra identifikacije, jer se KYC nalazi na višem kraju spektra, pošto sistematski olakšava identifikaciju korisničkih ključeva od strane vlasti.
@@ -1969,6 +1981,8 @@ U zaključku, kada se bitkoini razmenjuju za druga sredstva, bilo da je to kupov
 
 
 <chapterId>756598af-95aa-4c77-ac48-243c7ad89530</chapterId>
+
+:::video id=9fd3d90f-32f4-48a2-a740-3597249551db:::
 
 
 
@@ -1981,13 +1995,13 @@ Nakon čitanja prethodnog poglavlja, možda se pitate kako možete kupiti ili pr
 Kao što smo videli, najbolja metoda u smislu poverljivosti ostaje P2P (direktna razmena) razmena sa gotovinskim poravnanjem. Ova metoda vam omogućava da minimizirate tragove koji ostaju, i znatno smanjuje mogućnost identifikacije ključa, bilo da kupujete ili prodajete.
 
 
-![BTC204](assets/fr/084.webp)
+![BTC204](assets/sr-Latn/088.webp)
 
 
 Ipak, postoje rizici po ličnu sigurnost. Glavna opasnost leži u činjenici da će, tokom razmene, druga strana znati da imate veliku sumu novca, bilo u gotovini ili u bitkoinima. Ova informacija može privući pažnju zlonamernih osoba. Zaista, generalno je preporučljivo biti diskretan u vezi sa vašim Bitcoin sredstvima. Ovaj savet se takođe može primeniti na gotovinu. Međutim, prilikom lične razmene, neizbežno je otkriti da posedujete bitkoine, što može privući neželjenu pažnju.
 
 
-![BTC204](assets/fr/085.webp)
+![BTC204](assets/sr-Latn/089.webp)
 
 
 Da biste ograničili ovaj rizik, savetovao bih vam da favorizujete gotovinske transakcije sa pouzdanim osobama, kao što su članovi porodice ili bliski prijatelji. Alternativno, možete razmotriti trgovinu na [lokalnim Bitcoin okupljanjima](https://btcmap.org/communities/map), nakon što prisustvujete nekoliko puta. Ovo će vam omogućiti da bolje upoznate ostale učesnike i da ne budete sami prilikom fizičke razmene. Međutim, važno je prepoznati da P2P gotovinske razmene inherentno nose rizike po vašu ličnu sigurnost koji ne postoje kada kupujete putem regulisane platforme i vašeg bankovnog računa.
@@ -2002,7 +2016,7 @@ Razmena gotovine takođe može predstavljati pravne rizike u slučaju policijski
 Konačno, još jedan nedostatak kupovine P2P je što je cena često viša nego na regulisanim platformama. Prodavci često naplaćuju maržu koja se kreće od 1% do ponekad više od 10%. Postoji nekoliko razloga za ovu razliku u ceni. Prvo, ovo je uobičajena praksa među prodavcima P2P koja se vremenom ustalila. Drugo, prodavci imaju naknade povezane sa transakcijom za slanje sredstava kupcu. Takođe, postoji povećan rizik od krađe u prodaji P2P u poređenju sa transakcijama na platformama, što opravdava kompenzaciju za preuzeti rizik. Na kraju, dodatni trošak može biti povezan sa potražnjom i kvalitetom razmene u smislu poverljivosti. Kao kupac, dobitak u poverljivosti ima cenu koja se odražava u marži koju primenjuje prodavac. Neki bitkoineri takođe veruju da cena marže BTC-ija kupljenog P2P metodom odražava njegovu pravu cenu, i tvrde da su niže cene na regulisanim platformama rezultat kompromisa u vezi sa poverljivošću vaših ličnih podataka.
 
 
-![BTC204](assets/fr/086.webp)
+![BTC204](assets/sr-Latn/090.webp)
 
 
 ### P2P razmene putem platforme za povezivanje
@@ -2011,25 +2025,25 @@ Konačno, još jedan nedostatak kupovine P2P je što je cena često viša nego n
 Manje rizična alternativa u smislu lične sigurnosti je obavljanje P2P razmena isključivo online, putem elektronskih metoda plaćanja kao što su PayPal, bankovni transferi ili Revolut.
 
 
-![BTC204](assets/fr/087.webp)
+![BTC204](assets/sr-Latn/091.webp)
 
 
 Ovim pristupom izbegavate mnoge rizike povezane sa gotovinskim transakcijama. Međutim, rizik da druga strana ne ispuni obaveze u online razmeni je veći. Zaista, prilikom fizičke razmene, ako predate novac prodavcu koji vam zauzvrat ne pošalje bitkoine, možete ga odmah pozvati na odgovornost, jer stoji ispred vas. S druge strane, online je često nemoguće pronaći nekoga ko vas je pokrao.
 
 
-![BTC204](assets/fr/088.webp)
+![BTC204](assets/sr-Latn/092.webp)
 
 
 Da bi se ublažio ovaj rizik, moguće je koristiti specijalizovane platforme za P2P razmene. Ove platforme koriste mehanizme za rešavanje sukoba kako bi zaštitile oštećene korisnike. Obično ove platforme koriste sistem posredničkog čuvanja sredstava (escrow), gde se bitkoini drže sve dok prodavac ne potvrdi uplatu u fiat valuti.
 
 
-![BTC204](assets/fr/089.webp)
+![BTC204](assets/sr-Latn/093.webp)
 
 
 U smislu lične bezbednosti, ovaj metod kupovine je znatno sigurniji od fizičke razmene keša. Međutim, kao što je gore pomenuto, online P2P razmene ostavljaju više tragova nego fizičke razmene, što može biti štetno za privatnost na Bitcoin-u. Korišćenjem online fiat metode plaćanja kao što je banka, izlažete više informacija koje bi mogle olakšati identifikaciju ključa.
 
 
-![BTC204](assets/fr/090.webp)
+![BTC204](assets/sr-Latn/094.webp)
 
 
 Još jednom, ne bih preporučio pravljenje previše velikih trgovina u jednoj transakciji na ovim platformama. Deljenjem vaših transakcija, širite rizik od krađe od strane druge strane.
@@ -2038,7 +2052,7 @@ Još jednom, ne bih preporučio pravljenje previše velikih trgovina u jednoj tr
 Još jednom, još jedan nedostatak P2P kupovine je taj što je cena često viša nego ona koja se primenjuje na regulisanim platformama. Prodavci često naplaćuju maržu koja se kreće od 1% a ponekad i više od 10%. Postoji nekoliko razloga za ovu razliku u ceni. Prvo, ovo je uobičajena praksa među P2P prodavcima koja se vremenom ustalila. Drugo, prodavci imaju naknade povezane sa transakcijom za slanje sredstava kupcu. Takođe postoji povećan rizik od krađe u P2P prodaji u poređenju sa transakcijama na platformama, što opravdava kompenzaciju za preuzeti rizik. Na kraju, dodatni trošak može biti povezan sa potražnjom i kvalitetom razmene u smislu poverljivosti. Kao kupac, dobitak u poverljivosti ima cenu koja se odražava u marži koju primenjuje prodavac. Neki bitkoineri takođe veruju da cena marže kupljenog BTC-ija P2P metodom odražava njegovu pravu cenu, i tvrde da su niže cene na regulisanim platformama rezultat kompromisa po pitanju poverljivosti vaših ličnih podataka.
 
 
-![BTC204](assets/fr/086.webp)
+![BTC204](assets/sr-Latn/095.webp)
 
 
 Što se tiče rešenja, lično sam uvek koristio [Bisq](https://bisq.network/) i veoma sam zadovoljan njime. Njihov sistem je proveren i čini se pouzdanim. Međutim, Bisq je dostupan samo na PC-ju i njegov korisnički interfejs može biti previše složen za početnike. Još jedan nedostatak je što Bisq radi samo sa onchain transakcijama, koje mogu postati skupe tokom perioda visokih naknada za transakcije.
@@ -2047,7 +2061,7 @@ Još jednom, još jedan nedostatak P2P kupovine je taj što je cena često viša
 -> Pogledajte naš Bisq vodič.
 
 
-https://planb.network/tutorials/exchange/peer-to-peer/bisq-fe244bfa-dcc4-4522-8ec7-92223373ed04
+https://planb.academy/tutorials/exchange/peer-to-peer/bisq-fe244bfa-dcc4-4522-8ec7-92223373ed04
 
 Za jednostavniju opciju, možete probati [Peach](https://peachbitcoin.com/), mobilnu aplikaciju koja povezuje kupce i prodavce sa ugrađenim sistemom za rešavanje konflikata. Proces je intuitivniji od Bisq-ovog.
 
@@ -2055,7 +2069,7 @@ Za jednostavniju opciju, možete probati [Peach](https://peachbitcoin.com/), mob
 -> Pogledajte naš vodič za Peach.
 
 
-https://planb.network/tutorials/exchange/peer-to-peer/peach-c6143241-d900-4047-9b73-1caba5e1f874
+https://planb.academy/tutorials/exchange/peer-to-peer/peach-c6143241-d900-4047-9b73-1caba5e1f874
 
 Još jedna opcija na mreži je [HodlHodl](https://hodlhodl.com/), dobro uspostavljena platforma koja nudi dobru likvidnost, iako je lično nisam testirao.
 
@@ -2063,7 +2077,7 @@ Još jedna opcija na mreži je [HodlHodl](https://hodlhodl.com/), dobro uspostav
 -> Pogledajte naš HodlHodl vodič.
 
 
-https://planb.network/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f5-8e78-2574a93a3879
+https://planb.academy/tutorials/exchange/peer-to-peer/hodlhodl-d7344cd5-6b18-40f5-8e78-2574a93a3879
 
 Za rešenja zasnovana na Lightning mreži, probajte [RoboSats](https://learn.robosats.com/) i [LNP2PBot](https://lnp2pbot.com/). RoboSats je dostupan putem vebsajta i relativno je jednostavan za korišćenje. LNP2PBot je neobičniji, jer radi putem sistema za razmenu na Telegram aplikaciji za razmenu poruka.
 
@@ -2074,11 +2088,11 @@ Za rešenja zasnovana na Lightning mreži, probajte [RoboSats](https://learn.rob
 -> Pogledajte naš LNP2PBot vodič.
 
 
-https://planb.network/tutorials/exchange/peer-to-peer/robosats-b60e4f7c-533a-4295-9f6d-5368152e8c06
+https://planb.academy/tutorials/exchange/peer-to-peer/robosats-b60e4f7c-533a-4295-9f6d-5368152e8c06
 
-https://planb.network/tutorials/exchange/peer-to-peer/lnp2pbot-v2-e6bcb210-610b-487d-970c-7cce85273e3c
+https://planb.academy/tutorials/exchange/peer-to-peer/lnp2pbot-v2-e6bcb210-610b-487d-970c-7cce85273e3c
 
-![BTC204](assets/fr/091.webp)
+![BTC204](assets/sr-Latn/096.webp)
 
 
 ### Regulisane platforme bez KYC
@@ -2090,7 +2104,7 @@ U zavisnosti od zemlje u kojoj živite, možda imate pristup regulisanim platfor
 -> Pogledajte naš vodič o Relai-u.
 
 
-https://planb.network/tutorials/exchange/centralized/relai-v2-30a9671d-e407-459d-9203-4c3eae15b30e
+https://planb.academy/tutorials/exchange/centralized/relai-v2-30a9671d-e407-459d-9203-4c3eae15b30e
 
 Kao što smo videli u prethodnom poglavlju, ovaj tip platforme vas štiti od rizika povezanih sa KYC procedurama, ali istovremeno nosi viši nivo rizika za identifikaciju ključeva. Što se tiče poverljivosti Bitcoin-a, ove platforme nude bolju zaštitu od metoda kupovine sa KYC-ijem, ali su i dalje manje privlačne od P2P razmene.
 
@@ -2104,7 +2118,7 @@ Međutim, u pogledu lične sigurnosti, korišćenje ovih platformi je daleko man
 Još jedna opcija za kupovinu ili prodaju bitcoina bez KYC-ija su kripto bankomati. Lično, nikada nisam imao priliku da isprobam ovo rešenje, jer ih nema u mojoj zemlji. Ali ovaj metod može biti veoma zanimljiv, u zavisnosti od toga gde živite.
 
 
-![BTC204](assets/fr/092.webp)
+![BTC204](assets/sr-Latn/097.webp)
 
 
 Problem sa bankomatima je što su ili zabranjeni u nekim zemljama, ili strogo regulisani u drugim. Ako bankomat zahteva proceduru verifikacije identiteta, onda  nosi iste rizike kao i platforme koje su regulisane KYC-om. S druge strane, ako bankomat omogućava transakcije bez verifikacije identiteta za male iznose, onda njegova upotreba može ponuditi nivo poverljivosti uporediv sa onim kod P2P gotovinske razmene, dok se izbegava većina rizika povezanih sa ovom vrstom trgovine.
@@ -2125,9 +2139,9 @@ Najbolji način da potrošite BTC je, naravno, korišćenje Bitcoin-a ili direkt
 Nekoliko platformi koje ne zahtevaju KYC procedure nude mogućnost razmene bitkoina za poklon kartice koje se mogu koristiti kod velikih trgovaca. To uključuje [CoinsBee](https://www.coinsbee.com/), [The Bitcoin Company](https://thebitcoincompany.com/) i [Bitrefill](https://www.bitrefill.com/). Ove platforme znatno olakšavaju svakodnevno korišćenje bitkoina, omogućavajući vam pristup širokom spektru proizvoda i usluga bez potrebe za njihovom konverzijom u fiat valutu.
 
 
-https://planb.network/tutorials/exchange/centralized/bitrefill-8c588412-1bfc-465b-9bca-e647a647fbc1
+https://planb.academy/tutorials/exchange/centralized/bitrefill-8c588412-1bfc-465b-9bca-e647a647fbc1
 
-![BTC204](assets/fr/093.webp)
+![BTC204](assets/sr-Latn/098.webp)
 
 
 ### Ostale metode akvizicije
@@ -2138,13 +2152,15 @@ Drugi načini za sticanje bitkoina uz zaštitu vaše privatnosti uključuju, nar
 Drugi metod je da radite u zamenu za bitkoine. Ovaj metod sticanja može biti zanimljiv, ali stepen potrebne identifikacije znatno varira u zavisnosti od okolnosti.
 
 
-*Da napišem ovo poglavlje, koristio sam BTC205 kurs obuke koji drži [@pivi___](https://x.com/pivi___) na Plan ₿ Network (trenutno dostupan samo na francuskom)
+*Da napišem ovo poglavlje, koristio sam BTC205 kurs obuke koji drži* [@pivi___](https://x.com/pivi___) *na Plan ₿ Academy (trenutno dostupan samo na francuskom)*
 
 
 ## Konsolidacija, UTXO menadžment i CIOH
 
 
 <chapterId>d0486c8f-332d-402b-ae2e-949416752b9c</chapterId>
+
+:::video id=9e5841a2-4ff5-460e-a161-0e0af57f95d8:::
 
 
 
@@ -2168,7 +2184,7 @@ Nisu sve Bitcoin transakcije iste težine. One sa više ulaza i izlaza će imati
 - Transakcija B, složenija transakcija sa 2 ulaza i 2 izlaza, dodeljuje 2,640 Sats u naknadama za težinu od 220 vB.
 
 
-![BTC204](assets/fr/094.webp)
+![BTC204](assets/sr-Latn/099.webp)
 
 
 U ovom primeru, iako transakcija B nudi višu ukupnu naknadu, rudari će preferirati transakciju A, jer nudi bolji odnos između naknade i težine. Evo izračuna za svaku transakciju, izraženog u Sats-ima po virtualnom bajtu (sat/vB):
@@ -2183,7 +2199,7 @@ TXB: 2640 / 220 = 12 sats / vB
 To znači da za svaku jedinicu težine, transakcija A nudi više naknada nego transakcija B, iako transakcija B nudi više naknada u apsolutnom iznosu.
 
 
-![BTC204](assets/fr/095.webp)
+![BTC204](assets/sr-Latn/100.webp)
 
 
 Stoga je korisniku uvek zanimljivije da troši što manje ulaza u svojim transakcijama. Međutim, potrebno je potrošiti dovoljne količine kako bi se moglo zadovoljiti izlazno plaćanje. Kada upravljate svojim setom UTXO-a, potrebno je da imate dovoljno velike UTXO-e.
@@ -2192,7 +2208,7 @@ Stoga je korisniku uvek zanimljivije da troši što manje ulaza u svojim transak
 Princip konsolidacije je upravo da se iskoriste periodi kada su naknade niske na Bitcoin-u kako bi se spojili manji UTXO-ovi u jedan veći. Na ovaj način, kada naknade porastu na Bitcoin-u, moći ćete da obavljate transakcije sa minimalnim brojem ulaza, i stoga trošite manje na naknade u apsolutnim iznosima. Cilj je, dakle, predvideti obavezne transakcije koje će se obavljati tokom perioda visokih naknada.
 
 
-![BTC204](assets/fr/096.webp)
+![BTC204](assets/sr-Latn/101.webp)
 
 
 Pored uštede na troškovima transakcija, konsolidacija UTXO-a pomaže u sprečavanju formiranja "Dust-a". "Dust" se odnosi na UTXO-e čija je vrednost u Sats-ima toliko niska da nije dovoljna da pokrije troškove transakcije potrebne za njihovo trošenje. To čini ove UTXO-e ekonomski neracionalnim za korišćenje sve dok troškovi transakcije ostaju visoki. Proaktivnim objedinjavanjem svojih UTXO-a, sprečavate ih da postanu Dust, osiguravajući da sva vaša sredstva ostanu upotrebljiva.
@@ -2237,13 +2253,13 @@ U ovom primeru, stoga bi bilo pametno zadržati minimalnu vrednost od 940,000 Sa
 Jedna od najčešće korišćenih heuristika u analizi blokčejna je CIOH (*Common Input Ownership Heuristic*), koja pretpostavlja da svi ulazi u Bitcoin transakciju pripadaju istom entitetu. Sam princip konsolidacije je da se konzumira nekoliko UTXO-a kao ulazi i kreira jedan UTXO kao izlaz. Konsolidacija tako omogućava primenu ICOH-a.
 
 
-![BTC204](assets/fr/097.webp)
+![BTC204](assets/sr-Latn/102.webp)
 
 
 U praksi, ovo znači da spoljašnji posmatrač može zaključiti da svi konsolidovani UTXO-i verovatno pripadaju istoj osobi, i da jedinstveni izlaz koji je generisan takođe pripada istoj osobi. Ova situacija može ugroziti vašu poverljivost povezivanjem različitih istorija transakcija. Na primer, recimo da konsolidujem 3 UTXO-a stečena putem P2P zajedno sa jednim UTXO-om dobijenim putem platforme koja zahteva KYC:
 
 
-![BTC204](assets/fr/098.webp)
+![BTC204](assets/sr-Latn/103.webp)
 
 
 Čineći to, bilo koji entitet sa pristupom podacima platforme za razmenu, potencijalno uključujući vladine agencije, moći će da identifikuje da posedujem druge količine BTC-a. Prethodno, ovi UTXO-i nisu bili direktno povezani sa mojim identitetom; sada jesu. Štaviše, to otkriva svim izvorima da posedujem određenu količinu bitkoina.
@@ -2265,6 +2281,8 @@ U svakom slučaju, ne zaboravite da svaka konsolidacija neizbežno podrazumeva g
 
 
 <chapterId>b5216965-7d13-4ea1-9b7c-e292966a487b</chapterId>
+
+:::video id=5fc4ce39-6a0b-419a-baa9-f6da75427987:::
 
 
 
@@ -2289,13 +2307,13 @@ Posedovanje svojih bitkoina u samostalnom vlasništvu je sjajno, ali korišćenj
 Pored ovih prednosti, korišćenje kompletnog čvora takođe poboljšava vašu poverljivost prilikom emitovanja vaših transakcija. Kada izdate transakciju, ona se prvo kreira i potpisuje putem vašeg novčanika. Da bi se emitovala na Bitcoin mrežu, mora biti poznata barem jednom čvoru. Korišćenjem sopstvenog čvora, imate direktnu kontrolu nad ovom distribucijom, čime se pojačava vaša poverljivost i ograničava rizik od curenja podataka.
 
 
-![BTC204](assets/fr/099.webp)
+![BTC204](assets/sr-Latn/104.webp)
 
 
 Ako nemate svoj Bitcoin čvor, bićete primorani da koristite čvor treće strane, kao što je onaj koji nudi provajder vašeg softverskog novčanika. Pored emitovanja transakcija, vašem novčaniku je potreban pristup raznim informacijama kao što su transakcije na čekanju, salda povezana sa vašim adresama i broj potvrda za vaše transakcije. Da biste pristupili svim ovim podacima, potrebno je da izvršite upit nad vašim node-om.
 
 
-![BTC204](assets/fr/100.webp)
+![BTC204](assets/sr-Latn/105.webp)
 
 
 Glavni rizik kada ne koristite sopstveni Bitcoin čvor je da operater treće strane može posmatrati vaše aktivnosti na blokčejnu, ili čak podeliti ove informacije sa drugim entitetima. Da biste ograničili ovaj rizik, posredničko rešenje je korišćenje softvera novčanika koji maskira vaše konekcije putem Tor-a. Ovo može smanjiti izloženost vaših podataka. Međutim, optimalno rešenje je imati sopstveni Bitcoin čvor i koristiti ga za emitovanje vaših transakcija. Naravno, takođe ćete morati biti pažljivi da ne otkrijete bilo kakve informacije putem vašeg čvora, ali to je druga tema kojom ćemo se baviti u narednim odeljcima.
@@ -2319,7 +2337,7 @@ Prvi savet koji bih mogao da dam je da se uklopiš u najgušću gomilu. Na Bitco
 Generalno govoreći, mudrije je odlučiti se za najnoviji standard skriptovanja, pod uslovom da je dovoljno usvojen. Dakle, ako bih 2022. godine savetovao protiv korišćenja P2TR (Taproot) zbog niske usvojenosti, u 2024. bih preporučio da se odlučite za ovu vrstu skripte, ili ako to nije moguće, za SegWit V0 skriptu, jer broj transakcija koje koriste P2TR počinje da predstavlja veoma značajan udeo.
 
 
-![BTC204](assets/fr/101.webp)
+![BTC204](assets/sr-Latn/106.webp)
 
 
 Izvor: [txstats.com](https://txstats.com/d/000000054/UTXO-set-repartition-by-output-type)
@@ -2328,7 +2346,7 @@ Izvor: [txstats.com](https://txstats.com/d/000000054/UTXO-set-repartition-by-out
 Još jedan savet za očuvanje vaše poverljivosti je pokušaj zaobilaženja internih heuristika transakcija. Na primer, prilikom plaćanja, možete pokušati da izbegnete kreiranje izlaza sa okruglim iznosom, jer to može signalizirati da drugi izlaz predstavlja kusur. Ako treba da pošaljete 100k Sats-a prijatelju, razmislite o prenosu nešto većeg iznosa kako biste izbegli ovu heuristiku. Slično tome, pokušajte da ne kreirate kusur izlaze koji su nesrazmerno visoki u odnosu na izvršeno plaćanje, jer to takođe može otkriti koji od izlaza je kusur.
 
 
-![BTC204](assets/fr/102.webp)
+![BTC204](assets/sr-Latn/107.webp)
 
 
 Konačno, ako redovno obavljate Bitcoin transakcije, pobrinite se da ih ne emitujete uvek u isto vreme. Raspoređivanjem emitovanja vaših transakcija tokom dana i nedelje, izbegavate davanje prilike spoljnim posmatračima da otkriju vremenski obrazac zasnovan na vremenskoj zoni koji bi mogao ojačati njihovu analizu.
@@ -2348,6 +2366,8 @@ Pored svih ovih dobrih praksi koje treba primenjivati svakodnevno, postoje i jo�
 
 <chapterId>0862bc6b-1c48-4aa4-b76d-4f547b469008</chapterId>
 
+:::video id=37f23334-4b52-43db-8d82-bd84310af86c:::
+
 
 
 Nakon što smo proučili osnove zaštite privatnosti, sada ćemo pogledati sofisticiranije tehnike usmerene na aktivnu odbranu vaše poverljivosti, posebno razdvajanjem vaše Bitcoin istorije. U sledećem delu, razmotrićemo čitav niz malih tehnika, ali prvo bih želeo da vam kažem nešto o CoinJoin-u.
@@ -2365,7 +2385,7 @@ CoinJoin je tehnika za razbijanje praćenja bitkoina na blokčejnu. Zasniva se n
 Kao što smo videli u prvim delovima ovog kursa, Bitcoin transakcije su poznate svim korisnicima putem njihovog čvora. Stoga je lako proveriti lanac elektronskih potpisa svakog novčića i posmatrati njegovu istoriju. To znači da svi korisnici mogu pokušati da analiziraju transakcije drugih korisnika. Kao rezultat, anonimnost na nivou transakcija je nemoguća. Međutim, anonimnost je sačuvana na nivou identifikacije pojedinca. Za razliku od konvencionalnog bankarskog sistema, gde je svaki račun povezan sa ličnim identitetom, na Bitcoin-u, sredstva su povezana sa kriptografskim parovima ključeva (ili skriptama), nudeći korisnicima oblik pseudoanonimnosti iza kriptografskih identifikatora.
 
 
-![BTC204](assets/fr/103.webp)
+![BTC204](assets/sr-Latn/108.webp)
 
 
 Poverljivost bitkoina je ugrožena kada spoljašnji posmatrači mogu da povežu specifične UTXO-e sa identifikovanim korisnicima. Kada se ova povezanost uspostavi, postaje moguće pratiti njihove transakcije i analizirati njihovu Bitcoin istoriju. CoinJoin je upravo tehnika razvijena da prekine mogućnost praćenja UTXO-a, kako bi se Bitcoin korisnicima ponudio određeni nivo poverljivosti na nivou transakcija.
@@ -2377,7 +2397,7 @@ Coinjoins pojačavaju poverljivost Bitcoin korisnika tako što čine analizu lan
 Važno je razumeti da je cilj CoinJoin transakcije da prekine istoriju novčića. Ova tehnika ne pruža trajnu anonimnost niti definitivno blokira Bitcoin praćenje, suprotno onome što biste mogli misliti. CoinJoin ima za cilj samo da prekine istoriju na tački gde se CoinJoin transakcija obavlja. Međutim, pre i posle ove operacije, novčić ostaje podložan istim rizicima u pogledu poverljivosti.
 
 
-![BTC204](assets/fr/104.webp)
+![BTC204](assets/sr-Latn/109.webp)
 
 
 ### Kako funkcionišu coinjoin transakcije?
@@ -2386,13 +2406,13 @@ Važno je razumeti da je cilj CoinJoin transakcije da prekine istoriju novčića
 CoinJoin princip zasnovan je na kolaborativnom pristupu: nekoliko korisnika koji žele da mešaju svoje bitkoine deponuju identične iznose kao ulaze u istu transakciju. Ti iznosi se zatim preraspodeljuju u izlaze jednake vrednosti svakom korisniku.
 
 
-![BTC204](assets/fr/105.webp)
+![BTC204](assets/sr-Latn/110.webp)
 
 
 Na kraju transakcije, postaje nemoguće povezati određeni izlaz sa ulazom poznatog korisnika. Ne postoji direktna veza između ulaza i izlaza, što prekida povezanost između korisnika i njihovih UTXO-a, kao i istoriju svakog UTXO-a.
 
 
-![BTC204](assets/fr/106.webp)
+![BTC204](assets/sr-Latn/111.webp)
 
 
 Hajde da uzmemo Alisin primer. Ona želi da pošalje oko 100,000 Sats-a svojoj sestri Ivi za njen rođendan. Međutim, Alisa ne želi da Iva može da prati njenu istoriju transakcija, jer ne želi da otkrije koliko bitkoina ima ili kako ih je dobila. U tu svrhu, Alisa odlučuje da prekine svoju UTXO istoriju sa CoinJoin transakcijom. Ona se organizuje sa Bobom, Čarlsom, Dejvidom i Frenkom da sprovedu kolaborativnu transakciju:
@@ -2403,7 +2423,7 @@ Hajde da uzmemo Alisin primer. Ona želi da pošalje oko 100,000 Sats-a svojoj s
 - Alis, Bob, Čarls, Dejvid i Frenk unose UTXO-e od 105,000 Sats (sa 5,000 Sats kao naknade za rudare) kao ulaze u transakciju:
 
 
-![BTC204](assets/fr/107.webp)
+![BTC204](assets/sr-Latn/112.webp)
 
 
 
@@ -2411,7 +2431,7 @@ Hajde da uzmemo Alisin primer. Ona želi da pošalje oko 100,000 Sats-a svojoj s
 - U zamenu za konzumiranje ovih ulaza, svaki generiše praznu adresu da bi stvorio pet identičnih izlaza od po 100.000 Sats-a. Svaki preuzima jedan izlaz:
 
 
-![BTC204](assets/fr/108.webp)
+![BTC204](assets/sr-Latn/113.webp)
 
 
 
@@ -2419,7 +2439,7 @@ Hajde da uzmemo Alisin primer. Ona želi da pošalje oko 100,000 Sats-a svojoj s
 - Alisa ima UTXO od 100,000 Sats-a čija je istorija sada pomešana. Ona koristi ovaj UTXO u novoj transakciji da pošalje iznos Evi za njen rođendan:
 
 
-![BTC204](assets/fr/109.webp)
+![BTC204](assets/sr-Latn/114.webp)
 
 
 
@@ -2427,7 +2447,7 @@ Hajde da uzmemo Alisin primer. Ona želi da pošalje oko 100,000 Sats-a svojoj s
 - Ako Eva pokuša da analizira ovu transakciju kako bi izvukla informacije, suočiće se sa CoinJoin transakcijom koja uključuje Alisu, Boba, Čarlsa, Davida i Frenka. Zbog uniformnosti iznosa, Eva neće moći da razlikuje koji ulaz pripada kome, te neće moći da prati Alisinu UTXO istoriju, niti da utvrdi koliko bitkoina njena sestra poseduje ili kako ih je stekla:
 
 
-![BTC204](assets/fr/110.webp)
+![BTC204](assets/sr-Latn/115.webp)
 
 
 U ovom slučaju, Alisa je koristila CoinJoin tehniku kako bi povećala poverljivost u vezi sa retrospektivnom analizom. U suštini, Alisa se štiti od moguće analize od strane Eve, koja bi počela od određene transakcije i radila unazad kroz istoriju UTXO-a. Ova zaštita od analize od sadašnjosti ka prošlosti poznata je kao retrospektivni anonset. O ovom konceptu ćemo detaljnije govoriti u završnim poglavljima ovog odeljka.
@@ -2441,7 +2461,7 @@ Međutim, CoinJoin takođe nudi mogućnost jačanja poverljivosti u svetlu anali
 - Eva, Grace, Mallory, Oscar i Victor su svaki uneli UTXO od 98,000 Sat-as kao ulaz u Bitcoin transakciju:
 
 
-![BTC204](assets/fr/111.webp)
+![BTC204](assets/sr-Latn/116.webp)
 
 
 
@@ -2449,7 +2469,7 @@ Međutim, CoinJoin takođe nudi mogućnost jačanja poverljivosti u svetlu anali
 - U zamenu za korišćenje ovih ulaza, svaki korisnik obezbeđuje praznu adresu koja će se koristiti za kreiranje 5 izlaza od potpuno jednakih 97.500 Sats-a. Svaki korisnik dobija jedan izlaz:
 
 
-![BTC204](assets/fr/112.webp)
+![BTC204](assets/sr-Latn/117.webp)
 
 
 
@@ -2457,13 +2477,13 @@ Međutim, CoinJoin takođe nudi mogućnost jačanja poverljivosti u svetlu anali
 - Eva sada drži UTXO od 97,500 Sats-a čija je istorija prekinuta. Može ga koristiti bez straha za obavljanje budućih transakcija. Zaista, ako Alisa pokuša da prati bitkoine koje je poslala Evi, suočiće se sa CoinJoin transakcijom. Neće moći da odredi koji odlazni UTXO pripada Evi. Analiza postaje nemoguća:
 
 
-![BTC204](assets/fr/113.webp)
+![BTC204](assets/sr-Latn/118.webp)
 
 
 U prvom primeru, videli smo kako CoinJoin može zaštititi privatnost osobe u odnosu na njenu prošlost, a u drugom primeru, kako može osigurati istoriju osobe u odnosu na njenu budućnost. Zato sam pomenuo da CoinJoin treba posmatrati kao jedinstven događaj koji segmentira deo istorije u oba smera:
 
 
-![BTC204](assets/fr/104.webp)
+![BTC204](assets/sr-Latn/119.webp)
 
 
 ### Mikser, CoinJoin, mikser... Koja je razlika?
@@ -2475,7 +2495,7 @@ Coinjoins se ponekad opisuju kao "mikseri", termin koji neki bitkoineri odbacuju
 U oblasti matematike uopšte, mešanje se odnosi na osobinu dinamičkog sistema gde, nakon određenog vremenskog perioda, svi delovi početnog prostora mogu teoretski postati pomešani sa bilo kojim drugim delom. Mešanje implicira da se položaj čestice ili stanje sistema razvija na takav način da je njegova buduća distribucija nezavisna od početne distribucije, dostižući tako stanje u kojem su karakteristike početnog stanja ravnomerno raspoređene kroz prostor sistema. Ovo je tačno ono što se dešava u CoinJoin-u sa bitcoinima. Dakle, po mom mišljenju, CoinJoin je zaista metoda mešanja novčića.
 
 
-![BTC204](assets/fr/114.webp)
+![BTC204](assets/sr-Latn/120.webp)
 
 
 S druge strane, važno je razlikovati CoinJoin od shufflera. Shuffler je usluga gde korisnici šalju svoje bitcoine da budu pomešani. Ove usluge su bile popularne tokom 2010-ih, ali je njihova upotreba opala zbog dva glavna nedostatka u poređenju sa CoinJoin-om:
@@ -2487,7 +2507,7 @@ S druge strane, važno je razlikovati CoinJoin od shufflera. Shuffler je usluga 
 - Nema garancije da mikser neće zabeležiti detalje transakcije, ili čak prodati ove informacije kompanijama za analizu lanca.
 
 
-![BTC204](assets/fr/115.webp)
+![BTC204](assets/sr-Latn/121.webp)
 
 
 Današnji korisnici stoga preferiraju CoinJoin, jer im omogućava da zadrže potpunu kontrolu nad svojim sredstvima tokom celog procesa. CoinJoin učesnici ne rizikuju da im drugi učesnici ukradu bitkoine. Pogledajmo kako je sve to moguće u narednom poglavlju.
@@ -2498,6 +2518,8 @@ Današnji korisnici stoga preferiraju CoinJoin, jer im omogućava da zadrže pot
 
 <chapterId>326c9654-b359-4906-b23d-d6518dd5dc3e</chapterId>
 
+:::video id=7df91435-f60b-4d80-89a8-79717a14ebd3:::
+
 
 
 Privatnost koju pruža CoinJoin obezbeđena je veličinom grupe u kojoj je naš deo skriven. To znači pronalaženje što većeg broja učesnika. Potpuno je moguće kreirati CoinJoin ručno, sa korisnicima koje smo sami pronašli, ali ovo je složen proces i neće vam doneti velike anonsete.
@@ -2506,7 +2528,7 @@ Privatnost koju pruža CoinJoin obezbeđena je veličinom grupe u kojoj je naš 
 Zato su koordinatori CoinJoin-a razvijeni na Bitcoin-u. Njihova uloga je da povežu različite korisnike međusobno i da prenesu informacije potrebne za završetak kolaborativne transakcije.
 
 
-![BTC204](assets/fr/116.webp)
+![BTC204](assets/sr-Latn/122.webp)
 
 
 Ali kako možemo osigurati da koordinator nikada nema pristup korisničkim bitcoinima, i uprkos činjenici da je koordinator osoba koja gradi CoinJoin transakciju, kako možemo osigurati da ne može povezati korisničke ulaze i izlaze, što bi moglo predstavljati curenje poverljivih informacija?
@@ -2521,7 +2543,7 @@ Moderne implementacije CoinJoin-a koriste slepe potpise Davida Chauma kako bi iz
 Chaumovi slepi potpisi su oblik digitalnog potpisa u kojem izdavalac potpisa ne zna sadržaj poruke koju potpisuje. Ali potpis se zatim može verifikovati u odnosu na originalnu poruku. Ovu tehniku je razvio kriptograf David Chaum 1983. godine.
 
 
-![BTC204](assets/fr/117.webp)
+![BTC204](assets/sr-Latn/123.webp)
 
 
 Uzmimo primer kompanije koja želi da autentifikuje poverljivi dokument, kao što je ugovor, bez otkrivanja njegovog sadržaja. Kompanija primenjuje proces maskiranja koji kriptografski transformiše originalni dokument na reverzibilan način. Ovaj modifikovani dokument se šalje sertifikacionoj vlasti, koja stavlja slepi potpis bez poznavanja osnovnog sadržaja. Nakon što primi potpisani dokument, kompanija demaskira potpis. Rezultat je originalni dokument autentifikovan potpisom vlasti, bez da je vlast ikada videla originalni sadržaj.
@@ -2539,7 +2561,7 @@ Takozvani "Chaumian" coinjoini kombinuju upotrebu Tor-a i slepih potpisa Davida 
 Proces konstruisanja transakcije CoinJoin uključuje 3 glavne faze: registraciju ulaza, registraciju izlaza i potpisivanje transakcije. Pogledajmo ovaj proces kroz primer Alise, jedne od učesnica CoinJoin-a. Svi ostali učesnici prate iste korake kao Alisa, svaki za sebe.
 
 
-**Korak 1: Unos registracije
+**Korak 1: Unos registracije**
 
 
 
@@ -2547,7 +2569,7 @@ Proces konstruisanja transakcije CoinJoin uključuje 3 glavne faze: registraciju
 - Alisa prenosi koordinatoru UTXO koji želi da koristi kao ulaz u transakciju, kao i maskiranu prijemnu adresu koju želi da koristi kao izlaz za primanje svojih bitkoina. Koordinator stoga nema način da sazna Alisin adresu. On vidi samo njenu maskiranu verziju:
 
 
-![BTC204](assets/fr/118.webp)
+![BTC204](assets/sr-Latn/124.webp)
 
 
 
@@ -2555,7 +2577,7 @@ Proces konstruisanja transakcije CoinJoin uključuje 3 glavne faze: registraciju
 - Koordinator proverava validnost unosa, zatim potpisuje Alisinu maskiranu adresu svojim privatnim ključem. On vraća slepi potpis Alisi:
 
 
-![BTC204](assets/fr/119.webp)
+![BTC204](assets/sr-Latn/125.webp)
 
 
 **Korak 2: Registracija izlaza**
@@ -2566,7 +2588,7 @@ Proces konstruisanja transakcije CoinJoin uključuje 3 glavne faze: registraciju
 - Alisa može da razotkrije svoj adresu, sada potpisanu privatnim ključem koordinatora. Ona će uspostaviti novu vezu pod drugačijim Tor identitetom. Sada sa novim identitetom koordinator ne može da identifikuje da je to Alisa koja se povezuje:
 
 
-![BTC204](assets/fr/120.webp)
+![BTC204](assets/sr-Latn/126.webp)
 
 
 
@@ -2574,7 +2596,7 @@ Proces konstruisanja transakcije CoinJoin uključuje 3 glavne faze: registraciju
 - Alisa šalje nemaskiranu adresu i potpis koordinatoru (koji još uvek ne zna da je to Alisa):
 
 
-![BTC204](assets/fr/121.webp)
+![BTC204](assets/sr-Latn/127.webp)
 
 
 **Korak 3: Potpisivanje transakcije**
@@ -2585,7 +2607,7 @@ Proces konstruisanja transakcije CoinJoin uključuje 3 glavne faze: registraciju
 - Na isti način, koordinator preuzima nemaskirane izlaze od svih učesnika. Zahvaljujući pridruženim potpisima, može proveriti da je svaki anonimno dostavljen izlaz prethodno potpisan njegovim privatnim ključem, čime se garantuje njihova legitimnost. Zatim je spreman da izgradi CoinJoin transakciju i pošalje je učesnicima na potpisivanje:
 
 
-![BTC204](assets/fr/122.webp)
+![BTC204](assets/sr-Latn/128.webp)
 
 
 
@@ -2593,7 +2615,7 @@ Proces konstruisanja transakcije CoinJoin uključuje 3 glavne faze: registraciju
 - Alisa, kao i ostali učesnici, proverava da li su njen ulaz i izlaz ispravno uključeni u transakciju koju je konstruisao koordinator. Ako je sve zadovoljavajuće, ona šalje potpis koji otključava njen ulazni skript koordinatoru:
 
 
-![BTC204](assets/fr/123.webp)
+![BTC204](assets/sr-Latn/129.webp)
 
 
 
@@ -2623,7 +2645,7 @@ Teško je reći ko je prvi predstavio ideju korišćena CoinJoin-a unutar Bitcoi
 Maxwell, G. (2013, August 22). *CoinJoin: Bitcoin privacy for the real world*. BitcoinTalk Forum. https://bitcointalk.org/index.php?topic=279249.0
 
 
-![BTC204](assets/fr/124.webp)
+![BTC204](assets/sr-Latn/130.webp)
 
 
 Međutim, postoje i ranija pominjanja, kako za Chaumian potpise kao deo mešanja, tako i za coinjoins. [U junu 2011, Duncan Townsend je predstavio na BitcoinTalk](https://bitcointalk.org/index.php?topic=12751.0) mikser koji koristi Chaumian potpise na način vrlo sličan modernim Chaumian coinjoins.
@@ -2632,7 +2654,7 @@ Međutim, postoje i ranija pominjanja, kako za Chaumian potpise kao deo mešanja
 U istoj temi možemo pronaći [poruku od hashcoin kao odgovor na Duncan Townsend](https://bitcointalk.org/index.php?topic=12751.msg315793#msg315793) kako bi poboljšao svoj mixer. Proces opisan u ovoj poruci je upravo ono o čemu se radi u coinjoins. Pominjanje sličnog sistema može se naći i u [poruci od Alex Mizrahi iz 2012](https://gist.github.com/killerstorm/6f843e1d3ffc38191aebca67d483bd88#file-laundry), kada je savetovao tvorce Tenebrix-a, jednog od prvih altcoina koji je poslužio kao osnova za kasnije kreiranje Litecoin-a. Čak se kaže da sam termin "CoinJoin" nije skovao Greg Maxwell, već da je potekao od ideje Petera Todda.
 
 
-![BTC204](assets/fr/125.webp)
+![BTC204](assets/sr-Latn/131.webp)
 
 
 ### Zerolink
@@ -2641,25 +2663,25 @@ U istoj temi možemo pronaći [poruku od hashcoin kao odgovor na Duncan Townsend
 Zerolink je sveobuhvatan protokol za mešanje koji uključuje Chaumian coinjoin-ove i razne strategije za zaštitu anonimnosti korisnika protiv različitih oblika analize lanca, posebno minimiziranjem grešaka povezanih sa upravljanjem setom UTXO-a. Ovaj protokol [su predstavili nopara73 i TDevD 2017. godine](https://github.com/nopara73/ZeroLink/blob/master/README.md).
 
 
-![BTC204](assets/fr/126.webp)
+![BTC204](assets/sr-Latn/132.webp)
 
 
 Kao što ime sugeriše, princip iza Zerolink-a je da kreira CoinJoin transakcije koje osiguravaju da se veze između ulaza i izlaza ne mogu pratiti. Ovo se postiže osiguravanjem da svi izlazi imaju savršeno identične iznose.
 
 
-![BTC204](assets/fr/127.webp)
+![BTC204](assets/sr-Latn/133.webp)
 
 
 Važna preventivna mera koju preduzima Zerolink je da drži nemiksovane UTXO-ove potpuno odvojene od miksovanih UTXO-ova korišćenjem zasebnih kriptografskih ključeva, ili čak zasebnih novčanika. Ovo razlikuje "*pre-mix*" novčanik, namenjen za UTXO-ve pre mešanja, od "*post-mix*" novčanika, rezervisanog za UTXO-ve koji su miksovani.
 
 
-![BTC204](assets/fr/128.webp)
+![BTC204](assets/sr-Latn/134.webp)
 
 
 Ova rigorozna separacija UTXO-a služi pre svega da spreči slučajne asocijacije između mešanog UTXO i nemešanog UTXO. Zaista, ako se takve veze dogode, efikasnost CoinJoin-a na mešani UTXO se poništava bez da je korisnik toga svestan, čime se ugrožava poverljivost UTXO-a čiju istoriju je korisnik mislio da je prekinuo. Ove veze mogu nastati ili kroz ponovnu upotrebu adresa pri osiguravanju mešanog UTXO sa nemešanim, ili kroz primenu CIOH (_Common-Input-Ownership Heuristic_), ako korisnik koristi mešane i nemešane UTXO-e kao ulaze u istu transakciju. Separacijom UTXO-a pre-mešanja i nakon-mešanja, izbegavamo takve slučajne asocijacije i štitimo korisnika od nenamernih grešaka.
 
 
-![BTC204](assets/fr/129.webp)
+![BTC204](assets/sr-Latn/135.webp)
 
 
 Ovo razdvajanje takođe nudi mogućnost primene različitih pravila između pre-mix i post-mix portfolija na nivou softver novčanika. Na primer, u post-mix portfoliju, softver može zabraniti spajanje UTXO-a u ulaze kako bi se sprečila primena CIOH-a, što bi ugrozilo korisnikov anonset. Takođe je moguće standardizovati upotrebu skripti i opcija transakcija (kao što je RBF izveštavanje, na primer) kako bi se sprečila identifikacija putem jedinstvenih karakteristika novčanika.
@@ -2673,9 +2695,10 @@ Trenutno je Whirlpool jedina implementacija CoinJoin-a koja rigorozno primenjuje
 
 <chapterId>e37ed073-9498-4e4f-820b-30951e829596</chapterId>
 
+:::video id=36021102-82f3-4e86-80a9-168e3431ce7b:::
 
 
-*U 2024. godini, svedočimo velikim promenama u alatima dostupnim korisnicima koji žele da prave coinjoin-ove na Bitcoin-u. Trenutno smo na prekretnici, a tržište CoinJoin-a prolazi kroz veliko restruktuiranje. Ovo poglavlje će sigurno biti ažurirano tokom vremena*
+
 
 
 Za sada postoje uglavnom 3 različite implementacije CoinJoin-a na Bitcoin-u:
@@ -2688,6 +2711,10 @@ Za sada postoje uglavnom 3 različite implementacije CoinJoin-a na Bitcoin-u:
 - JoinMarket.
 
 
+Pored ove tri istorijske implementacije, nedavno se pojavila nova: Joinstr. Neću je obrađivati u ovom poglavlju, ali sve informacije o njoj možete pronaći u ovom posebnom vodiču:
+
+https://planb.academy/tutorials/privacy/on-chain/joinstr-37d85631-40d3-4203-abc3-3d95a078d7c3
+
 Svaka od ovih implementacija ima za cilj da prekine istoriju UTXO-a putem CoinJoin transakcija. Međutim, njihovi mehanizmi se znatno razlikuju. Stoga je neophodno razumeti kako svaka funkcioniše, kako biste mogli izabrati opciju koja najbolje odgovara vašim potrebama.
 
 
@@ -2698,7 +2725,7 @@ JoinMarket, koji su 2015. godine osnovali Adam Gibson i Chris Belcher, jasno se 
 
 
 
-![BTC204](assets/fr/130.webp)
+![BTC204](assets/sr-Latn/136.webp)
 
 
 U ovom modelu, "proizvođači" stavljaju svoje bitkoine na raspolaganje "korisnicima" i primaju naknadu za svoju uslugu. Korisnici, zauzvrat, plaćaju za korišćenje bitkoina proizvođača kako bi sproveli sopstvene CoinJoin transakcije. Naknade za uslugu variraju u zavisnosti od uloge koju zauzimaju: "proizvođači" akumuliraju naknade za pružanje likvidnosti, dok "korisnici" plaćaju naknade. Tržište je otvoreno i ne postavlja nikakve uslove za korišćenje.
@@ -2707,7 +2734,7 @@ U ovom modelu, "proizvođači" stavljaju svoje bitkoine na raspolaganje "korisni
 Jedan od glavnih nedostataka JoinMarket-a je njegova složenost upotrebe, koja zahteva određeni nivo snakaženja sa terminalima kako bi se efikasno koristio. Iako ova složenost nije prepreka za iskusne korisnike, može ograničiti pristup široj javnosti. Međutim, nedavno uvođenje veb korisničkog interfejsa pod nazivom JAM učinilo je upotrebu malo lakšom.
 
 
-![BTC204](assets/fr/131.webp)
+![BTC204](assets/sr-Latn/137.webp)
 
 
 Izvor: [JAM](https://github.com/joinmarket-webui/jam/blob/devel/docs/assets/screenshot-dark.webp)
@@ -2722,13 +2749,15 @@ Uprkos svom inovativnom P2P modelu povezivanja za coinjoinere, JoinMarket ima ne
 Konačno, iako je koncept JoinMarket-a zanimljiv, posebno za one koji su zainteresovani za dinamično tržište likvidnosti, njegove strukturne slabosti i tehnička složenost ga čine, po mom mišljenju, manje zanimljivim za početnike i stručnjake koji traže CoinJoin implementaciju.
 
 
+https://planb.academy/tutorials/privacy/on-chain/joinmarket-4581d8b0-0888-45c2-9545-d0a298b36f98
+
 ### Wabisabi
 
 
 Wabisabi je još jedna CoinJoin implementacija, sa pristupom koji centralizuje koordinaciju transakcija. Ovaj model su osmislili Ádám Ficsór (nopara73), Yuval Kogman, Lucas Ontivero i István András Seres 2021. godine, a integrisan je u Wasabi 2.0 softver naredne godine. Wabisabi je evolucija Wasabi softverskog CoinJoin modela lansiranog 2018. godine.
 
 
-![BTC204](assets/fr/132.webp)
+![BTC204](assets/sr-Latn/138.webp)
 
 
 Krajem 2010-ih, Wasabi je usvojio radikalno drugačiju strukturu CoinJoin transakcija u odnosu na Whirlpool. Wasabi je koristio veoma velike CoinJoin transakcije koje su uključivale desetine učesnika kako bi povećao anonset svojih učesnika. Nasuprot tome, Whirlpool se odlučio za više malih transakcija, omogućavajući da anonseti eksponencijalno rastu sa svakim ciklusom.
@@ -2737,7 +2766,7 @@ Krajem 2010-ih, Wasabi je usvojio radikalno drugačiju strukturu CoinJoin transa
 Metode upravljanja kusurom takođe su se razlikovale između ove dve implementacije. Sa Whirlpool-om, kusur je isključen i izolovan je od UTXO-a pre CoinJoin ciklusa zahvaljujući TX0, konceptu koji ću dalje objasniti u sledećem poglavlju. Sa Wasabi, s druge strane, kusur je formirao jedan od izlaza CoinJoin transakcije, održavajući determinističke veze između određenih ulaza i izlaza.
 
 
-![BTC204](assets/fr/133.webp)
+![BTC204](assets/sr-Latn/139.webp)
 
 
 Sa Wabisabi, Wasabi verzija 2.0 je prilagodila svoj pristup coinjoin-ovima kako bi odgovarala onom u Whirlpool-u. Iako CoinJoin transakcije ostaju veoma velike, sada je moguće povezati nekoliko uzastopnih ciklusa, prateći Whirlpool model. Posebna pažnja posvećena je i načinu razmene vrednosti kusura: za razliku od Wasabi 1.0, gde je vrednost bila direktno povezana sa ulazima korisnika, Wabisabi teži da je podeli na više manjih iznosa, raspoređenih u jednake apoene za sve učesnike.
@@ -2746,13 +2775,13 @@ Sa Wabisabi, Wasabi verzija 2.0 je prilagodila svoj pristup coinjoin-ovima kako 
 Hajde da ovo ilustrujemo pojednostavljenim primerom koji uključuje samo 2 korisnika: Alisa želi da pomeša 115,000 Sats, a Bob 210,000 Sats. Ignorišući naknade, sa Wasabi 1.0, transakcija CoinJoin bi generisala 3 izlaza od 100,000 Sats, plus 1 kusur od 15,000 Sats za Alisu i 1 kusur od 10,000 Sats za Boba. Izlazi kusura bi i dalje bili povezani sa ulazima:
 
 
-![BTC204](assets/fr/134.webp)
+![BTC204](assets/sr-Latn/140.webp)
 
 
 Pod Wabisabi, ista transakcija bi proizvela 3 izlaza od 100,000 Sats i 5 izlaza od 5,000 Sats, čime bi se kusur disperzovao tako da ne bi mogao biti direktno povezan sa specifičnim ulazom:
 
 
-![BTC204](assets/fr/135.webp)
+![BTC204](assets/sr-Latn/141.webp)
 
 
 Lično smatram da upravljanje kusurom kompanije Wabisabi predstavlja nekoliko rizika koji bi mogli ugroziti njegovu efikasnost u pogledu poverljivosti:
@@ -2789,10 +2818,16 @@ Još zabrinjavajući je princip filtriranja, koji je u radikalnom kontrastu sa f
 Kao što ste do sada već shvatili, moj izbor je definitivno Whirlpool model na Bitcoin-u za coinjoins. Ovaj sistem se ističe svojom rigoroznošću i nudi superiorne garancije poverljivosti. Takođe je jedini koji nudi miks koji se smatra savršenim u matematičkom kontekstu. Po mom mišljenju, ovaj model predstavlja budućnost coinjoins-a na Bitcoin-u. Pozivam vas da istražite ovaj model detaljnije u narednom poglavlju.
 
 
+https://planb.academy/tutorials/wallet/desktop/wasabi-a0b51540-32d2-4ed2-98aa-801da5d35cf6
+
+https://planb.academy/tutorials/wallet/desktop/ginger-wallet-9bb51029-4e64-4d3c-9766-358649adaea3
+
 ## Kako Whirlpool funkcioniše
 
 
 <chapterId>bdbd7109-e36d-4b4f-a3c6-928df4e9bfda</chapterId>
+
+:::video id=e40f1195-d028-44d3-be24-d76427f9d24b:::
 
 
 
@@ -2802,7 +2837,7 @@ Ono što izdvaja Whirlpool od drugih CoinJoin metoda je upotreba "_ZeroLink_" tr
 Ovaj restriktivni pristup unosima daje Whirlpool CoinJoin transakcijama jedinstvenu karakteristiku: potpuni izostanak determinističkih veza između ulaza i izlaza. Drugim rečima, svaki izlaz ima jednaku verovatnoću da bude pripisan bilo kojem učesniku, u odnosu na sve druge izlaze u transakciji.
 
 
-![BTC204](assets/fr/136.webp)
+![BTC204](assets/sr-Latn/142.webp)
 
 
 ### Kako Whirlpool funkcioniše
@@ -2819,7 +2854,7 @@ Dakle, Whirlpool transakcije karakteriše identičan broj ulaza i izlaza, koji m
 - 5 ulaza i 5 izlaza;
 
 
-![BTC204](assets/fr/137.webp)
+![BTC204](assets/sr-Latn/143.webp)
 
 
 
@@ -2827,7 +2862,7 @@ Dakle, Whirlpool transakcije karakteriše identičan broj ulaza i izlaza, koji m
 - 6 ulaza i 6 izlaza;
 
 
-![BTC204](assets/fr/138.webp)
+![BTC204](assets/sr-Latn/144.webp)
 
 
 
@@ -2835,7 +2870,7 @@ Dakle, Whirlpool transakcije karakteriše identičan broj ulaza i izlaza, koji m
 - 7 ulaza i 7 izlaza;
 
 
-![BTC204](assets/fr/139.webp)
+![BTC204](assets/sr-Latn/145.webp)
 
 
 
@@ -2843,7 +2878,7 @@ Dakle, Whirlpool transakcije karakteriše identičan broj ulaza i izlaza, koji m
 - 8 ulaza i 8 izlaza.
 
 
-![BTC204](assets/fr/140.webp)
+![BTC204](assets/sr-Latn/146.webp)
 
 
 Model Whirlpool zasnovan je na malim iznosima CoinJoin transakcija. Za razliku od Wabisabi-ja i JoinMarket-a, gde se robusnost anonseta zasniva na broju učesnika u jednom ciklusu (ili u nekoliko ciklusa), Whirlpool se oslanja na sekvencu nekoliko malih ciklusa.
@@ -2855,7 +2890,7 @@ U ovom modelu, korisnici plaćaju naknade samo kada se prvi put pridruže bazenu
 Sa svakim dodatnim CoinJoin-om u kojem učestvuje neki UTXO, kao i sa njegovim vršnjacima susretanim u prošlosti, anonseti će eksponencijalno rasti. Cilj je iskoristiti ove besplatne remikse, koji, svaki put kada se dogode, doprinose jačanju gustine anonseta povezanih sa svakim pomešanim UTXO-om.
 
 
-![BTC204](assets/fr/141.webp)
+![BTC204](assets/sr-Latn/147.webp)
 
 
 Whirlpool je dizajniran sa dva važna zahteva na umu:
@@ -2937,7 +2972,7 @@ Pored naknade za uslugu, mora se uzeti u obzir i naknada rudarima specifična za
 Zapravo, u svakom Whirlpool CoinJoin-u, 2 korisnika među ulazima su novi učesnici. Ostali ulazi dolaze od remiksera. Kao rezultat toga, troškove rudarenja za sve učesnike u transakciji snose ova 2 nova učesnika, koji zatim takođe mogu imati koristi od besplatnih remiksa:
 
 
-![BTC204](assets/fr/142.webp)
+![BTC204](assets/sr-Latn/148.webp)
 
 
 Zahvaljujući ovom sistemu naknada, Whirlpool se zaista izdvaja od drugih implementacija CoinJoin-a, jer anonseti UTXO-a nisu proporcionalni ceni koju plaća korisnik. Kao rezultat, moguće je postići znatno veće nivoe anonimnosti plaćanjem samo ulazne naknade za bazen i naknade rudarima za 2 transakcije (`Tx0` i početno mešanje).
@@ -2952,7 +2987,7 @@ Važno je napomenuti da će korisnik takođe morati da plati rudarske naknade da
 Da biste kreirali CoinJoin putem Whirlpool-a, novčanik mora generisati nekoliko odvojenih naloga. Ovo je princip iza ZeroLink protokola. Nalog, u kontekstu HD (*Hierarchical Deterministic*) novčanika, predstavlja deo potpuno izolovan od drugih, pri čemu se ovo razdvajanje dešava na trećem nivou hijerarhije novčanika, tj. na nivou xpub-a.
 
 
-![BTC204](assets/fr/143.webp)
+![BTC204](assets/sr-Latn/149.webp)
 
 
 
@@ -2991,7 +3026,7 @@ Početna tačka svakog Whirlpool CoinJoin-a je **depozitni** račun. Ovo je rač
 Ova početna transakcija `Tx0` se takođe koristi za plaćanje naknade za uslugu koja se duguje CoinJoin koordinatoru. Za razliku od sledećih koraka, ova transakcija nije kolaborativna, tako da korisnik mora snositi pun trošak prema rudarima:
 
 
-![BTC204](assets/fr/144.webp)
+![BTC204](assets/sr-Latn/150.webp)
 
 
 U ovom primeru `Tx0` transakcije, ulaz od `372,000 Sats` sa našeg **depozitnog** računa je podeljen na nekoliko izlaznih UTXO-a, koji se razlažu na sledeći način:
@@ -3008,7 +3043,7 @@ U ovom primeru `Tx0` transakcije, ulaz od `372,000 Sats` sa našeg **depozitnog*
 Na primer, evo pravog Whirlpool Tx0 (nije moj): [edef60744f539483d868caff49d4848e5cc6e805d6cdc8d0f9bdbbaedcb5fc46](https://Mempool.space/fr/tx/edef60744f539483d868caff49d4848e5cc6e805d6cdc8d0f9bdbbaedcb5fc46)
 
 
-![BTC204](assets/fr/145.webp)
+![BTC204](assets/sr-Latn/151.webp)
 
 
 ### Toksičan kusur
@@ -3020,7 +3055,7 @@ Višak koji nije mogao biti integrisan u bazen, ovde ekvivalentan `40,000 Sats`,
 Ovaj UTXO je opasan za poverljivost korisnika, jer ne samo da je još uvek vezan za svoju prošlost, a samim tim i moguće za identitet svog vlasnika, već je takođe zabeleženo da pripada korisniku koji je napravio CoinJoin.
 
 
-![BTC204](assets/fr/146.webp)
+![BTC204](assets/sr-Latn/152.webp)
 
 
 Ako se ovaj UTXO spoji sa izmiksovanim izlazima, potonji će izgubiti svu poverljivost stečenu tokom CoinJoin ciklusa, naročito zbog CIOH (*Common-Input-Ownership-Heuristic*). Ako se spoji sa drugim toksičnim kusurima, korisnik rizikuje gubitak poverljivosti, jer će povezati različite unose CoinJoin ciklusa. Stoga ga treba tretirati sa oprezom. Detaljnije ćemo razmotriti upravljanje ovim toksičnim UTXO-vima u poslednjem delu ovog poglavlja.
@@ -3035,7 +3070,7 @@ Nakon `Tx0`, izjednačeni UTXO-i se šalju na naš **premix** račun novčanika,
 Na kraju ovih prvih mešanja, **premix** račun će biti prazan, dok će naši novčići, nakon plaćanja rudarskih naknada za ovaj prvi CoinJoin, biti prilagođeni tačno na iznos definisan odabranim bazenom. U našem primeru, naši početni UTXO-i od `108,000 Sats` će biti smanjeni tačno na `100,000 Sats`.
 
 
-![BTC204](assets/fr/147.webp)
+![BTC204](assets/sr-Latn/153.webp)
 
 
 ### Remiksi
@@ -3062,7 +3097,7 @@ Neki korisnici bi mogli razmotriti prebacivanje svojih izmešanih bitkoina na no
 Spajanje UTXO-a je najčešća greška. Da biste izbegli CIOH (*Common-Input-Ownership-Heuristic*), morate izbegavati kombinovanje izmešanih UTXO-a sa neizmešanim UTXO-ima u istoj transakciji. Ovo zahteva pažljivo upravljanje vašim UTXO-ima unutar vašeg novčanika, posebno u smislu označavanja.
 
 
-![BTC204](assets/fr/148.webp)
+![BTC204](assets/sr-Latn/154.webp)
 
 
 Takođe, mora se voditi računa prilikom konsolidacije izmešanih UTXO-a. Umerena konsolidacija je moguća ako vaši izmešani UTXO-i imaju značajne anonsete, ali će to neizbežno smanjiti poverljivost vaših delova. Vodite računa da konsolidacija ne bude preobimna niti da se obavlja posle nedovoljnog broja remiksa, jer time postoji rizik od uspostavljanja zaključivih veza između vaših UTXO-a pre i posle CoinJoin ciklusa. Kada ste u nedoumici oko ovih manipulacija, najbolja praksa je da ne konsolidujete postmix UTXO-e, već da ih prenosite jedan po jedan na vaš hardverski novčanik, generišući svaki put novu praznu adresu. Još jednom, zapamtite da označite svaki UTXO koji primite.
@@ -3074,7 +3109,7 @@ Takođe nije preporučljivo prebacivati svoje postmix UTXO-e na novčanik korist
 Kao i kod svake Bitcoin transakcije, takođe je važno ne koristiti ponovo prijemnu adresu. Svaka nova transakcija mora biti primljena na novu, praznu adresu.
 
 
-Najjednostavnije i najsigurnije rešenje je da ostavite svoje izmešane UTXO-ove u mirovanju na njihovom **postmix** računu, dopuštajući im da se ponovo mešaju i koristeći ih samo za trošenje. Samurai i Sparrow novčanici imaju dodatne zaštite protiv svih ovih rizika analize lanca. Ove zaštite vam pomažu da izbegnete pravljenje grešaka.
+Najjednostavnije i najsigurnije rešenje jeste da ostavite svoje izmešane UTXO-e da miruju na **postmix** nalogu, da ih pustite da se nastave remiksovati i da ih dodirujete samo prilikom trošenja. Novčanici Samourai (a sada i Ashigaru) i Sparrow imaju dodatne zaštite protiv svih ovih rizika vezanih za analizu lanca. Ove zaštite vam pomažu da izbegnete greške.
 
 
 ### Kako upravljati toksičnim kusurima?
@@ -3092,42 +3127,47 @@ Evo nekoliko strategija za njihovo korišćenje:
 - **Označite ih kao "nepotrošive":** Drugi pristup je da ih prestanete koristiti, označite ih kao "nepotrošive" na njihovom posebnom računu, i samo HODL. Ovo osigurava da ih slučajno ne potrošite. Ako vrednost Bitcoin poraste, mogu se pojaviti novi bazeni koji su pogodniji za vaše toksične UTXO-e;
 - **Donirajte:** Razmislite o donacijama, koliko god skromne bile, programerima koji rade na Bitcoin-u i srodnom softveru. Takođe možete donirati udruženjima koja prihvataju BTC. Ako vam se čini da je upravljanje vašim toksičnim UTXO-ima previše komplikovano, jednostavno ih se možete rešiti i napraviti donaciju;
 - **Kupite poklon kartice:** Platforme kao što je [Bitrefill](https://www.bitrefill.com/) omogućavaju vam da za razmenite bitkoine za poklon kartice koje se mogu koristiti kod različitih trgovaca. Ovo može biti način da se oslobodite svojih toksičnih UTXO-a bez gubitka povezane vrednosti;
-- **Konsolidujte ih na Monero:** Samourai novčanik nudi uslugu atomskih zamena između BTC i XMR. Ovo je idealno za upravljanje toksičnim UTXO-ima konsolidovanjem ih na Monero-u, bez ugrožavanja vaše poverljivosti putem CIOH, pre nego što ih pošaljete nazad na Bitcoin. Međutim, ova opcija može biti skupa u smislu rudarskih naknada i premije zbog ograničenja likvidnosti;
+- **Konsolidovanje putem Monera:** Samourai Wallet je ranije nudio uslugu atomske zamene između BTC i XMR, ali ona više nije dostupna nakon hapšenja. Ovaj pristup je omogućavao obradu toksičnih UTXO-a konsolidovanjem na Moneru bez narušavanja privatnosti preko CIOH-a, pre nego što se pošalju nazad na Bitcoin. Ako se ponovo pojavi slična usluga, može predstavljati zanimljivu opciju. Ipak, imajte na umu da ovaj metod može postati skup, kako zbog troškova rudarenja tako i zbog premije povezane sa ograničenom likvidnošću tokom obrnute konverzije u bitkoine.
 - **Pošalji ih na Lightning mrežu:** Prebacivanje ovih UTXO-a na Lightning mrežu radi smanjenja troškova transakcija može biti privlačna opcija. Međutim, ova metoda može otkriti određene informacije u zavisnosti od toga kako koristite Lightning, te bi stoga trebalo da se koristi s oprezom.
 
 
 ### Kako da koristim Whirlpool?
 
 
-Nakon hapšenja osnivača Samourai novčanika i zaplene njihovih servera 24. aprila 2024. godine, Whirlpool alat više ne radi, čak ni za one sa sopstvenim Dojo-om. Prethodno je bio dostupan za Samourai novčanik i Sparrow novčanik.
+Nakon hapšenja osnivača Samourai Walleta i zaplene njihovih servera 24. aprila 2024, alat Whirlpool više nije dostupan na Samourai Walletu i Sparrow Walletu.
 
 
-![BTC204](assets/fr/149.webp)
+![BTC204](assets/sr-Latn/155.webp)
 
 
-Međutim, ostaje mogućnost da će ovaj alat biti ponovo aktiviran u narednim nedeljama, u zavisnosti od ishoda ispitivanja, ili ponovo pokrenut na drugačiji način. U svakom slučaju, ne mislim da će tržište Bitcoin CoinJoin-a dugo biti bez ponude, jer potražnja postoji. Štaviše, pošto je Whirlpool model najnapredniji u smislu poverljivosti, sigurno će biti model izbora za druge implementacije u budućnosti.
 
 
-Pažljivo pratimo ovaj slučaj i razvoj povezanih alata. Budite sigurni da ćemo ažurirati ovaj kurs obuke čim nove informacije budu dostupne.
 
+
+Od sada je Whirlpool ponovo dostupan u mobilnoj aplikaciji Ashigaru, forku Samourai Walleta, zahvaljujući softveru Ashigaru Terminal.
+
+https://planb.academy/tutorials/privacy/on-chain/ashigaru-terminal-9a0d46d3-33b9-4c64-84c5-bfa25b3a0add
+
+Suština funkcionisanja Whirlpool-a ostaje nepromenjena, ali ipak postoje određene razlike u odnosu na korišćenje na Samourai-u: 2025. godine, na Ashigaru, dostupna su samo dva poola, u iznosima od `0.25 BTC` i `0.025 BTC`, sa odgovarajućim ulaznim naknadama od `0.0125 BTC` i `0.00125 BTC`.
 
 U sledećem poglavlju saznaćemo šta su "anonsets", kako se ovi indikatori izračunavaju i kako nam mogu pomoći da procenimo efikasnost CoinJoin ciklusa.
 
 
-https://planb.network/tutorials/privacy/on-chain/coinjoin-sparrow-wallet-84def86d-faf5-4589-807a-83be60720c8b
 
-https://planb.network/tutorials/privacy/on-chain/coinjoin-samourai-wallet-e566803d-ab3f-4d98-9136-5462009262ef
 
-https://planb.network/tutorials/privacy/on-chain/coinjoin-dojo-c4b20263-5b30-4c74-ae59-dc8d0f8715c2
+
+
 
 ## Skupovi anonimnosti
 
 
 <chapterId>be1093dc-1a74-40e5-9545-2b97a7d7d431</chapterId>
 
+:::video id=03d8581a-3454-4225-9068-a6434840cbcb:::
 
 
-Proučivši kako coinjoin-ovi funkcionišu i probleme koji su uključeni u efikasno mešanje, sada ćemo saznati kako meriti njihovu efikasnost. Kako možemo odrediti da li je coinjoining proces bio efikasan i koji stepen anonimnosti je UTXO deo stekao? To je ono što ćemo saznati u ovom poglavlju sa skupovima anonimnosti ili ["anonsetovima"](https://planb.network/resources/glossary/anonsets-anonymity-sets).
+
+Proučivši kako coinjoin-ovi funkcionišu i probleme koji su uključeni u efikasno mešanje, sada ćemo saznati kako meriti njihovu efikasnost. Kako možemo odrediti da li je coinjoining proces bio efikasan i koji stepen anonimnosti je UTXO deo stekao? To je ono što ćemo saznati u ovom poglavlju sa skupovima anonimnosti ili ["anonsetovima"](https://planb.academy/resources/glossary/anonsets-anonymity-sets).
 
 
 ### Podsetnik o korisnosti CoinJoin-a
@@ -3139,13 +3179,13 @@ Coinjoin je koristan jer omogućava uverljivo poricanje, uklapajući vašu trans
 Drugim rečima, analitičar koji zna vašu početnu transakciju (`Tx0`) na ulazu u CoinJoin cikluse ne bi trebalo da može sa sigurnošću da identifikuje vaš UTXO na izlazu iz remix ciklusa (analiza od ulaza do izlaza iz ciklusa).
 
 
-![BTC204](assets/fr/150.webp)
+![BTC204](assets/sr-Latn/156.webp)
 
 
 Suprotno tome, analitičar koji poznaje vaš UTXO na izlazu iz CoinJoin ciklusa ne sme biti u mogućnosti da odredi originalnu transakciju na ulazu u cikluse (analiza izlaza ciklusa do ulaza u ciklus).
 
 
-![BTC204](assets/fr/151.webp)
+![BTC204](assets/sr-Latn/157.webp)
 
 
 Da bismo procenili koliko je analitičaru teško da poveže prošlost sa sadašnjošću i obrnuto, potrebno je kvantifikovati veličinu grupa homogenih delova unutar kojih je vaš UTXO deo skriven. Ova mera nam govori koliko analiza ima istu verovatnoću. Dakle, ako se tačna analiza nalazi među još tri analize koje imaju istu verovatnoću, nivo vaše prikrivenosti je veoma nizak. S druge strane, ako se tačna analiza nalazi unutar skupa od 20.000 jednako verovatnih analiza, vaš deo je veoma dobro skriven. Veličina ovih grupa predstavlja indikatore poznate kao "anonsets".
@@ -3178,7 +3218,7 @@ Potencijalni anonset označava veličinu grupe među kojom je proučavan UTXO na
 Ovaj indikator meri otpornost na ugrožavanje poverljivosti UTXO-a prilikom analize od prošlosti do sadašnjosti (od ulaza do izlaza).
 
 
-![BTC204](assets/fr/152.webp)
+![BTC204](assets/sr-Latn/158.webp)
 
 
 Ova metrika se koristi za procenu u kojoj meri je vaš UTXO zaštićen od pokušaja rekonstrukcije njegove istorije od tačke ulaska do tačke izlaska u CoinJoin procesu.
@@ -3187,13 +3227,13 @@ Ova metrika se koristi za procenu u kojoj meri je vaš UTXO zaštićen od pokuš
 Na primer, ako je vaša transakcija učestvovala u svom prvom CoinJoin ciklusu i dva naredna ciklusa su završena, očekivani anonset vašeg novčića bi bio `13`:
 
 
-![BTC204](assets/fr/153.webp)
+![BTC204](assets/sr-Latn/159.webp)
 
 
 Na primer, zamislimo da naš novčić na početku CoinJoin ciklusa ima perspektivni anonset od `86,871`. U praktičnom smislu, to znači da je skriven među `86,871` međusobno nerazlučivih delova. Za spoljnog posmatrača koji zna za ovaj novčić na početku CoinJoin ciklusa i pokušava da prati njegov izlaz, suočiće se sa `86,871` mogućih UTXO-a, od kojih svaki ima identičnu verovatnoću da bude novčić koji traži.
 
 
-![BTC204](assets/fr/154.webp)
+![BTC204](assets/sr-Latn/160.webp)
 
 
 ### Retrospektivni anonset
@@ -3202,19 +3242,19 @@ Na primer, zamislimo da naš novčić na početku CoinJoin ciklusa ima perspekti
 Retrospektivni anonset ukazuje na broj mogućih izvora za dati UTXO deo, znajući UTXO na kraju ciklusa. Ovaj indikator meri otpornost na narušavanje poverljivosti UTXO dela prilikom analize od sadašnjosti ka prošlosti (od izlaza ka ulazu), tj. koliko je analitičaru teško da prati vaš deo nazad do njegovog porekla, pre CoinJoin ciklusa. Naziv ovog indikatora je "retrospektivni anonset", ili "metrike usmerene unazad".
 
 
-![BTC204](assets/fr/155.webp)
+![BTC204](assets/sr-Latn/161.webp)
 
 
 Poznavajući vaš UTXO na izlazu iz ciklusa, retrospektivni anonset određuje broj potencijalnih Tx0 transakcija koje su mogle predstavljati vaš ulazak u CoinJoin cikluse. Na dijagramu ispod, ovo odgovara zbiru svih narandžastih mehurića.
 
 
-![BTC204](assets/fr/156.webp)
+![BTC204](assets/sr-Latn/162.webp)
 
 
 Na primer, zamislimo da naš deo CoinJoin-a ima retrospektivni anonset od `42,185`. U praktičnim terminima, to znači da postoji `42,185` potencijalnih izvora za ovaj UTXO. Ako eksterni posmatrač identifikuje ovaj novčić na kraju ciklusa i pokuša da prati njegovo poreklo, suočiće se sa `42,185` mogućih izvora, svi sa jednakom verovatnoćom da budu traženo poreklo.
 
 
-![BTC204](assets/fr/157.webp)
+![BTC204](assets/sr-Latn/163.webp)
 
 
 ### Kako se izračunavaju anonseti?
@@ -3223,18 +3263,20 @@ Na primer, zamislimo da naš deo CoinJoin-a ima retrospektivni anonset od `42,18
 Za manje grupe, anonseti se mogu izračunati ručno pomoću block explorer-a. Međutim, za veće anonsete, upotreba specijalizovanog alata postaje neophodna. Koliko ja znam, jedini softver sposoban za obavljanje ovog zadatka je *Whirlpool Stats Tool*, Python alat razvijen od strane Samourai i OXT timova. Nažalost, ovaj alat je trenutno van funkcije nakon hapšenja osnivača Samourai i prekida OXT-a, koji je korišćen za ekstrakciju podataka iz blokčejna.
 
 
-![BTC204](assets/fr/158.webp)
+![BTC204](assets/sr-Latn/164.webp)
 
 
 Kao što smo videli u ovom poglavlju, anonseti se mogu izračunati samo ako postoji određena homogenost u CoinJoin strukturi. U sledećem poglavlju, saznaćemo kako kvantifikovati ovu homogenost na Bitcoin transakciji, bilo da je to CoinJoin ili tradicionalnija transakcija.
 
 
-https://planb.network/tutorials/privacy/analysis/wst-anonsets-0354b793-c301-48af-af75-f87569756375
+
 
 ## Entropija
 
 
 <chapterId>e4fe289d-618b-49a2-84c9-68c562e708b4</chapterId>
+
+:::video id=5118b15a-a58f-4529-8a91-4e9f6a093fce:::
 
 
 
@@ -3253,19 +3295,19 @@ Prvi indikator koji se može uočiti na Bitcoin transakciji je ukupan broj mogu�
 Na primer, jednostavna platna transakcija sa 1 ulazom i 2 izlaza imaće samo jedno tumačenje, naime da je ulaz #0 finansirao izlaz #0 i izlaz #1. Ne postoji drugo moguće tumačenje:
 
 
-![BTC204](assets/fr/159.webp)
+![BTC204](assets/sr-Latn/165.webp)
 
 
 S druge strane, Whirlpool 5x5 konfiguracija ima $1\,496$ mogućih kombinacija:
 
 
-![BTC204](assets/fr/160.webp)
+![BTC204](assets/sr-Latn/166.webp)
 
 
 Whirlpool Surge Cycle 8x8 konfiguracija ima $9\,934\,563$ mogućih interpretacija:
 
 
-![BTC204](assets/fr/161.webp)
+![BTC204](assets/sr-Latn/167.webp)
 
 
 ### Entropija
@@ -3327,7 +3369,7 @@ $$
 Hajde da uzmemo još jedan primer sa klasičnom transakcijom plaćanja, sa 1 ulazom i 2 izlaza: [1b1b0c3f0883a99f1161c64da19471841ed12a1f78e77fab128c69a5f578ccce](https://Mempool.space/tx/1b1b0c3f0883a99f1161c64da19471841ed12a1f78e77fab128c69a5f578ccce)
 
 
-![BTC204](assets/fr/162.webp)
+![BTC204](assets/sr-Latn/168.webp)
 
 
 U slučaju ove transakcije, jedina moguća interpretacija je: `(In.0) > (Out.0; Out.1)`. Posledično, njena entropija je $0$:
@@ -3529,13 +3571,13 @@ Izračunavanje ovih indikatora ručno koristeći jednačine koje sam obezbedio j
 Ranije je postojao Python alat pod nazivom _Boltzmann Calculator_, razvijen od strane OXT i Samourai timova, koji je automatski izračunavao sve ove indikatore za Bitcoin transakciju:
 
 
-![BTC204](assets/fr/163.webp)
+![BTC204](assets/sr-Latn/169.webp)
 
 
 Bilo je moguće koristiti i vebsajt KYCP.org za ove analize:
 
 
-![BTC204](assets/fr/164.webp)
+![BTC204](assets/sr-Latn/170.webp)
 
 
 Nažalost, nakon hapšenja osnivača Samourai-a, ovi alati više nisu operativni.
@@ -3544,7 +3586,7 @@ Nažalost, nakon hapšenja osnivača Samourai-a, ovi alati više nisu operativni
 Sada kada smo detaljno obradili coinjoin-e, pogledaćemo druge tehnike privatnosti dostupne na Bitcoin-u u poslednjem delu našeg kursa. Pogledaćemo payjoin-e, specifične pseudo-CoinJoin tipove transakcija, protokole statičnih adresa, kao i mere za jačanje poverljivosti ne na nivou samih transakcija, već na nivou mreže čvorova.
 
 
-https://planb.network/tutorials/privacy/analysis/boltzmann-entropy-738e45af-18a6-4ce6-af1a-1bf58e15f1fe
+
 
 # Razumevanje izazova drugih naprednih tehnika poverljivosti
 
@@ -3556,6 +3598,8 @@ https://planb.network/tutorials/privacy/analysis/boltzmann-entropy-738e45af-18a6
 
 
 <chapterId>c1e90b95-f709-4574-837b-2ec26b11286f</chapterId>
+
+:::video id=5496cb59-006e-40b8-971f-af6d98868527:::
 
 
 
@@ -3593,7 +3637,7 @@ Posebna karakteristika PayJoin-a leži u njegovoj sposobnosti da generiše trans
 Hajde da uzmemo primer kako bismo bolje razumeli ovaj proces. Alisa kupuje baget za 4,000 Sats koristeći UTXO od 10,000 Sats i odlučuje se za PayJoin. Njen pekar, Bob, dodaje UTXO od 15,000 Sats koji pripada njemu kao ulaz, koji on u potpunosti povrati kao izlaz, pored Alisinih 4,000 Sats.
 
 
-![BTC204](assets/fr/165.webp)
+![BTC204](assets/sr-Latn/171.webp)
 
 
 U ovom primeru, Bob pekar unosi 15,000 Sats kao ulaz i izlazi sa 19,000 Sats, pri čemu je razlika tačno 4,000 Sats, tj. cena bageta. Sa Alisine strane, ona unosi 10,000 Sats i završava sa 6,000 Sats kao izlaz, što predstavlja saldo od -4,000 Sats, tj. cena bageta. Da bih pojednostavio primer, namerno sam izostavio troškove rudarenja u ovoj transakciji.
@@ -3614,19 +3658,19 @@ Dakle, kada analitičar ispituje PayJoin transakciju, on ili ona je naveden(a) d
 Hajde da uzmemo naš primer PayJoin transakcije za plaćanje bageta:
 
 
-![BTC204](assets/fr/166.webp)
+![BTC204](assets/sr-Latn/172.webp)
 
 
 Videći ovu transakciju na blokčejnu, spoljašnji posmatrač koji prati uobičajene heuristike analize blokčejna bi napravio sledeću interpretaciju: "*Alisa je spojila 2 UTXO-a kao ulaze u transakciju kako bi platila 19,000 Sats Bobu*".
 
 
-![BTC204](assets/fr/167.webp)
+![BTC204](assets/sr-Latn/173.webp)
 
 
 Ovo tumačenje je očigledno netačno, jer kao što već znate, dva UTXO-a u ulazima ne pripadaju istoj osobi. Jedan dolazi od Alise, kupca bageta, a drugi od Boba, pekara.
 
 
-![BTC204](assets/fr/168.webp)
+![BTC204](assets/sr-Latn/174.webp)
 
 
 Na ovaj način, analiza spoljnog posmatrača se usmerava ka pogrešnom zaključku, osiguravajući da poverljivost zainteresovanih strana ostane očuvana.
@@ -3641,13 +3685,13 @@ Druga svrha PayJoin-a je da zavara spoljnog posmatrača o stvarnom iznosu izvrš
 Ako se vratimo na naš primer kupovine bageta, analitičar će misliti da iznos plaćanja odgovara ili UTXO od 6,000 Sats, ili UTXO od 19,000 Sats. U ovom slučaju, analitičar će pre misliti da je iznos od 19,000 Sats iznos plaćanja, jer postoje 2 UTXO-a u izlazima, od kojih je bar jedan veći od 6,000 Sats (nema logičnog razloga da se koriste 2 UTXO-a za plaćanje 6,000 Sats kada bi jedan UTXO bio dovoljan da zadovolji ovo plaćanje).
 
 
-![BTC204](assets/fr/169.webp)
+![BTC204](assets/sr-Latn/175.webp)
 
 
 Ali u stvarnosti, ova analiza je manjkava. Iznos plaćanja ne odgovara nijednom od izlaza. To je zapravo razlika između UTXO primaoca u izlazu i UTXO primaoca u ulazu.
 
 
-![BTC204](assets/fr/170.webp)
+![BTC204](assets/sr-Latn/176.webp)
 
 
 U tom pogledu, PayJoin transakcija spada u oblast steganografije. Omogućava da stvarni iznos transakcije bude skriven unutar lažne transakcije koja služi kao mamac.
@@ -3668,13 +3712,16 @@ Analogija se može povući između kriptografije i CoinJoin-a, i između stegano
 Dobro poznati softverski novčanici koji podržavaju PayJoin uključuju Sparrow Wallet, Wasabi Wallet, Mutiny, BitMask, BlueWallet i JoinMarket, kao i procesor plaćanja BTCPay Server.
 
 
-![BTC204](assets/fr/171.webp)
+![BTC204](assets/sr-Latn/177.webp)
 
 
-Najnaprednija PayJoin implementacija bila je Stowaway na Samourai Wallet-u. Međutim, od hapšenja osnivača softvera, ovaj alat je sada samo delimično funkcionalan. Prednost Stowaway-a je što je to sveobuhvatan, jednostavan za korišćenje protokol, koji podržava i primanje i slanje payjoin-a. Delimično potpisane transakcije mogu se razmenjivati ručno skeniranjem nekoliko QR kodova, ili automatski putem Tor-a preko Soroban-a. Ova druga opcija komunikacije trenutno nije u funkciji.
 
 
-![BTC204](assets/fr/172.webp)
+Najnaprednija implementacija payjoin-a svakako je Stowaway, koji su osmislili programeri Samourai Walleta. Od hapšenja osnivača softvera, ovaj alat na Samouraiju funkcioniše samo delimično. Međutim, ponovo je pokrenut u aplikaciji Ashigaru.
+
+Prednost Stowaway-a je u tome što je to potpun i veoma jednostavan protokol koji podržava i prijem i slanje payjoin-a. Delimično potpisane transakcije mogu se razmenjivati ručno skeniranjem više QR kodova ili automatski putem Tor-a preko Soroban-a.
+
+![BTC204](assets/sr-Latn/178.webp)
 
 
 Teškoća u korišćenju PayJoin-a leži u njegovoj zavisnosti od učešća trgovca. Kao kupac, ne možete koristiti PayJoin ako ga trgovac ne podržava. Ovo dodaje dodatnu teškoću procesu kupovine: ne samo da je teško pronaći trgovce koji prihvataju Bitcoin, već ako takođe tražite one koji podržavaju payjoins, postaje još komplikovanije.
@@ -3683,14 +3730,16 @@ Teškoća u korišćenju PayJoin-a leži u njegovoj zavisnosti od učešća trgo
 Jedno rešenje bi bilo korišćenje struktura transakcija koje uvode nejasnoće u analizu lanca bez potrebe za saradnjom primaoca. Ovo bi nam omogućilo da poboljšamo poverljivost naših plaćanja bez oslanjanja na aktivno učešće trgovaca. Upravo to ćemo razmotriti u narednom poglavlju.
 
 
-https://planb.network/tutorials/privacy/on-chain/payjoin-sparrow-wallet-087a0e49-61cd-41f5-8440-ac7b157bdd62
 
-https://planb.network/tutorials/privacy/on-chain/payjoin-samourai-wallet-48a5c711-ee3d-44db-b812-c55913080eab
+
+https://planb.academy/tutorials/privacy/on-chain/ashigaru-stowaway-48a5c711-ee3d-44db-b812-c55913080eab
 
 ## Mini-CoinJoin plaćanja
 
 
 <chapterId>300777ee-30ae-43d7-ab00-479dac3522c1</chapterId>
+
+:::video id=1f33e8f1-e41d-4480-a388-e283ef51cc17:::
 
 
 
@@ -3718,7 +3767,7 @@ Dakle, postoje samo 2 uloge u Stonewall transakciji:
 Hajde da uzmemo primer da bismo razumeli ovu strukturu transakcije. Alisa odlazi kod Boba pekara da kupi svoj baget, koji košta 4,000 Sats. Ona želi da plati u bitkoinima, dok zadržava neki oblik poverljivosti u vezi sa svojom uplatom. Zato odlučuje da napravi Stonewall transakciju za uplatu.
 
 
-![BTC204](assets/fr/173.webp)
+![BTC204](assets/sr-Latn/179.webp)
 
 
 Analizom ove transakcije, možemo videti da je Bob pekar zapravo primio 4,000 Sats kao uplatu za baget. Alisa je koristila 2 UTXO-a kao ulaze: jedan sa 10,000 Sats i jedan sa 15,000 Sats. U izlazima, ona je povratila 3 UTXO-a: jedan sa 4,000 Sats, jedan sa 6,000 Sats i jedan sa 11,000 Sats. Alisa stoga ima neto saldo od -4,000 Sats na ovoj transakciji, što odgovara ceni bageta.
@@ -3736,19 +3785,19 @@ Stonewall struktura dodaje ogromnu količinu entropije transakciji, čime znača
 Hajde da uzmemo primer Alise kod Boba pekara. Transakcija na blokčejnu bi izgledala ovako:
 
 
-![BTC204](assets/fr/174.webp)
+![BTC204](assets/sr-Latn/180.webp)
 
 
 Spoljašnji posmatrač koji se oslanja na uobičajene heuristike analize lanca mogao bi pogrešno zaključiti da "*dve osobe su napravile mali CoinJoin, sa po jednim UTXO u ulazu i po dva UTXO-a u izlazu*". Analiziranje ove transakcije spolja ne vodi primeni CIOH-a, jer prisustvo dva izlaza iste vrednosti sugeriše CoinJoin obrazac. Iz spoljašnje perspektive, CIOH stoga nije primenljiv u ovom konkretnom slučaju.
 
 
-![BTC204](assets/fr/175.webp)
+![BTC204](assets/sr-Latn/181.webp)
 
 
 Ovo tumačenje je netačno, jer, kao što znate, jedan UTXO je poslat Bobu pekaru, 2 UTXO ulaza su došla od Alice, a ona je isto tako povratila 3 izlaza.
 
 
-![BTC204](assets/fr/176.webp)
+![BTC204](assets/sr-Latn/182.webp)
 
 
 A što je posebno zanimljivo u vezi sa strukturom Stonewall transakcije je to što, sa stanovišta spoljnog posmatrača, ona u svakom pogledu liči na Stonewall x2 transakciju.
@@ -3776,7 +3825,7 @@ Tri različite uloge su tako definisane u Stonewall x2 transakcijama:
 Hajde da se vratimo na naš primer sa Alisom, koja je kod Boba pekara da kupi svoj baget, koji košta 4,000 Sats. Ona želi da plati u bitkoinima, dok održava određeni nivo poverljivosti u vezi sa svojom uplatom. Zato se obraća svom prijatelju Čarlsu, koji će joj pomoći u ovom procesu.
 
 
-![BTC204](assets/fr/177.webp)
+![BTC204](assets/sr-Latn/183.webp)
 
 
 Analizirajući ovu transakciju, možemo videti da je Bob pekar zapravo primio 4,000 Sats kao uplatu za baget. Alisa je koristila 10,000 Sats kao ulaz i povratila 6,000 Sats kao izlaz, tj. neto saldo od -4,000 Sats, što odgovara ceni bageta. Što se tiče Čarlsa, on je obezbedio 15,000 Sats kao ulaz i primio dva izlaza: jedan od 4,000 Sats i drugi od 11,000 Sats, što daje saldo od 0.
@@ -3794,19 +3843,19 @@ Kao i struktura Stonewall-a, struktura Stonewall x2 dodaje veliku količinu entr
 Hajde da uzmemo primer Alise, Boba Pekara i Čarlsa. Transakcija na blokčejnu bi izgledala ovako:
 
 
-![BTC204](assets/fr/178.webp)
+![BTC204](assets/sr-Latn/184.webp)
 
 
 Spoljašnji posmatrač koji se oslanja na uobičajene heuristike analize lanca mogao bi pogrešno zaključiti da su "*Alisa i Čarls napravili mali CoinJoin, sa po jednim UTXO u ulazu i po dva UTXO-a u izlazu*". Ponovo, analiza ove transakcije spolja ne dovodi do primene ICOH-a, jer prisustvo dva izlaza iste vrednosti sugeriše obrazac CoinJoin. Sa spoljašnje tačke gledišta, CIOH stoga nije primenljiv u ovom konkretnom slučaju.
 
 
-![BTC204](assets/fr/179.webp)
+![BTC204](assets/sr-Latn/185.webp)
 
 
 Ovo tumačenje je netačno, jer, kao što znate, jedan UTXO je poslat Bobu pekaru, Alisa ima samo jedan kusur kod izlaza, a Čarls ima dva.
 
 
-![BTC204](assets/fr/180.webp)
+![BTC204](assets/sr-Latn/186.webp)
 
 
 I još jednom, ono što je posebno zanimljivo u vezi sa strukturom Stonewall x2 transakcije je to što, iz ugla spoljnog posmatrača, ona u svakom pogledu podseća na Stonewall transakciju.
@@ -3818,13 +3867,13 @@ I još jednom, ono što je posebno zanimljivo u vezi sa strukturom Stonewall x2 
 Transakcija Stonewall X2 funkcioniše isto kao i Stonewall transakcija, osim što je prva kolaborativna, dok druga nije. Kao što smo videli, Stonewall X2 transakcija uključuje učešće treće strane (Čarls), koja je eksterno povezana sa plaćanjem i koji će staviti svoje bitkoine na raspolaganje kako bi poboljšala poverljivost transakcije. U klasičnoj Stonewall transakciji, ulogu saradnika preuzima pošiljalac.
 
 
-![BTC204](assets/fr/181.webp)
+![BTC204](assets/sr-Latn/187.webp)
 
 
 Sa spoljašnje tačke gledišta, obrazac transakcije je potpuno isti.
 
 
-![BTC204](assets/fr/182.webp)
+![BTC204](assets/sr-Latn/188.webp)
 
 
 Činjenica da ove dve strukture transakcija dele potpuno isti obrazac znači da čak i ako spoljni posmatrač uspe da identifikuje obrazac "Stonewall(x2)", neće imati sve informacije. Neće moći da odredi koji od dva UTXO-a istih iznosa odgovara uplati. Štaviše, neće moći da utvrdi da li dva UTXO-a sa ulazima dolaze od dve različite osobe (Stonewall x2) ili pripadaju jednoj osobi koja ih je spojila (Stonewall).
@@ -3849,13 +3898,12 @@ Logika bi trebala biti sledeća kada želite da koristite alat za poverljivost p
 ### Kako da koristim Stonewall i Stonewall x2 transakcije?
 
 
-Transakcije Stonewall i Stonewall x2 dostupne su na aplikaciji Samourai Wallet i softveru Sparrow Wallet.
+Stonewall transakcije dostupne su na Sparrow Walletu kao i na Ashigaru, dok Stonewall x2 za sada podržava samo Ashigaru.
 
 
-![BTC204](assets/fr/183.webp)
+![BTC204](assets/sr-Latn/189.webp)
 
 
-Međutim, kao i sa payjoins, nakon hapšenja osnivača Samourai-a, Stonewall x2 transakcije sada funkcionišu samo ručnim razmenjivanjem PSBT-ova između uključenih strana. Nažalost, automatska razmena putem Soroban-a više nije dostupna.
 
 
 Takođe je moguće izvršiti ovu vrstu transakcije ručno iz bilo kog Bitcoin novčanik softvera.
@@ -3864,14 +3912,18 @@ Takođe je moguće izvršiti ovu vrstu transakcije ručno iz bilo kog Bitcoin no
 U sledećem poglavlju, pogledaćemo još jednu tehniku poverljivosti koja je relativno nepoznata, ali koja je veoma korisna kao dopuna onome što smo već proučili.
 
 
-https://planb.network/tutorials/privacy/on-chain/stonewall-033daa45-d42c-40e1-9511-cea89751c3d4
+https://planb.academy/tutorials/privacy/on-chain/ashigaru-stonewall-033daa45-d42c-40e1-9511-cea89751c3d4
 
-https://planb.network/tutorials/privacy/on-chain/stonewall-x2-05120280-f6f9-4e14-9fb8-c9e603f73e5b
+https://planb.academy/tutorials/privacy/on-chain/sparrow-stonewall-6fcfd679-7038-4ee2-8bf7-de76a72f9392
+
+https://planb.academy/tutorials/privacy/on-chain/ashigaru-stonewall-x2-05120280-f6f9-4e14-9fb8-c9e603f73e5b
 
 ## Rikošet
 
 
 <chapterId>db9a20ac-a149-443d-884b-ea6c03f28499</chapterId>
+
+:::video id=3c9ce9e5-4081-4c36-98f9-9fc3779c0337:::
 
 
 
@@ -3881,37 +3933,37 @@ Korišćenje struktura Bitcoin transakcija koje dodaju nejasnoću analizi lanca,
 U zavisnosti od toga kako planirate da koristite svoj deo nakon CoinJoin ciklusa, činjenica da je prošao kroz ovaj proces može biti problematična. Na primer, ako planirate da prodate svoj novčić na regulisanoj platformi za trgovinu, koji je nedavno prošao kroz CoinJoin, alat za analizu lanca platforme će otkriti ovu činjenicu. Platforma tada može odbiti da prihvati vaš izmiksovani UTXO, ili čak zahtevati objašnjenje od vas, uz rizik da vaš nalog bude suspendovan ili vaša sredstva zamrznuta. U nekim slučajevima, platforma može takođe prijaviti vaše ponašanje državnim vlastima (ovo je, na primer, ono što TRACFIN zahteva od PSAN-ova u Francuskoj).
 
 
-![BTC204](assets/fr/184.webp)
+![BTC204](assets/sr-Latn/190.webp)
 
 
-Ono što nam je potrebno da bismo to izbegli jeste alat sposoban da zamagli tragove prošlosti Bitcoin novčića, kako bismo povratili neki oblik zamenljivosti ([eng. fungibility] (https://planb.network/resources/glossary/fungibility)). Upravo je to svrha rikošeta.
+Ono što nam je potrebno da bismo to izbegli jeste alat sposoban da zamagli tragove prošlosti Bitcoin novčića, kako bismo povratili neki oblik zamenljivosti ([eng. fungibility](https://planb.academy/resources/glossary/fungibility)). Upravo je to svrha rikošeta.
 
 
-![BTC204](assets/fr/185.webp)
+![BTC204](assets/sr-Latn/191.webp)
 
 
 ### Šta je (Rikošet)?
 
 
-[Rikošet](https://planb.network/resources/glossary/ricochet) je tehnika koja se sastoji od izvođenja nekoliko fiktivnih transakcija prema sebi (sweep) kako bi se simulirao transfer Bitcoin vlasništva. Ovaj alat se razlikuje od drugih struktura transakcija o kojima smo razgovarali, jer se ne dobija buduća anonimnost, već oblik retrospektivne anonimnosti. U stvari, rikošet zamagljuje specifičnosti koje mogu ugroziti zamenljivost Bitcoin novčića zbog njegove prošlosti.
+[Rikošet](https://planb.academy/resources/glossary/ricochet) je tehnika koja se sastoji od izvođenja nekoliko fiktivnih transakcija prema sebi (sweep) kako bi se simulirao transfer Bitcoin vlasništva. Ovaj alat se razlikuje od drugih struktura transakcija o kojima smo razgovarali, jer se ne dobija buduća anonimnost, već oblik retrospektivne anonimnosti. U stvari, rikošet zamagljuje specifičnosti koje mogu ugroziti zamenljivost Bitcoin novčića zbog njegove prošlosti.
 
 
 Da bi se ublažio trag koji je prethodni događaj ostavio na novčiću, kao što su CoinJoin ciklusi, rikošet izvršava četiri uzastopne transakcije u kojima korisnik prenosi sredstva sebi na različite adrese.
 
 
-![BTC204](assets/fr/186.webp)
+![BTC204](assets/sr-Latn/192.webp)
 
 
 Nakon ovog niza transakcija, rikošet alat konačno usmerava bitkoine na njihovu konačnu destinaciju, kao što je platforma za trgovinu.
 
 
-![BTC204](assets/fr/187.webp)
+![BTC204](assets/sr-Latn/193.webp)
 
 
 Cilj je stvoriti distancu koja utiče na laku zamenljivost novčića, kao što je CoinJoin transakcija, i konačni čin trošenja, koji bi mogao odbiti ovaj novčić zbog njegove prošlosti. Tako bi alati za analizu lanca mogli zaključiti da je verovatno došlo do promene vlasništva nakon događaja, i smatrati ovaj novčić fungibilnim (zamenljivim). U slučaju CoinJoin-a, alati za analizu blokčejna bi tada mogli pretpostaviti da nije ista osoba poslala bitkoine i izvršila CoinJoin, te da stoga nema smisla preduzimati akciju protiv pošiljaoca.
 
 
-![BTC204](assets/fr/188.webp)
+![BTC204](assets/sr-Latn/194.webp)
 
 
 ### Zašto to radi?
@@ -3920,7 +3972,7 @@ Cilj je stvoriti distancu koja utiče na laku zamenljivost novčića, kao što j
 Suočeni sa ovom metodom rikošeta, moglo bi se zamisliti da bi softver za analizu lanaca produbio svoje ispitivanje izvan četiri odbijanja. Međutim, ove platforme suočavaju se s dilemom u optimizaciji praga detekcije. Moraju postaviti granicu na broj skokova nakon kojih prihvataju da je verovatno došlo do promene svojstva i da bi veza s prethodnim događajem (kao što je CoinJoin) trebalo da bude ignorisana.
 
 
-![BTC204](assets/fr/189.webp)
+![BTC204](assets/sr-Latn/195.webp)
 
 
 Međutim, postavljanje ovog praga je rizično: svako proširenje broja posmatranih skokova eksponencijalno povećava obim lažno pozitivnih rezultata, tj. pojedinaca koji su pogrešno označeni kao učesnici u događaju, kada je zapravo operaciju izveo neko drugi. Ovaj scenario predstavlja veliki rizik za ove kompanije, jer lažno pozitivni rezultati dovode do nezadovoljstva, što može naterati pogođene klijente da pređu kod konkurencije. Na duži rok, previsok prag detekcije dovodi platformu do gubitka više klijenata nego njeni konkurenti, što bi moglo ugroziti njenu održivost. Stoga je komplikovano za ove platforme da povećaju broj posmatranih skokova, a 4 je često dovoljan broj da se osujeti njihova analiza.
@@ -3944,21 +3996,21 @@ Najčešći slučaj upotrebe rikošeta javlja se kada je potrebno prikriti preth
 Ova metoda je efikasna ne samo za coinjoin-e, već i za bilo koji drugi znak koji bi mogao ugroziti fungibilnost UTXO dela.
 
 
-Ideja za rikošet metodu prvobitno je došla od timova Samourai Wallet-a, koji su je integrisali u svoju aplikaciju kako bi automatizovali proces. Usluga nije besplatna na Samourai, jer rikošet uključuje naknadu za uslugu od 100.000 Sats, plus troškove rudarenja. Njena upotreba se stoga preporučuje za transfere značajnih iznosa.
+Ideja ove ricochet metode potiče prvobitno od timova Samourai Wallet-a, koji su je integrisali u svoju aplikaciju kako bi automatizovali njen rad. Usluga je na Samourai-ju bila naplaćivana, jer je svaki ricochet nosio fiksni trošak od 100.000 sats za servisne takse, uz dodatak rudarskih naknada. Isto važi i danas na Ashigaru. Zbog toga se upotreba ove metode preporučuje uglavnom za transfere velikih iznosa.
 
 
-![BTC204](assets/fr/190.webp)
+![BTC204](assets/sr-Latn/196.webp)
 
 
-Samurai aplikacija nudi dve varijante rikošeta:
+Aplikacija Ashigaru nudi dve varijante ricochet-a (iste one koje smo ranije imali na Samourai):
 
 
 
 
-- Ojačani rikošet, ili "isporuka u fazama", koja nudi prednost raspodele troškova Samurai usluge preko pet uzastopnih transakcija. Ova opcija takođe osigurava da se svaka transakcija emituje u različito vreme i zabeleži u različitom bloku, imitirajući što je moguće bliže ponašanje promene vlasnika. Iako sporija, ova metoda je poželjna za one koji nisu u žurbi, jer maksimizira efikasnost rikošeta jačanjem njegove otpornosti na analizu lanca;
+- Pojačani ricochet, ili „postepna isporuka“, nudi prednost raspodele Naknada za Ashigaru uslugu na pet uzastopnih transakcija. Ova opcija takođe obezbeđuje da svaka transakcija bude emitovana u različito vreme i upisana u različit blok, što omogućava da se što vernije imitira ponašanje promene vlasništva. Iako je sporija, ova metoda je bolja za one koji ne žure, jer maksimizuje efikasnost ricocheta jačanjem njegove otpornosti na analizu lanca;
 
 
-![BTC204](assets/fr/191.webp)
+![BTC204](assets/sr-Latn/197.webp)
 
 
 
@@ -3966,7 +4018,7 @@ Samurai aplikacija nudi dve varijante rikošeta:
 - Klasični rikošet, koji je dizajniran da izvrši operaciju brzo, emitujući sve transakcije u smanjenom vremenskom intervalu. Ova metoda, dakle, nudi manje poverljivosti i manju otpornost na analizu od pojačane metode. Trebalo bi da se koristi samo za hitne pošiljke.
 
 
-![BTC204](assets/fr/192.webp)
+![BTC204](assets/sr-Latn/198.webp)
 
 
 Rikošetiranje jednostavno znači slanje bitkoina sebi. Potpuno je moguće ručno rikošetirati bitkoine na bilo kojem softver novčaniku, bez korišćenja specijalizovanog alata. Sve što treba da uradite je da sukcesivno prebacujete isti novčić sebi, koristeći svaki put novu, praznu adresu.
@@ -3975,49 +4027,51 @@ Rikošetiranje jednostavno znači slanje bitkoina sebi. Potpuno je moguće ručn
 U sledećem poglavlju, razmatramo različite tehnike za tajne prenose vlasništva. Ove metode se radikalno razlikuju od onih koje smo do sada ispitali, kako u pogledu operacije, tako i rezultata.
 
 
-https://planb.network/tutorials/privacy/on-chain/ricochet-e0bb1afe-becd-44a6-a940-88a463756589
+https://planb.academy/tutorials/privacy/on-chain/ashigaru-ricochet-e0bb1afe-becd-44a6-a940-88a463756589
 
 ## Tajni prenos vlasništva
 
 
 <chapterId>a2067036-849c-4d6b-87d2-44235cfae7a1</chapterId>
 
+:::video id=374f79ce-fc61-4528-8b69-b5ca7c7eaa6f:::
+
 
 
 Još jedna od tehnika poverljivosti je tajni prenos vlasništva. Ova metoda ima za cilj prenos vlasništva nad bitkoinima sa jedne osobe na drugu, i obrnuto, bez da transakcija bude eksplicitno vidljiva na blokčejnu. Pogledajmo različite dostupne tehnike, zajedno sa njihovim prednostima i nedostacima.
 
 
-### [Coinswap](https://planb.network/resources/glossary/coinswap) (zamena novčića)
+### [Coinswap](https://planb.academy/resources/glossary/coinswap) (zamena novčića)
 
 
 Coinswap se zasniva na relativno jednostavnom konceptu: koristi pametne ugovore za olakšavanje prenosa vlasništva nad bitkoinima između dva korisnika, bez potrebe za poverenjem i bez da ovaj prenos bude eksplicitno vidljiv na blokčejnu.
 
 
-![BTC204](assets/fr/193.webp)
+![BTC204](assets/sr-Latn/199.webp)
 
 
 Hajde da zamislimo naivan primer sa Alisom i Bobom. Alisa drži 1 BTC osiguran privatnim ključem $A$, a Bob takođe drži 1 BTC osiguran privatnim ključem $B$. Oni bi teoretski mogli razmeniti svoje privatne ključeve putem spoljnog komunikacionog kanala kako bi izvršili tajni transfer.
 
 
-![BTC204](assets/fr/194.webp)
+![BTC204](assets/sr-Latn/200.webp)
 
 
 Međutim, ovaj naivni metod predstavlja visok rizik u smislu poverenja. Ništa ne sprečava Alisu da zadrži kopiju svog privatnog ključa $A$ nakon razmene i kasnije da ga iskoristi da ukrade bitkoine, kada je ključ i u Bobovim rukama.
 
 
-![BTC204](assets/fr/195.webp)
+![BTC204](assets/sr-Latn/201.webp)
 
 
 Nadalje, nema garancije da će Alisa dobiti Bobov privatni ključ, niti da će zauzvrat predati svoj. Ova razmena stoga se oslanja na prekomerno poverenje između strana i neefikasan je u osiguravanju sigurnog i tajnog prenosa vlasništva.
 
 
-![BTC204](assets/fr/196.webp)
+![BTC204](assets/sr-Latn/202.webp)
 
 
-Da bismo rešili ove probleme i omogućili razmene između strana koje ne veruju jedna drugoj, umesto toga ćemo koristiti sisteme pametnih ugovora (eng. [smart contract](https://planb.network/resources/glossary/smart-contract)). Smart contract je program koji se automatski izvršava kada su ispunjeni unapred definisani uslovi. U našem slučaju, ovo osigurava da se razmena svojine odvija automatski, bez potrebe za međusobnim poverenjem.
+Da bismo rešili ove probleme i omogućili razmene između strana koje ne veruju jedna drugoj, umesto toga ćemo koristiti sisteme pametnih ugovora (eng. [smart contract](https://planb.academy/resources/glossary/smart-contract)). Smart contract je program koji se automatski izvršava kada su ispunjeni unapred definisani uslovi. U našem slučaju, ovo osigurava da se razmena svojine odvija automatski, bez potrebe za međusobnim poverenjem.
 
 
-Ovo se može postići korišćenjem [HTLC](https://planb.network/resources/glossary/htlc) (*Hash Time-Locked Contracts*) ili PTLC (*Point Time-Locked Contracts*). Ova dva protokola funkcionišu na sličan način, koristeći sistem vremenskog zaključavanja koji osigurava da se razmena ili uspešno završi ili potpuno otkaže, čime se štiti integritet sredstava obe strane. Glavna razlika između HTLC i PTLC je u tome što HTLC koristi hešove i preimage (ulazna vrednost) za obezbeđivanje transakcije, dok PTLC koristi adaptor potpise ([engl. adaptor signatures](https://planb.network/resources/glossary/adaptor-signature)). 
+Ovo se može postići korišćenjem [HTLC](https://planb.academy/resources/glossary/htlc) (*Hash Time-Locked Contracts*) ili PTLC (*Point Time-Locked Contracts*). Ova dva protokola funkcionišu na sličan način, koristeći sistem vremenskog zaključavanja koji osigurava da se razmena ili uspešno završi ili potpuno otkaže, čime se štiti integritet sredstava obe strane. Glavna razlika između HTLC i PTLC je u tome što HTLC koristi hešove i preimage (ulazna vrednost) za obezbeđivanje transakcije, dok PTLC koristi adaptor potpise ([engl. adaptor signatures](https://planb.academy/resources/glossary/adaptor-signature)). 
 
 
 U scenariju zamene novčića koristeći HTLC ili PTLC između Alise i Boba, razmena se odvija sigurno: ili uspeva i svako dobija BTC onog drugog, ili ne uspeva i svaki zadržava svoj BTC. Ovo onemogućava bilo kojoj strani da prevari ili ukrade BTC onog drugog.
@@ -4038,7 +4092,7 @@ U coinswap-u, upotreba Adaptor potpisa omogućava simultano otkrivanje dva dela 
 
 
 
-- Alis pokreće razmenu kreiranjem transakcije $m_A$ koja šalje 1 BTC Bobu. Ona generiše $s_A$ potpis, koji validira ovu transakciju, koristeći svoj privatni ključ $p_A$ ($P_A = p_A \cdot G$), [Nonce](https://planb.network/resources/glossary/nonce) $n_A$ ($N_A = n_A \cdot G$) i tajnu $t$ ($T = t \cdot G$):
+- Alis pokreće razmenu kreiranjem transakcije $m_A$ koja šalje 1 BTC Bobu. Ona generiše $s_A$ potpis, koji validira ovu transakciju, koristeći svoj privatni ključ $p_A$ ($P_A = p_A \cdot G$), [Nonce](https://planb.academy/resources/glossary/nonce) $n_A$ ($N_A = n_A \cdot G$) i tajnu $t$ ($T = t \cdot G$):
 
 
 $$s_A = n_A + t + H(N_A + T \parallel P_A \parallel m_A) \cdot p_A$$
@@ -4108,16 +4162,16 @@ Imajte na umu da je coinswaps prvi predložio [Gregory Maxwell u oktobru 2013. n
 ### Atomska razmena
 
 
-Na sličan način kao coinswap, i koristeći iste tipove pametnih ugovora, moguće je izvršiti i atomske razmene. Atomska razmena ([eng. atomic swap](https://planb.network/resources/glossary/atomic-swap)) omogućava direktnu razmenu različitih kriptovaluta, kao što su BTC i XMR, između dva korisnika bez potrebe za poverenjem ili intervencijom posrednika. Ove razmene se nazivaju "atomske" jer imaju samo dva moguća ishoda: ili je zamena uspešna i obe strane su zadovoljne, ili ne uspe i svaka zadržava svoje originalne kriptovalute, eliminišući potrebu za poverenjem drugoj strani.
+Na sličan način kao coinswap, i koristeći iste tipove pametnih ugovora, moguće je izvršiti i atomske razmene. Atomska razmena ([eng. atomic swap](https://planb.academy/resources/glossary/atomic-swap)) omogućava direktnu razmenu različitih kriptovaluta, kao što su BTC i XMR, između dva korisnika bez potrebe za poverenjem ili intervencijom posrednika. Ove razmene se nazivaju "atomske" jer imaju samo dva moguća ishoda: ili je zamena uspešna i obe strane su zadovoljne, ili ne uspe i svaka zadržava svoje originalne kriptovalute, eliminišući potrebu za poverenjem drugoj strani.
 
 
-![BTC204](assets/fr/197.webp)
+![BTC204](assets/sr-Latn/203.webp)
 
 
 Atomska razmena i coinswap dele sličan način rada i nude iste prednosti i nedostatke u pogledu poverljivosti. Zaista, iz perspektive Bitcoin-a, atomski swap je uporediv sa coinswap-om koji se sprovodi u dve faze. Prvo, mi razmenimo naš BTC za drugu kriptovalutu, zatim se ta kriptovaluta može zameniti za drugi BTC. Na kraju, dobijamo BTC drugog korisnika. Zbog toga, u analizi pitanja poverljivosti, grupišem ova dva protokola pod kategoriju tajnih razmena vlasništva.
 
 
-![BTC204](assets/fr/198.webp)
+![BTC204](assets/sr-Latn/204.webp)
 
 
 Međutim, imajte na umu da za razliku od coinswap-a, atomic swap može imati neravnoteže u pogledu dostupne likvidnosti, posebno u BTC/XMR razmenama. Generalno je lakše zameniti bitkoine za altkoine, jer postoji velika potražnja za bitkoinima, što održava niske premije za ovaj pravac konverzije. Međutim, razmena altkoina za BTC može biti složenija zbog manje potražnje, što često rezultira veoma visokim premijama.
@@ -4135,13 +4189,13 @@ Tajne transakcije razmene vlasništva, kao što su coinswaps i atomic swaps, ima
 Zaista, kada Alisa izvrši coinswap ili atomic swap sa Bobom, ona razmenjuje posedovanje svojih bitkoina sa Bobovim. U slučaju atomic swap-a, razmena uključuje Altcoin, ali princip ostaje isti. Tako Alisa završava sa $B$ novčićem, a Bob sa $A$ novčićem. Ovo dodaje sumnju u analizu lanca, ali istorija novčića ostaje uočljiva. Ako analitičar ispituje deo $A$, može pratiti Alisine prethodne aktivnosti, i obrnuto za deo $B$.
 
 
-![BTC204](assets/fr/199.webp)
+![BTC204](assets/sr-Latn/205.webp)
 
 
 Iz Alisinog ugla gledanja, rizik je da bi istorija novčića $B$ mogla biti smatrana sumnjivom od strane određenih entiteta. Ako je, na primer, Bob stekao novčić $B$ putem kriminalnog dela kao što je hakovanje, novčić bi ostao povezan sa njegovim ilegalnim aktivnostima. Alisa bi se tada mogla naći u posedu novčića koji ne bi mogla preneti na regulisane platformama za trgovinu bez rizika da joj sredstva budu zamrznuta, ili čak da bude optužena za Bobove zločine, iako s njima nema nikakve veze.
 
 
-![BTC204](assets/fr/200.webp)
+![BTC204](assets/sr-Latn/206.webp)
 
 
 Neizbežno, metode poverljivosti kao što su coinswap ili atomic swap su favorizovane od strane kriminalaca čija su sredstva pod nadzorom vlasti. Ovi protokoli im omogućavaju da se oslobode svojih bitkoina koji su pod nadzorom i da ih razmene za savršeno zamenljive bitkoine. Takođe im omogućavaju da stvore diverziju, usmeravajući vlasti ka drugim korisnicima. Dakle, postoji dvostruka svrha za ove ljude.
@@ -4150,7 +4204,7 @@ Neizbežno, metode poverljivosti kao što su coinswap ili atomic swap su favoriz
 Sa CoinJoin, čak i ako je vaš novčić pomešan sa nadgledanim bitcoinima, istorija novčića je prekinuta, pružajući oblik uverljive poricljivosti koja ne postoji u tajnim protokolima prenosa vlasništva kao što su coinswap ili atomic swap.
 
 
-![BTC204](assets/fr/201.webp)
+![BTC204](assets/sr-Latn/207.webp)
 
 
 Ako Alisa želi da izbegne bilo kakav rizik, mora nužno koristiti metodu za prekid istorije novčića $B$, kao što je prolazak kroz coinjoins. Ovo postavlja pitanje o korisnosti kombinovanja tajnog transfera vlasništva i CoinJoin-a. CoinJoin, prekidajući istoriju novčića, već nudi dovoljan nivo poverljivosti za Alisu. Stoga, moje mišljenje je da, ako Alisa želi da zaštiti svoju privatnost, bilo bi mudrije da direktno pređe na CoinJoin umesto da se upušta u coinswap praćen CoinJoin-om.
@@ -4167,6 +4221,8 @@ Do sada smo uglavnom proučavali metode poverljivosti na nivou samih transakcija
 
 <chapterId>04a2467b-db84-4076-a9ff-919be5135106</chapterId>
 
+:::video id=8428b212-de79-48a5-b984-ed7936861c2f:::
+
 
 
 U Delu 4, razgovarali smo o važnosti korišćenja kompletnog čvora za zaštitu poverljivosti vaših transakcija. Međutim, važno je razumeti da i vaš čvor može biti podložan napadima koji pokušavaju da izvuku informacije o vašim aktivnostima. Stoga ćemo u ovom poglavlju razmotriti različite mere koje možete preduzeti za zaštitu vaše privatnosti, ne na nivou samih transakcija ili Bitcoin tokova, već na nivou mreže.
@@ -4175,7 +4231,7 @@ U Delu 4, razgovarali smo o važnosti korišćenja kompletnog čvora za zaštitu
 ### Maslačak (eng. Dandelion)
 
 
-Jedan od načina da se izbegnu razni napadi de-anonimizacije je korišćenje [Dandelion]((https://planb.network/resources/glossary/dandelion) predloga. Ovaj protokol emitovanja je formalizovan u BIP156, ali nikada nije implementiran na Bitcoin-u.
+Jedan od načina da se izbegnu razni napadi de-anonimizacije je korišćenje [Dandelion]((https://planb.academy/resources/glossary/dandelion) predloga. Ovaj protokol emitovanja je formalizovan u BIP156, ali nikada nije implementiran na Bitcoin-u.
 
 
 Ideja iza Dandelion-a je poboljšanje poverljivosti usmeravanja transakcija u Bitcoin mreži kako bi se suprotstavilo raznim oblicima napada. Njegov glavni cilj je sakriti izvorni čvor koji je inicijalno emitovao transakciju na mreži. Otkrivanje ovog čvora moglo bi omogućiti povezivanje Bitcoin transakcije sa specifičnim IP adrese (ako čvor radi na clearnet-u), što bi moglo pružiti ulaznu tačku za analizu lanca.
@@ -4187,31 +4243,31 @@ Ova povezanost između aktivnosti na Bitcoin-u i IP adrese predstavlja značajan
 U klasičnoj Bitcoin operaciji, transakcije koje korisnik izgradi na svom softveru novčaniku prenose se na njegov lični čvor. Ovaj čvor će odmah emitovati novu transakciju svim čvorovima na koje je povezan.
 
 
-![BTC204](assets/fr/202.webp)
+![BTC204](assets/sr-Latn/208.webp)
 
 
 Ovi čvorovi zatim proveravaju transakciju kako bi osigurali da je u skladu sa konsenzusom i lokalnim pravilima standardizacije. Kada se validira, svaki čvor prosleđuje transakciju svojim čvorovima, i tako dalje.
 
 
-![BTC204](assets/fr/203.webp)
+![BTC204](assets/sr-Latn/209.webp)
 
 
 Ova distribucija transakcija koje čekaju integraciju u blok je prilično uravnotežena i statistički predvidiva. Ovu slabost mogu iskoristiti saučesnički špijunski čvorovi, koji sarađuju kako bi nadgledali i analizirali mrežu, u cilju identifikacije prvog čvora koji je emitovao transakciju. Ako posmatrač uspe da locira izvorni čvor, može pretpostaviti da je transakcija potekla od operatera tog čvora. Ova vrsta posmatranja može se koristiti za povezivanje inače anonimnih transakcija sa specifičnim IP adresama.
 
 
-![BTC204](assets/fr/204.webp)
+![BTC204](assets/sr-Latn/210.webp)
 
 
 Cilj BIP156 je da adresira ovaj problem. Da bi to postigao, uvodi dodatnu fazu u distribuciji nove transakcije kako bi se očuvala anonimnost pre široke javne propagacije. Dandelion najpre koristi fazu „stabljike“ (stem), tokom koje se transakcija šalje kroz nasumično izabran lanac čvorova.
 
-![BTC204](assets/fr/205.webp)
+![BTC204](assets/sr-Latn/211.webp)
 
 
 Transakcija se zatim distribuira celokupnoj mreži u fazi "Fluff".
 
 
 
-![BTC204](assets/fr/206.webp)
+![BTC204](assets/sr-Latn/212.webp)
 
 
 Stabljika i faza „Fluff“ odnose se na ponašanje širenja transakcije kroz mrežu, što podseća na oblik i razvoj maslačka (na engleskom „Dandelion“).
@@ -4222,13 +4278,13 @@ Dakle, špijunski čvorovi potencijalno mogu pratiti transakciju nazad do čvora
 
 
 
-![BTC204](assets/fr/207.webp)
+![BTC204](assets/sr-Latn/213.webp)
 
 
 Čak i u prisustvu špijunskih čvorova tokom faze stabla, sumnja uvek ostaje, jer čim naiđu na pošten čvor u grafu difuzije, špijuni ne mogu da utvrde da li je taj čvor originalni izvor ili samo posrednik.
 
 
-![BTC204](assets/fr/208.webp)
+![BTC204](assets/sr-Latn/214.webp)
 
 
 Ova metoda rutiranja zamagljuje trag koji vodi nazad do izvornog čvora, otežavajući praćenje transakcije kroz mrežu do njenog porekla. Dandelion tako poboljšava poverljivost ograničavanjem sposobnosti protivnika da deanonimizuju mrežu. Ova metoda je još efikasnija kada, tokom "stem" faze, transakcija pređe čvor koji šifrira svoju mrežnu komunikaciju, kao što su Tor ili P2P Transport V2.
@@ -4246,7 +4302,7 @@ P2P transport V2 je još jedan mrežni protokol predstavljen u BIP324. To je nov
 Ovo poboljšanje je dizajnirano da reši nekoliko problema sa osnovnom verzijom P2P protokola. S jedne strane, čini podatke koji se razmenjuju neprepoznatljivim od drugih tipova podataka koji kruže Internetom za pasivnog posmatrača. Glavni cilj je sprečiti vlade, ISP-ove i VPN provajdere da masovno nadgledaju korisnike Bitcoin-a. Ovo takođe otežava ovim entitetima da utvrde da li je korisnik Interneta takođe korisnik Bitcoin-a, tj. da li upravlja kompletnim čvorom.
 
 
-P2P V2 takođe pomaže u smanjenju rizika od cenzure i napada detektovanjem specifičnih obrazaca u paketima podataka. To komplikuje i čini skupljim izvršenje različitih tipova [Sybil napada](https://planb.network/resources/glossary/sybil-attack) na nivou mreže. Sybil napad se dešava kada akter kreira više lažnih identiteta kako bi stekao nepravednu prednost. U kontekstu Bitcoin mreže, ovo se često manifestuje kao akter koji kontroliše veliki broj kompletnih čvorova i agresivno ih koristi za umnožavanje konekcija. Sybil napadi mogu biti pasivni, za prikupljanje informacija i kompromitovanje korisničke poverljivosti, ili aktivni, u obliku [Eclipse napada](https://planb.network/resources/glossary/eclipse-attack). Ovi poslednji izoluju specifičan čvor od ostatka mreže, bilo cenzurišući korisnika ili menjajući podatke koje prima. Na kraju, P2P V2 takođe čini *Man-In-The-Middle* (MITM) napade skupljim i lakšim za detekciju.
+P2P V2 takođe pomaže u smanjenju rizika od cenzure i napada detektovanjem specifičnih obrazaca u paketima podataka. To komplikuje i čini skupljim izvršenje različitih tipova [Sybil napada](https://planb.academy/resources/glossary/sybil-attack) na nivou mreže. Sybil napad se dešava kada akter kreira više lažnih identiteta kako bi stekao nepravednu prednost. U kontekstu Bitcoin mreže, ovo se često manifestuje kao akter koji kontroliše veliki broj kompletnih čvorova i agresivno ih koristi za umnožavanje konekcija. Sybil napadi mogu biti pasivni, za prikupljanje informacija i kompromitovanje korisničke poverljivosti, ili aktivni, u obliku [Eclipse napada](https://planb.academy/resources/glossary/eclipse-attack). Ovi poslednji izoluju specifičan čvor od ostatka mreže, bilo cenzurišući korisnika ili menjajući podatke koje prima. Na kraju, P2P V2 takođe čini *Man-In-The-Middle* (MITM) napade skupljim i lakšim za detekciju.
 
 
 Šifrovanje koje koristi P2P V2 ne uključuje autentifikaciju, kako bi se izbegla nepotrebna složenost i sačuvala činjenica da je povezivanje na mrežu i dalje moguće bez dozvole (eng. permissionless). Ipak, ovaj novi P2P transportni protokol nudi bolju sigurnost protiv pasivnih napada i čini aktivne napade znatno skupljim i lakše uočljivim. Uvođenje pseudo-slučajnog toka podataka u mrežne poruke otežava napadačima cenzurisanje ili manipulaciju komunikacijama.
@@ -4258,13 +4314,13 @@ P2P V2 transport je uključen kao opcija (podrazumevano onemogućena) u Bitcoin 
 ### Tor
 
 
-Još jedno jednostavno rešenje za izbegavanje rizika od gubitka poverljivosti za mrežni čvor je da ga u potpunosti pokrenete pod [Tor-om](https://planb.network/resources/glossary/tor-the-onion-router).
+Još jedno jednostavno rešenje za izbegavanje rizika od gubitka poverljivosti za mrežni čvor je da ga u potpunosti pokrenete pod [Tor-om](https://planb.academy/resources/glossary/tor-the-onion-router).
 
 
 Tor je mreža relej servera (čvorova) koja anonimizuje poreklo TCP konekcija na Internetu. Radi tako što enkapsulira podatke u nekoliko slojeva enkripcije. Svaki relej čvor uklanja sloj kako bi otkrio adresu sledećeg čvora, sve dok se ne dostigne konačno odredište. Tor mreža obezbeđuje anonimnost sprečavanjem posredničkih čvorova da znaju i poreklo i odredište podataka, što posmatraču čini veoma teškim praćenje aktivnosti korisnika.
 
 
-![BTC204](assets/fr/209.webp)
+![BTC204](assets/sr-Latn/215.webp)
 
 
 Tor ne samo da šifrira podatke, već i maskira poreklo i odredište komunikacija. Korišćenjem Tor-a za komunikacije sa vašeg ličnog čvora, jačate poverljivost vaših transakcija: vaš ISP ne može dešifrovati komunikacije, a drugi čvorovi u Bitcoin mreži ne mogu identifikovati IP izvornog čvora adrese. Štaviše, Tor takođe skriva vašu samu Bitcoin upotrebu od vašeg ISP-a.
@@ -4284,18 +4340,20 @@ Nakon što smo istražili različite metode poverljivosti na mrežnom nivou, u n
 
 <chapterId>ad88e076-a04b-4aec-b3b2-7b4760175504</chapterId>
 
+:::video id=b0e9acc2-b50f-4caa-a1d7-cf8624b8e727:::
+
 
 
 Kao što smo videli u delu 3, ponovna upotreba adresa predstavlja ozbiljnu prepreku za poverljivost korisnika na Bitcoin protokolu. Da bi se ublažili ovi rizici, snažno se preporučuje da se generiše prazna prijemna adresa za svaku novu uplatu primljenu u novčanik. Iako je generisanje nove adrese sada pojednostavljeno korišćenjem modernog softvera i hijerarhijski determinističkih novčanika, ova praksa može delovati kontraintuitivno.
 
 
-![BTC204](assets/fr/210.webp)
+![BTC204](assets/sr-Latn/216.webp)
 
 
 U tradicionalnom bankarskom sistemu, na primer, navikli smo da delimo naš IBAN, koji uvek ostaje isti. Kada ga jednom damo nekome, oni nam mogu poslati više uplata bez potrebe za daljom interakcijom sa nama. Neo-banke takođe nude modernije mogućnosti, kao što je korišćenje jedinstvenih email adresa na PayPal-u ili RevTags na Revolut-u. Čak i van finansijske sfere, naši svakodnevni identifikatori kao što su poštanski broj adrese, telefonski broj i email adresa su takođe jedinstveni i trajni. Ne moramo ih obnavljati za svaku novu interakciju.
 
 
-![BTC204](assets/fr/211.webp)
+![BTC204](assets/sr-Latn/217.webp)
 
 
 Međutim, Bitcoin radi drugačije: nova prijemna adresa mora biti generisana za svaku dolaznu transakciju. Ovaj kompromis između jednostavnosti korišćenja i poverljivosti vraća se na same početke Bitcoin-ovog White paper-a. Još od objavljivanja prve verzije njegovog dokumenta krajem 2008. godine, Satoshi Nakamoto nas je već upozoravao na ovaj rizik:
@@ -4307,7 +4365,7 @@ Međutim, Bitcoin radi drugačije: nova prijemna adresa mora biti generisana za 
 Postoji mnogo načina da se primi više uplata na jedan identifikator bez potrebe za ponovnim korišćenjem adrese. Svaki od njih ima svoje kompromise i nedostatke. Među ovim metodama je BIP47, predlog koji je razvio Justus Ranvier i objavio 2015. godine. Ovaj predlog ima za cilj kreiranje ponovo upotrebljivih kodova za plaćanje koji omogućavaju obavljanje više transakcija prema istoj osobi, dok se izbegava ponovna upotreba adresa. Ukratko, BIP47 ima za cilj da ponudi sistem plaćanja koji je intuitivan kao jedinstveni identifikator, uz očuvanje poverljivosti transakcija.
 
 
-![BTC204](assets/fr/212.webp)
+![BTC204](assets/sr-Latn/218.webp)
 
 
 BIP47 ne poboljšava direktno poverljivost korisnika, jer BIP47 uplata nudi isti nivo poverljivosti kao klasična Bitcoin transakcija koristeći prazne adrese. Međutim, čini korišćenje Bitcoin-a pogodnijim i intuitivnijim, lakoća koja bi inače ugrozila poverljivost. Zahvaljujući BIP47, ova lakoća korišćenja postiže isti nivo poverljivosti kao klasična transakcija. Zato je BIP47 tako vredan alat za očuvanje privatnosti.
@@ -4322,22 +4380,22 @@ U početku, BIP47 je bio predložen za integraciju u Bitcoin Core, ali nikada ni
 Cilj BIP47 je omogućiti primanje velikog broja uplata bez ponovnog korišćenja adresa. Zasniva se na upotrebi ponovljivog koda za plaćanje, što omogućava različitim pošiljaocima da upute više uplata na jedan isti kod koji pripada drugom korisniku. Kao rezultat toga, primalac ne mora da obezbedi novu, praznu adresu za svaku transakciju, što u velikoj meri olakšava razmene uz očuvanje poverljivosti.
 
 
-![BTC204](assets/fr/213.webp)
+![BTC204](assets/sr-Latn/219.webp)
 
 
 Korisnik stoga može deliti svoj platni kod u potpunoj slobodi, bilo na društvenim mrežama ili na svojoj veb stranici, bez rizika od gubitka poverljivosti, za razliku od konvencionalne adrese za primanje ili javnog ključa.
 
 
-Da bi se izvršila transakcija, obe strane treba da imaju Bitcoin novčanik sa BIP47 implementacijom, kao što je PayNym na Samurai Wallet-u ili Sparrow Wallet. Zajednička upotreba njihovih platnih kodova stvara tajni kanal između njih. Da bi se ovaj kanal efikasno uspostavio, izdavalac mora izvršiti specifičnu transakciju na Bitcoin blokčejnu, poznatu kao "notifikaciona transakcija" (više o tome kasnije).
+Da bi se izvršila transakcija, obe strane moraju posedovati Bitcoin novčanik sa implementacijom BIP47, kao što je PayNym na Ashigaru ili Sparrow Wallet. Zajednička upotreba njihovih platnih kodova stvara tajni kanal između njih. Da bi se ovaj kanal efikasno uspostavio, pošiljalac mora izvršiti posebnu transakciju na Bitcoin blokčejnu, poznatu kao „notifikaciona transakcija“ (detalje ću vam dati kasnije).
 
 
 Kombinovanjem kodova plaćanja dva korisnika generišu se zajedničke tajne, koje zauzvrat stvaraju veliki broj jedinstvenih Bitcoin adresa za primanje (tačno 2^32, ili oko 4 milijarde). Na ovaj način, uplate izvršene putem BIP47 nisu zapravo adresirane na sam kod plaćanja, već na klasične adrese za prijem izvedene iz kodova plaćanja uključenih korisnika.
 
 
-Kod plaćanja tako služi kao virtuelni identifikator izveden iz seed novčanika. U hijerarhijskoj strukturi derivacije novčanika, kod plaćanja je pozicioniran [na nivou 3, tj. na nivou računa](https://planb.network/resources/glossary/account).
+Kod plaćanja tako služi kao virtuelni identifikator izveden iz seed novčanika. U hijerarhijskoj strukturi derivacije novčanika, kod plaćanja je pozicioniran [na nivou 3, tj. na nivou računa](https://planb.academy/resources/glossary/account).
 
 
-![BTC204](assets/fr/214.webp)
+![BTC204](assets/sr-Latn/220.webp)
 
 
 Ciljni derivacioni indeks za BIP47 je označen kao `47'` (`0x8000002F`), što se odnosi na BIP47. Primer derivacionog puta za višekratno upotrebljiv kod plaćanja bio bi sledeći:
@@ -4359,7 +4417,7 @@ PM8TJSBiQmNQDwTogMAbyqJe2PE2kQXjtgh88MRTxsrnHC8zpEtJ8j7Aj628oUFk8X6P5rJ7P5qDudE4
 Ovaj kod se takođe može kodirati kao QR kod, kako bi se olakšala komunikacija, baš kao konvencionalna prijemna adresa.
 
 
-Što se tiče PayNym Botova, robota koji se ponekad viđaju na Twitteru, oni su vizuelne reprezentacije koda za plaćanje, kreiranog od strane Samourai Wallet-a. Generišu se korišćenjem Hash funkcije, što im daje skoro jedinstvenost. Imaju oblik malog niza karaktera koji počinje sa `+`:
+Što se tiče PayNym Botova, onih robota koji se povremeno mogu videti na X (Twitteru), oni predstavljaju vizuelne prikaze platnog koda koje je kreirao Samourai Wallet. Sada sa Ashigarujem izgledaju nešto drugačije, ali princip ostaje isti. Generišu se putem heš funkcije, što im daje gotovo potpunu jedinstvenost. Pojavljuju se kao mali niz znakova koji počinje sa `+` :
 
 
 ```plaintext
@@ -4372,17 +4430,17 @@ Ovaj kod se takođe može kodirati kao QR kod, kako bi se olakšala komunikacija
 Ovi avatari mogu biti predstavljeni i kao slike:
 
 
-![BTC204](assets/fr/215.webp)
+![BTC204](assets/sr-Latn/221.webp)
 
 
 Iako ovi roboti nemaju specifičnu tehničku funkcionalnost unutar BIP47 okvira, oni igraju ulogu u olakšavanju interakcije korisnicima pružajući lako prepoznatljiv vizuelni identitet.
 
 
 ---
-*U sledećim odeljcima ovog poglavlja posvećenog BIP47, detaljno ćemo razmotriti kako funkcioniše, sa posebnim naglaskom na korišćene kriptografske metode. Da biste u potpunosti razumeli ova donekle tehnička objašnjenja, neophodno je prvo razumeti strukturu HD novčanika, procedure izvođenja ključeva i osnove eliptičke kriptografije. Ako želite da se dublje upustite u ove pojmove, dostupan je još jedan besplatan kurs obuke na Plan ₿ Network:*
+*U sledećim odeljcima ovog poglavlja posvećenog BIP47, detaljno ćemo razmotriti kako funkcioniše, sa posebnim naglaskom na korišćene kriptografske metode. Da biste u potpunosti razumeli ova donekle tehnička objašnjenja, neophodno je prvo razumeti strukturu HD novčanika, procedure izvođenja ključeva i osnove eliptičke kriptografije. Ako želite da se dublje upustite u ove pojmove, dostupan je još jedan besplatan kurs obuke na Plan ₿ Academy:*
 
 
-https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
+https://planb.academy/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 
 *I dalje bih vam savetovao da ih pratite, jer će vam razumevanje tehničkog funkcionisanja BIP47 znatno olakšati razumevanje drugih, sličnih predloga, o kojima ćemo diskutovati u narednim poglavljima*
 
@@ -4391,7 +4449,7 @@ https://planb.network/courses/46b0ced2-9028-4a61-8fbc-3b005ee8d70f
 ### [Ponovno upotrebljivi kod za plaćanje]
 
 
-Kao što je ranije pomenuto, višekratni kod za plaćanje ([eng. reusable payment code] (https://planb.network/resources/glossary/reusable-payment-code) se nalazi na dubini 3 HD novčanika, što ga čini uporedivim sa `xpub`, kako u smislu njegove pozicije u strukturi novčanika, tako i u smislu njegove uloge.
+Kao što je ranije pomenuto, višekratni kod za plaćanje ([eng. reusable payment code](https://planb.academy/resources/glossary/reusable-payment-code) se nalazi na dubini 3 HD novčanika, što ga čini uporedivim sa `xpub`, kako u smislu njegove pozicije u strukturi novčanika, tako i u smislu njegove uloge.
 
 Kod za plaćanje od 80 bajtova se može razlažiti na sledeći način:
 
@@ -4399,7 +4457,7 @@ Kod za plaćanje od 80 bajtova se može razlažiti na sledeći način:
 - **Bajt `1`: Polje bita**. Ovaj prostor je rezervisan za integrisanje dodatnih indikacija za specifične namene. Za klasičnu upotrebu PayNym-a, ovaj bajt je postavljen na `0x00`;
 - **Bajt `2`: Paritet `y`**. Ovaj bajt je `0x02` ili `0x03`, što označava da li je ordinata javnog ključa parna ili neparna, jer se koristi kompresovani javni ključ;
 - **Od bajta `3` do bajta `34`: Vrednost `x`**. Ovi bajtovi predstavljaju apscisu javnog ključa. Konkatenacija `x` i pariteta `y` formira kompletan kompresovani javni ključ;
-- **Od bajta `35` do bajta `66`: [Kod lanca (chain code)](https://planb.network/resources/glossary/chain-code)**. Ovaj prostor sadrži kod lanca povezan sa javnim ključem;
+- **Od bajta `35` do bajta `66`: [Kod lanca (chain code)](https://planb.academy/resources/glossary/chain-code)**. Ovaj prostor sadrži kod lanca povezan sa javnim ključem;
 - **Od bajta `67` do bajta `79`: popuna (padding)**. Ovaj prostor je namenjen mogućim budućim razvojnim pravcima. U trenutnoj verziji jednostavno se popunjava nulama kako bi se dostigla veličina od 80 bajtova, koja je potrebna za OP_RETURN izlaz.
 
 
@@ -4411,7 +4469,7 @@ Ovo je heksadecimalna reprezentacija mog višekratnog koda za plaćanje već pre
 ```
 
 
-![BTC204](assets/fr/216.webp)
+![BTC204](assets/sr-Latn/222.webp)
 
 
 Zatim, `P` prefiks bajt mora biti dodat na početku kako bi jasno označio da je ovo kod za plaćanje. Ovaj bajt je predstavljen sa `0x47`:
@@ -4430,7 +4488,7 @@ Na kraju, kako bi se osigurala integritet platnog koda, vrši se izračunavanje 
 ```
 
 
-![BTC204](assets/fr/217.webp)
+![BTC204](assets/sr-Latn/223.webp)
 
 
 Kada su ovi koraci završeni, kod za plaćanje je spreman. Ostaje samo da ga enkodirate koristeći bazu 58 da biste dobili konačnu verziju:
@@ -4452,25 +4510,25 @@ m/47'/0'/0'/
 U konkretnim terminima, za generisanje kompresovanog javnog ključa i lanca koda koji je povezan sa višekratnim kodom plaćanja, počinjemo sa izračunavanjem glavnog privatnog ključa iz seed novčanika. Zatim nastavljamo sa izvođenjem para pod-ključeva koristeći indeks `47 + 2^31` (ojačano izvođenje). Ovo je praćeno sa dva dalja uzastopna izvođenja parova pod-ključeva, svaki koristeći indeks `2^31` (ojačano izvođenje).
 
 
-![BTC204](assets/fr/218.webp)
+![BTC204](assets/sr-Latn/224.webp)
 
 
 ### Diffie-Hellman razmena ključeva na eliptičkim krivama (ECDH)
 
 
-Kriptografski protokol u srcu BIP47 poznat je pod akronimom ECDH, za *Elliptic-Curve Diffie-Hellman*. Ova metoda je varijanta originalnog [Diffie-Hellman algoritma za razmenu ključa](https://planb.network/resources/glossary/diffiehellman).
+Kriptografski protokol u srcu BIP47 poznat je pod akronimom ECDH, za *Elliptic-Curve Diffie-Hellman*. Ova metoda je varijanta originalnog [Diffie-Hellman algoritma za razmenu ključa](https://planb.academy/resources/glossary/diffiehellman).
 
 
 Uveden 1976. godine, Diffie-Hellman je protokol za dogovor o ključu koji omogućava dvema stranama, od kojih svaka ima par ključeva (javni i privatni), da se dogovore o zajedničkoj tajni, čak i kada komuniciraju samo putem javnog, nesigurnog kanala.
 
 
-![BTC204](assets/fr/219.webp)
+![BTC204](assets/sr-Latn/225.webp)
 
 
 Ova zajednička tajna (u ovom slučaju, plavi ključ) može se koristiti za druge operacije. Tipično, ova zajednička tajna može se koristiti za šifrovanje i dešifrovanje komunikacije na nesigurnoj mreži:
 
 
-![BTC204](assets/fr/220.webp)
+![BTC204](assets/sr-Latn/226.webp)
 
 
 Da bi to postigao, Diffie-Hellman koristi modularnu aritmetiku za izračunavanje zajedničke tajne. Evo kako to funkcioniše u laičkim terminima:
@@ -4486,7 +4544,7 @@ Da bi to postigao, Diffie-Hellman koristi modularnu aritmetiku za izračunavanje
 - Bob, radeći isto sa Alisinom narandžastom i tajnom plavom, takođe dobija braon.
 
 
-![BTC204](assets/fr/221.webp)
+![BTC204](assets/sr-Latn/227.webp)
 
 
 U ovoj popularizaciji, braon boja predstavlja tajnu koju dele Alisa i Bob. Zamislite da je, u stvarnosti, napadaču nemoguće da razdvoji boje narandžastu i zelenu, kako bi pronašao Alisinu ili Bobovu tajnu boju.
@@ -4615,7 +4673,7 @@ $$
 Zahvaljujući distributivnosti operatora modulo, Alisa i Bob dobijaju potpuno istu vrednost $z$. Ovaj broj predstavlja njihovu zajedničku tajnu, ekvivalentnu **braon boji** u prethodnom objašnjenju sa kantama za farbu. Sada mogu koristiti ovu zajedničku tajnu za simetrično šifrovanje svojih komunikacija preko nesigurne mreže.
 
 
-![BTC204](assets/fr/222.webp)
+![BTC204](assets/sr-Latn/228.webp)
 
 
 Napadač, čak i ako poseduje $p$, $g$, $A$ i $B$ (javne vrednosti), neće biti u mogućnosti da izračuna $a$, $b$ ili $z$ (privatne vrednosti). Da bi se to postiglo, eksponencijacija bi morala biti obrnuta, operacija koja je nemoguća bez pokušaja svih mogućnosti jednu po jednu, jer to predstavlja računanje diskretnog logaritma, tj. obrnuta funkcija eksponenciranja u konačnoj cikličnoj grupi.
@@ -4717,7 +4775,7 @@ TLS je odgovoran za `s` u `https` i katanćić koji vidiš u adresnoj traci pre
 Kao što smo videli u prethodnom odeljku, ECDH je varijanta Diffie-Hellman protokola za razmenu ključa koristeći parove ključeva uspostavljene na eliptičnoj krivi. Dobra stvar je što već imamo mnogo parova ključeva koji poštuju ovaj standard u našim Bitcoin novčanicima! Ideja BIP47 je da se koriste parovi ključeva hijerarhijski determinističkih Bitcoin novčanika obe strane kako bi se uspostavile zajedničke, efemerne tajne između njih. BIP47 koristi ECDHE (*Elliptic Curve Diffie-Hellman **Ephemeral***) umesto toga.
 
 
-![BTC204](assets/fr/223.webp)
+![BTC204](assets/sr-Latn/229.webp)
 
 
 ECDHE se prvi put koristi u BIP47 za prenos koda plaćanja od pošiljaoca do primaoca. Ovo je čuvena **notifikaciona transakcija**. Ovaj korak je ključan, jer da bi BIP47 funkcionisao efikasno, obe uključene strane (pošiljalac i primalac) moraju da znaju međusobne kodove za plaćanje. Ovo znanje omogućava izvođenje efemernih javnih ključeva i, shodno tome, povezanih praznih adresa za primanje.
@@ -4729,7 +4787,7 @@ Pre ove razmene, pošiljalac je logično već upoznat sa kodom plaćanja primaoc
 Ovo je zato što, za razliku od konvencionalnih adresa, BIP47 adrese nisu direktno izvedene iz primaočevog seed-a - korišćenje `xpub` bi bilo jednostavnije u ovom slučaju - već su rezultat proračuna koji kombinuje dva platna koda: onaj pošiljaoca i onaj primaoca. Dakle, ako primalac izgubi svoj novčanik i pokuša da ga obnovi iz svog seed-a, on će povratiti svoj sopstveni platni kod, koji je direktno izveden iz njegovog seed-a. Međutim, da bi povratio efemerne adrese, biće mu potrebni i platni kodovi svih onih koji su mu poslali bitkoine putem BIP47. Otuda važnost transakcije obaveštenja, koja omogućava da se ove informacije sačuvaju na Bitcoin blokčejnu, dok ih i dalje može vrlo lako pronaći bez potrebe da pretražuje milijardu transakcija izvršenih od njegovog pokretanja 2009. godine.
 
 
-![BTC204](assets/fr/224.webp)
+![BTC204](assets/sr-Latn/230.webp)
 
 
 Stoga bi bilo moguće implementirati BIP47 bez korišćenja transakcije obaveštenja, pod uslovom da svaki korisnik čuva rezervnu kopiju kodova plaćanja svojih partnera. Međutim, ovaj metod se pokazuje složenim za upravljanje sve dok se ne razvije jednostavno, robusno i efikasno rešenje za pravljenje, čuvanje i ažuriranje ovih rezervnih kopija. U trenutnoj situaciji, transakcija obaveštenja je gotovo neizbežna.
@@ -4776,7 +4834,7 @@ Kako mogu preneti svoj kod bez rizika? Korišćenje konvencionalnih sredstava ko
 Na dijagramu ispod, narandžaste linije označavaju tačke gde protok informacija mora biti prekinut, a crne strelice pokazuju veze koje potencijalno mogu biti posmatrane od strane trećih lica:
 
 
-![BTC204](assets/fr/225.webp)
+![BTC204](assets/sr-Latn/231.webp)
 
 
 U stvarnosti, u tradicionalnom modelu Bitcoin poverljivosti, često je složeno potpuno razdvojiti tok informacija između para ključeva i korisnika, posebno u udaljenim transakcijama. Na primer, u kontekstu kampanje za donacije, primalac mora neizbežno otkriti adresu ili javni ključ putem svoje veb stranice ili društvenih mreža. Ispravna upotreba BIP47, posebno sa transakcijom obaveštenja, omogućava zaobilaženje ovog problema zahvaljujući ECDHE i sloju enkripcije o kojem ćemo kasnije govoriti.
@@ -4865,7 +4923,7 @@ $$ c' = c \oplus f2 $$
 **4-** Alisa trenutno ima svoj platni kod sa šifrovanim sadržajem. Ona će konstruisati i emitovati transakciju koja uključuje njen javni ključ $A$ kao ulaz, izlaz ka Bobovoj adresi notifikacije, i `OP_RETURN` izlaz koji se sastoji od njenog platnog koda sa šifrovanim sadržajem. **Ova transakcija je transakcija notifikacije**.
 
 
-[`OP_RETURN`](https://planb.network/resources/glossary/op-return-0x6a) je operativni kod koji označava izlaz Bitcoin transakcije kao nevažeći. Danas se koristi za emitovanje ili usidravanje informacija na Bitcoin blokčejnu. Može da skladišti do 80 bajtova podataka, koji se zatim upisuju u lanac i vidljivi su svim ostalim korisnicima.
+[`OP_RETURN`](https://planb.academy/resources/glossary/op-return-0x6a) je operativni kod koji označava izlaz Bitcoin transakcije kao nevažeći. Danas se koristi za emitovanje ili usidravanje informacija na Bitcoin blokčejnu. Može da skladišti do 80 bajtova podataka, koji se zatim upisuju u lanac i vidljivi su svim ostalim korisnicima.
 
 
 Kao što smo videli u prethodnim odeljcima, ECDH se koristi za generisanje zajedničke tajne između dva korisnika koji komuniciraju preko nesigurne mreže, i potencijalno su posmatrani od strane napadača. U BIP47, ECDH se koristi za komunikaciju na Bitcoin mreži, koja je po svojoj prirodi transparentna komunikaciona mreža, i posmatrana je od strane mnogih napadača. Zajednička tajna izračunata putem ECDH razmene ključa se zatim koristi za šifrovanje tajnih informacija koje treba preneti: kod plaćanja pošiljaoca (Alise).
@@ -4884,7 +4942,7 @@ Sažeću korake koje smo upravo zajedno videli za sprovođenje transakcije obav
 - Koristi izlaz transakcije `OP_RETURN` za komunikaciju skrivenog koda plaćanja Bobu.
 
 
-![BTC204](assets/fr/226.webp)
+![BTC204](assets/sr-Latn/232.webp)
 
 
 ### Transakcija obaveštenja: praktična studija
@@ -4893,7 +4951,7 @@ Sažeću korake koje smo upravo zajedno videli za sprovođenje transakcije obav
 Da bismo detaljnije razumeli kako to funkcioniše, a posebno upotrebu `OP_RETURN`, hajde da pogledamo stvarnu transakciju obaveštenja. Izvršio sam takvu transakciju na Testnet-u, koju možete pronaći [klikom ovde](https://Mempool.space/fr/Testnet/tx/0e2e4695a3c49272ef631426a9fd2dae6ec3a469e3a39a3db51aa476cd09de2e).
 
 
-![BTC204](assets/fr/227.webp)
+![BTC204](assets/sr-Latn/233.webp)
 
 
 Gledajući ovu transakciju, već možemo videti da ima jedan ulaz i 4 izlaza:
@@ -5199,7 +5257,7 @@ $$ A = a \cdot G $$
 $$ S = a \cdot B = a \cdot (b \cdot G) = (b \cdot a) \cdot G = b \cdot A $$
 
 
-![BTC204](assets/fr/228.webp)
+![BTC204](assets/sr-Latn/234.webp)
 
 
 Sada kada Bob zna Alisin kod za plaćanje, moći će da detektuje njene BIP47 uplate, i moći će da izvede privatne ključeve koji blokiraju i osiguravaju primljene bitkoine.
@@ -5217,7 +5275,7 @@ Sažeću korake koje smo upravo zajedno videli za primanje i tumačenje transak
 - Koristi ovaj faktor zaslepljivanja za dešifrovanje Alisinog koda plaćanja sadržanog u OP_RETURN.
 
 
-![BTC204](assets/fr/229.webp)
+![BTC204](assets/sr-Latn/235.webp)
 
 
 ### BIP47 transakcija plaćanja
@@ -5312,13 +5370,13 @@ Sažeću korake koje smo upravo videli zajedno za slanje BIP47 uplate:
 - Alisa može napraviti klasičnu transakciju ka Bobu sa izvedenim efemernom prijemnom adresom.
 
 
-![BTC204](assets/fr/230.webp)
+![BTC204](assets/sr-Latn/236.webp)
 
 
 Ako Alisa želi da izvrši drugu uplatu, pratiće iste korake kao i ranije, osim što će ovaj put izabrati drugi javni ključ izveden iz Bobovog koda za plaćanje. Konkretno, koristiće sledeći neiskorišćeni ključ. Tako će dobiti novi prijemnu adresu koja pripada Bobu, označen kao $K1$:
 
 
-![BTC204](assets/fr/231.webp)
+![BTC204](assets/sr-Latn/237.webp)
 
 
 Može se nastaviti na ovaj način i izvesti do `2^32` praznih adresa koje pripadaju Bobu.
@@ -5335,7 +5393,7 @@ Iz spoljnje perspektive, gledajući blokčejn, teoretski je nemoguće razlikovat
 Izgleda kao klasična transakcija sa potrošenim ulazom, izlazom plaćanja i kusurom:
 
 
-![BTC204](assets/fr/232.webp)
+![BTC204](assets/sr-Latn/238.webp)
 
 
 ### Prijem BIP47 uplate i izvođenje privatnog ključa
@@ -5418,19 +5476,19 @@ Sažeću korake koje smo upravo videli zajedno kako bismo primili BIP47 uplatu 
 - Bob izračunava privatni ključ povezan sa ovim efemernim javnim ključem dodajući privatni pod-ključ izveden iz njegovog platnog koda i zajedničke tajne.
 
 
-![BTC204](assets/fr/233.webp)
+![BTC204](assets/sr-Latn/239.webp)
 
 
 Pošto Alisa ne može da dobije $b$ (Bobov privatni ključ), nije u mogućnosti da odredi $k0$ (privatni ključ povezan sa Bobovom BIP47 prijemnom adresom). Šematski, možemo predstaviti izračunavanje deljene tajne $S$ na sledeći način:
 
 
-![BTC204](assets/fr/228.webp)
+![BTC204](assets/sr-Latn/240.webp)
 
 
 Jednom kada se zajednička tajna pronađe pomoću ECDH, Alisa i Bob izračunavaju BIP47 javni ključ za plaćanje $K0$, a Bob takođe izračunava povezani privatni ključ $k0$:
 
 
-![BTC204](assets/fr/234.webp)
+![BTC204](assets/sr-Latn/241.webp)
 
 
 ### Povraćaj BIP47 uplate
@@ -5445,18 +5503,20 @@ Funkcija povraćaja je specifična za BIP47 i jedna je od njegovih prednosti u o
 Bob može tada nadoknaditi Alisi na isti način na koji mu je ona slala uplate. Uloge su obrnute:
 
 
-![BTC204](assets/fr/235.webp)
+![BTC204](assets/sr-Latn/242.webp)
 
 
 *Mnogo hvala [Fanis Michalakis](https://x.com/FanisMichalakis) za lekturu i stručne savete o članku koji je inspirisao pisanje ovog poglavlja!*
 
 
-https://planb.network/tutorials/privacy/on-chain/paynym-bip47-a492a70b-50eb-4f95-a766-bae2c5535093
+https://planb.academy/tutorials/privacy/on-chain/paynym-bip47-a492a70b-50eb-4f95-a766-bae2c5535093
 
 ## Diskretna plaćanja (eng. Silent Payments)
 
 
 <chapterId>2871d594-414e-4598-a830-91c9eb84dfb8</chapterId>
+
+:::video id=85b2780e-864e-4f64-b843-f272277181e6:::
 
 
 
@@ -5510,7 +5570,7 @@ Hajde da pogledamo tehnički rad Silent Payments-a (diskretnih plaćanja) kako b
 Pre nego što počnete, važno je napomenuti da se Silent Payments (tiha plaćanja) oslanjaju isključivo na upotrebu P2TR (*Pay to Taproot*) tipova skripti. Za razliku od BIP47, nije potrebno izvoditi adrese za primanje iz javnih ključeva potomaka putem heširanja. U P2TR standardu, prilagođeni javni ključ se koristi direktno i nešifrovano u adresi. Dakle, Taproot adresa za primanje je suštinski javni ključ sa nekim metapodacima. Ovaj prilagođeni javni ključ je agregacija dva druga javna ključa: jedan omogućava direktno, tradicionalno trošenje putem jednostavnog potpisa, a drugi predstavlja Merkle Root MAST-a, koji ovlašćuje trošenje pod uslovom da je ispunjen jedan od uslova potencijalno upisanih u Merkle Tree.
 
 
-![BTC204](assets/fr/068.webp)
+![BTC204](assets/sr-Latn/243.webp)
 
 
 Postoje dva glavna razloga za odluku da se Silent Payments (tiha plaćanja) ograniče isključivo na Taproot:
@@ -5590,7 +5650,7 @@ $$ p = (b + \text{Hash}(b \cdot A)) \bmod n $$
 Kao što možete videti, da biste izračunali ovaj privatni ključ $p$, morate imati privatni ključ $b$. Samo Bob ima ovaj privatni ključ $b$. Stoga će on biti jedini koji može potrošiti bitkoine poslate na njegovu Silent Payments adresu (za diskretna plaćanja).
 
 
-![BTC204](assets/fr/236.webp)
+![BTC204](assets/sr-Latn/244.webp)
 
 
 *Legenda:*
@@ -5660,7 +5720,7 @@ p_1 = (b + \text{hash}(b \cdot A \text{ ‖ } 1)) \bmod n
 $$
 
 
-![BTC204](assets/fr/237.webp)
+![BTC204](assets/sr-Latn/245.webp)
 
 
 *Legenda:*
@@ -5719,7 +5779,7 @@ p_0 = (b + \text{hash}(\text{inputHash} \cdot b \cdot A \text{ ‖ } 0)) \bmod n
 $$
 
 
-![BTC204](assets/fr/238.webp)
+![BTC204](assets/sr-Latn/246.webp)
 
 
 *Legenda:*
@@ -5757,7 +5817,7 @@ Na primer, zamislimo da Alisina transakcija ima 3 ulaza, svaki obezbeđen razli�
 - $a_2$ osigurava unos #2.
 
 
-![BTC204](assets/fr/239.webp)
+![BTC204](assets/sr-Latn/247.webp)
 
 
 Prateći prethodno opisanu metodu, Alisa bi morala da izabere jedan par ključeva među $a_0$, $a_1$ i $a_2$ kako bi izračunala ECDH tajnu i generisala pojedinačnu adresu za uplatu $P$ od Bobove statične adrese $B$. Međutim, ovaj pristup zahteva da Bob testira svaku mogućnost sekvencijalno, počevši od $a_0$, zatim $a_1$, i tako dalje, dok ne identifikuje par koji generiše validnu $P$ adresu. Ovaj proces zahteva da Bob izvrši ECDH proračun na svim ulazima za sve transakcije, što značajno povećava operativno opterećenje skeniranja.
@@ -5835,7 +5895,7 @@ Kao što možete videti, do sada Bob nije morao da koristi $b_{\text{spend}}$, k
 $$ p_0 = (b_{\text{spend}} + \text{Hash}(\text{inputHash} \cdot b_{\text{scan}} \cdot A \text{ ‖ } 0)) \bmod n $$
 
 
-![BTC204](assets/fr/240.webp)
+![BTC204](assets/sr-Latn/248.webp)
 
 
 *Legenda:*
@@ -5920,7 +5980,7 @@ Zahvaljujući ovoj metodi, Bob može koristiti mnoštvo statičkih adresa ($B_1$
 Međutim, imajte na umu da je ovo razdvajanje statičkih adresa važeće samo sa stanovišta upravljanja ličnim novčanikom, ali ne razdvaja identitete. Pošto sve imaju isti $B_{\text{scan}}$, vrlo je lako povezati sve statičke adrese zajedno i zaključiti da pripadaju jednom entitetu.
 
 
-![BTC204](assets/fr/241.webp)
+![BTC204](assets/sr-Latn/249.webp)
 
 
 *Legenda:*

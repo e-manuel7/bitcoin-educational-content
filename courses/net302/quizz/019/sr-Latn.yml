@@ -1,0 +1,9 @@
+question: Koja je glavna uloga IP protokola u TCP/IP modelu?
+answer: Isporuka paketa podataka sa jednog hosta na drugi
+wrong_answers:
+  - Upravljanje šifrovanjem mrežnih komunikacija
+  - Osiguravanje trajne veze između aplikacija
+  - Prevođenje MAC adrese u IP adrese
+explanation: |
+  IP protokol upravlja logičkim adresiranjem uređaja i osigurava da se paketi usmeravaju preko međusobno povezanih mreža.
+reviewed: true

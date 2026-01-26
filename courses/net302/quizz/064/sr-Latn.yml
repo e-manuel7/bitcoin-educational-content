@@ -1,0 +1,9 @@
+question: Kolika je dužina bita IPv6 adrese?
+answer: 128-bit
+wrong_answers:
+  - 512 bita
+  - 64-bit
+  - 256-bit
+explanation: |
+  IPv6 adresa je duga 128 bita, u poređenju sa 32 bita za IPv4 adresu.
+reviewed: true

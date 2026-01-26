@@ -1,18 +1,23 @@
 ---
-name: Wallet de Satoshi
-description: La Wallet la plus simple pour démarrer
+name: Wallet of Satoshi
+description: Le Wallet le plus simple pour démarrer
 ---
 ![cover](assets/cover.webp)
 
-ce tutoriel a été rédigé par_ [Bitcoin Campus] (https://linktr.ee/bitcoincampus_)
+---
+
+*Attention : depuis le début de l’année 2026, Wallet of Satoshi en mode custodial (tel que présenté dans ce tutoriel) n’est plus accessible au sein de l’Union européenne. Si vous résidez dans cette zone et souhaitez continuer à utiliser cet outil, vous devrez passer par un VPN situé hors de l’UE. Une autre option consiste à utiliser Wallet of Satoshi en mode self-custodial. Un tutoriel dédié sera prochainement publié sur Plan ₿ Academy.*
+
+---
+
+Ce tutoriel a été rédigé par [Bitcoin Campus](https://linktr.ee/bitcoincampus_)
+
+## Téléchargement, configuration et utilisation de Wallet of Satoshi
 
 
-## Téléchargement, configuration et utilisation de Wallet de Satoshi
+Wallet of Satoshi est un Lightning Network Wallet, de garde, et très simple d'utilisation.
 
-
-Wallet de Satoshi est un Lightning Network Wallet, de garde, et très simple d'utilisation.
-
-Dans le cadre du cours [BTC105 - Finding Now] (https://planb.network/it/courses/trovarsi-ora-d1370810-63f6-4aba-b822-e3a66bf225a5), il est utilisé pour les bons Redeem Lightning Network.
+Dans le cadre du cours [BTC105 - Finding Now](https://planb.academy/it/courses/trovarsi-ora-d1370810-63f6-4aba-b822-e3a66bf225a5), il est utilisé pour les bons Redeem Lightning Network.
 
 
 **N'oubliez jamais** : _pas vos clés, pas vos pièces_
@@ -29,7 +34,7 @@ Le Wallet of Satoshi (WoS) est un produit de conservation, mais il jouit d'une c
 **WARNING⚠️ : Il est recommandé de lire le tutoriel dans son intégralité avant de poursuivre**
 
 
-### Téléchargement de Wallet de Satoshi
+### Téléchargement de Wallet of Satoshi
 
 
 Allez sur le Play Store et téléchargez WoS
@@ -44,7 +49,7 @@ Allez sur le Play Store et téléchargez WoS
 ![image](assets/it/02.webp)
 
 
-Wallet de Satoshi s'ouvre avec l'écran suivant, et il faut cliquer sur _Start_
+Wallet of Satoshi s'ouvre avec l'écran suivant, et il faut cliquer sur _Start_
 
 
 ![image](assets/it/03.webp)
@@ -59,18 +64,18 @@ A ce stade, le Wallet est déjà opérationnel, mais pour plus de sécurité, no
 ![image](assets/it/04.webp)
 
 
-Toute la fenêtre de menu s'ouvre, dans laquelle vous devez exclusivement définir la devise (Wallet de Satoshi présente par défaut le dollar US comme devise de référence) et la couleur du thème (clair/foncé), selon votre goût. N'utilisez pas les autres commandes.
+Toute la fenêtre de menu s'ouvre, dans laquelle vous devez exclusivement définir la devise (Wallet of Satoshi présente par défaut le dollar US comme devise de référence) et la couleur du thème (clair/foncé), selon votre goût. N'utilisez pas les autres commandes.
 
 
 Le WoS étant un outil de conservation, nous ne pouvons pas sauvegarder le Wallet avec la phrase Mnemonic, mais nous pouvons permettre au WoS de récupérer nos fonds, en cas de perte ou de non-utilisation de l'appareil mobile, en cliquant sur _Login/Register_
 
-Une fenêtre apparaît nous demandant d'entrer un email Address. Il peut s'agir d'un **mail Proton** (recommandé), mais il doit être fonctionnel, car il nous permettra de récupérer les fonds dans la Wallet en cas de perte/vol ou d'endommagement du téléphone portable.
+Une fenêtre apparaît nous demandant d'entrer un email Address. Il peut s'agir d'un **mail Proton** (recommandé), mais il doit être fonctionnel, car il nous permettra de récupérer les fonds dans le Wallet en cas de perte/vol ou d'endommagement du téléphone portable.
 
 
 ![image](assets/it/08.webp)
 
 
-Wallet de Satoshi a envoyé un message à la boîte aux lettres électronique indiquée.
+Wallet of Satoshi a envoyé un message à la boîte aux lettres électronique indiquée.
 
 
 ![image](assets/it/09.webp)
@@ -79,8 +84,8 @@ Wallet de Satoshi a envoyé un message à la boîte aux lettres électronique in
 Dans la boîte aux lettres, nous trouverons deux mots, que nous devrons saisir, en les réécrivant, dans l'espace fourni par l'application.
 
 
-- ne pas activer le traducteur : les mots sont et doivent rester en anglais**
-- réécrire les deux mots en respectant les majuscules et les minuscules**
+- ne pas activer le traducteur : les mots sont et doivent rester en anglais
+- réécrire les deux mots en respectant les majuscules et les minuscules
 
 
 ![image](assets/it/10.webp)
@@ -134,7 +139,7 @@ Cliquez sur _Receive_ et choisissez la commande avec le symbole Lightning Networ
 ![image](assets/it/16.webp)
 
 
-Le menu de création de la Invoice apparaît, où l'on clique sur _Add Amount_ pour écrire le montant exact et ajouter une description, dans cet exemple, "My first Invoice".
+Le menu de création de l'Invoice apparaît, où l'on clique sur _Add Amount_ pour écrire le montant exact et ajouter une description, dans cet exemple, "My first Invoice".
 
 
 ![image](assets/it/17.webp)
@@ -146,7 +151,7 @@ Avec le clavier, nous fixons le montant.
 ![image](assets/it/18.webp)
 
 
-pour ensuite recevoir le paiement de la Invoice. Le paiement reçu se présente comme suit :
+pour ensuite recevoir le paiement de l'Invoice. Le paiement reçu se présente comme suit :
 
 
 ![image](assets/it/19.webp)
@@ -155,7 +160,7 @@ pour ensuite recevoir le paiement de la Invoice. Le paiement reçu se présente 
 ### Collecte auprès du TPV
 
 
-La Wallet de la Satoshi possède une caractéristique par défaut qui la rend particulièrement adaptée aux commerçants : le point de vente. Voyons comment l'activer.
+Wallet of Satoshi possède une caractéristique par défaut qui la rend particulièrement adaptée aux commerçants : le point de vente. Voyons comment l'activer.
 
 
 Dans l'écran principal, sélectionnez le menu en haut à droite.
@@ -180,7 +185,7 @@ puis tapez le montant sur le clavier, dans l'exemple qui suit égal à 10 cents 
 ![image](assets/it/23.webp)
 
 
-pour generate le Invoice et le montrer, par exemple, à un client.
+pour générer l'Invoice et le montrer, par exemple, à un client.
 
 
 ![image](assets/it/24.webp)
@@ -213,7 +218,7 @@ Lors de la première utilisation, le WoS demande l'autorisation d'accéder à la
 ![image](assets/it/28.webp)
 
 
-En encadrant la Invoice, nous voyons qu'un paiement de 210 Sats a été demandé. Une description est également lue, si le demandeur en a défini une. Cet écran est à la fois un résumé et une demande de confirmation : Le WoS "demande l'autorisation" d'envoyer le paiement, ce qui lui est accordé en cliquant sur le bouton Green _Send_
+En encadrant l'Invoice, nous voyons qu'un paiement de 210 Sats a été demandé. Une description est également lue, si le demandeur en a défini une. Cet écran est à la fois un résumé et une demande de confirmation : Le WoS "demande l'autorisation" d'envoyer le paiement, ce qui lui est accordé en cliquant sur le bouton Green _Send_
 
 
 ![image](assets/it/29.webp)

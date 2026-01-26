@@ -1,0 +1,9 @@
+question: Koji protokol dinamički dodeljuje lokalnu IP adresu uređajima povezanim na mrežu?
+answer: DHCP
+wrong_answers:
+  - HTTP
+  - FTP
+  - DNS
+explanation: |
+  DHCP automatski dodeljuje IP adresu svakom novom uređaju povezanom na lokalnu mrežu.
+reviewed: true

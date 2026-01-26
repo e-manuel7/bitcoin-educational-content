@@ -1,22 +1,19 @@
 ---
 name: Bitcoin for bedrifter
 goal: Lær deg det grunnleggende om betaling og finans for å få bedriften din over på bitcoin
-objectives: 
-
-  - Bitcoin som en fremvoksende valuta og et forretningsverktøy
-  - Forstå hvorfor og hvordan en bedrift kan holde bitcoin på bok eller bruke dem til betalinger
-  - Ha en konkret idé om hvordan du kan akseptere bitcoin-betaling i praksis
-  - Være forberedt på å håndtere skatte- og regnskapskrav
-
+objectives:
+- Oppdag Bitcoin som en fremvoksende valuta og et forretningsverktøy
+- Forstå hvorfor og hvordan en bedrift kan holde bitcoin i kassen eller bruke det til betalinger
+- Ha en konkret idé om hvordan man aksepterer Bitcoin-betaling i praksis
+- Vær forberedt på å håndtere skattemessige og regnskapsmessige krav
 ---
-# Kickstart bedriftens reise i bitcoin-nettverket
+# Start selskapets reise på Bitcoin-nettverket
 
-Oppdag de praktiske mulighetene til Bitcoin og Lightning Network, og utforsk hvordan de, i likhet med internett, kan **forvandle forretningsdriften din**. Bitcoin tilbyr et stort spekter av **bruksområder for bedrifter**, fra digital kapital til raske, økonomiske og skalerbare betalinger.
+Oppdag de praktiske mulighetene til Bitcoin og Lightning Network, og utforsk hvordan de, akkurat som internett, kan transformere din forretningsdrift. Fra treasury til raske, økonomiske og skalerbare betalinger tilbyr Bitcoin et bredt spekter av bruksområder for bedrifter.
 
-I denne veiledningen vil du lære å forstå Bitcoin som et globalt, universelt og internettbasert monetært nettverk. Med sine unike grunnleggende egenskaper gir **Bitcoin betydelige forbedringer i forhold til tradisjonelle valutanettverk**. Du vil finne ut hvorfor og hvordan du kan utnytte Bitcoin til klassiske finansielle bruksområder som kapitaloppbevaring og betalingssystemer. I tillegg vil denne veiledningen ta for seg anskaffelse og oppbevaring av Bitcoin, inkludert de tilhørende regnskaps- og skattekravene, samt implementering av enkle eller storskala Bitcoin-betalingsløsninger.
+Gjennom dette kurset vil du lære å forstå Bitcoin som et globalt, universelt og internett-innfødt monetært nettverk. Med sine unique grunnleggende egenskaper tilbyr Bitcoin betydelige forbedringer i forhold til tradisjonell valuta. Du vil oppdage hvorfor og hvordan du kan utnytte Bitcoin for klassiske finansielle bruksområder som kapitallagring og betalingssystemer. I tillegg vil dette kurset dekke anskaffelse og oppbevaring av Bitcoin, inkludert tilhørende regnskaps- og skattekrav, samt implementering av enkle eller storskala Bitcoin-betalingsløsninger.
 
-Enten du er **en småbedrift eller et stort konsern**, kan integrering av Bitcoin i den daglige driften gjøre bedriften din mer **motstandsdyktig, produktiv og konkurransedyktig**. Alle internettbaserte selskaper kommer til å bli et Bitcoin-orientert selskap, og dette kurset sørger for at du er forberedt. De første delene oppsummerer det grunnleggende om Bitcoins virkemåte, så selv om du er nybegynner vil du få den grunnleggende kunnskapen du trenger for å komme deg videre. Det er alltid en god idé å lære det grunnleggende om Satoshis oppfinnelse, enten det er før eller etter at du har dykket ned i BIZ101.
-
+Uansett om du er en liten bedrift eller et stort konsern, kan integrering av Bitcoin i din daglige drift gjøre selskapet ditt mer motstandsdyktig, produktivt og konkurransedyktig. Hvert internettbasert selskap vil bli et Bitcoin-orientert selskap, og dette kurset sikrer at du er forberedt.
 +++
 # Innledning
 
@@ -36,6 +33,8 @@ Kurset begynner med en detaljert gjennomgang av konvensjonelle valutaer og betal
 Enten du representerer en liten bedrift eller et stort konsern, har dette kurset som mål å gi deg kunnskapen du trenger for å integrere Bitcoin i den daglige driften, og dermed øke bedriftens motstandskraft, effektivitet og konkurransefortrinn. Etter hvert som Bitcoin fortsetter å omforme det økonomiske landskapet, er det ikke bare et alternativ, men en strategisk nødvendighet å forstå disse banebrytende teknologiene. Gjør deg klar til å engasjere deg med innsiktsfullt innhold, praktiske eksempler og strategisk veiledning som vil gjøre deg i stand til å navigere og utnytte Bitcoins verden i utvikling!
 
 Klar til å dykke ned i Bitcoin-verdenen for bedrifter? La oss gå!
+
+**Merk**: Hvis du støter på ukjente begreper i løpet av kurset, vennligst se [ordlisten](https://planb.academy/resources/glossary) for definisjoner.
 
 # Valuta, betalingssystemer og Bitcoin
 
@@ -134,16 +133,16 @@ Betalingssystemer er metoder og infrastrukturer som gjør det mulig å overføre
 **Bruk i B2C og B2B:**
 
 
-- B2C (Business-to-Consumer):**
+- **B2C (Business-to-Consumer):**
     - Forbrukerne bruker ofte kontanter, kort og digitale lommebøker til dagligdagse innkjøp - for eksempel dagligvarer, netthandel eller tjenester som kollektivtransport.
     - Hastighet, bekvemmelighet og lave gebyrer (for forbrukeren) er ofte viktige prioriteringer.
     - Kontaktløs betaling og mobilbetaling blir stadig mer populært på dette området på grunn av brukervennligheten.
-- B2B (Business-to-Business):**
+- **B2B (Business-to-Business):**
     - Virksomheter er ofte avhengige av bankoverføringer, sjekker og faktureringssystemer når de skal betale leverandører, betale store regninger eller håndtere gjentatte betalinger.
     - Fokuset ligger ofte på sporbarhet, dokumentasjon og evnen til å håndtere større transaksjonsverdier.
     - Kort brukes, men det er mindre vanlig på grunn av høyere gebyrer og transaksjonsgrenser. Digitale løsninger som integrerte betalingsplattformer er i ferd med å vokse frem for å effektivisere og automatisere prosessene for kundefordringer og leverandørgjeld.
 
-![BIZ101](assets/en/01.webp)
+![BIZ101](assets/nb-NO/001.webp)
 
 *Grafisk fremstilling: Globale trender innen betalingsmetoder på utsalgssteder (Point-of-Sale, POS) (2023-2027), The Global Payments Report 2024, Worldpay.*
 
@@ -151,7 +150,7 @@ Betalingssystemer er metoder og infrastrukturer som gjør det mulig å overføre
 
 Når en kunde bruker et kredittkort i en butikk, blir kortet lest av POS-terminalen (Point-of-Sale), som overfører transaksjonsdataene på en sikker måte til butikkens innløserbank. Innløseren videresender denne informasjonen til det aktuelle kortnettverket (f.eks. Visa eller Mastercard), som deretter videresender forespørselen til utstederen - banken som har gitt kunden kortet. Kortutstederen sjekker kundens konto eller kredittgrense og sender tilbake en autorisasjon gjennom nettverket og innløseren, slik at forretningen kan ta imot betaling.
 
-![BIZ101](assets/en/02.webp)
+![BIZ101](assets/nb-NO/002.webp)
 
 Denne tilsynelatende enkle transaksjonen involverer i virkeligheten over 15 trinn, 7 mellomledd, og det tar i gjennomsnitt mellom 48 timer og 5 dager før forhandleren mottar pengene. I løpet av de påfølgende dagene skjer det en clearing- og oppgjørsprosess. Kortnettverket samler dagens transaksjoner og koordinerer utvekslingen av midler mellom innløseren og utstederen. En sentralbank sørger for nøyaktigheten og stabiliteten i disse interbankoppgjørene. Til slutt mottar kortselgerens bankkonto nettobeløpet (minus gebyrer) fra innløseren, og dermed er transaksjonens livssyklus fullført.
 
@@ -190,7 +189,7 @@ På samme måte som vi gikk fra å betale per minutt for telefonsamtaler til å 
 
 <chapterId>4488fe33-663f-41a3-a668-e9ca2fb7122e</chapterId>
 
-**HVA ER BITCOIN?
+**HVA ER BITCOIN?**
 
 Bitcoin er et **peer-to-peer digitalt valutautvekslingssystem** (elektroniske kontanter). Begrepet "Bitcoin" refererer til følgende komponenter:
 
@@ -201,13 +200,13 @@ Bitcoin er et **peer-to-peer digitalt valutautvekslingssystem** (elektroniske ko
 
 Til sammen gjør de Bitcoin til en **bærende eiendel** og en digital valuta **uten utsteder**. Eierskapet sikres utelukkende ved å inneha den **private kryptografiske nøkkelen**, noe som gir full kontroll **uten mellomledd eller betrodde tredjeparter**. Ved overføring er eierskapet **endelig** umiddelbart: Den nye innehaveren eier det fullt ut uten å være avhengig av en sentral myndighet for beskyttelse eller konvertibilitet. Transaksjoner er **uforanderlige** - når de først er registrert i blokkjeden, kan de ikke endres eller slettes.
 
-![BIZ101](assets/en/11.webp)
+![BIZ101](assets/nb-NO/003.webp)
 
 Bitcoin har en fast pengepolitikk, med et **tak på 21 millioner bitcoins**, hvorav ~19,8 millioner allerede har blitt distribuert. Dette gjør den **deflasjonær**, og verdien øker over tid etter hvert som brukerne lagrer sparepenger og produktivitetsgevinster i den.
 
 De tekniske egenskapene overgår gull og dollar til sammen, noe som gjør den til den hardeste finansielle eiendelen som noensinne er skapt. Bitcoin er både et verdioppbevaringsmiddel og et byttemiddel, og en fremtidig valuta. Forestill deg å overføre verdier fra et selskaps beholdning til et annet raskt, uten mellomledd, til minimale kostnader, uten svindel, døgnet rundt og uten at noen tredjepart er involvert.
 
-![BIZ101](assets/en/03.webp)
+![BIZ101](assets/nb-NO/004.webp)
 
 Bitcoin bevarer verdien effektivt fordi hovedboken er manipuleringssikker. Verdien øker på grunn av det sjeldne og begrensede tilbudet kombinert med det økende antallet utvekslingsmuligheter, drevet av det økende antallet brukere.
 
@@ -241,13 +240,13 @@ Bitcoin utfordrer oss til å revurdere selve pengenes natur. Kan du forklare hva
 
 For mer informasjon om Bitcoin, dets historie, hvordan det fungerer og bruken av det, anbefaler jeg også å følge dette omfattende kurset:
 
-https://planb.network/courses/2b7dc507-81e3-4b70-88e6-41ed44239966
+https://planb.academy/courses/2b7dc507-81e3-4b70-88e6-41ed44239966
 
 ## Introduksjon til Lightning Network
 
 <chapterId>c095c7ad-5469-4c7b-9510-b6c0b86244e7</chapterId>
 
-**HVA ER LIGHTNING?
+**HVA ER LIGHTNING?**
 
 Lightning Network er **en protokoll og et nettverk** som legger til rette for Bitcoin-transaksjoner med minimal interaksjon med Bitcoins hovedblokkjede. Dette er hvordan det fungerer:
 
@@ -258,7 +257,7 @@ Lightning Network er **en protokoll og et nettverk** som legger til rette for Bi
 - **Oppgjør i kjeden:** Bare **den endelige saldoen** av en kanals transaksjoner publiseres på Bitcoins hovedblokkjede (**"on-chain**"), slik at mange transaksjoner kan skje i mellomtiden. Denne sammenslåingen av flere betalinger reduserer overbelastning og reduserer dermed avgiftene sammenlignet med å foreta mange transaksjoner i kjeden.
 - **Kanalstenging:** En bruker kan når som helst stenge kanalen sin og få tilbake sine Bitcoin ved å publisere den siste transaksjonsstatusen. Dette er prinsippet om at transaksjoner er **"publiserbare" når som helst, men "upubliserte"** inntil det er nødvendig. Avslutningen (kanalstenging) kan være ensidig (bestemt av en av de to partene når som helst) eller gjensidig bestemt (noe som resulterer i lavere avgifter på kjeden)
 
-![BIZ101](assets/en/04.webp)
+![BIZ101](assets/nb-NO/005.webp)
 
 På denne måten unngår man tregheten og kompleksiteten ved å utføre alle transaksjoner direkte på Bitcoins hovedblokkjede, og man registrerer bare endelige saldoer og beholder sikkerheten. Lightning Network er et lag "på toppen" av Bitcoin, men forblir forankret til Bitcoin.
 
@@ -268,7 +267,7 @@ Protokollen skaper et **nettverk** av maskiner der kanalene danner et universelt
 
 Lightning Network muliggjør øyeblikkelig verdiutveksling med lysets hastighet. Det er som en e-postprotokoll anvendt på betalinger: et neste generasjons betalingsnettverk. Det endrer måten "penger" beveger seg på radikalt, og gjør det like gratis og raskt som dataoverføring på internett.
 
-![BIZ101](assets/en/12.webp)
+![BIZ101](assets/nb-NO/006.webp)
 
 **Viktige fordeler:**
 
@@ -323,7 +322,7 @@ Lightning-nettverket er ideelt for Bitcoin-betalinger i fysiske butikker eller n
 
 Hvis du vil ha mer informasjon om hvordan Lightning Network fungerer rent teknisk, anbefaler jeg også at du følger dette andre omfattende kurset:
 
-https://planb.network/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
+https://planb.academy/courses/34bd43ef-6683-4a5c-b239-7cb1e40a4aeb
 
 # Bitcoin i statskassen
 
@@ -377,7 +376,7 @@ Før han begynner å lage spydet, bestemmer fiskeren seg for å legge til side l
 
 Mens han bruker tid på å bygge spydet, tærer han på reservene sine og utsetter gjerne noen av sine umiddelbare bekvemmeligheter (noe som gjenspeiler hans **tidspreferanse**). Etter flere dagers hardt arbeid er han ferdig med et solid spyd.
 
-![BIZ101](assets/en/05.webp)
+![BIZ101](assets/nb-NO/007.webp)
 
 Med spydet kan han nå fange fisk mye raskere og med mindre anstrengelse. Han trenger ikke lenger å slite seg ut som før, og begynner til og med å samle et overskudd av fisk. Dette overskuddet åpner for nye muligheter: Han kan lagre det, dele det eller investere det i andre prosjekter på øya. Ved å utsette det umiddelbare forbruket og utnytte kapitalen sin har fiskeren forbedret effektiviteten og fremtidsutsiktene sine betraktelig."
 
@@ -433,7 +432,7 @@ Bitcoin tilbyr en måte å akkumulere og bevare kapital på lang sikt uten å bl
 - **Milton Friedman**: Selv om Friedman ikke var direkte knyttet til den østerrikske skolen, støttet han mange markedsvennlige og liberale ideer. Hans monetaristiske politikk skiller seg fra østerriksk tenkning, men deler deres kritikk av overdreven statlig inngripen i økonomien.
 - **Frédéric Bastiat**: Bastiat var en fransk 1800-tallsøkonom som påvirket den østerrikske skolen med sine arbeider om frihandel og de usynlige konsekvensene av økonomisk politikk. Hans essay _Hva man ser og hva man ikke ser_ er en av grunnsteinene i den økonomiske liberalismen.
 
-![BIZ101](assets/en/06.webp)
+![BIZ101](assets/nb-NO/008.webp)
 
 *Attribusjon: Ludwig von Mises-instituttet*
 
@@ -443,11 +442,11 @@ Disse tenkerne formet ideen om at statlig inngripen forvrenger markedene, og at 
 
 For mer informasjon om dette emnet:
 
-https://planb.network/courses/d955dd28-b7c6-4ba2-a123-d932e21d148f
+https://planb.academy/courses/d955dd28-b7c6-4ba2-a123-d932e21d148f
 
-https://planb.network/courses/9d1bde6a-33e5-45dd-b7c0-94da72e45b11
+https://planb.academy/courses/9d1bde6a-33e5-45dd-b7c0-94da72e45b11
 
-https://planb.network/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
+https://planb.academy/courses/d07b092b-fa9a-4dd7-bf94-0453e479c7df
 
 ## Holde bitcoin i skattekammeret
 
@@ -489,7 +488,7 @@ For det første garanterer ikke **tidligere resultater fremtidige resultater**. 
 
 For det andre har Bitcoin så langt opplevd **4-års sykluser**, noe som betyr at med en tidshorisont på mer enn 4 år har veddemålet alltid vært lønnsomt. For de som ser Bitcoin som en investering, kan en kortsiktig horisont (<4 år) være risikabelt.
 
-![BIZ101](assets/en/07.webp)
+![BIZ101](assets/nb-NO/009.webp)
 
 *MICHAEL SAYLOR: "Det beste Bitcoin-prissignalet er det 4-årige enkle, glidende gjennomsnittet."* Se diagrammet ovenfor.
 
@@ -551,7 +550,7 @@ Du trenger ikke å kjøpe nøyaktig én bitcoin, fordi bitcoin kan deles inn i u
 
 I tillegg kan de totalt 21 millioner bitcoinene - eller **2,1 kvadrillioner satoshier** - effektivt representeres av et 64-biters heltall. Dette betyr at til tross for en høy pris per hel bitcoin, er den fortsatt tilgjengelig for et bredt spekter av investorer takket være delbarheten. Du trenger derfor ikke å kjøpe en hel bitcoin for å delta i nettverket eller investere i denne digitale eiendelen.
 
-![BIZ101](assets/en/08.webp)
+![BIZ101](assets/nb-NO/010.webp)
 
 Vi må huske på at den relativt lave totale markedsverdien, sammenlignet med andre aktiva som aksjer, gull eller eiendom, gjør at den fortsatt har kapasitet til å øke i verdi. Med en fortsatt svært lav penetrasjon (rundt 1 % av verdens befolkning) antas det at vi bare er i begynnelsen av oppgangen. Dette gjør det til **den mest asymmetriske veddemålet i vår generasjon**: Det er nå svært liten sannsynlighet for at den vil falle til null, og det er stor sannsynlighet for at den vil fortsette å øke.
 
@@ -569,6 +568,7 @@ For øyeblikket er scenariet med en majoritetseier som tar avgjørelsen det mest
 - **Eiere av svært små bedrifter** : Entreprenører innen tjenesteyting, landbruk eller håndverk som har forstått Bitcoins potensial og allokerer en del av sine midler til dette. Deres primære motivasjon ligger i diversifisering og friheten det gir
 - **Børsnoterte selskaper** som MicroStrategy har skapt presedens ved å konvertere en betydelig del av selskapets midler til bitcoin, noe som viser et globalt skifte i bedriftenes kapitalallokeringsstrategier. Høsten 2024 hadde en rekke andre selskaper fulgt etter, noe som ytterligere legitimerte denne trenden.
 
+Oppdag den oppdaterte listen over selskaper som holder flest bitcoins i kassen, samt beløpene som holdes, på nettstedet: [BitcoinTreasuries.net](https://bitcointreasuries.net/).
 ### Beskatning av bitcoin som eies av bedrifter
 
 For virksomheter som ikke er strukturert som separate juridiske enheter - for eksempel enkeltmannsforetak eller andre ikke-selskapsformede enheter - er beskatningen av Bitcoin-transaksjoner ofte lik beskatningen som gjelder for privatpersoner. I mange tilfeller gjelder de samme reglene for kapitalgevinster eller inntekt, akkurat som de ville gjort hvis en privatperson solgte Bitcoin. I noen land kan for eksempel fortjeneste anses som en del av entreprenørens personlige inntekt, som er underlagt **personlig inntektsskatt**.
@@ -587,7 +587,7 @@ På grunn av disse forskjellene velger **noen bedriftseiere å kjøpe og eie Bit
 
 Det er tre måter å anskaffe Bitcoin på:
 
-![BIZ101](assets/en/09.webp)
+![BIZ101](assets/nb-NO/011.webp)
 
 
 - **I bytte mot varer eller tjenester:**
@@ -599,7 +599,7 @@ Siden Bitcoin fungerer som et byttemiddel, er det mulig å se for seg en sirkul�
 
 Dette innebærer å tjene penger på å drive såkalt "mining". For ikke-spesialiserte virksomheter er dette fortsatt relativt marginalt. Du kan delta gjennom mellommenn som selger eller leier deg databehandling, nettverk og vedlikehold. Hvis du eier maskinene, kan du bokføre dem som avskrivbare eiendeler. I stor skala må du beregne avkastningen på investeringen nøye, fordi markedet er svært konkurranseutsatt og krever god fremsynhet når det gjelder kostnader, særlig strøm.
 
-Hvis du vil lære mer om mining-metoder, kan du [se avsnittet "Mining" i veiledningene våre] (https://planb.network/tutorials/mining).
+Hvis du vil lære mer om mining-metoder, kan du [se avsnittet "Mining" i veiledningene våre](https://planb.academy/tutorials/mining).
 
 
 - **Kjøpe Bitcoin:**
@@ -608,13 +608,13 @@ Dette er den klart vanligste metoden, enten via peer-to-peer-børser eller, mer 
 
 Hvis du vil lære hvordan du åpner en bedriftskonto og bruker den til å kjøpe, selge og overføre bitcoin, kan du sjekke ut disse to veiledningene som er spesielt utviklet for bedrifter, og som dekker Kraken- og Bitfinex-plattformene i deres bedriftsversjoner:
 
-https://planb.network/tutorials/business/others/bitfinex-pro-c8ef7476-5f60-4205-935e-a545ced0022a
+https://planb.academy/tutorials/business/others/bitfinex-pro-c8ef7476-5f60-4205-935e-a545ced0022a
 
-https://planb.network/tutorials/business/others/kraken-pro-07b1c16c-d517-4bf7-9a78-b42dc0f21785
+https://planb.academy/tutorials/business/others/kraken-pro-07b1c16c-d517-4bf7-9a78-b42dc0f21785
 
-Hvis du vil lære mer om metoder for å anskaffe bitcoin via en børs eller peer-to-peer, kan du [se avsnittet "børs" i veiledningene våre] (https://planb.network/tutorials/exchange).
+Hvis du vil lære mer om metoder for å anskaffe bitcoin via en børs eller peer-to-peer, kan du [se avsnittet "børs" i veiledningene våre](https://planb.academy/tutorials/exchange).
 
-![BIZ101](assets/en/16.webp)
+![BIZ101](assets/nb-NO/012.webp)
 
 ### Til hvilken pris?
 
@@ -638,9 +638,9 @@ I virkeligheten er Bitcoins potensielle verdiøkning så stor at selv om du skul
 
 Eiendomsbransjen gjentar ofte at "det er alltid det rette tidspunktet å kjøpe", og glemmer at hvis eiendom skulle miste sin funksjon som verdilager - og gå over til aktiva som Bitcoin - kan prisene vende tilbake nærmere bruksverdien (ly). Bitcoin, derimot, har ingen annen funksjon enn å lagre verdier, noe som kan bety at "det alltid er riktig tidspunkt å kjøpe". Det vil fremtiden vise.
 
-![BIZ101](assets/en/13.webp)
+![BIZ101](assets/nb-NO/013.webp)
 
-*Kilde: [Bitcoin Office] (https://bitcoin.gob.sv/)*
+*Kilde: [Bitcoin Office](https://bitcoin.gob.sv/)*
 
 ### I hvilken form skal jeg kjøpe? (Metoder av forvaring)
 
@@ -665,11 +665,11 @@ For eksempel kan en børs eller en kjøpstjeneste opprette en konto for deg, kon
 
 Dette er tradisjonelle, finansielle instrumenter som representerer fraksjoner av Bitcoin, og som følger prisutviklingen. Institusjonen bak produktet kjøper og eier i teorien den underliggende bitcoinen. Dine innskudd og uttak gjøres i tradisjonell valuta (f.eks. dollar eller euro), ikke i bitcoin. Med unntak av visse produkter som tillater uttak i faktiske bitcoin (for å unngå en skattepliktig hendelse i enkelte jurisdiksjoner), innebærer disse instrumentene årlige forvaltningsgebyrer. Her er du avhengig av institusjonens sikkerhet og står overfor motpartsrisiko (for eksempel hvis myndighetene bestemmer seg for å beslaglegge alle institusjonelt eide bitcoin, slik det skjedde med gull i 1933 under USAs Executive Order 6102). Den primære fordelen er enkel tilgang, ettersom de distribueres gjennom tradisjonelle finansielle kanaler. De omgår behovet for å sikre kryptografiske nøkler, men tilbyr ingen av Bitcoins iboende egenskaper: Du kan ikke bruke Bitcoin-nettverket 24/7 til å flytte verdier fritt uten tillatelse. De representerer bare den økonomiske ytelsen, ikke funksjonaliteten eller suvereniteten til Bitcoin selv.
 
-![BIZ101](assets/en/15.webp)
+![BIZ101](assets/nb-NO/014.webp)
 
 I tillegg har formen du oppbevarer Bitcoin i, en betydelig innvirkning på sikkerhetstiltakene som kreves for å beskytte bedriftens likviditet. Enten du velger å oppbevare Bitcoin selv, ved hjelp av maskinvarelommebøker med én eller flere signaturer osv. for å ha direkte kontroll over nøklene dine, eller om du delegerer denne oppgaven til tredjeparts forvaltningstjenester eller ETF-er, har hvert alternativ sin egen risikoprofil. For eksempel gir selvforvaring full tilgang, men krever strenge interne sikkerhetsprotokoller, mens tredjepartsløsninger reduserer administrasjonsbyrden på bekostning av motpartsrisiko. For å illustrere forskjellene ytterligere skisserer denne grafen sikkerhetsmodellen for hver forvaltningstype, slik at du kan velge den tilnærmingen som passer best til din organisasjons behov:
 
-![BIZ101](assets/en/14.webp)
+![BIZ101](assets/nb-NO/015.webp)
 
 ### Hvem skal jeg kjøpe fra?
 
@@ -717,7 +717,7 @@ I begynnelsen gjorde internettnettverket det mulig å fjerne mellomledd fra komm
 
 Bitcoin er en infrastruktur for tillit, hvis første bruksområde er å fjerne mellommenn fra lagring og utveksling av verdipenger. Andre anvendelser som i dag er utenkelige, vil dukke opp på denne infrastrukturen. Din første tilstedeværelse her tilsvarer det å ha en nettside: en inngangsport til "peer-to-peer"-betalinger og verdiutveksling.
 
-![BIZ101](assets/en/17.webp)
+![BIZ101](assets/nb-NO/016.webp)
 
 Se det nå fra perspektivet til en praktisk virksomhet hvis kjernevirksomhet ikke har noe med Bitcoin å gjøre. Hvorfor skulle den velge å akseptere Bitcoin-betalinger?
 
@@ -844,19 +844,19 @@ I de følgende kapitlene vil vi gå nærmere inn på hver enkelt virksomhetsprof
 
 Nybegynner-profilen er designet for bedrifter, skapere og enkeltpersoner som ønsker å utforske Bitcoin-betalinger uten å forplikte betydelige ressurser eller ekspertise. Dette er typisk de som håndterer et svært lite transaksjonsvolum (kanskje noen få tips, donasjoner eller sporadiske salg) og som ønsker en enkel og lett introduksjon til økosystemet for Bitcoin og Lightning Network. Hovedverdien av Nybegynner-tilnærmingen ligger i det minimale oppsettet: I de fleste tilfeller er alt som kreves en smarttelefon eller et nettbrett utstyrt med en grunnleggende Lightning-kompatibel lommebok.
 
-![BIZ101-profiles](assets/en/18.webp)
+![BIZ101-profiles](assets/nb-NO/017.webp)
 
 Et av de definerende trekkene ved denne profilen er dens fokus på lavt volum av betalinger som sjelden overstiger noen få hundre euro eller dollar per måned. Denne beskjedne mengden gjør det til et utmerket valg for alle som ønsker å teste markedet med Bitcoin, uten kompleksiteten som ligger i større volum. I tillegg gir det mulighet for umiddelbar praktisk læring; siden det er mindre operasjonelt press og mindre monetære innsatser, kan feil begrenses, og man lærer raskt. Alt fra kunstnere som selger håndlaget kunsthåndverk på helgemesser til ideelle organisasjoner som tar imot engangsdonasjoner, legger ofte vekt på tilgjengelighet og brukervennlighet fremfor avanserte funksjoner.
 
 De to vanligste lommebokkonfigurasjonene for nybegynner-profilen innebærer å velge mellom "custodial" (tredjepartsforvart) eller "non-custodial" (selvforvart) løsninger. En tredjepartsforvart-lommebok (for eksempel Wallet of Satoshi eller Blink) lar en tredjepartstjeneste administrere private nøkler og backend-operasjoner, og reduserer dermed det tekniske ansvaret for brukeren. Denne løsningen er spesielt attraktiv for dem som setter bekvemmelighet i høysetet og ønsker en enklest mulig startfase. Alternativt legger selvforvaringsbaserte Lightning-lommebøker (som Phoenix eller Breez) private nøkler og full kontroll i hendene på brukeren, noe som gir større autonomi og personvern i bytte mot litt mer innledende innsats. I begge tilfeller er moderne grensesnitt vanligvis så brukervennlige at hvem som helst kan håndtere viktige oppgaver (generere en QR-kode, legge inn et betalingsbeløp og bekrefte transaksjoner) i løpet av få minutter.
 
-![BIZ101-profiles](assets/en/19.webp)
+![BIZ101-profiles](assets/nb-NO/018.webp)
 
 Selv om sikkerhetshensyn kan virke mindre presserende når transaksjonene er små, er det likevel viktig å iverksette grunnleggende beskyttelsestiltak. Selv en smarttelefon eller et nettbrett som brukes til å motta Bitcoin-betalinger, bør låses med et passord eller biometrisk sikkerhet, og sikkerhetskopieringsprosedyrer (alt fra å holde oversikt over påloggingsinformasjon for en tredjepartsforvart lommebok til å beskytte en "seed"-frase for en selvforvart lommebok) må tas på alvor. Ansatte som håndterer transaksjoner i fysiske omgivelser, vil ha nytte av å kunne det grunnleggende: hvordan man åpner appen, hvordan man viser en QR-kode til kunden, og hvordan man sjekker om betalingen faktisk har kommet frem.
 
 Selv om regnskapsføring og rapportering er relativt enkelt under nybegynner-profilen, er det likevel grunn til å tenke seg nøye om. Selv om transaksjonsvolumet kan være minimalt, er det viktig å ha nøyaktige oversikter for å unngå forvirring i ettertid, og det bidrar til å opprettholde åpenhet i forbindelse med regnskapsrevisjoner eller skatterapportering. Mange lommebokapplikasjoner gjør det mulig å eksportere en grunnleggende transaksjonshistorikk som en CSV-fil. For en liten bedrift eller en enkeltstående gründer kan det å lagre disse filene regelmessig gjøre det mye enklere å avstemme regnskapet. Det er også lurt å spore den omtrentlige fiat-verdien (for eksempel i euro eller dollar) i det øyeblikket hver transaksjon mottas. Siden Bitcoins pris kan svinge, er det uvurderlig å ha en oversikt over omregningskurser for bokføring og overholdelse av skatteregler.
 
-![BIZ101-profiles](assets/en/20.webp)
+![BIZ101-profiles](assets/nb-NO/019.webp)
 
 For bedrifter som ønsker å supplere fysiske eller personlige betalinger med nettdonasjoner eller tips, er det nå enkelt å integrere en Lightning-tips-knapp eller donasjonswidget på et nettsted eller en blogg. Plattformer som BTCPay Server tilbyr betalingsknapper som er enkle å konfigurere, mens noen sosiale medier og livestreamingtjenester allerede støtter Lightning-tips med adresser. Derfor kan selv en nybegynner-bedrift bygge et beskjedent, men globalt nettverk av støttespillere. I mellomtiden kan de som foretrekker å ikke holde Bitcoin på lang sikt, utforske delvis eller automatisk konvertering til fiat-valuta ved hjelp av visse tredjepartsforvarte lommebøker eller tredjepartstjenester. Selv om dette alternativet innebærer ekstra gebyrer og mulige KYC-forpliktelser, hjelper det bedrifter med å omgå valutakursvolatilitet og opprettholde sin eksisterende finansielle arbeidsflyt med minimale forstyrrelser.
 
@@ -868,21 +868,21 @@ Du finner detaljerte veiledninger om de anbefalte lommebøkene og grunnleggende 
 
 **Selvforvaltede LN-lommebøker/noder:**
 
-https://planb.network/tutorials/wallet/mobile/phoenix-0f681345-abff-4bdc-819c-4ae800129cdf
+https://planb.academy/tutorials/wallet/mobile/phoenix-0f681345-abff-4bdc-819c-4ae800129cdf
 
-https://planb.network/tutorials/wallet/mobile/bitkit-wallet-a7224674-85c4-4045-9baf-37018d89550c
+https://planb.academy/tutorials/wallet/mobile/bitkit-a7224674-85c4-4045-9baf-37018d89550c
 
-https://planb.network/tutorials/wallet/mobile/breez-46a6867b-c74b-45e7-869c-10a4e0263c06
+https://planb.academy/tutorials/wallet/mobile/breez-46a6867b-c74b-45e7-869c-10a4e0263c06
 
-https://planb.network/tutorials/wallet/mobile/blixt-04b319cf-8cbe-4027-b26f-840571f2244f
+https://planb.academy/tutorials/wallet/mobile/blixt-04b319cf-8cbe-4027-b26f-840571f2244f
 
-https://planb.network/tutorials/wallet/mobile/zeus-embedded-advanced-3e89603c-501d-439c-8691-d4a0d0de459b
+https://planb.academy/tutorials/wallet/mobile/zeus-embedded-advanced-3e89603c-501d-439c-8691-d4a0d0de459b
 
 **Tredjepartsforvaltede LN-lommebøker:**
 
-https://planb.network/tutorials/wallet/mobile/wallet-of-satoshi-39149d86-e42b-4e8f-ae9f-7e061e7784f7
+https://planb.academy/tutorials/wallet/mobile/wallet-of-satoshi-39149d86-e42b-4e8f-ae9f-7e061e7784f7
 
-https://planb.network/tutorials/wallet/mobile/blink-7ea5f5a4-e728-4ff9-b3f9-cf20aa6fc2bd
+https://planb.academy/tutorials/wallet/mobile/blink-7ea5f5a4-e728-4ff9-b3f9-cf20aa6fc2bd
 
 ## Utforskeren
 
@@ -894,37 +894,37 @@ I motsetning til nybegynner-profilen ser utforsker-virksomheter vanligvis på Bi
 
 Teknologianbefalinger i dette segmentet fokuserer ofte på **Swiss Bitcoin Pay**, en strømlinjeformet løsning som gjør det enkelt for selgere å akseptere Bitcoin-betalinger. Den har en brukervennlig PoS-app som ikke krever noen teknisk ekspertise for de ansatte. I motsetning til vanlige Bitcoin-lommebøker fokuserer den utelukkende på å motta betalinger, slik at de ansatte kan bruke enheten uten sikkerhetsrisiko. Flere PoS-apper kan kobles til samme konto, og de kan brukes på nettbrett, kassaapparater, smarttelefoner eller via en nettversjon for datamaskiner, med støtte for Android og iOS. Du kan også opprette en meny med varene du selger og tilhørende priser, slik at den ansatte enkelt kan velge en kurv med varer til kunden på PoS-enheten og deretter belaste totalsummen.
 
-![BIZ101-profiles](assets/en/21.webp)
+![BIZ101-profiles](assets/nb-NO/020.webp)
 
 Betalinger kan enten tas ut i Bitcoin til en spesifikk adresse eller konverteres til fiat-valuta og settes inn på en bankkonto daglig. Swiss Bitcoin Pay automatiserer prosessen og håndterer Bitcoin- og Lightning Network-betalinger uten manuell inngripen. Midler holdes i maksimalt 24 timer før overføring. Selv om den ikke er fullstendig selvforvaltende som BTCPay Server, balanserer den bekvemmelighet og sikkerhet, og krever ingen KYC.
 
-![BIZ101-profiles](assets/en/22.webp)
+![BIZ101-profiles](assets/nb-NO/021.webp)
 
 Gebyrene er konkurransedyktige: 0,21% for det første året, deretter 1% for Bitcoin-betalinger og 1,5% for fiat-konverteringsbetalinger, inkludert Bitcoin-transaksjonskostnader. Swiss Bitcoin Pay tilbyr en praktisk mellomting mellom forvaltningsløsninger som Open Node og komplekse "self-hosted" systemer som BTCPay Server, og prioriterer enkelhet, sikkerhet og økonomisk autonomi.
 
 Denne typen oppsett gjør det mulig for fysiske forretninger å generere betalingsfakturaer raskt, presentere QR-koder for kundene sine og godta Lightning- eller "on-chain"-transaksjoner med minimal friksjon. De ansatte trenger bare en kort innføring i hvordan de skal håndtere disse betalingene, mens lederne kan logge seg på et nettbasert dashbord for å avstemme det daglige salget og få tilgang til grunnleggende rapporter. Den strømlinjeformede administrasjonskonsollen gjør det også enklere for mindre selskap å spore både fiat- og kryptoinntekter fra ett og samme grensesnitt, noe som reduserer forvirringen og tiden som brukes på manuell bokføring.
 
-![BIZ101-profiles](assets/en/23.webp)
+![BIZ101-profiles](assets/nb-NO/022.webp)
 
 En annen viktig fordel med utforsker-tilnærmingen er at den legger vekt på rask utrulling og minimale forstyrrelser. Løsninger som Swiss Bitcoin Pay kan settes opp i løpet av noen timer i stedet for dager eller uker. For en eier eller leder av en restaurant med beskjeden trafikk er målet å integrere Bitcoin-aksept uten å forårsake forsinkelser i kassen eller forvirring blant de ansatte. Når kassaapparatet er konfigurert, kan sjefen ganske enkelt gi de ansatte raske instruksjoner i hvordan de skal vise fakturaen og verifisere at betalingen er gjennomført. I beste fall bekreftes kundens transaksjon nesten umiddelbart via Lightning Network, og virksomhetens administrasjonspanel registrerer samtidig en ny betaling i sanntid.
 
 Selv om utforsker-profilen ikke krever svært sofistikerte regnskapssystemer, er det likevel lurt å føre ordentlige transaksjonsregistre. Verktøy som Swiss Bitcoin Pay tilbyr CSV-eksportfunksjoner, slik at ledere kan fange opp fiat-ekvivalentverdien av hvert Bitcoin-salg og spore det sammen med andre inntektskilder. Dette dokumentasjonsnivået er tilstrekkelig for de fleste små bedrifter, og en rudimentær forståelse av valutakurser vil hjelpe med skatteregistrering og generell økonomisk oversikt.
 
-![BIZ101-profiles](assets/en/24.webp)
+![BIZ101-profiles](assets/nb-NO/023.webp)
 
 Den mest passende hybridløsningen for din profil er sannsynligvis Swiss Bitcoin Pay:
 
-https://planb.network/tutorials/business/point-of-sale/swiss-bitcoin-pay-2-a78b057e-ed11-47ac-860c-71019fcb451a
+https://planb.academy/tutorials/business/point-of-sale/swiss-bitcoin-pay-2-a78b057e-ed11-47ac-860c-71019fcb451a
 
 En annen løsning som er enkel å implementere, men som har den ulempen at den er 100 % tredjepartsforvaringsbasert, er Open Node:
 
-https://planb.network/tutorials/business/point-of-sale/open-node-e69a0c1c-47f7-4932-8494-e6f26c3c9784
+https://planb.academy/tutorials/business/point-of-sale/open-node-e69a0c1c-47f7-4932-8494-e6f26c3c9784
 
 Hvis du er klar for mer og vil ha full kontroll over prosessen, er BTCPay Server-programvaren et utmerket alternativ. Den største ulempen med BTCPay Server er imidlertid at oppsett og administrasjon er tidkrevende og krever et visst nivå av teknisk ekspertise, men du kan følge guidene våre:
 
-https://planb.network/tutorials/business/point-of-sale/btcpay-server-928eb01e-824b-4b57-a3e8-8727633beddc
+https://planb.academy/tutorials/business/point-of-sale/btcpay-server-928eb01e-824b-4b57-a3e8-8727633beddc
 
-Til slutt, som et supplement til fysiske utsalgssteder, kan du vurdere å sette opp [en Bitcoinize PoS] (https://bitcoinize.com/).
+Til slutt, som et supplement til fysiske utsalgssteder, kan du vurdere å sette opp [en Bitcoinize PoS](https://bitcoinize.com/).
 
 ## Eksperten
 
@@ -934,19 +934,19 @@ Ekspert-profilen er rettet mot bedrifter som har gått videre fra sporadiske Bit
 
 Et av de definerende kjennetegnene ved ekspert-brukere er behovet for **avanserte funksjoner** og **tilpassede løsninger** som opprettholder effektiviteten selv når transaksjonsvolumene vokser. I motsetning til utforskerl-brukere, som kanskje nøyer seg med et strømlinjeformet verktøy som passer inn i en smarttelefonapp, krever ekspert-virksomheter vanligvis funksjoner som detaljert fakturatilpasning, sofistikerte rapporteringspaneler og muligheten til å tildele flere administrative roller.
 
-![BIZ101-profiles](assets/en/25.webp)
+![BIZ101-profiles](assets/nb-NO/024.webp)
 
 En restaurantgruppe kan for eksempel ha ansatte som er dedikert til fakturering og lagerstyring, mens et eget team overvåker produktoppføringer og markedsføringskampanjer. I et slikt miljø må en Bitcoin-betalingsløsning passe godt inn i disse eksisterende organisasjonsstrukturene.
 
-![BIZ101-profiles](assets/en/26.webp)
+![BIZ101-profiles](assets/nb-NO/025.webp)
 
 Når det gjelder teknologi og verktøy, utgjør løsninger som **BTC Pay Server** ofte kjernen i et profesjonelt oppsett. BTC Pay Server er en åpen kildekode-plattform som kan distribueres enten lokalt eller via sky-hosting, og som tilbyr omfattende integrasjonsalternativer for nettsteder og e-handelsplattformer. Ved å kjøre sin egen instans beholder bedriftene en høy grad av kontroll over alle aspekter av betalingsflyten, fra automatisk genererte kasse-sider til varsler som utløser interne prosesser når en betaling er bekreftet.
 
-![BIZ101-profiles](assets/en/27.webp)
+![BIZ101-profiles](assets/nb-NO/026.webp)
 
-I tillegg kan verktøy som [Zaprite] (https://zaprite.com/) eller [Musqet] (https://musqet.tech/) forbedre kasse-opplevelsen ytterligere, noe som gir mulighet for mer detaljert tilpasning (fra merkevarevalg til sofistikerte rapporteringsmuligheter). De som foretrekker et alt-i-ett-nettbutikkmiljø, kan trekke mot [Be-BOP](https://be-bop.io/), en e-butikkløsning som er bygget for å legge til rette for Bitcoin-betalinger uten å ofre brukervennligheten.
+I tillegg kan verktøy som [Zaprite](https://zaprite.com/) eller [Musqet](https://musqet.tech/) forbedre kasse-opplevelsen ytterligere, noe som gir mulighet for mer detaljert tilpasning (fra merkevarevalg til sofistikerte rapporteringsmuligheter). De som foretrekker et alt-i-ett-nettbutikkmiljø, kan trekke mot [Be-BOP](https://be-bop.io/), en e-butikkløsning som er bygget for å legge til rette for Bitcoin-betalinger uten å ofre brukervennligheten.
 
-![BIZ101-profiles](assets/en/28.webp)
+![BIZ101-profiles](assets/nb-NO/027.webp)
 
 Implementering av disse teknologiene i en profesjonell setting betyr at man må ta hensyn til **driftskompleksitet**. Automatisert arbeidsflyt for fakturering, visning i flere valutaer og synkronisering med eksisterende lagersystemer er alle kjennetegn på en velintegrert plattform. Muligheten til å eksportere transaksjonsdata (enten det er som CSV-filer, direkte API forespørsler eller tilpassede formater) hjelper bedrifter med å avstemme bitcoinsalg med andre inntektsstrømmer på en effektiv måte.
 
@@ -954,13 +954,13 @@ Sikkerhet og rollehåndtering er et annet sentralt aspekt for ekspert-brukere. E
 
 Når det gjelder eksempler fra den virkelige verden, kan du tenke deg en mellomstor e-handelsbutikk som spesialiserer seg på teknologitilbehør. Selskapet kan integrere BTC Pay Server i sin eksisterende nettbutikk, og automatisk generere Bitcoin-betalingsadresser i kassen. Kundene fullfører kjøpet ved å skanne en Lightning- eller on-chain-adresse, og butikkens plattform bekrefter betalingen umiddelbart. Samtidig oppdaterer et internt system ordrestatus og utløser fraktvarsler. Takket være de avanserte rapporteringsfunksjonene kan økonomiteamet enkelt gjennomgå det daglige Bitcoin-salget, eksportere en konsolidert hovedbok for revisjon og spore verdien av eventuelle BTC-beholdninger som selskapet bestemmer seg for å beholde.
 
-![BIZ101-profiles](assets/en/29.webp)
+![BIZ101-profiles](assets/nb-NO/028.webp)
 
-*[Kilde: Bitcoin Bazar-butikken i Paris, Frankrike] (https://bitcoinbazar.fr/)*
+*[Kilde: Bitcoin Bazar-butikken i Paris, Frankrike](https://bitcoinbazar.fr/)*
 
 Hvis du vil gå dypere inn i implementeringsdetaljer og utforske praktiske konfigurasjoner av BTC Pay Server, kan du gå til følgende kurs:
 
-https://planb.network/courses/6fc12131-e464-4515-9d3f-9255365d5fa1
+https://planb.academy/courses/6fc12131-e464-4515-9d3f-9255365d5fa1
 
 ## Konsernet
 
@@ -1020,7 +1020,7 @@ Nye infrastrukturer lykkes fordi de er mer effektive, og de som er tidlig ute, s
 - **Forbedret node- og kanaladministrasjon:** Både individuelle og profesjonelle løsninger har hatt fremgang. For eksempel støtter BTC Pay Server nå en rekke plugins for tilkobling til andre leverandører (PSP-er, on/off-ramper osv.). Nye infrastrukturleverandører, som LightSpark og Alby Hub, er også på vei inn i produksjon.
 - **Forhandlerbruksvekst:** Forhandlere som BitRefill rapporterer om en økning i Bitcoin-betalinger blant sine aktive brukere, med et klart skifte mot Bitcoin fremfor Lightning. I tillegg gjør Lightnings ekstremt lave gebyrer det til det foretrukne valget for små betalinger (i gjennomsnitt 32 euro per transaksjon).
 
-![BIZ101-profiles](assets/en/30.webp)
+![BIZ101-profiles](assets/nb-NO/029.webp)
 
 *[Kilde: BTC Map](https://btcmap.org/)*
 
@@ -1032,7 +1032,7 @@ Nye infrastrukturer lykkes fordi de er mer effektive, og de som er tidlig ute, s
 
 Bitcoin og Lightning Network fullfører den **digitale lommebokrevolusjonen**. Nye nettjenester tillater nå **transaksjoner uten at du trenger å opprette en konto** - lommeboken din blir identiteten din! Med protokoller som **Nostr Wallet Connect (NWC)** og **LN-URL-AUTH** kan lommebøker sømløst autentisere brukere og muliggjøre transaksjoner uten tradisjonelle kontoer. Det er slutt på å måtte oppgi konto for enkle kjøp eller abonnementer. Det er ikke lenger nødvendig å oppgi person- eller betalingsinformasjon som kan bli hacket og solgt på det mørke nettet, slik vi altfor ofte har blitt minnet om i den senere tid.
 
-![BIZ101](assets/en/10.webp)
+![BIZ101](assets/nb-NO/030.webp)
 
 Morgendagens næringsdrivende vil omfavne denne innovasjonen og tilby kundene en tryggere og mer sømløs (ett klikk) opplevelse som også respekterer personvernet deres.
 
@@ -1194,7 +1194,7 @@ Virksomheter må sørge for at de **betalingsverktøyene** de bruker, gir muligh
 
 <chapterId>e7b31be5-1176-4835-944e-3cba1b7040fa</chapterId>
 
-Når et selskap bestemmer seg for å integrere Bitcoin i regnskapet, finnes det ulike verktøy og spesialisert programvare som forenkler innsamling og behandling av data. Blant de mest kjente løsningene er [CoinTracker] (https://www.cointracker.io/), [Waltio] (https://www.waltio.com/), [Cryptio] (https://cryptio.co/), [Koinly] (https://koinly.io/), [TokenTax] (https://tokentax.co/) og [ZenLedger] (https://zenledger.io/). Disse plattformene fokuserer primært på fire aspekter:
+Når et selskap bestemmer seg for å integrere Bitcoin i regnskapet, finnes det ulike verktøy og spesialisert programvare som forenkler innsamling og behandling av data. Blant de mest kjente løsningene er [CoinTracker](https://www.cointracker.io/), [Waltio](https://www.waltio.com/), [Cryptio](https://cryptio.co/), [Koinly](https://koinly.io/), [TokenTax](https://tokentax.co/) og [ZenLedger](https://zenledger.io/). Disse plattformene fokuserer primært på fire aspekter:
 
 
 - automatisk datainnsamling;
@@ -1204,13 +1204,13 @@ Når et selskap bestemmer seg for å integrere Bitcoin i regnskapet, finnes det 
 
 De er ofte et lurt supplement for store organisasjoner med flere lommebøker og eiendeler på tvers av ulike plattformer eller børser.
 
-![BIZ101](assets/en/31.webp)
+![BIZ101](assets/nb-NO/031.webp)
 
 En enkel .csv-fil som inneholder transaksjonshistorikken er imidlertid ofte tilstrekkelig for de fleste små bedrifter. Målet er å dokumentere dato, beløp, tilsvarende verdi i euro/dollar og de relevante Bitcoin-adressene for hver betaling. De aller fleste Bitcoin-betalingsløsninger (BTC Pay Server, Swiss Bitcoin Pay osv.) eller utvekslingsplattformer (Bitfinex, Kraken, Coinbase osv.) tilbyr allerede en mekanisme for å eksportere transaksjonshistorikk. Ved å levere denne filen til en regnskapsfører blir det mulig å effektivisere dataregistreringen og tydelig skille mellom innkommende og utgående strømmer knyttet til Bitcoin.
 
 For de som oppbevarer Bitcoin selv, er det viktig å håndtere UTXO-er (*Unspent Transaction Outputs*). Riktig UTXO-merking hjelper deg med å spore opprinnelsen til hvert BTC-fragment, skille transaksjoner relatert til profesjonell aktivitet fra de som gjelder personlige utgifter, og lette sporbarhet for juridiske eller skattemessige formål. De fleste gode Bitcoin-lommebøker lar deg importere lommeboken din ved hjelp av sikkerhetskopifilen din (eller xpub, avhengig av oppsettet) og merke UTXO-er basert på opprinnelse eller destinasjon. For å hjelpe deg, her er en komplett veiledning dedikert til denne praksisen:
 
-https://planb.network/tutorials/privacy/on-chain/utxo-labelling-d997f80f-8a96-45b5-8a4e-a3e1b7788c52
+https://planb.academy/tutorials/privacy/on-chain/utxo-labelling-d997f80f-8a96-45b5-8a4e-a3e1b7788c52
 
 Til slutt, uansett om du er en liten næringsdrivende eller en mer etablert virksomhet, er det mulig å **betale en faktura i Bitcoin**. Nøkkelen er å dokumentere transaksjonen på riktig måte. Hvis du betaler fra en lommebok som du selv oppbevarer, er det ideelt å generere en transaksjon som noterer fakturanummeret og formålet med betalingen i etikettene dine. Hvis du foretrekker å gjøre opp fakturaen via en børs, har du også muligheten til å eksportere en kvittering eller transaksjonshistorikk som du kan inkludere i regnskapet ditt. Denne åpenheten vil forenkle sporing og rapportering av alle BTC-operasjoner.
 
@@ -1320,7 +1320,7 @@ Til slutt, uansett om du er en liten næringsdrivende eller en mer etablert virk
     - Kjøp 1: 2 000 euro til 20 000 euro/BTC = 0,1 bitcoin = 10 000 000 satoshier.
     - Kjøp 2: 3 000 euro til 25 000 euro/BTC = 0,12 bitcoin = 12 000 000 satoshier.
     - Kjøp 3: 5 000 euro til 30 000 euro/BTC = 0,1667 bitcoin = 16 670 000 satoshis.
-    - Total beholdning av bitcoin**: 0.3867 Bitcoin = 38 670 000 Satoshis.
+- Total beholdning av bitcoin: **0.3867 Bitcoin = 38 670 000 Satoshis**.
 - **Verdivurdering ved årets slutt**:
     - Bitcoin-pris ved årets slutt: 40 000 euro/BTC.
     - Total verdi: 0,3867 bitcoin × 40 000 euro = 15 468 euro.
@@ -1370,4 +1370,6 @@ Til slutt, uansett om du er en liten næringsdrivende eller en mer etablert virk
 <chapterId>5503c23e-3a90-4a23-8d89-75e3cc1ee53e</chapterId>
 
 <isCourseConclusion>true</isCourseConclusion>
+
+
 

@@ -1,0 +1,9 @@
+question: Koji protokol se koristi za povezivanje IP adrese sa MAC adresom na Ethernet mreži?
+answer: ARP
+wrong_answers:
+  - RIP
+  - DNS
+  - OSPF
+explanation: |
+  Address Rezolucioni Protokol (ARP) mapira IP adrese na MAC adrese na lokalnim mrežama.
+reviewed: true

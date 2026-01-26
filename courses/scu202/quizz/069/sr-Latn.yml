@@ -1,0 +1,9 @@
+question: Koji je glavni razlog zašto je važno držati svoj pregledač ažuriranim?
+answer: Ispravljanje kritične bezbednosne ranjivosti
+wrong_answers:
+  - Poboljšanje brzine učitavanja stranice
+  - Sprečavanje phishinga
+  - Optimizacija potrošnje memorije
+explanation: |
+  Ažuriranja prvenstveno rešavaju bezbednosne ranjivosti koje bi napadaču mogle omogućiti kompromitovanje sistema.
+reviewed: false

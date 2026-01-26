@@ -1,0 +1,9 @@
+question: ¿Qué unidad de datos se utiliza en la capa de internet del modelo TCP/IP?
+answer: Datagrama
+wrong_answers:
+  - Segmento
+  - Marco
+  - Mensaje
+explanation: |
+  La capa de Internet manipula datagramas, encapsulando segmentos de la capa de Transporte.
+reviewed: false

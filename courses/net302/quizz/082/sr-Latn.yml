@@ -1,0 +1,9 @@
+question: Koji moderni alat zamenjuje arp na novijim Linux distribucijama?
+answer: ip neigh
+wrong_answers:
+  - ifconfig
+  - traceroute
+  - route
+explanation: |
+  ip neigh, iz paketa iproute2, zamenjuje arp u upravljanju IP/MAC asocijacijama na modernim Linux sistemima.
+reviewed: true

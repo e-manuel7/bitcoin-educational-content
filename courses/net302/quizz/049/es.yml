@@ -1,0 +1,9 @@
+question: ¿Cuál es la función principal de la dirección MAC en una red local?
+answer: Identificar de forma única una interfaz de red
+wrong_answers:
+  - Traducir un nombre de dominio en una dirección IP
+  - Asignar dinámicamente una dirección IP a un host
+  - Determinar la velocidad de su conexión a Internet
+explanation: |
+  La dirección MAC sirve como identificador de hardware único para cada interfaz de red, lo que permite distinguir físicamente los dispositivos en una red local.
+reviewed: true

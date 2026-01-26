@@ -1,0 +1,9 @@
+question: ¿Qué es una dirección anycast en IPv6?
+answer: Una dirección anycast se asigna a varios nodos
+wrong_answers:
+  - Una dirección dedicada a la multidifusión global
+  - Una dirección que cambia con cada reinicio
+  - Una dirección reservada a la documentación técnica
+explanation: |
+  Una dirección anycast se asigna a varios dispositivos, y el encaminamiento entrega el paquete al que está topológicamente más cerca.
+reviewed: true

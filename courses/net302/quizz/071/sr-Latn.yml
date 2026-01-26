@@ -1,0 +1,9 @@
+question: Koja se notacija koristi za označavanje veličine prefiksa u IPv6 adresi?
+answer: CIDR
+wrong_answers:
+  - Tačkasto-decimalna mrežna maska
+  - Heksadecimalni heksadecimalni zapis razdvojen dvotačkama
+  - ICANN
+explanation: |
+  CIDR zapis navodi broj fiksnih bitova prefiksa posle kose crte, baš kao u IPv4.
+reviewed: true

@@ -1,0 +1,9 @@
+question: Zašto koristiti firewall aplikacije kao što su NetGuard ili RethinkDNS na Androidu?
+answer: Radi kontrolisanja pojedinačne internet veze
+wrong_answers:
+  - Radi automatskog sačuvavanja svih podataka
+  - Radi deblokiranja svih Wi-Fi mreža
+  - Radi deinstaliranja svih virusa
+explanation: |
+  Ove aplikacije deluju kao lokalni firewall-ovi, omogućavajući da odlazni saobraćaj bude blokiran ili odobren na osnovu svake pojedinačne aplikacije.
+reviewed: true

@@ -1,0 +1,9 @@
+question: Koja je glavna uloga TCP protokola u TCP/IP modelu?
+answer: Osiguravanje pouzdanog i urednog prenosa podataka
+wrong_answers:
+  - Šifrovanje mrežne komunikacije
+  - Dodeljivanje IP adrese mašinama
+  - Fragmentisanje datagrama na fizičkom nivou
+explanation: |
+  TCP osigurava pouzdanu transmisiju podataka proverom integriteta, održavanjem reda i upravljanjem oporavkom u slučaju gubitka.
+reviewed: true

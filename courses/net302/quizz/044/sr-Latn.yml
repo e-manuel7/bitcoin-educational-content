@@ -1,0 +1,9 @@
+question: Koja je glavna uloga DNS-a u internet arhitekturi?
+answer: Mapiranje domena na IP adrese
+wrong_answers:
+  - Šifrovanje komunikacije između rutera
+  - Dinamički dodela MAC adrese uređajima
+  - Kontrola pristupa veb serverima
+explanation: |
+  DNS (Domain Name System) prevodi nazive domena koji su čitljivi ljudima u numeričke IP adrese potrebne za rutiranje.
+reviewed: true

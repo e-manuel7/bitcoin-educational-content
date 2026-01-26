@@ -1,0 +1,9 @@
+question: Na Linux mašini, koji alat može analizirati bezbednost sistema i generisati detaljan izveštaj sa preporukama?
+answer: Lynis
+wrong_answers:
+  - GIMP
+  - ufw
+  - Synaptic
+explanation: |
+  Lynis je sveobuhvatan alat za bezbednosnu reviziju na Linux-u, koji skenira sistem u potrazi za ranjivostima i pogrešnim konfiguracijama.
+reviewed: true

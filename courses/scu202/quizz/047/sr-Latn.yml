@@ -1,0 +1,9 @@
+question: Koji besplatan softver za više platformi omogućava kreiranje šifrovanog fajla-kontejnera koji se može koristiti kao virtuelni disk?
+answer: VeraCrypt
+wrong_answers:
+  - KeePassXC
+  - Syncthing
+  - WinRAR
+explanation: |
+  VeraCrypt vam omogućava kreiranje šifrovanih kontejnera koji se mogu koristiti kao virtuelni diskovi na svim glavnim operativnim sistemima.
+reviewed: true
